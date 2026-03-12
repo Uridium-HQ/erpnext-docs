@@ -1,0 +1,41 @@
+{
+  "user_agent": "ERPDocsMirror/0.2 (+local mirror for documentation)",
+  "content_selectors": [
+    "main article",
+    "article",
+    "main [data-pagefind-body]",
+    "main .prose",
+    "main .content",
+    "main",
+    ".docs-page",
+    ".page-content"
+  ],
+  "nav_selectors": [
+    "aside nav",
+    "nav[aria-label='Docs']",
+    ".sidebar nav",
+    ".sidebar",
+    "nav"
+  ],
+  "title_selectors": [
+    "main article h1",
+    "article h1",
+    "main h1",
+    "h1",
+    "title"
+  ],
+  "remove_selectors": [
+    "script",
+    "style",
+    "noscript",
+    "form",
+    "button",
+    "aside",
+    "nav[aria-label='breadcrumb']",
+    ".edit-page",
+    ".feedback",
+    ".pagination",
+    ".table-of-contents",
+    "[data-testid='toc']"
+  ]
+}

@@ -1,0 +1,57 @@
+# Frappe Apps
+
+[ Edit ](</wiki/spaces/r3uvq1ch61/page/127r7b1cfq>)
+
+Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
+
+# Frappe Apps 
+
+[ Edit ](</wiki/spaces/r3uvq1ch61/page/127r7b1cfq>)
+
+Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
+
+Frappe Apps are Python packages which use the Frappe platform. They can live anywhere on the [Python path](<https://docs.python.org/2/tutorial/modules.html#the-module-search-path>) and must have an entry in the `apps.txt` file.
+
+### Creating an app
+
+Frappe ships with a boiler plate for a new app. The command `bench new-app app-name` helps you start a new app by starting an interactive shell.
+
+% bench new-app sample_app App Name: sample_app App Title: Sample App App Description: This is a sample app. App Publisher: Acme Inc. App Icon: icon-linux App Color: #6DAFC9 App Email: info@example.com App URL: http://example.com App License: MIT
+
+The above command would create an app with the following directory structure.
+
+sample_app ├── license.txt ├── MANIFEST.in ├── README.md ├── sample_app │ ├── __init__.py │ ├── sample_app │ │ └── __init__.py │ ├── config │ │ ├── desktop.py │ │ └── __init__.py │ ├── hooks.py │ ├── modules.txt │ ├── patches.txt │ └── templates │ ├── generators │ │ └── __init__.py │ ├── __init__.py │ ├── pages │ │ └── __init__.py │ └── statics └── setup.py
+
+The boiler plate contains just enough files to show your app icon on the [Desk].
+
+### Files in the app
+
+#### `hooks.py`
+
+The `hooks.py` file defines the metadata of your app and integration points with other parts of Frappe or Frappe apps. Examples of such parts include task scheduling or listening to updates to different documents in the system. For now, it just contains the details you entered during app creation.
+
+app_name = "sample-app" app_title = "Sample App" app_publisher = "Acme Inc." app_description = "This is a sample app." app_icon = "fa-linux" app_color = "black" app_email = "info@example.com" app_url = "http://example.com" app_version = 0.0.1
+
+#### `modules.txt`
+
+Modules in Frappe help you organize Documents in Frappe and they are defined in the `modules.txt` file in your app. It is necessary for every [DocType] to be attached to a module. By default a module by the name of your app is added. Also, each module gets an icon on the [Desk]. For example, the [ERPNext] app is organized in the following modules.
+
+accounts buying home hr manufacturing projects selling setup stock support utilities contacts
+
+### Adding app to a site
+
+Once you have an app, whether it's the one you just created or any other you downloaded, you are required to do the following things.
+
+Download the app via git
+
+bench get-app https://github.com/org/app_name
+
+Install the app to your site
+
+bench --site site_name install-app app_name
+
+[ Previous Page Guides ](</framework/v14/user/en/guides>) [ Next Page Contribute Translations  ](</framework/v14/user/en/guides/basics/contribute_translations>)
+
+Last updated 2 months ago 
+
+Was this helpful?

@@ -1,0 +1,27 @@
+# Asset Location
+
+[ Edit ](</wiki/spaces/24hrpr6es9/page/0s45sddavu>)
+
+Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
+
+# Asset Location 
+
+[ Edit ](</wiki/spaces/24hrpr6es9/page/0s45sddavu>)
+
+Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
+
+**Asset Location shows where an Asset is located.**
+
+The assets that your organization owns can be located at various facilities like administrative offices, manufacturing plants, warehouses, etc. In ERPNext you can create a 'Location' for each of your facilities and track the assets which are present in these locations.
+
+You can also add Latitude and Longitude of the location. When an asset is moved from one location to another, you need to create an Asset Movement record.
+
+Map of the location is also shown:
+
+![](/files/Screenshot%202026-01-12%20at%2012.05.56%E2%80%AFAM.png) _Asset Location_
+
+[ Previous Page Asset Category ](</erpnext/asset-category>) [ Next Page Purchasing an Asset ](</erpnext/purchasing-an-asset>)
+
+Last updated 2 weeks ago 
+
+Was this helpful?

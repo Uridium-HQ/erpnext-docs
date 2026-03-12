@@ -1,0 +1,303 @@
+site_name: ERP Docs Mirror
+docs_dir: .
+nav:
+- Data Masking: pages/framework/data-masking.md
+- OAuth2: pages/framework/oauth2.md
+- SQLite Search: pages/framework/sqlite-search.md
+- Developer API: pages/framework/user/en/api.md
+- Background Jobs: pages/framework/user/en/api/background_jobs.md
+- Chart API: pages/framework/user/en/api/chart.md
+- Controls: pages/framework/user/en/api/controls.md
+- Database API: pages/framework/user/en/api/database.md
+- Dialog API: pages/framework/user/en/api/dialog.md
+- Document API: pages/framework/user/en/api/document.md
+- Form Scripts: pages/framework/user/en/api/form.md
+- FullTextSearch API: pages/framework/user/en/api/full-text-search.md
+- Jinja API: pages/framework/user/en/api/jinja.md
+- Common Utilities API: pages/framework/user/en/api/js-utils.md
+- List: pages/framework/user/en/api/list.md
+- Logging: pages/framework/user/en/api/logging.md
+- Page API: pages/framework/user/en/api/page.md
+- Dialog API: pages/framework/user/en/api/py-dialog.md
+- Query Builder: pages/framework/user/en/api/query-builder.md
+- Realtime (socket.io): pages/framework/user/en/api/realtime.md
+- REST API: pages/framework/user/en/api/rest.md
+- Scanner API: pages/framework/user/en/api/scanner.md
+- Server Calls (AJAX): pages/framework/user/en/api/server-calls.md
+- Tree: pages/framework/user/en/api/tree.md
+- Utility Functions: pages/framework/user/en/api/utils.md
+- Audit Trail: pages/framework/user/en/audit-trail.md
+- What is Frappe Framework?: pages/framework/user/en/basics.md
+- Apps: pages/framework/user/en/basics/apps.md
+- Architecture: pages/framework/user/en/basics/architecture.md
+- Asset Bundling: pages/framework/user/en/basics/asset-bundling.md
+- Directory structure: pages/framework/user/en/basics/directory-structure.md
+- Understanding DocTypes: pages/framework/user/en/basics/doctypes.md
+- Actions and Links: pages/framework/user/en/basics/doctypes/actions-and-links.md
+- Child / Table DocType: pages/framework/user/en/basics/doctypes/child-doctype.md
+- Controllers: pages/framework/user/en/basics/doctypes/controllers.md
+- Customizing DocTypes: pages/framework/user/en/basics/doctypes/customize.md
+- DocField: pages/framework/user/en/basics/doctypes/docfield.md
+- Field Types: pages/framework/user/en/basics/doctypes/fieldtypes.md
+- Form & View Settings: pages/framework/user/en/basics/doctypes/form_-_view_settings.md
+- Docstatus: pages/framework/user/en/basics/doctypes/frameworktatus.md
+- Module: pages/framework/user/en/basics/doctypes/modules.md
+- Naming: pages/framework/user/en/basics/doctypes/naming.md
+- Single DocType: pages/framework/user/en/basics/doctypes/single-doctype.md
+- Virtual DocTypes: pages/framework/user/en/basics/doctypes/virtual-doctype.md
+- Sites: pages/framework/user/en/basics/sites.md
+- Users and Permissions: pages/framework/user/en/basics/users-and-permissions.md
+- Virtual DocField: pages/framework/user/en/basics/virtual_docfield.md
+- Why Frappe Framework?: pages/framework/user/en/basics/why.md
+- Bench: pages/framework/user/en/bench.md
+- Bench Commands: pages/framework/user/en/bench/bench-commands.md
+- Frappe Commands: pages/framework/user/en/bench/frappe-commands.md
+- Bench Procfile: pages/framework/user/en/bench/resources/bench-procfile.md
+- Database Migrations: pages/framework/user/en/database-migrations.md
+- Desk: pages/framework/user/en/desk.md
+- Attachments: pages/framework/user/en/desk/attachments.md
+- Printing: pages/framework/user/en/desk/printing.md
+- Introduction: pages/framework/user/en/desk/reports.md
+- Scripting: pages/framework/user/en/desk/scripting.md
+- Form Tours: pages/framework/user/en/form-tours.md
+- Guides: pages/framework/user/en/guides.md
+- Set up a new Connected App: pages/framework/user/en/guides/app-development/connected-app.md
+- Frappe Apps: pages/framework/user/en/guides/basics/apps.md
+- Frappe Ajax Call: pages/framework/user/en/guides/basics/frappe_ajax_call.md
+- How to setup OAuth 2?: pages/framework/user/en/guides/integration/how_to_set_up_oauth.md
+- OAuth 2: pages/framework/user/en/guides/integration/rest_api/oauth-2.md
+- Token Based Authentication: pages/framework/user/en/guides/integration/rest_api/token_based_authentication.md
+- Social Login Key: pages/framework/user/en/guides/integration/social_login_key.md
+- Installation: pages/framework/user/en/installation.md
+- Introduction: pages/framework/user/en/introduction.md
+- Microsoft Office365 Email OAuth: pages/framework/user/en/microsoft-email-oauth.md
+- Prerequisites: pages/framework/user/en/prerequisites.md
+- Production Setup: pages/framework/user/en/production-setup.md
+- Hooks: pages/framework/user/en/python-api/hooks.md
+- Responses: pages/framework/user/en/python-api/response.md
+- Request Lifecycle: pages/framework/user/en/python-api/routing-and-rendering.md
+- Search: pages/framework/user/en/python-api/search.md
+- Controller Methods: pages/framework/user/en/tutorial/controller-methods.md
+- Create a DocType: pages/framework/user/en/tutorial/create-a-doctype.md
+- Create a Site: pages/framework/user/en/tutorial/create-a-site.md
+- Create an App: pages/framework/user/en/tutorial/create-an-app.md
+- DocType Features: pages/framework/user/en/tutorial/doctype-features.md
+- Form Scripts: pages/framework/user/en/tutorial/form-scripts.md
+- Install and Setup Bench: pages/framework/user/en/tutorial/install-and-setup-bench.md
+- Types of DocType: pages/framework/user/en/tutorial/types-of-doctype.md
+- What's Next?: pages/framework/user/en/tutorial/whats-next.md
+- Using Frappe as OAuth Service: pages/framework/user/en/using_frappe_as_oauth_service.md
+- New Wiki Page: pages/framework/v14/user/en.md
+- Developer API: pages/framework/v14/user/en/api.md
+- Background Jobs: pages/framework/v14/user/en/api/background_jobs.md
+- Chart API: pages/framework/v14/user/en/api/chart.md
+- Controls: pages/framework/v14/user/en/api/controls.md
+- Database API: pages/framework/v14/user/en/api/database.md
+- Dialog API: pages/framework/v14/user/en/api/dialog.md
+- Document API: pages/framework/v14/user/en/api/document.md
+- Form Scripts: pages/framework/v14/user/en/api/form.md
+- FullTextSearch API: pages/framework/v14/user/en/api/full-text-search.md
+- Jinja API: pages/framework/v14/user/en/api/jinja.md
+- Common Utilities API: pages/framework/v14/user/en/api/js-utils.md
+- List: pages/framework/v14/user/en/api/list.md
+- Logging: pages/framework/v14/user/en/api/logging.md
+- Page API: pages/framework/v14/user/en/api/page.md
+- Dialog API: pages/framework/v14/user/en/api/py-dialog.md
+- Query Builder: pages/framework/v14/user/en/api/query-builder.md
+- Realtime (socket.io): pages/framework/v14/user/en/api/realtime.md
+- REST API: pages/framework/v14/user/en/api/rest.md
+- Scanner API: pages/framework/v14/user/en/api/scanner.md
+- Server Calls (AJAX): pages/framework/v14/user/en/api/server-calls.md
+- Tree: pages/framework/v14/user/en/api/tree.md
+- Utility Functions: pages/framework/v14/user/en/api/utils.md
+- What is Frappe Framework?: pages/framework/v14/user/en/basics.md
+- Apps: pages/framework/v14/user/en/basics/apps.md
+- Architecture: pages/framework/v14/user/en/basics/architecture.md
+- Asset Bundling: pages/framework/v14/user/en/basics/asset-bundling.md
+- Directory structure: pages/framework/v14/user/en/basics/directory-structure.md
+- Understanding DocTypes: pages/framework/v14/user/en/basics/doctypes.md
+- Actions and Links: pages/framework/v14/user/en/basics/doctypes/actions-and-links.md
+- Child / Table DocType: pages/framework/v14/user/en/basics/doctypes/child-doctype.md
+- Controllers: pages/framework/v14/user/en/basics/doctypes/controllers.md
+- Customizing DocTypes: pages/framework/v14/user/en/basics/doctypes/customize.md
+- DocField: pages/framework/v14/user/en/basics/doctypes/docfield.md
+- Field Types: pages/framework/v14/user/en/basics/doctypes/fieldtypes.md
+- Form & View Settings: pages/framework/v14/user/en/basics/doctypes/form_-_view_settings.md
+- Docstatus: pages/framework/v14/user/en/basics/doctypes/frameworktatus.md
+- Module: pages/framework/v14/user/en/basics/doctypes/modules.md
+- Naming: pages/framework/v14/user/en/basics/doctypes/naming.md
+- Single DocType: pages/framework/v14/user/en/basics/doctypes/single-doctype.md
+- Virtual DocTypes: pages/framework/v14/user/en/basics/doctypes/virtual-doctype.md
+- Configuration: pages/framework/v14/user/en/basics/site_config.md
+- Sites: pages/framework/v14/user/en/basics/sites.md
+- Static Assets: pages/framework/v14/user/en/basics/static-assets.md
+- Users and Permissions: pages/framework/v14/user/en/basics/users-and-permissions.md
+- Virtual DocField: pages/framework/v14/user/en/basics/virtual_docfield.md
+- Why Frappe Framework?: pages/framework/v14/user/en/basics/why.md
+- Bench: pages/framework/v14/user/en/bench.md
+- Bench Commands: pages/framework/v14/user/en/bench/bench-commands.md
+- Bench - Extending the CLI: pages/framework/v14/user/en/bench/extending-the-cli.md
+- Frappe Commands: pages/framework/v14/user/en/bench/frappe-commands.md
+- Adding Custom Domains to your Site: pages/framework/v14/user/en/bench/guides/adding-custom-domains.md
+- Adding Custom Domains to your Site: pages/framework/v14/user/en/bench/guides/adding-custom-domains.md
+- Configuring HTTPS: pages/framework/v14/user/en/bench/guides/configuring-https.md
+- Diagnosing The Scheduler: pages/framework/v14/user/en/bench/guides/diagnosing-the-scheduler.md
+- Using Let's Encrypt to setup HTTPS: pages/framework/v14/user/en/bench/guides/lets-encrypt-ssl-setup.md
+- Using Let's Encrypt to setup HTTPS: pages/framework/v14/user/en/bench/guides/lets-encrypt-ssl-setup.md
+- Setting Limits for your Site: pages/framework/v14/user/en/bench/guides/settings-limits.md
+- Setup Multitenancy: pages/framework/v14/user/en/bench/guides/setup-multitenancy.md
+- Setup Production: pages/framework/v14/user/en/bench/guides/setup-production.md
+- Setup Production: pages/framework/v14/user/en/bench/guides/setup-production.md
+- Commands Reference: pages/framework/v14/user/en/bench/reference.md
+- bench backup: pages/framework/v14/user/en/bench/reference/backup.md
+- bench version: pages/framework/v14/user/en/bench/reference/bench-version.md
+- bench drop-site: pages/framework/v14/user/en/bench/reference/drop-site.md
+- bench list-apps: pages/framework/v14/user/en/bench/reference/list-apps.md
+- bench migrate: pages/framework/v14/user/en/bench/reference/migrate.md
+- bench new-site: pages/framework/v14/user/en/bench/reference/new-site.md
+- bench partial-restore: pages/framework/v14/user/en/bench/reference/partial-restore.md
+- bench reinstall: pages/framework/v14/user/en/bench/reference/reinstall.md
+- bench restore: pages/framework/v14/user/en/bench/reference/restore.md
+- bench set-config: pages/framework/v14/user/en/bench/reference/set-config.md
+- bench show-config: pages/framework/v14/user/en/bench/reference/show-config.md
+- bench transform-database: pages/framework/v14/user/en/bench/reference/transform-database.md
+- bench trim-database: pages/framework/v14/user/en/bench/reference/trim-database.md
+- bench trim-tables: pages/framework/v14/user/en/bench/reference/trim-tables.md
+- bench uninstall-app: pages/framework/v14/user/en/bench/reference/uninstall-app.md
+- Background Services: pages/framework/v14/user/en/bench/resources/background-services.md
+- Bench Commands Cheatsheet: pages/framework/v14/user/en/bench/resources/bench-commands-cheatsheet.md
+- Bench Procfile: pages/framework/v14/user/en/bench/resources/bench-procfile.md
+- Blog Post: pages/framework/v14/user/en/blog-post.md
+- Database Migrations: pages/framework/v14/user/en/database-migrations.md
+- Debugging: pages/framework/v14/user/en/debugging.md
+- Desk: pages/framework/v14/user/en/desk.md
+- Attachments: pages/framework/v14/user/en/desk/attachments.md
+- Printing: pages/framework/v14/user/en/desk/printing.md
+- Reports: pages/framework/v14/user/en/desk/reports.md
+- Query Report: pages/framework/v14/user/en/desk/reports/query-report.md
+- Report Builder: pages/framework/v14/user/en/desk/reports/report-builder.md
+- Script Report: pages/framework/v14/user/en/desk/reports/script-report.md
+- Scripting: pages/framework/v14/user/en/desk/scripting.md
+- Client Script: pages/framework/v14/user/en/desk/scripting/client-script.md
+- Script API: pages/framework/v14/user/en/desk/scripting/script-api.md
+- Server Script: pages/framework/v14/user/en/desk/scripting/server-script.md
+- System Console: pages/framework/v14/user/en/desk/scripting/system-console.md
+- Workspace: pages/framework/v14/user/en/desk/workspace.md
+- Access: pages/framework/v14/user/en/desk/workspace/access.md
+- Blocks: pages/framework/v14/user/en/desk/workspace/blocks.md
+- Customization: pages/framework/v14/user/en/desk/workspace/customization.md
+- Discussions: pages/framework/v14/user/en/discussions.md
+- Document Template: pages/framework/v14/user/en/document_template.md
+- Form Tours: pages/framework/v14/user/en/form-tours.md
+- Guides: pages/framework/v14/user/en/guides.md
+- Adding Custom Button To Form: pages/framework/v14/user/en/guides/app-development/adding-custom-button-to-form.md
+- Adding Module Icons On Desktop: pages/framework/v14/user/en/guides/app-development/adding-module-icons-on-desktop.md
+- Adding Social Login Provider: pages/framework/v14/user/en/guides/app-development/adding-social-login-provider.md
+- Set up a new Connected App: pages/framework/v14/user/en/guides/app-development/connected-app.md
+- Custom Module Icon: pages/framework/v14/user/en/guides/app-development/custom-module-icon.md
+- Custom Action in Link Field: pages/framework/v14/user/en/guides/app-development/custom_action_link_field.md
+- Dialogs Types: pages/framework/v14/user/en/guides/app-development/dialogs-types.md
+- Executing Code On Doctype Events: pages/framework/v14/user/en/guides/app-development/executing-code-on-doctype-events.md
+- Exporting Customizations to your App: pages/framework/v14/user/en/guides/app-development/exporting-customizations.md
+- Fetch a Field Value from a Document into a Transaction: pages/framework/v14/user/en/guides/app-development/fetch-custom-field-value-from-master-to-all-related-transactions.md
+- Prerequisites: pages/framework/v14/user/en/guides/app-development/generic-oauth-client.md
+- How to Enable Developer Mode in Frappe: pages/framework/v14/user/en/guides/app-development/how-enable-developer-mode-in-frappe.md
+- How To Create Custom Fields During App Installation: pages/framework/v14/user/en/guides/app-development/how-to-create-custom-fields-during-app-installation.md
+- How To Improve A Standard Control: pages/framework/v14/user/en/guides/app-development/how-to-improve-a-standard-control.md
+- Insert A Document Via Api: pages/framework/v14/user/en/guides/app-development/insert-a-document-via-api.md
+- Overriding Link Query By Custom Script: pages/framework/v14/user/en/guides/app-development/overriding-link-query-by-custom-script.md
+- Running Background Jobs: pages/framework/v14/user/en/guides/app-development/running-background-jobs.md
+- Single Type Doctype: pages/framework/v14/user/en/guides/app-development/single-type-doctype.md
+- Trigger Event On Deletion Of Grid Row: pages/framework/v14/user/en/guides/app-development/trigger-event-on-deletion-of-grid-row.md
+- Using Html Templates In Javascript: pages/framework/v14/user/en/guides/app-development/using-html-templates-in-javascript.md
+- Automated Testing: pages/framework/v14/user/en/guides/automated-testing.md
+- UI Integration Testing: pages/framework/v14/user/en/guides/automated-testing/integration-testing.md
+- UI Testing with Frappe API: pages/framework/v14/user/en/guides/automated-testing/qunit-testing.md
+- Unit Testing: pages/framework/v14/user/en/guides/automated-testing/unit-testing.md
+- Frappe Apps: pages/framework/v14/user/en/guides/basics/apps.md
+- Contribute Translations: pages/framework/v14/user/en/guides/basics/contribute_translations.md
+- Frappe Ajax Call: pages/framework/v14/user/en/guides/basics/frappe_ajax_call.md
+- How to Enable Backup Encryption: pages/framework/v14/user/en/guides/basics/how-to-enable-backup-encryption.md
+- Sites: pages/framework/v14/user/en/guides/basics/sites.md
+- Translations: pages/framework/v14/user/en/guides/basics/translations.md
+- Caching: pages/framework/v14/user/en/guides/caching.md
+- Import Large Csv File: pages/framework/v14/user/en/guides/data/import-large-csv-file.md
+- Using the Data Migration Tool: pages/framework/v14/user/en/guides/data/using-data-migration-tool.md
+- Postgres Database Setup: pages/framework/v14/user/en/guides/database-settings/postgres-database-setup.md
+- Setup read operations from slave/secondary mysql system: pages/framework/v14/user/en/guides/database-settings/setup-read-from-secondary-db.md
+- Email Notifications For Failed Background Jobs: pages/framework/v14/user/en/guides/deployment/email-notifications-for-failed-background-jobs.md
+- How To Enable Social Logins: pages/framework/v14/user/en/guides/deployment/how-to-enable-social-logins.md
+- How To Migrate Doctype Changes To Production: pages/framework/v14/user/en/guides/deployment/how-to-migrate-doctype-changes-to-production.md
+- Migrations: pages/framework/v14/user/en/guides/deployment/migrations.md
+- Packages: pages/framework/v14/user/en/guides/deployment/packages.md
+- Desk Customization: pages/framework/v14/user/en/guides/desk.md
+- Formatter For Link Fields: pages/framework/v14/user/en/guides/desk/formatter_for_link_fields.md
+- Making Charts: pages/framework/v14/user/en/guides/desk/making_charts.md
+- Google Calendar Integration: pages/framework/v14/user/en/guides/integration/google_calendar.md
+- Google GSuite: pages/framework/v14/user/en/guides/integration/google_gsuite.md
+- How to setup OAuth 2?: pages/framework/v14/user/en/guides/integration/how_to_set_up_oauth.md
+- Token based authentication: pages/framework/v14/user/en/guides/integration/how_to_set_up_token_based_auth.md
+- Token based authentication: pages/framework/v14/user/en/guides/integration/how_to_setup_token_based_auth.md
+- OpenID Connect and Frappe social login: pages/framework/v14/user/en/guides/integration/openid_connect_and_frappe_social_login.md
+- Introduction: pages/framework/v14/user/en/guides/integration/rest_api.md
+- Listing documents: pages/framework/v14/user/en/guides/integration/rest_api/listing_documents.md
+- Manipulating DocTypes: pages/framework/v14/user/en/guides/integration/rest_api/manipulating_documents.md
+- OAuth 2: pages/framework/v14/user/en/guides/integration/rest_api/oauth-2.md
+- Simple Authentication: pages/framework/v14/user/en/guides/integration/rest_api/simple_authentication.md
+- Token Based Authentication: pages/framework/v14/user/en/guides/integration/rest_api/token_based_authentication.md
+- Social Login Key: pages/framework/v14/user/en/guides/integration/social_login_key.md
+- Webhooks: pages/framework/v14/user/en/guides/integration/webhooks.md
+- Pages: pages/framework/v14/user/en/guides/portal-development.md
+- Pages: pages/framework/v14/user/en/guides/portal-development.md
+- Adding Pages: pages/framework/v14/user/en/guides/portal-development/adding-pages.md
+- Dynamic Pages: pages/framework/v14/user/en/guides/portal-development/context.md
+- Generators: pages/framework/v14/user/en/guides/portal-development/generators.md
+- Ordering: pages/framework/v14/user/en/guides/portal-development/ordering.md
+- Portal Roles: pages/framework/v14/user/en/guides/portal-development/portal-roles.md
+- Redirects: pages/framework/v14/user/en/guides/portal-development/redirects.md
+- Table of Contents: pages/framework/v14/user/en/guides/portal-development/table-of-contents.md
+- Customizing Web Forms: pages/framework/v14/user/en/guides/portal-development/web-forms.md
+- Getting Information From Another Document In Print Format: pages/framework/v14/user/en/guides/reports-and-printing/getting-information-from-another-document-in-print-format.md
+- How To Make Query Report: pages/framework/v14/user/en/guides/reports-and-printing/how-to-make-query-report.md
+- Script Report: pages/framework/v14/user/en/guides/reports-and-printing/how-to-make-script-reports.md
+- Report Print Formats: pages/framework/v14/user/en/guides/reports-and-printing/print-format-for-reports.md
+- Where Do I Find Standard Print Formats: pages/framework/v14/user/en/guides/reports-and-printing/where-do-i-find-standard-print-formats.md
+- Desk: pages/framework/v14/user/en/hidden-features/desk.md
+- How to contribute: pages/framework/v14/user/en/how_to_contribute.md
+- Installation: pages/framework/v14/user/en/installation.md
+- Google Drive: pages/framework/v14/user/en/integration/google_drive.md
+- Setting up LDAP: pages/framework/v14/user/en/integration/ldap-integration.md
+- RazorPay: pages/framework/v14/user/en/integration/razorpay.md
+- Introduction: pages/framework/v14/user/en/introduction.md
+- Logging: pages/framework/v14/user/en/logging.md
+- New Wiki Page: pages/framework/v14/user/en/new-wiki-page.md
+- Portal Pages: pages/framework/v14/user/en/portal-pages.md
+- Prerequisites: pages/framework/v14/user/en/prerequisites.md
+- Production Setup: pages/framework/v14/user/en/production-setup.md
+- Profiling and Monitoring: pages/framework/v14/user/en/profiling.md
+- Hooks: pages/framework/v14/user/en/python-api/hooks.md
+- Language Resolution: pages/framework/v14/user/en/python-api/language.md
+- Responses: pages/framework/v14/user/en/python-api/response.md
+- Request Lifecycle: pages/framework/v14/user/en/python-api/routing-and-rendering.md
+- Search: pages/framework/v14/user/en/python-api/search.md
+- Rate Limiting: pages/framework/v14/user/en/rate-limiting.md
+- Testing: pages/framework/v14/user/en/testing.md
+- Translations: pages/framework/v14/user/en/translations.md
+- Frappe Framework Tutorial: pages/framework/v14/user/en/tutorial.md
+- Controller Methods: pages/framework/v14/user/en/tutorial/controller-methods.md
+- Create a DocType: pages/framework/v14/user/en/tutorial/create-a-doctype.md
+- Create a Site: pages/framework/v14/user/en/tutorial/create-a-site.md
+- Create an App: pages/framework/v14/user/en/tutorial/create-an-app.md
+- DocType Features: pages/framework/v14/user/en/tutorial/doctype-features.md
+- Form Scripts: pages/framework/v14/user/en/tutorial/form-scripts.md
+- Install and Setup Bench: pages/framework/v14/user/en/tutorial/install-and-setup-bench.md
+- Web View Pages: pages/framework/v14/user/en/tutorial/portal-pages.md
+- Types of DocType: pages/framework/v14/user/en/tutorial/types-of-doctype.md
+- What's Next?: pages/framework/v14/user/en/tutorial/whats-next.md
+- UI Testing: pages/framework/v14/user/en/ui-testing.md
+- Using Frappe as OAuth Service: pages/framework/v14/user/en/using_frappe_as_oauth_service.md
+- Video Tutorials for Frappe Framework: pages/framework/v14/user/en/videos.md
+- Web Form: pages/framework/v14/user/en/web-form.md
+- Customization: pages/framework/v14/user/en/web-form/customization.md
+- Settings: pages/framework/v14/user/en/web-form/settings.md
+- Zero* downtime migrations: pages/framework/v14/user/en/zero-_downtime_migrations.md
