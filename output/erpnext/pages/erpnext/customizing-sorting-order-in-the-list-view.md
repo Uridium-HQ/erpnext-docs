@@ -1,12 +1,12 @@
 # Sorting Order in List View
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0t8pfmc7f6>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0t8pfmc7f6)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Sorting Order in List View
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0t8pfmc7f6>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0t8pfmc7f6)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -22,20 +22,20 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 Select document type for which Sort Order is to be customized.
 
-![Sort Order field](/files/customize-sorting-order-2.png)
+![Sort Order field](https://docs.frappe.io/assets/fd3bb1e55692.png)
 
 #### Step 3: Update Sort Details
 
 In the Customize Form, you will find these fields.
 
-![Sort Order Field](/files/customize-sort-field.png) ![Sort Order field](/files/customize-sorting-order-1.png)
+![Sort Order Field](https://docs.frappe.io/assets/a3046f2656dc.png) ![Sort Order field](https://docs.frappe.io/assets/a6a7752ebb1f.png)
 
   1. Sort Field: Select the Field based on which sorting will be done. It will be "Item_Code" field in the scenario.
   2. Sort Order: Sort Order will be two possible options, **Asc** for ascending, and **Desc** for descending.
 
 
 
-[ Previous Page Data Visibility in Child Tables ](</erpnext/customizing-data-visibility-in-child-table>) [ Next Page Search Record by Specific Field  ](</erpnext/search-record-by-specific-field>)
+[ Previous Page Data Visibility in Child Tables ](customizing-data-visibility-in-child-table.md) [ Next Page Search Record by Specific Field  ](search-record-by-specific-field.md)
 
 Last updated 1 week ago 
 

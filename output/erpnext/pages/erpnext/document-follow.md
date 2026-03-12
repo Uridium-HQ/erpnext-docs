@@ -1,12 +1,12 @@
 # Document Follow
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rc106j894>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rc106j894)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Document Follow 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rc106j894>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rc106j894)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -30,7 +30,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 
 
-![Defining Criteria](/files/document-follow-how-to-follow.png)
+![Defining Criteria](https://docs.frappe.io/assets/58830bddb923.png)
 
   1. After following, you can also unfollow a document.
 
@@ -54,16 +54,16 @@ Cases where the document will be **automatically** followed after activating Doc
 
 This is what an email notification for Document Follow will look like:
 
-![Defining Criteria](/files/document-follow-email.png)
+![Defining Criteria](https://docs.frappe.io/assets/725d3220ed82.png)
 
 ### 2\. Related Topics
 
-  1. [Linking Emails to Document](</erpnext/linking-emails-to-document>)
-  2. [Notifications](</erpnext/notifications>)
+  1. [Linking Emails to Document](https://docs.frappe.io/erpnext/linking-emails-to-document)
+  2. [Notifications](notifications.md)
 
 
 
-[ Previous Page Notification ](</erpnext/notifications>) [ Next Page SMS Settings  ](</erpnext/sms-setting>)
+[ Previous Page Notification ](notifications.md) [ Next Page SMS Settings  ](https://docs.frappe.io/erpnext/sms-setting)
 
 Last updated 1 week ago 
 

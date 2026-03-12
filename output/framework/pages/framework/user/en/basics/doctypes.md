@@ -1,36 +1,36 @@
 # Understanding DocTypes
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tj2ap248v>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tj2ap248v)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Understanding DocTypes
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tj2ap248v>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tj2ap248v)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
   1. Introduction
 
-  2. [Modules](<doctypes/modules>)
+  2. [Modules](doctypes/modules.md)
 
-  3. [DocField](<doctypes/docfield>)
+  3. [DocField](doctypes/docfield.md)
 
-  4. [Naming](<doctypes/naming>)
+  4. [Naming](doctypes/naming.md)
 
-  5. [Controllers](<doctypes/controllers>)
+  5. [Controllers](doctypes/controllers.md)
 
-     * [Controller Methods](<doctypes/controllers#controller-methods>)
-     * [Controller Hooks](<doctypes/controllers#controller-hooks>)
-  6. [Child DocType](<doctypes/child-doctype>)
+     * [Controller Methods](doctypes/controllers.md)
+     * [Controller Hooks](doctypes/controllers.md)
+  6. [Child DocType](doctypes/child-doctype.md)
 
-  7. [Single DocType](<doctypes/single-doctype>)
+  7. [Single DocType](doctypes/single-doctype.md)
 
-  8. [Virtual DocType](<doctypes/virtual-doctype>)
+  8. [Virtual DocType](doctypes/virtual-doctype.md)
 
-  9. [Actions and Links](<doctypes/actions-and-links>)
+  9. [Actions and Links](doctypes/actions-and-links.md)
 
-  10. [Customizing DocTypes](<doctypes/customize>)
+  10. [Customizing DocTypes](doctypes/customize.md)
 
 
 
@@ -52,7 +52,7 @@ To enable rapid application development, Frappe Framework follows some standard 
 
 The standard way to create a DocType is by typing _new doctype_ in the search bar in the **Desk**.
 
-![ToDo DocType](/files/todo-doctype.png) _ToDo DocType_
+![ToDo DocType](https://docs.frappe.io/assets/838c76d142f0.png) _ToDo DocType_
 
 A DocType not only stores fields, but also other information about how your data behaves in the system. We call this **Meta**. Since this meta-data is also stored in a database table, it makes it easy to change meta-data on the fly without writing much code. Learn more about Meta.
 
@@ -60,13 +60,13 @@ A DocType not only stores fields, but also other information about how your data
 
 After creating a DocType, Frappe can provide many features out-of-the-box. If you go to `/app/todo` you will be routed to the List View in the desk.
 
-![ToDo List](/files/list-view.png) _ToDo List_
+![ToDo List](https://docs.frappe.io/assets/2aa0cce35352.png) _ToDo List_
 
 Similarly, you get a Form View at the route `/app/todo/000001`. The Form is used to create new docs and view them.
 
-![ToDo Form](/files/form-view.png) _ToDo Form_
+![ToDo Form](https://docs.frappe.io/assets/3c6bc21bca63.png) _ToDo Form_
 
-[ Previous Page Sites ](</framework/user/en/basics/sites>) [ Next Page Users and Permissions ](</framework/user/en/basics/users-and-permissions>)
+[ Previous Page Sites ](sites.md) [ Next Page Users and Permissions ](users-and-permissions.md)
 
 Last updated 3 weeks ago 
 

@@ -1,12 +1,12 @@
 # Change Valuation Method
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rrpndbe59>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rrpndbe59)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Change Valuation Method
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rrpndbe59>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rrpndbe59)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -16,9 +16,9 @@ If a user changes the valuation method from FIFO to Moving Average for any item,
 
 To prevent this, users can freeze stock transactions before a specific date by setting the "Stock Frozen Up To" date in the stock settings.
 
-![](/files/Screenshot%202025-04-29%20at%204.38.39%20PM.png)
+![](../../assets/6cebd9d7067d.png)
 
-[ Previous Page Negative Batch Report ](</erpnext/stock/reports/negative-batch-report>) [ Next Page Managing Fractions in UOM  ](</erpnext/managing-fractions-in-uom>)
+[ Previous Page Negative Batch Report ](stock/reports/negative-batch-report.md) [ Next Page Managing Fractions in UOM  ](managing-fractions-in-uom.md)
 
 Last updated 3 weeks ago 
 

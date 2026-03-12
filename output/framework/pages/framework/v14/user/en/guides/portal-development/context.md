@@ -1,12 +1,12 @@
 # Dynamic Pages
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12dcuc01a2>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12dcuc01a2)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Dynamic Pages 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12dcuc01a2>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12dcuc01a2)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -41,7 +41,7 @@ In `users.html`:
     
 [/code]
 
-[ Previous Page Table of Contents  ](</framework/v14/user/en/guides/portal-development/table-of-contents>) [ Next Page Portal Roles  ](</framework/v14/user/en/guides/portal-development/portal-roles>)
+[ Previous Page Table of Contents  ](table-of-contents.md) [ Next Page Portal Roles  ](portal-roles.md)
 
 Last updated 2 months ago 
 

@@ -1,12 +1,12 @@
 # Supplier Group
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rgee3n701>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rgee3n701)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Supplier Group 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rgee3n701>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rgee3n701)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -24,7 +24,7 @@ To access Supplier Group, go to:
 
 Before creating and using a Supplier Group, it is advised that you create the following first:
 
-  * [Supplier](</erpnext/supplier>)
+  * [Supplier](../../../supplier.md)
 
 
 
@@ -39,7 +39,7 @@ Before creating and using a Supplier Group, it is advised that you create the fo
 
 
 
-![Supplier Group](/files/supplier-group.png)?
+![Supplier Group](https://docs.frappe.io/assets/df037d0a280c.png)?
 
 You can classify your suppliers from a range of choices available in ERPNext. Choose from a set of given options like Distributor, Electrical, Hardware, Local, Pharmaceutical, Raw Material, Services etc. Classifying your supplier into different types facilitates accounting and payments.
 
@@ -49,19 +49,19 @@ You can also construct Supplier Group in the form of a tree hierarchy, similar t
 
 To view the Tree structure, click on **Tree** from the sidebar. To go back to the list view, simply select: **Menu > View List**.
 
-![Supplier Group](/files/supplier-group-tree.png)
+![Supplier Group](https://docs.frappe.io/assets/a50f480eddb7.png)
 
-With the new [User Permissions](</erpnext/users-and-permissions>) in place, you can now apply hierarchy based permissions. That is, if a User is permitted to view parent node of Supplier Group, he/she automatically qualifies to view the child nodes of that parent node.
+With the new [User Permissions](../../../users-and-permissions.md) in place, you can now apply hierarchy based permissions. That is, if a User is permitted to view parent node of Supplier Group, he/she automatically qualifies to view the child nodes of that parent node.
 
 For example, in the above image, let's say that user permission is applied for a User to view 'Distributor' document. Then the user also gets permitted to view its child nodes 'Book Distributor', 'Electronic Distributor', etc.
 
 ### 4\. Related Topics
 
-  1. [Supplier](</erpnext/supplier>)
+  1. [Supplier](../../../supplier.md)
 
 
 
-[ Previous Page Supplier Essentials ](</erpnext/supplier-essentials>) [ Next Page Supplier ](</erpnext/supplier>)
+[ Previous Page Supplier Essentials ](../../../supplier-essentials.md) [ Next Page Supplier ](../../../supplier.md)
 
 Last updated 2 weeks ago 
 

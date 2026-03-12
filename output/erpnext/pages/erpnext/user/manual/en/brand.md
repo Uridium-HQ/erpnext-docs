@@ -1,18 +1,18 @@
 # Brand
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ru3uqch7o>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ru3uqch7o)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Brand 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ru3uqch7o>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ru3uqch7o)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 **A Brand identifies items with a specific name.**
 
-Usually, a Brand is the manufacturer or packer of a specific product. For example, Apple is a brand that manufactures laptops. A Brand is not necessarily the [Manufacturer](</erpnext/manufacturer>) of an Item, it's only the name under which a product is sold. For example, if you manufacture plastic cups, you may license them to a big brand so that they sell them under their Brand.
+Usually, a Brand is the manufacturer or packer of a specific product. For example, Apple is a brand that manufactures laptops. A Brand is not necessarily the [Manufacturer](../../../manufacturer.md) of an Item, it's only the name under which a product is sold. For example, if you manufacture plastic cups, you may license them to a big brand so that they sell them under their Brand.
 
 In ERPNext, Brands can be assigned to Items for identifying and assigning certain defaults.
 
@@ -24,19 +24,19 @@ To access the Brand list, go to:
 
   1. Go to the Brand list and click on New.
   2. Enter a Brand name and enter a description if needed.
-  3. Save. [Brand](</files/brand.png>)
+  3. Save. [Brand](https://docs.frappe.io/files/brand.png)
 
 
 
 Now this Brand can be associated with different Items.
 
-![](/files/item_brand.png)
+![](../../../../../assets/45e0e7a2a653.png)
 
 ## 2\. Features
 
 ### 2.1 Setting defaults for Items of this Brand
 
-![](/files/brand_defaults.png)
+![](../../../../../assets/b4014a7e3718.png)
 
 The following defaults can be set for a Brand. On assigning this brand to an Item, the set defaults will be fetched when performing Sales/Purchase transactions with Item of this Brand.
 
@@ -66,16 +66,16 @@ When performing Sales transactions like Sales Order, Delivery Note, or Sales Inv
 
 ## 3\. Related Topics
 
-  1. [Purchase Order](</erpnext/purchase-order>)
-  2. [Sales Order](</erpnext/sales-order>)
-  3. [Purchase Receipt](</erpnext/purchase-receipt>)
-  4. [Delivery Note](</erpnext/delivery-note>)
-  5. [Sales Invoice](</erpnext/sales-invoice>)
-  6. [Purchase Invoice](</erpnext/purchase-invoice>)
+  1. [Purchase Order](../../../purchase-order.md)
+  2. [Sales Order](../../../sales-order.md)
+  3. [Purchase Receipt](../../../purchase-receipt.md)
+  4. [Delivery Note](../../../delivery-note.md)
+  5. [Sales Invoice](../../../sales-invoice.md)
+  6. [Purchase Invoice](../../../purchase-invoice.md)
 
 
 
-[ Previous Page Item Attribute ](</erpnext/item-attribute>) [ Next Page Manufacturer  ](</erpnext/manufacturer>)
+[ Previous Page Item Attribute ](../../../item-attribute.md) [ Next Page Manufacturer  ](../../../manufacturer.md)
 
 Last updated 1 week ago 
 

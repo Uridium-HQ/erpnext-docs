@@ -1,18 +1,18 @@
 # Customizing Web Forms
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12d6jm9s4e>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12d6jm9s4e)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Customizing Web Forms 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12d6jm9s4e>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12d6jm9s4e)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 Web Forms are a powerful way to add forms to your website. Web forms are powerful and scriptable and from Version 7.1+ they also include tables, paging and other utilities
 
-![Web Form](/files/sample-web-form.png)
+![Web Form](https://docs.frappe.io/assets/0d736e72df51.png)
 
 ### Standard Web Forms
 
@@ -136,7 +136,7 @@ Example:
     
 [/code]
 
-[ Previous Page Portal Roles  ](</framework/v14/user/en/guides/portal-development/portal-roles>) [ Next Page Generators  ](</framework/v14/user/en/guides/portal-development/generators>)
+[ Previous Page Portal Roles  ](portal-roles.md) [ Next Page Generators  ](generators.md)
 
 Last updated 2 months ago 
 

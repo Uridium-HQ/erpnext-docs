@@ -1,12 +1,12 @@
 # Setting Up Taxes
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sdka5iutq>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sdka5iutq)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Setting Up Taxes 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sdka5iutq>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sdka5iutq)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -26,25 +26,25 @@ Select an account and click on edit. Select the 'Account Type' as 'Tax' for the 
 
 ## 2\. Sales Taxes and Charges Template
 
-Sales Taxes and Charges Template fetched taxes for your sales transactions like [Sales Order](</erpnext/sales-order>) and [Sales Invoice](</erpnext/sales-invoice>).  
-Read [Sales Taxes and Charges Template](</erpnext/sales-taxes-and-charges-template>) to know more.
+Sales Taxes and Charges Template fetched taxes for your sales transactions like [Sales Order](sales-order.md) and [Sales Invoice](sales-invoice.md).  
+Read [Sales Taxes and Charges Template](sales-taxes-and-charges-template.md) to know more.
 
 ## 3\. Purchase Taxes and Charges Template
 
-Purchase Taxes and Charges Template fetched taxes for your sales transactions like [Purchase Order](</erpnext/purchase-order>) and [Purchase Invoice](</erpnext/purchase-invoice>).  
-Read [Purchase Taxes and Charges Template](</erpnext/purchase-taxes-and-charges-template>) to know more.
+Purchase Taxes and Charges Template fetched taxes for your sales transactions like [Purchase Order](purchase-order.md) and [Purchase Invoice](purchase-invoice.md).  
+Read [Purchase Taxes and Charges Template](purchase-taxes-and-charges-template.md) to know more.
 
 ## 4\. Item Tax Template
 
-The tax set in Item Tax Template applies specifically to an [Item](</erpnext/item>) or an [Item Group](</erpnext/item-group>). It is given preference over the Sales/Purchase Tax Template.  
-Read [Item Tax Template](</erpnext/item-tax-template>) to know more.
+The tax set in Item Tax Template applies specifically to an [Item](item.md) or an [Item Group](item-group.md). It is given preference over the Sales/Purchase Tax Template.  
+Read [Item Tax Template](item-tax-template.md) to know more.
 
 ## 5\. Tax Category
 
 Tax category helps in automatically applying sales/purchase tax templates in your transactions based on the customer/supplier chosen.  
-Read [Tax Category](</erpnext/tax-category>) to know more.
+Read [Tax Category](tax-category.md) to know more.
 
-[ Previous Page Opening Balance in Accounts  ](</erpnext/opening-balance>) [ Next Page Chart Of Accounts ](</erpnext/chart-of-accounts>)
+[ Previous Page Opening Balance in Accounts  ](opening-balance.md) [ Next Page Chart Of Accounts ](chart-of-accounts.md)
 
 Last updated 2 weeks ago 
 

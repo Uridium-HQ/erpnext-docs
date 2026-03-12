@@ -1,12 +1,12 @@
 # Serial Number
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rt29ebdmc>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rt29ebdmc)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Serial Number
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rt29ebdmc>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rt29ebdmc)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,9 +14,9 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 To enable serial / batch feature for the item, first check the 'Enable Serial and Batch No for Item' checkbox in the 'Stock Settings'.
 
-![](/files/Screenshot%202026-03-06%20at%2011.52.18%20AM.png)
+![](../../../../../assets/77a2c3e59481.png)
 
-As discussed in the [Item](</erpnext/item>) page, if an **Item** is _serialized_ , a **Serial Number** (Serial No) record is maintained for each quantity of that **Item**. This information helps track the location of the Serial No, its warranty and end-of-life (expiry) information.
+As discussed in the [Item](../../../item.md) page, if an **Item** is _serialized_ , a **Serial Number** (Serial No) record is maintained for each quantity of that **Item**. This information helps track the location of the Serial No, its warranty and end-of-life (expiry) information.
 
 You can also track from which **Supplier** you purchased the **Serial No** and to which **Customer** you have sold it. The **Serial No** status will tell you its current inventory status.
 
@@ -32,8 +32,8 @@ To access the Serial Number list, go to: > Home > Stock > Serial No and Batch > 
 
 Before creating and using a Serial Number, it is advised that you create the following first:
 
-  * [Item](</erpnext/item>)
-  * Enable 'Has Serial No' in the Item master ![Serial No Enabled](/files/serial-no-enabled.png)
+  * [Item](../../../item.md)
+  * Enable 'Has Serial No' in the Item master ![Serial No Enabled](https://docs.frappe.io/assets/80975ba1731c.png)
 
 
   2. How to create a Serial Number
@@ -46,7 +46,7 @@ Usually, Serial Numbers are auto-created when transactions are made against a se
 
 For example, a series was set for the following Item as 'PB2L.#####'. Then a Stock Entry was submitted to receive the Item. The Serial Numbers were created accordingly.
 
-![Serial No Created](/files/serial-no-created.png)
+![Serial No Created](https://docs.frappe.io/assets/abc30c713250.png)
 
 However, if you want to create a Serial No _manually_ follow these steps:
 
@@ -60,7 +60,7 @@ However, if you want to create a Serial No _manually_ follow these steps:
 
 Inventory of an Item can only be affected if the Serial No is transacted via a Stock transaction (Stock Entry, Purchase Receipt, Delivery Note, Sales Invoice). When a new Serial No is created directly, its Warehouse cannot be set.
 
-![Serial Number](/files/serial-no.png)
+![Serial Number](https://docs.frappe.io/assets/990fc06a0a7b.png)
 
 ### 2.1 Notes about Serial Number
 
@@ -100,13 +100,13 @@ Any additional information about this specific Item unit can be set under 'Seria
 
 ### 5\. Related Topics
 
-  1. [Item Codification](</erpnext/item-codification>)
-  2. [Item Variants](</erpnext/item-variants>)
-  3. [Serial Number Naming](</erpnext/serial-no-naming>)
+  1. [Item Codification](../../../item-codification.md)
+  2. [Item Variants](../../../item-variants.md)
+  3. [Serial Number Naming](../../../serial-no-naming.md)
 
 
 
-[ Previous Page Batch ](</erpnext/batch>) [ Next Page Serial and Batch Bundle ](</erpnext/serial-and-batch-bundle>)
+[ Previous Page Batch ](../../../batch.md) [ Next Page Serial and Batch Bundle ](../../../serial-and-batch-bundle.md)
 
 Last updated 1 week ago 
 

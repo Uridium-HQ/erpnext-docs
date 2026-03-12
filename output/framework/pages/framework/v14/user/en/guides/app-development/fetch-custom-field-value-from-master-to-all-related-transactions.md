@@ -1,12 +1,12 @@
 # Fetch a Field Value from a Document into a Transaction
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12aov140fc>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12aov140fc)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Fetch a Field Value from a Document into a Transaction 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12aov140fc>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12aov140fc)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -18,14 +18,14 @@ In this scenario, the custom field will be updated automatically based on the va
 
 #### Steps:
 
-  1. Create a Custom Field **GSTIN** for _Supplier_ document with _Field Type_ as **Data**. ![](/files/gstin-field-supplier.png)
+  1. Create a Custom Field **GSTIN** for _Supplier_ document with _Field Type_ as **Data**. ![](../../../../../../../assets/425264f3404c.png)
 
   2. Create another Custom Field **GSTIN** for _Purchase Order_ document, but in this case with _Field Type_ as **Read Only** or check **Read Only** checkbox. Set **Fetch From** as `supplier.gstin`.
 
 
 
 
-![](/files/gstin-field-po-s1.png)
+![](../../../../../../../assets/2d3fcee4cc06.png)
 
   1. Go to the user menu and click "Reload".
 
@@ -34,7 +34,7 @@ In this scenario, the custom field will be updated automatically based on the va
 
 
 
-![](/files/po-gstin-s1.png)
+![](../../../../../../../assets/dff926932e71.png)
 
 ### Scenario II: You want to allow user input if value not found
 
@@ -46,13 +46,13 @@ In this scenario, the value is fetched from the Supplier the first time the Purc
 
 
 
-![](/files/gstin-field-supplier.png)
+![](../../../../../../../assets/425264f3404c.png)
 
   1. Create another Custom Field **GSTIN** for _Purchase Order_ document with _Field Type_ as **Data**. Set **Fetch From** as `supplier.vat_number` and tick the checkbox titled **Fetch If Empty**.
 
 
 
-![](/files/gstin-field-po-s2.png)
+![](../../../../../../../assets/2de2f56ac73b.png)
 
   1. Go to the user menu and click "Reload".
 
@@ -61,9 +61,9 @@ In this scenario, the value is fetched from the Supplier the first time the Purc
 
 
 
-![](/files/po-gstin-s2.png)
+![](../../../../../../../assets/854d01146ff4.png)
 
-[ Previous Page How to Enable Developer Mode in Frappe ](</framework/v14/user/en/guides/app-development/how-enable-developer-mode-in-frappe>) [ Next Page Adding Module Icons On Desktop  ](</framework/v14/user/en/guides/app-development/adding-module-icons-on-desktop>)
+[ Previous Page How to Enable Developer Mode in Frappe ](how-enable-developer-mode-in-frappe.md) [ Next Page Adding Module Icons On Desktop  ](adding-module-icons-on-desktop.md)
 
 Last updated 2 months ago 
 

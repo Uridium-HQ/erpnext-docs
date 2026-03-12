@@ -1,12 +1,12 @@
 # Address
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ri795o212>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ri795o212)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Address 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ri795o212>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ri795o212)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -31,7 +31,7 @@ To access the Address list, go to:
 
 You can also add an Address from the Customer or Supplier record by clicking on “New Address" button as shown below.
 
-![](/files/imagea26d72.png)
+![](../../assets/746205060506.png)
 
 To Import multiple addresses from a spreadsheet, use the Data Import Tool.
 
@@ -45,7 +45,7 @@ An address may be linked to multiple customers or multiple suppliers.
 
 An address can also be linked to customers and suppliers at the same time.
 
-![](/files/image48b1ed.png)
+![](../../assets/36df7f1b20d8.png)
 
 ### Address Title
 
@@ -53,7 +53,7 @@ If the address is not linked to any entity you need to manually add a title.
 
 If the address is linked to an entity like a customer or supplier, the title is generated automatically in 'Entity Name-Address Type' format.
 
-![](/files/Address%20Billing.png)
+![](../../assets/80f3781daa51.png)
 
 ### Preferred Billing Address and Shipping Address
 
@@ -65,15 +65,15 @@ Similarly, if you check 'Preferred Billing Address', the address would be automa
 
 If the customer or supplier has registered under GST, you can enter GSTIN and GST State in Address. Make sure GSTIN entered is in valid format.
 
-![GST Details in Address](/files/gst-details-in-address.png)
+![GST Details in Address](https://docs.frappe.io/assets/9daaa0e610c1.png)
 
 In sales transactions along with address, GSTIN is also fetched.
 
-![](/files/imageefea37.png)
+![](../../assets/aa2082b42372.png)
 
 You can also add addresses of your own company's facilities. Check 'Is Your Company Address', select Company in Link DocType, and Company Name in Link Name for such addresses and you can select them in GST Sales Invoice to print your own address.
 
-![](/files/imagedfad7a.png)
+![](../../assets/e8db7928f35c.png)
 
 > GSTIN is to be added in Address and not in Customer/Supplier, as one Customer/Supplier may have multiple GSTIN (one for each state where he conducts his business).
 
@@ -85,7 +85,7 @@ You can also add addresses of your own company's facilities. Check 'Is Your Comp
 
 
 
-[ Previous Page Contact  ](</erpnext/contact>) [ Next Page Address Template  ](</erpnext/address-template>)
+[ Previous Page Contact  ](contact.md) [ Next Page Address Template  ](address-template.md)
 
 Last updated 2 weeks ago 
 

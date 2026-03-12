@@ -1,12 +1,12 @@
 # Common Utilities API
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12rf4kvtt2>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12rf4kvtt2)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Common Utilities API 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12rf4kvtt2>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12rf4kvtt2)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -88,7 +88,7 @@ Load a JS or CSS asset asynchronously. It is used for libraries that are not use
     
 [/code]
 
-[ Previous Page Tree  ](</framework/v14/user/en/api/tree>) [ Next Page Dialog API ](</framework/v14/user/en/api/dialog>)
+[ Previous Page Tree  ](tree.md) [ Next Page Dialog API ](dialog.md)
 
 Last updated 2 months ago 
 

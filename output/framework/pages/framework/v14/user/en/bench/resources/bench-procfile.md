@@ -1,16 +1,16 @@
 # Bench Procfile
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/134td1mg87>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/134td1mg87)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Bench Procfile 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/134td1mg87>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/134td1mg87)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-`bench start` uses [honcho](<http://honcho.readthedocs.org>) to manage multiple processes in **developer mode**.
+`bench start` uses [honcho](http://honcho.readthedocs.org/) to manage multiple processes in **developer mode**.
 
 ### Processes
 
@@ -35,7 +35,7 @@ Optionally if you are developing for frappe you can add:
 
 redis_cache: redis-server config/redis_cache.conf redis_socketio: redis-server config/redis_socketio.conf redis_queue: redis-server config/redis_queue.conf web: bench serve --port 8000 socketio: /usr/bin/node apps/frappe/socketio.js watch: bench watch schedule: bench schedule worker_short: bench worker --queue short worker_long: bench worker --queue long worker_default: bench worker --queue default
 
-[ Previous Page Bench Commands Cheatsheet  ](</framework/v14/user/en/bench/resources/bench-commands-cheatsheet>) [ Next Page Database Migrations  ](</framework/v14/user/en/database-migrations>)
+[ Previous Page Bench Commands Cheatsheet  ](bench-commands-cheatsheet.md) [ Next Page Database Migrations  ](../../database-migrations.md)
 
 Last updated 2 months ago 
 

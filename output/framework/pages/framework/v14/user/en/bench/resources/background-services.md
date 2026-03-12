@@ -1,18 +1,18 @@
 # Background Services
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/133815nh44>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/133815nh44)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Background Services 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/133815nh44>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/133815nh44)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 Running an active Frappe environment requires the running of various system level services and some Frappe processes.
 
-The system level services, apart from your choice of database solutions and Redis will depend on your deployment architecture and strategy. As for the Frappe services, they are defined in the [Procfile](</framework/v14/user/en/bench/resources/bench-procfile>) for development benches and config/supervisor.conf for production benches.
+The system level services, apart from your choice of database solutions and Redis will depend on your deployment architecture and strategy. As for the Frappe services, they are defined in the [Procfile](bench-procfile.md) for development benches and config/supervisor.conf for production benches.
 
 ## System Processes
 
@@ -49,7 +49,7 @@ These processes are automatically started when `bench start` is run and for prod
 
 The Scheduler process schedules enqeueing of scheduled jobs in the Frappe system. This process is automatically started when `bench start` is run and for production are configured in supervisor configuration.
 
-[ Previous Page Setup Production  ](</framework/v14/user/en/bench/guides/setup-production>) [ Next Page Bench Commands Cheatsheet  ](</framework/v14/user/en/bench/resources/bench-commands-cheatsheet>)
+[ Previous Page Setup Production  ](../guides/setup-production.md) [ Next Page Bench Commands Cheatsheet  ](bench-commands-cheatsheet.md)
 
 Last updated 2 months ago 
 

@@ -1,12 +1,12 @@
 # DocField
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tkkq7dovu>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tkkq7dovu)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # DocField 
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tkkq7dovu>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tkkq7dovu)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -78,7 +78,7 @@ Similar to the `depends_on` property which determines whether a field will be di
 
 Frappe comes with more than 30 different fieldtypes out-of-the-box. These fieldtypes serve a variety of use-cases. You can learn more about fieldtypes in the next page.
 
-[ Previous Page Naming  ](</framework/user/en/basics/doctypes/naming>) [ Next Page Controllers ](</framework/user/en/basics/doctypes/controllers>)
+[ Previous Page Naming  ](naming.md) [ Next Page Controllers ](controllers.md)
 
 Last updated 3 weeks ago 
 

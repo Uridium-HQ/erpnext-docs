@@ -1,12 +1,12 @@
 # Script Report
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12cad0l165>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12cad0l165)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Script Report 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12cad0l165>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12cad0l165)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,13 +14,13 @@ You can create tabulated reports using server side scripts by creating a new Rep
 
 > Note: You will need Administrator Permissions for this.
 
-Since these reports give you unrestricted access via Python scripts, they can only be created by Administrators. The script part of the report becomes a part of the repository of the application. If you have not created an app, [read this](<https://frappe.io/docs/v14/user/en/guides/app-development/>).
+Since these reports give you unrestricted access via Python scripts, they can only be created by Administrators. The script part of the report becomes a part of the repository of the application. If you have not created an app, [read this](https://frappe.io/docs/v14/user/en/guides/app-development/).
 
-> Note: You must be in [Developer Mode](<https://frappe.io/docs/v14/user/en/guides/app-development/how-enable-developer-mode-in-frappe>) to do this
+> Note: You must be in [Developer Mode](https://frappe.io/docs/v14/user/en/guides/app-development/how-enable-developer-mode-in-frappe) to do this
 
 ### 1\. Create a new Report
 
-![Script Report](/files/script-report.png)
+![Script Report](https://docs.frappe.io/assets/c0b925501525.png)
 
   1. Set Report Type as "Script Report"
   2. Set "Is Standard" as "Yes"
@@ -67,13 +67,13 @@ In the `.py` file you can add the script for generating the report.
 [/code]
 
   3. You can use all server side modules to build your report.
-  4. For example see existing reports. ([Balance Sheet](<https://github.com/frappe/erpnext/blob/develop/erpnext/accounts/report/balance_sheet/balance_sheet.py>))
+  4. For example see existing reports. ([Balance Sheet](https://github.com/frappe/erpnext/blob/develop/erpnext/accounts/report/balance_sheet/balance_sheet.py))
 
 
 
 ### 4\. Add link for your report on the module page
 
-![Module Page](/files/script-report-1.png)
+![Module Page](https://docs.frappe.io/assets/24b36ba192b5.png)
 
   1. In the module folder (for example if it is Accounts in ERPNext the folder will be `erpnext/config/accounts.py`) you will see labels and items for various sections. The new report can be added in the item list as show in the example:
 
@@ -92,7 +92,7 @@ In the `.py` file you can add the script for generating the report.
     
 [/code]
 
-[ Previous Page Report Print Formats  ](</framework/v14/user/en/guides/reports-and-printing/print-format-for-reports>) [ Next Page Pages  ](</framework/v14/user/en/guides/portal-development>)
+[ Previous Page Report Print Formats  ](print-format-for-reports.md) [ Next Page Pages  ](../portal-development.md)
 
 Last updated 2 months ago 
 

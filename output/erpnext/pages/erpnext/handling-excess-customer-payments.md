@@ -1,12 +1,12 @@
 # Handling Excess Customer Payments
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rlctqt9cm>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rlctqt9cm)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Handling Excess Customer Payments
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rlctqt9cm>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rlctqt9cm)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -79,7 +79,7 @@ If the customer pays a single amount covering an invoice plus an excess, you can
 
 This process ensures the excess funds are cleanly moved into the dedicated Liability account for proper accounting.
 
-[ Previous Page Additional Charges in Payment ](</erpnext/additional-charges-in-payment>) [ Next Page ERPNext QuickBooks Migrator  ](</erpnext/quickbooks-migrator>)
+[ Previous Page Additional Charges in Payment ](additional-charges-in-payment.md) [ Next Page ERPNext QuickBooks Migrator  ](quickbooks-migrator.md)
 
 Last updated 2 weeks ago 
 

@@ -1,12 +1,12 @@
 # Exchange Rate Revaluation
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rndkon1gn>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rndkon1gn)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Exchange Rate Revaluation
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rndkon1gn>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rndkon1gn)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -31,9 +31,9 @@ To access the Exchange Rate Revaluation list, go to:
 
 
 
-![Currency in Ledger](/files/currency-in-ledger.png) 3\. You can also assign/modify the currency for existing accounts by opening the specific Account record. 4\. Click on the Account and Click on Edit.
+![Currency in Ledger](https://docs.frappe.io/assets/c23198c6ec1b.png) 3\. You can also assign/modify the currency for existing accounts by opening the specific Account record. 4\. Click on the Account and Click on Edit.
 
-![Set Account Currency](/files/update-currency-in-ledger.png)
+![Set Account Currency](https://docs.frappe.io/assets/701b29475429.png)
 
   2. How to enable Exchange Rate Revaluation
 
@@ -48,22 +48,22 @@ Exchange Rate Revaluation feature is for dealing with the situation when you hav
 
 
 
-![Unrealized Exchange Gain/Loss Ledger in Company](/files/unrealized-exchange-gain-loss-ledger-in-company.png) 3\. Go to **Accounting > Setup > Exchange Rate Revaluation > New**. 4\. Select the Company. 5\. Click the 'Get Entries' button. It'll fetch the accounts which have currency different from the 'Default Currency' set in the Company. 6\. This will fetch the new exchange rate automatically if not set in Currency Exchange DocType for that currency else it will fetch the 'Exchange Rate' set in the [Currency Exchange](</erpnext/currency-exchange>) DocType. ![Exchange Rate Revaluation](/files/exchange-rate-revaluation.png) 7\. On Submitting, **Create Journal Entry** button will appear. ![Journal Entry Option After Submission](/files/exchange-rate-revaluation-submit.png) 8\. Clicking on this button will create a Journal Entry for the Exchange Rate Revaluation. ![Exchange Rate Revaluation Journal Entry](/files/exchange-rate-revaluation-journal-entry.png) 9\. On submitting the Journal Entry, the general ledger is affected as follows: ![Exchange Rate Revaluation GL](/files/exchange-rate-revaluation-gl.png)
+![Unrealized Exchange Gain/Loss Ledger in Company](https://docs.frappe.io/assets/386442599d3c.png) 3\. Go to **Accounting > Setup > Exchange Rate Revaluation > New**. 4\. Select the Company. 5\. Click the 'Get Entries' button. It'll fetch the accounts which have currency different from the 'Default Currency' set in the Company. 6\. This will fetch the new exchange rate automatically if not set in Currency Exchange DocType for that currency else it will fetch the 'Exchange Rate' set in the [Currency Exchange](../../../currency-exchange.md) DocType. ![Exchange Rate Revaluation](https://docs.frappe.io/assets/f5aeac3ebada.png) 7\. On Submitting, **Create Journal Entry** button will appear. ![Journal Entry Option After Submission](https://docs.frappe.io/assets/33c4ce9e15a9.png) 8\. Clicking on this button will create a Journal Entry for the Exchange Rate Revaluation. ![Exchange Rate Revaluation Journal Entry](https://docs.frappe.io/assets/fadcf54875df.png) 9\. On submitting the Journal Entry, the general ledger is affected as follows: ![Exchange Rate Revaluation GL](https://docs.frappe.io/assets/d79d9cc99036.png)
 
 ### 3\. Automate Exchange Rate Revaluation Creation
 
 Provision for Auto creation of Exchange Rate Revaluation is available in Company master under `**Exchange Rate Revaluation Settings**`
 
-![Screenshot 2023-07-10 at 11.52.17 AM](/files/Screenshot%202023-07-10%20at%2011.52.17%20AM.png)
+![Screenshot 2023-07-10 at 11.52.17 AM](https://docs.frappe.io/assets/f77afc52ce34.png)
 
 ### 4\. Related Topics
 
-  1. [Inter Company Journal Entry](</erpnext/inter-company-journal-entry>)
-  2. [Inter Company Invoices](</erpnext/inter-company-invoices>)
+  1. [Inter Company Journal Entry](../../../inter-company-journal-entry.md)
+  2. [Inter Company Invoices](../../../inter-company-invoices.md)
 
 
 
-[ Previous Page Multi Currency Setup ](</erpnext/multi-currency-setup>) [ Next Page Cost Center  ](</erpnext/cost-center>)
+[ Previous Page Multi Currency Setup ](../../../multi-currency-setup.md) [ Next Page Cost Center  ](../../../cost-center.md)
 
 Last updated 2 weeks ago 
 

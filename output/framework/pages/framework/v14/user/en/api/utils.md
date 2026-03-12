@@ -1,12 +1,12 @@
 # Utility Functions
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12tmdrr3eh>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12tmdrr3eh)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Utility Functions 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12tmdrr3eh>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12tmdrr3eh)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -381,7 +381,7 @@ Sample Jinja template file:
     
      {% for person in birthday_persons %}
      {% if person.image %}
-     ![]({{%20person.image%20}} "{{ person.name }}")
+     ![](https://docs.frappe.io/framework/v14/user/en/api/{{%20person.image%20}} "{{ person.name }}")
      {% endif %}
      {% endfor %}
      
@@ -424,7 +424,7 @@ Example: Writing to a file can cause race condition if multiple writers are tryi
     
 [/code]
 
-[ Previous Page Language Resolution  ](</framework/v14/user/en/python-api/language>) [ Next Page Responses  ](</framework/v14/user/en/python-api/response>)
+[ Previous Page Language Resolution  ](../python-api/language.md) [ Next Page Responses  ](../python-api/response.md)
 
 Last updated 2 months ago 
 

@@ -1,12 +1,12 @@
 # Production Scrap Management
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sqfj1kqfg>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sqfj1kqfg)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Production Scrap Management 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sqfj1kqfg>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sqfj1kqfg)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,19 +20,19 @@ In ERPNext, at the end of manufacturing process, scrap items are accounted in th
 
 You can update estimated scrap quantity of an item in the BOM, Scrap table. If required, you can reselect a raw-material item as scrap.
 
-![Scrap in BOM](/files/scrap-1.png)
+![Scrap in BOM](https://docs.frappe.io/assets/8421e68b24c6.png)
 
 ## Scrap in Manufacture Entry
 
 When production is completed, Finish / Manufacture Entry is created against a Production Order. In this entry, scrap item is fetched in the Item table, with only Target Warehouse updated for it. Ensure that Valuation Rate is updated for this item for the accounts posting purposes.
 
-![Scrap in Manufacture Entry](/files/scrap-2.gif)
+![Scrap in Manufacture Entry](https://docs.frappe.io/assets/261bf9c1910b.gif)
 
 > Scrap from the BOM will only work if Manufacture Entry is created based on BOM, and not based on Material Transfer. This is configurable from Manufacturing Settings.
 
-![Manufacturing Settings](/files/manufacturing-settings.png)
+![Manufacturing Settings](https://docs.frappe.io/assets/caae9b4f92d2.png)
 
-[ Previous Page Customer Provided Items  ](</erpnext/customer-provided-items>) [ Next Page Manufacturing Settings ](</erpnext/manufacturing-settings>)
+[ Previous Page Customer Provided Items  ](customer-provided-items.md) [ Next Page Manufacturing Settings ](manufacturing-settings.md)
 
 Last updated 1 week ago 
 

@@ -1,12 +1,12 @@
 # Adding Social Login Provider
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12a3lvm5fh>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12a3lvm5fh)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Adding Social Login Provider 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12a3lvm5fh>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12a3lvm5fh)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -58,7 +58,7 @@ example:
     
 [/code]
 
-[ Previous Page Prerequisites  ](</framework/v14/user/en/guides/app-development/generic-oauth-client>) [ Next Page Exporting Customizations to your App  ](</framework/v14/user/en/guides/app-development/exporting-customizations>)
+[ Previous Page Prerequisites  ](generic-oauth-client.md) [ Next Page Exporting Customizations to your App  ](exporting-customizations.md)
 
 Last updated 2 months ago 
 

@@ -1,12 +1,12 @@
 # Repack Entry
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sp2gigjki>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sp2gigjki)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Repack Entry 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sp2gigjki>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sp2gigjki)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -35,7 +35,7 @@ For raw-material/input item, only Source Warehouse will be provided.
 
 For repacked/output items, only Target Warehouse will be provided. You will have to provide valuation for the repack items.
 
-![Repack Entry](/files/repack-1.png)
+![Repack Entry](https://docs.frappe.io/assets/78bf991e73d9.png)
 
 Update Qty for all the items selected.
 
@@ -43,9 +43,9 @@ Update Qty for all the items selected.
 
 On submitting Stock Entry, stock of input item will be reduced from Source Warehouse, and stock of repack/output item will be added in the Target Warehouse.
 
-![Repack Stock Entry](/files/repack-2.png)
+![Repack Stock Entry](https://docs.frappe.io/assets/b409e823569e.png)
 
-[ Previous Page Stock Entry Purpose  ](</erpnext/stock-entry-purpose>) [ Next Page Delivery from Sales Invoice  ](</erpnext/update-stock-option-in-sales-invoice>)
+[ Previous Page Stock Entry Purpose  ](stock-entry-purpose.md) [ Next Page Delivery from Sales Invoice  ](https://docs.frappe.io/erpnext/update-stock-option-in-sales-invoice)
 
 Last updated 1 week ago 
 

@@ -1,12 +1,12 @@
 # Stock Reconciliation
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rt310u2ut>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rt310u2ut)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Stock Reconciliation
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rt310u2ut>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rt310u2ut)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -43,7 +43,7 @@ Using stock reconciliation, you can update the number of specific items in a war
 
 
 
-![](/files/stock-reco.png)
+![](../../assets/ebf83b1d93cc.png)
 
 > Note: Maintain Stock option should be enabled in Item master for this to work.
 
@@ -65,7 +65,7 @@ To reconcile the stock:
 
 
 
-![](/files/stock-rec.png)
+![](../../assets/8b9fb823b79c.png)
 
 ## 3\. Reconciliation Features
 
@@ -79,7 +79,7 @@ If you have a lot of items, you can upload the details via a spreadsheet.
 
 Open a new Stock Reconciliation and click on the Download button to download the template in CSV format.
 
-![](/files/rec-upl.png)
+![](../../assets/23bd506dd284.png)
 
   2. Enter Data in CSV Template.
 
@@ -87,7 +87,7 @@ Open a new Stock Reconciliation and click on the Download button to download the
 
 The CSV format is case-sensitive. Do not edit the headers that are preset in the template. In the Item Code and Warehouse column, enter the exact Item Code and Warehouse as created in your ERPNext account. For quantity, enter the stock level you wish to set for that item in a specific warehouse.
 
-![Stock Reconciliation](/files/stock-reco-data.png)
+![Stock Reconciliation](https://docs.frappe.io/assets/04dd2a51d27c.png)
 
   3. Upload the CSV file with the data by clicking on the 'Upload' button.
   4. Review, Save and Submit.
@@ -95,13 +95,13 @@ The CSV format is case-sensitive. Do not edit the headers that are preset in the
 
 
 
-![](/files/stock-led.png)
+![](../../assets/960ca12f832f.png)
 
 ### 3.2 Get Stock Balance and Valuation as of Specific Date and Time
 
 You can import the stock balance and valuation as of a specific date and time from a selected Warehouse by clicking on the **Items** button. You can update the Quantity and Valuation Rate as needed.
 
-![](/files/stock-rec-fet-item.gif)
+![](../../assets/a4c6b634b07c.gif)
 
 ### 3.3 Using a barcode scanner to scan physical inventory
 
@@ -113,11 +113,11 @@ If you have configured barcodes for your items, you can use a barcode scanner to
 
 
 
-![Stock Reconciliation Scanning](/files/stock_reco_scanning.gif)
+![Stock Reconciliation Scanning](https://docs.frappe.io/assets/7c7f50eb8e5c.gif)
 
 ## 4\. Serial and Batch Bundle
 
-In version 15, the [serial and batch bundle](<https://docs.erpnext.com/docs/user/manual/en/serial-and-batch-bundle>) feature has introduced to make stock transactions against the serial no/batch items. For stock reconciliation, the user gets two options to make a serial and a batch bundle.
+In version 15, the [serial and batch bundle](https://docs.erpnext.com/docs/user/manual/en/serial-and-batch-bundle) feature has introduced to make stock transactions against the serial no/batch items. For stock reconciliation, the user gets two options to make a serial and a batch bundle.
 
   * **Use Serial / Batch Fields**
 
@@ -126,7 +126,7 @@ In version 15, the [serial and batch bundle](<https://docs.erpnext.com/docs/user
 The user can use the old serial/batch fields to make a serial and batch bundle automatically. In this case user has to enable the checkbox "  
 Use Serial No / Batch Fields" in the line item
 
-![Screenshot 2024-05-31 at 10.07.33 AM](/files/Screenshot%202024-05-31%20at%2010.07.33%20AM.png)
+![Screenshot 2024-05-31 at 10.07.33 AM](https://docs.frappe.io/assets/2b6e5ff86deb.png)
 
 ## **5\. Use Serial & Batch Bundle**
 
@@ -142,9 +142,9 @@ The user needs to enable the checkbox "Reconcile All Serial Nos / Batches" and c
 
 For example, if the user has 10 batches and wants to reconcile and keep only one batch. Using the stock reconciliation, the user will be able to consume 9 batches automatically and retain one batch. For that, the user has to enable the "Reconcile All Serial Nos / Batches" checkbox in the Stock Reconciliation Item, and then the system will automatically consume 9 batches and add one batch on submission of the stock reconciliation.
 
-![Screenshot 2024-05-31 at 10.25.35 AM](/files/Screenshot%202024-05-31%20at%2010.25.35%20AM.png)
+![Screenshot 2024-05-31 at 10.25.35 AM](https://docs.frappe.io/assets/d350706d4a24.png)
 
-[ Previous Page Product Bundle ](</erpnext/product-bundle>) [ Next Page Stock Reservation ](</erpnext/stock-reservation>)
+[ Previous Page Product Bundle ](product-bundle.md) [ Next Page Stock Reservation ](stock-reservation.md)
 
 Last updated 1 week ago 
 

@@ -1,12 +1,12 @@
 # Item
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ru8baosm1>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ru8baosm1)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Item
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ru8baosm1>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ru8baosm1)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -26,8 +26,8 @@ To access the Item list, go to: > Home > Stock > Items and Pricing > Item
 
 Before creating and using an Item, it is advised that you create the following first:
 
-  * [Item Group](</erpnext/item-group>)
-  * [Warehouse](</erpnext/warehouse>)
+  * [Item Group](../../../item-group.md)
+  * [Warehouse](../../../warehouse.md)
   * A Unit of Measure if required
 
 
@@ -45,28 +45,28 @@ Before creating and using an Item, it is advised that you create the following f
 
 
 
-![](/files/item_master.png)
+![](../../../../../assets/2657c341bd57.png)
 
 **2.1 Item Properties**
 
   * **Item Name:** Item name is the actual name of your product or service.
-  * **Item Code:** Item Code is a short-form to denote your Item. If you have very few Items, it is advisable to keep the Item Name and the Item Code same. This helps new users to recognise and update Item details in all transactions. In case you have a lot of Items with long names and the list runs into hundreds, it is advisable to code. To understand naming Item codes, see [Item Codification](</erpnext/item-codification>). You can also generate an Item Code based on a [Naming Series](</erpnext/naming-series>) by enabling this feature in [Stock Settings](</erpnext/stock-settings#1-item-naming-by>).
-  * **Item Group:** Item Group is used to categorise an Item under various criteria like products, raw materials, services, sub-assemblies, consumables or all Item groups. Create your default Item Group list under Setup > Item Group and pre-select the option while filling your New Item details under [Item Group](</erpnext/item-group>). Item groups can be sub-assemblies, raw materials, etc, or based on your business use case.
-  * **Default Unit of Measure:** This is the default measuring unit that you will use for your product. It could be Nos, Kgs, Meters, etc. You can store all the UOMs that your product will require under Set Up> Master Data > UOM. These can be preselected while filling New Item by using % sign to get a pop up of the UOM list. Visit the [UoM](</erpnext/uom>) page for more details
+  * **Item Code:** Item Code is a short-form to denote your Item. If you have very few Items, it is advisable to keep the Item Name and the Item Code same. This helps new users to recognise and update Item details in all transactions. In case you have a lot of Items with long names and the list runs into hundreds, it is advisable to code. To understand naming Item codes, see [Item Codification](../../../item-codification.md). You can also generate an Item Code based on a [Naming Series](../../../naming-series.md) by enabling this feature in [Stock Settings](../../../stock-settings.md).
+  * **Item Group:** Item Group is used to categorise an Item under various criteria like products, raw materials, services, sub-assemblies, consumables or all Item groups. Create your default Item Group list under Setup > Item Group and pre-select the option while filling your New Item details under [Item Group](../../../item-group.md). Item groups can be sub-assemblies, raw materials, etc, or based on your business use case.
+  * **Default Unit of Measure:** This is the default measuring unit that you will use for your product. It could be Nos, Kgs, Meters, etc. You can store all the UOMs that your product will require under Set Up> Master Data > UOM. These can be preselected while filling New Item by using % sign to get a pop up of the UOM list. Visit the [UoM](../../../uom.md) page for more details
 
 
 
 ### 2.2 Options when creating an item
 
   * **Disabled** : If you disable an Item, it cannot be selected in any transaction.
-  * **Allow Alternative Item** : Sometimes, when manufacturing a finished good, a specific material may not be available. If you tick this, you can create and select an alternative item from the Item Alternative list. To know more, visit the [Item Alternative](</erpnext/item-alternative>) page.
+  * **Allow Alternative Item** : Sometimes, when manufacturing a finished good, a specific material may not be available. If you tick this, you can create and select an alternative item from the Item Alternative list. To know more, visit the [Item Alternative](../../../item-alternative.md) page.
   * **Maintain Stock:** If you are maintaining stock of this Item in your Inventory, ERPNext will make a stock ledger entry for each transaction of this item. Ensure to keep this option unchecked when creating a non-stock Item (make to order/engineer) or a service.
   * **Include Item in Manufacturing** : This is for raw material Items that'll be used to create finished goods. If the Item is an additional service like 'washing' that'll be used in the BOM, keep this unchecked.
-  * **Valuation Rate** : There are two options to maintain the valuation of the stock. FIFO (first in - first out) and Moving Average. To understand this topic in detail, please visit [Item Valuation, FIFO and Moving Average](</erpnext/calculation-of-valuation-rate-in-fifo-and-moving-average>).
-  * **Standard Selling Rate** : When _creating_ an Item, entering a value for this field will automatically create an [Item Price](</erpnext/item-price>) at the backend. Entering a value after the Item has been saved will not work. In this case, the Item Price is created from any transactions with the Item. The rate at which you'll sell the item. This will be fetched in Sales Orders and Sales Invoices.
-  * **Is Fixed Asset** : Tick this checkbox if this item is a company Asset. Check out the [Asset Module](</erpnext/asset>) to know more.
-  * **Auto Create Assets on Purchase** : If Item is a Company Asset, tick this checkbox if you want to auto-create assets while purchasing this item through [Purchase Cycle](</erpnext/purchase-order>). Check out the [Asset Page](</erpnext/asset>) to know more.
-  * **Allowance Percentage** : This option will be available only when you create and save the item. This is the percent by which you will be allowed to over-bill or over-deliver this Item. If not set, it will select from [Stock Settings](</erpnext/stock-settings#3-limit-percent>).
+  * **Valuation Rate** : There are two options to maintain the valuation of the stock. FIFO (first in - first out) and Moving Average. To understand this topic in detail, please visit [Item Valuation, FIFO and Moving Average](../../../calculation-of-valuation-rate-in-fifo-and-moving-average.md).
+  * **Standard Selling Rate** : When _creating_ an Item, entering a value for this field will automatically create an [Item Price](../../../item-price.md) at the backend. Entering a value after the Item has been saved will not work. In this case, the Item Price is created from any transactions with the Item. The rate at which you'll sell the item. This will be fetched in Sales Orders and Sales Invoices.
+  * **Is Fixed Asset** : Tick this checkbox if this item is a company Asset. Check out the [Asset Module](../../../asset.md) to know more.
+  * **Auto Create Assets on Purchase** : If Item is a Company Asset, tick this checkbox if you want to auto-create assets while purchasing this item through [Purchase Cycle](../../../purchase-order.md). Check out the [Asset Page](../../../asset.md) to know more.
+  * **Allowance Percentage** : This option will be available only when you create and save the item. This is the percent by which you will be allowed to over-bill or over-deliver this Item. If not set, it will select from [Stock Settings](../../../stock-settings.md).
   * **Uploading an Image** : To upload an image for your icon that will appear in all transactions, save the partially filled form. Only after your file is saved the 'Change' button will appear on the Image icon. Click on Change, then click on Upload, and upload the image.
 
 
@@ -88,11 +88,11 @@ For India:
 
 
 
-![](/files/item_desc.png)
+![](../../../../../assets/77aa9f223ce3.png)
 
 ### 3.2 Barcodes
 
-Barcodes can be recorded in Items to quickly scan and add them in transactions. In the Barcodes table, you can add an Item's [barcode for scanning](</erpnext/track-items-using-barcode>). There are two types of barcodes in ERPNext:
+Barcodes can be recorded in Items to quickly scan and add them in transactions. In the Barcodes table, you can add an Item's [barcode for scanning](../../../track-items-using-barcode.md). There are two types of barcodes in ERPNext:
 
   * **EAN** : The European Article Number is a 13-digit number. EAN is used internationally and recognised by more POS systems.
   * **UPC** : The Universal Product Code is a 12-digit number. UPC is generally used only in the USA and Canada.
@@ -101,7 +101,7 @@ Barcodes can be recorded in Items to quickly scan and add them in transactions. 
 
 ### 3.3 Inventory
 
-  * **Shelf Life In Days** : This is for a product [Batch](</erpnext/batch>). The number of days after which the product batch will be unusable. For example, medicines.
+  * **Shelf Life In Days** : This is for a product [Batch](../../../batch.md). The number of days after which the product batch will be unusable. For example, medicines.
   * **End of Life** : For a single item/product, the date after which it'll be completely unusable. That is, the item will be unusable in transactions and manufacturing. For example, you're using plastic crystals for manufacturing Items for the next 5 years, after which you want to use plastic beads.
   * **Warranty** : To track a warranty period, it is necessary that the Item is serialised. When this Item is delivered, the delivery date and the expiry period is saved in the Serial Number master. Through the serial number master, you can track the warranty status.
 
@@ -109,19 +109,19 @@ Barcodes can be recorded in Items to quickly scan and add them in transactions. 
 
 A warranty period is a time period in which a purchased product may be returned or exchanged.
 
-![](/files/item_inv.png)
+![](../../../../../assets/228e7d8fbee6.png)
 
   * **Weight UOM:** The Unit of Measure for the item. This can be Nos, Kilo, etc. The Weight UoM which you use internally can be different from the purchase UoM.
   * **Weight Per Unit** : The actual weight per unit of the item. Eg: 1 kilo of biscuits or 10 biscuits per pack.
   * **Default Material Request Type** : When you create a new Material Request for this item, the field set here will be selected by default in the new Material Request. This is also known as an 'indent'.
-  * **Valuation Method** : Select the Valuation Method, whether FIFO or Moving Average. Read [Item Valuation methods](</erpnext/calculation-of-valuation-rate-in-fifo-and-moving-average>) to know more.
+  * **Valuation Method** : Select the Valuation Method, whether FIFO or Moving Average. Read [Item Valuation methods](../../../calculation-of-valuation-rate-in-fifo-and-moving-average.md) to know more.
   * **Allow negative stock** : When checked, the item will be allowed to go negative even if negative stock is disabled from Stock Settings. This is useful if you don't want to enable negative stock on high-value items, but a few select low-value items are allowed to go negative for a few days.
 
 
 
 ### 3.4 Automatic Reordering
 
-When the stock of an item dips under a certain quantity, you can set an automatic reorder under 'Auto Reorder' section. This should be enabled in [Stock Settings](</erpnext/stock-settings#9-automatic-material-request>). This will raise a [Material Request](</erpnext/material-request>) for the Item. The user with roles Purchase Manager and Stock Manager will be **notified** when the Material Request is created.
+When the stock of an item dips under a certain quantity, you can set an automatic reorder under 'Auto Reorder' section. This should be enabled in [Stock Settings](../../../stock-settings.md). This will raise a [Material Request](../../../material-request.md) for the Item. The user with roles Purchase Manager and Stock Manager will be **notified** when the Material Request is created.
 
   * **Check in (group)** : In which group of warehouses to check the quantity of the item?
   * **Request for** : Which warehouse to stock the item reorder.
@@ -132,17 +132,17 @@ When the stock of an item dips under a certain quantity, you can set an automati
 
 For example, If reorder level is 100 items, your reorder quantity may not necessarily be 100 items. The Reorder quantity can be greater than or equal to the reorder level. It may depend upon lead time, discount, transportation and average daily consumption.
 
-  * **Material Request Type** : The [Material Request](</erpnext/material-request>) type with which the stock will be reordered. This depends on whether you buy the Item, manufacture it yourself or transfer it between Warehouses.
+  * **Material Request Type** : The [Material Request](../../../material-request.md) type with which the stock will be reordered. This depends on whether you buy the Item, manufacture it yourself or transfer it between Warehouses.
 
 
 
-![](/files/item_reorder.png)
+![](../../../../../assets/5fbb7746c53d.png)
 
 > **Note** : The Material Request is created at 12 midnight depending on the set reorder level.
 
 ### 3.5 Multiple Units of Measure
 
-You can add alternate UoMs for an Item. If the default UoM in which you sell is numbers (NoS) but you receive it in Kilos, you can set an additional UoM with an appropriate conversion factor. For example, 500 Nos of screws = 1 Kilogram, so select Kilogram/Litre as UOM and set the conversion factor as 500. To know more about selling in different UoM, visit [this page](</erpnext/Selling-in-different-UOM>).
+You can add alternate UoMs for an Item. If the default UoM in which you sell is numbers (NoS) but you receive it in Kilos, you can set an additional UoM with an appropriate conversion factor. For example, 500 Nos of screws = 1 Kilogram, so select Kilogram/Litre as UOM and set the conversion factor as 500. To know more about selling in different UoM, visit [this page](../../../Selling-in-different-UOM.md).
 
 ### 3.6 Serial Numbers
 
@@ -164,22 +164,22 @@ A set of Items can be manufactured in batches. This is useful for moving the bat
   * **Batch Number Series** : Prefix that'll be applied to batch numbers. If you set 5x1SCR, then the first batch will be named like 5x1SCR00001 on the first transaction/manufacture.
   * **Automatically Create New Batch** : If the batch number is not specified in transactions, it will be automatically created in a format like AAAA.00001. If you always want to manually create a batch number for this item, leave this field blank. This setting will override 'Naming Series Prefix' in Stock Settings. Batch numbers can be set to be generated automatically if you manufacture the items, or can be entered manually if they come from an external manufacturer.
   * **Has Expiry Date** : If you tick this, the batch number will be created according to the expiry date. The expiry dates can be set in the 'Batch' master.
-  * **Retain Sample** : To retain a minimum number of sample stock of the item. You need to set a Sample Retention Warehouse in Stock Settings for this. To know more, [click here](</erpnext/retain-sample-stock>).
+  * **Retain Sample** : To retain a minimum number of sample stock of the item. You need to set a Sample Retention Warehouse in Stock Settings for this. To know more, [click here](../../../retain-sample-stock.md).
   * **Has Serial No** : This is similar to the Batch Number Series; it'll be created when you make transactions/manufacture. If you set Serial Number Series as AA, then on the first transaction, a serial number like AA00001 will be created.
 
 
 
 > Tip: While entering an Item Code in an Items table, if the table requires inventory details, then depending on whether the entered item is batched or serialized, you can enter serial or batch numbers right away in a pop-up dialog.
 
-![](/files/item_bat_ser.png)
+![](../../../../../assets/3ac307589862.png)
 
 > **Note** : Once you mark an item as serialized or batched or neither, you cannot change it after you have made a Stock Entry.
 
-To know more, visit the [Stock Reconciliation](</erpnext/stock-reconciliation>) page.
+To know more, visit the [Stock Reconciliation](../../../stock-reconciliation.md) page.
 
 ### 3.8 Variants
 
-An Item Variant is a different version of an Item. To learn more about managing variants, see [Item Variants](</erpnext/item-variants>).
+An Item Variant is a different version of an Item. To learn more about managing variants, see [Item Variants](../../../item-variants.md).
 
 ### 3.9 Item Defaults
 
@@ -196,7 +196,7 @@ In this section, you can define Company-wide transaction-related defaults for th
 
 > Tip: You can add more rows for multiple companies.
 
-![](/files/item_def.png)
+![](../../../../../assets/8fce22b6e062.png)
 
 ### 3.10 Purchase, Replenishment Details
 
@@ -208,23 +208,23 @@ In this section, you can define Company-wide transaction-related defaults for th
 
 Reorder Level = Safety Stock + (Average Daily Consumption * Lead Time)
 
-  * **Last Purchase Rate** : The rate at which you last purchased this item using a [Purchase Invoice](</erpnext/purchase-invoice>) will be displayed here.
+  * **Last Purchase Rate** : The rate at which you last purchased this item using a [Purchase Invoice](../../../purchase-invoice.md) will be displayed here.
   * **Is Purchase Item:** If unticked, you won't be able to use this item in purchase transactions.
-  * **Is Customer Provided Item:** Checked if Item is provided by a customer and received through **Stock Entry > Material Receipt**. If Checked, **Customer** field is Mandatory as the default customer for **Material Request**. To know more visit [this page](</erpnext/customer-provided-items>).
+  * **Is Customer Provided Item:** Checked if Item is provided by a customer and received through **Stock Entry > Material Receipt**. If Checked, **Customer** field is Mandatory as the default customer for **Material Request**. To know more visit [this page](../../../customer-provided-items.md).
   * **Lead time days:** Lead time days are the number of days between ordering the Item and it to reach the Warehouse.
 
 
 
 ### 3.11 Supplier Details
 
-  * **Delivered by Supplier (Drop Ship)** : If the item is delivered directly by the supplier to the customer, tick this checkbox. Read more [here](</erpnext/drop-shipping-in-erpnext>).
-  * **Supplier Codes:** Track Item Code defined by the Suppliers for this Item. In the Purchase transactions, on selecting an Item, a Supplier Part No. will be fetched as well for the Supplier's reference. You can read more about it [here](</erpnext/maintaining-suppliers-part-no-in-item>).
+  * **Delivered by Supplier (Drop Ship)** : If the item is delivered directly by the supplier to the customer, tick this checkbox. Read more [here](../../../drop-shipping-in-erpnext.md).
+  * **Supplier Codes:** Track Item Code defined by the Suppliers for this Item. In the Purchase transactions, on selecting an Item, a Supplier Part No. will be fetched as well for the Supplier's reference. You can read more about it [here](../../../maintaining-suppliers-part-no-in-item.md).
 
 
 
-![](/files/itmepur.png)
+![](../../../../../assets/d72243300580.png)
 
-![](/files/item_supp.png)
+![](../../../../../assets/5f07daf72828.png)
 
 ### 3.12 Foreign Trade Details
 
@@ -237,14 +237,14 @@ If you're sourcing the item from another country, you can set the details here.
 
 ### 3.13 Sales Details
 
-  * **Grant Commission** : Grant a commission to [Sales Person](</erpnext/sales-person>) and [Sales Partner](</erpnext/sales-partner>) when this item is sold. If disabled, the sales generated by this item will be ignored in the calculation of commission.
+  * **Grant Commission** : Grant a commission to [Sales Person](../../../sales-person.md) and [Sales Partner](../../../sales-partner.md) when this item is sold. If disabled, the sales generated by this item will be ignored in the calculation of commission.
   * **Default Sales Unit of Measure** : The default UoM that'll be fetched for sales transactions.
   * **Max Discount (%)** : You can define the maximum discount in % to be applied to an item. Eg: if you set 20%, you cannot sell this item with a discount greater than 20%.
   * **Is Sales Item** : If unticked, you won't be able to use this item in sales transactions.
 
 
 
-![](/files/item_sales.png)
+![](../../../../../assets/4e6db17f4f56.png)
 
 ### 3.14 Deferred Revenue and Deferred Expense
 
@@ -252,13 +252,13 @@ You can enable deferred revenue or expense from the item. Once you tick the chec
 
 For example, consider a yearly gym membership, you pay the money upfront at once but the service is given throughout the year. For the gym owner, this is deferred revenue and for the customer, it is a deferred expense.
 
-![](/files/item_defe.png)
+![](../../../../../assets/8eafede64cd9.png)
 
-Check out the pages on [Deferred Revenue](</erpnext/deferred-revenue>) for more details.
+Check out the pages on [Deferred Revenue](../../../deferred-revenue.md) for more details.
 
 ### 3.15 Customer Details
 
-The Customer may identify an Item with a different Item Code. this is Similar to [Supplier Code](</erpnext/item#311-supplier-details>).
+The Customer may identify an Item with a different Item Code. this is Similar to [Supplier Code](../../../item.md).
 
   * **Customer Name** : Select a customer here.
   * **Customer Group** : This will be fetched based on the Customer you selected in the previous field.
@@ -270,11 +270,11 @@ The Customer may identify an Item with a different Item Code. this is Similar to
 
 These settings are required only if a particular Item has a different tax rate than the rate defined in the standard tax Account.
 
-You need to create a new 'Item Tax Template' or choose an existing one. For example, if you have a tax Account, “VAT 14%” and this particular Item is exempted from tax, then you select “VAT 14%” in the first column, and set “0” as the tax rate in the second column. Visit the [Item Tax Template](</erpnext/item-tax-template>) page for more details.
+You need to create a new 'Item Tax Template' or choose an existing one. For example, if you have a tax Account, “VAT 14%” and this particular Item is exempted from tax, then you select “VAT 14%” in the first column, and set “0” as the tax rate in the second column. Visit the [Item Tax Template](../../../item-tax-template.md) page for more details.
 
-![](/files/item_tax.png)
+![](../../../../../assets/b3bbfd8893cf.png)
 
-You can also set a [Tax Category](</erpnext/tax-category>) for this Item.
+You can also set a [Tax Category](../../../tax-category.md) for this Item.
 
 ### 3.17 Inspection Criteria
 
@@ -286,18 +286,18 @@ You can also set a [Tax Category](</erpnext/tax-category>) for this Item.
 
 Quality Inspection can be done with Quick View and you need not go to a different page to update the details inspection in ERPNext.
 
-Read [Quality Inspection](</erpnext/quality-inspection>) to know more.
+Read [Quality Inspection](../../../quality-inspection.md) to know more.
 
 ### 3.18 Manufacturing
 
-  * **Default BOM** : The default [Bill of Materials](</erpnext/bill-of-materials>) used to manufacture this Item.
+  * **Default BOM** : The default [Bill of Materials](../../../bill-of-materials.md) used to manufacture this Item.
   * **Supply Raw Materials for Purchase** : If you're subcontracting to a vendor, you can choose to provide them with the raw materials to manufacture the item using the default BOM.
   * **Manufacturer:** Select the Manufacturer who manufactured this item.
   * **Manufacturer Part Number:** Enter the manufacturer's assigned part number for this item.
 
 
 
-![](/files/item_man.png)
+![](../../../../../assets/993fe76031c4.png)
 
 ### 3.19 Publishing Item on Website
 
@@ -305,25 +305,25 @@ Read [Quality Inspection](</erpnext/quality-inspection>) to know more.
 
 **Show on Website** : Choose whether to show this Item on your website; click Action and choose "Publish in Website".
 
-![](/files/Screenshot%202026-03-04%20at%204.23.37%E2%80%AFPM.png)
+![](../../../../../assets/97d9ae1612db.png)
 
 A new record called Website Item is created, containing additional details about the items, and is also published on the web view of the item.
 
-![](/files/Screenshot%202026-03-04%20at%204.23.45%E2%80%AFPM.png)
+![](../../../../../assets/9aaedca486a7.png)
 
 The following fields will be found in the Website Item master.
 
 *Weightage**: Items with higher weight will be displayed first on the website. The limit for the number you can enter here is very high.
 
-  * **Slideshow** : A slideshow can be displayed at the top of the page. Visit the [Homepage](</erpnext/homepage>) page in the Website module to know more.
+  * **Slideshow** : A slideshow can be displayed at the top of the page. Visit the [Homepage](../../../homepage.md) page in the Website module to know more.
   * **Image** : You can attach an image instead of a Slideshow.
   * **Website Warehouse** : Select an existing warehouse or create a new one for transactions on your website. This Warehouse will be different from your offline Warehouses. Stock for any online transactions will be deducted from the Warehouse set under Website Warehouse.
-  * **Website Item Groups** : In this table, you can select existing or create new [Item Groups](</erpnext/item-group>) to classify items on your website.
-  * **Set Meta Tags** : Meta tags help with SEO. See [Web Page](</erpnext/web-page>) to know how to add them.
+  * **Website Item Groups** : In this table, you can select existing or create new [Item Groups](../../../item-group.md) to classify items on your website.
+  * **Set Meta Tags** : Meta tags help with SEO. See [Web Page](../../../web-page.md) to know how to add them.
 
 
 
-Visit [Manufacturing](</erpnext/manufacturing>) and [Website](</erpnext/website>) to understand these topics in detail.
+Visit [Manufacturing](../../../manufacturing.md) and [Website](../../../website.md) to understand these topics in detail.
 
 ### 3.20 Website Specifications
 
@@ -353,16 +353,16 @@ The hub is a free online marketplace where Suppliers and Customers can transact.
 
 ### 5\. Related Topics
 
-  1. [Item Price](</erpnext/item-price>)
-  2. [Item Codification](</erpnext/item-codification>)
-  3. [Item Variants](</erpnext/item-variants>)
-  4. [Item Group](</erpnext/item-group>)
-  5. [Item Attribute](</erpnext/item-attribute>)
-  6. [Item Valuation FIFO And Moving Average](</erpnext/calculation-of-valuation-rate-in-fifo-and-moving-average>)
+  1. [Item Price](../../../item-price.md)
+  2. [Item Codification](../../../item-codification.md)
+  3. [Item Variants](../../../item-variants.md)
+  4. [Item Group](../../../item-group.md)
+  5. [Item Attribute](../../../item-attribute.md)
+  6. [Item Valuation FIFO And Moving Average](../../../calculation-of-valuation-rate-in-fifo-and-moving-average.md)
 
 
 
-[ Previous Page Warehouse  ](</erpnext/warehouse>) [ Next Page Item Group ](</erpnext/item-group>)
+[ Previous Page Warehouse  ](../../../warehouse.md) [ Next Page Item Group ](../../../item-group.md)
 
 Last updated 2 hours ago 
 

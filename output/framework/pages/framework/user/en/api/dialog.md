@@ -1,16 +1,16 @@
 # Dialog API
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tn9eb2sbs>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tn9eb2sbs)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Dialog API
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tn9eb2sbs>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tn9eb2sbs)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-Frappe provides a group of standard, interactive and flexible dialogs that are easy to configure and use. There's also an API for [Python](</framework/v14/user/en/api/py-dialog>).
+Frappe provides a group of standard, interactive and flexible dialogs that are easy to configure and use. There's also an API for [Python](../../../v14/user/en/api/py-dialog.md).
 
 ### frappe.ui.Dialog
 
@@ -51,7 +51,7 @@ Creates a new Dialog instance.
     
 [/code]
 
-![Dialog](/files/dialog-api-custom-dialog.png)
+![Dialog](https://docs.frappe.io/assets/284438a62562.png)
 
 _frappe.ui.Dialog_
 
@@ -75,7 +75,7 @@ Show `message` in a modal.
     
 [/code]
 
-![Msgprint](/files/dialog-api-msgprint.png)
+![Msgprint](https://docs.frappe.io/assets/d64f85fd6507.png)
 
 _frappe.msgprint_
 
@@ -111,7 +111,7 @@ The `server_action` and `client_action` are dotted paths to the respective metho
     
 [/code]
 
-![Msgprint with Primary Action](/files/dialog-api-msgprint-with-primary-action.png)
+![Msgprint with Primary Action](https://docs.frappe.io/assets/52ab40264367.png)
 
 _frappe.msgprint with primary action bound_
 
@@ -127,7 +127,7 @@ Show `error_message` in a modal and `throw` exception.
     
 [/code]
 
-![Throw](/files/dialog-api-throw.png)
+![Throw](https://docs.frappe.io/assets/822429fb151c.png)
 
 _frappe.throw_
 
@@ -172,7 +172,7 @@ Prompt user for a value or list of values.
     
 [/code]
 
-![Prompt](/files/dialog-api-prompt.png)
+![Prompt](https://docs.frappe.io/assets/d642bd777520.png)
 
 _frappe.prompt_
 
@@ -193,7 +193,7 @@ Show a confirmation modal, executes `if_yes` if confirmation is given else execu
     
 [/code]
 
-![Prompt](/files/dialog-api-confirm.png)
+![Prompt](https://docs.frappe.io/assets/0a62d7d7f7e9.png)
 
 _frappe.confirm_
 
@@ -216,7 +216,7 @@ Show a warning modal, executes `proceed_actiion` if confirmation is given. It ca
     
 [/code]
 
-![Prompt](/files/dialog-api-warn.png)
+![Prompt](https://docs.frappe.io/assets/1f75f928f97d.png)
 
 _frappe.confirm_
 
@@ -240,7 +240,7 @@ Its parameters include `message`, which can contain the indicator color as well,
     
 [/code]
 
-![Show Alert](/files/dialog-api-show-alert.png)
+![Show Alert](https://docs.frappe.io/assets/4a65d9582f6e.png)
 
 _frappe.showalert_
 
@@ -256,7 +256,7 @@ Displays a progress bar with `count` (as current progress) and `total` (as maxim
     
 [/code]
 
-![Show Progress](/files/dialog-api-progress.png)
+![Show Progress](https://docs.frappe.io/assets/85efc9b0ed81.png)
 
 _frappe.showprogress_
 
@@ -381,7 +381,7 @@ Let us assume we want to fetch Material Requests into our dialog. We can then go
     
 [/code]
 
-![MultiSelectDialog](/files/dialog-api-multiselectdialog.png)
+![MultiSelectDialog](https://docs.frappe.io/assets/da2d9d44b0e7.png)
 
 _frappe.ui.form.MultiSelectDialog_
 
@@ -418,7 +418,7 @@ Now, if we want to only select particular item from a Material Request, then we 
     
 [/code]
 
-![MultiSelectDialog](/files/dialog-api-multiselectdialog-child-selection.png)
+![MultiSelectDialog](https://docs.frappe.io/assets/bd38c4b31967.png)
 
 _frappe.ui.form.MultiSelectDialog_
 
@@ -478,7 +478,7 @@ A table can be added to a dialog, just like any other field as follows:
 
 `on_add_row`: An event that gets triggered on adding a row to the table. You can perform an action like data manipulation or some other sort of calculation by adding your functionality to this event hook.
 
-[ Previous Page Common Utilities API  ](</framework/user/en/api/js-utils>) [ Next Page Chart API  ](</framework/user/en/api/chart>)
+[ Previous Page Common Utilities API  ](js-utils.md) [ Next Page Chart API  ](chart.md)
 
 Last updated 3 weeks ago 
 

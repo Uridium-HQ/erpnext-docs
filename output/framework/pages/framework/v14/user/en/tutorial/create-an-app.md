@@ -1,12 +1,12 @@
 # Create an App
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/125jnefjs7>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/125jnefjs7)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Create an App
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/125jnefjs7>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/125jnefjs7)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -93,9 +93,9 @@ Your app directory structure should look something like this:
 
 
 
-Next: [Create a Site](</framework/v14/user/en/tutorial/create-a-site>)
+Next: [Create a Site](create-a-site.md)
 
-[ Previous Page Install and Setup Bench  ](</framework/v14/user/en/tutorial/install-and-setup-bench>) [ Next Page Create a Site ](</framework/v14/user/en/tutorial/create-a-site>)
+[ Previous Page Install and Setup Bench  ](install-and-setup-bench.md) [ Next Page Create a Site ](create-a-site.md)
 
 Last updated 2 months ago 
 

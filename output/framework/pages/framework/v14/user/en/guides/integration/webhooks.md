@@ -1,12 +1,12 @@
 # Webhooks
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12e1slia0t>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12e1slia0t)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Webhooks 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12e1slia0t>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12e1slia0t)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,7 +20,7 @@ To add a Webhook, go to:
 
 > Integrations > Webhook > Webhook
 
-![](/files/webhook.png)
+![](../../../../../../../assets/3e3df1a870c7.png)
 
   1. Select the DocType for which the Webhook needs to be triggered (e.g. `Quotation`).
   2. Select the Doc Event that will trigger the Webhook (e.g. `on_update`).
@@ -143,9 +143,9 @@ The above configuration creates the following JSON request (sent by a Frappe ser
 
 A webhook request log is created for every successful request with all the relevant details
 
-![](/files/webhook-request-log.png)
+![](../../../../../../../assets/22afdd0009ea.png)
 
-[ Previous Page OpenID Connect and Frappe social login  ](</framework/v14/user/en/guides/integration/openid_connect_and_frappe_social_login>) [ Next Page Social Login Key  ](</framework/v14/user/en/guides/integration/social_login_key>)
+[ Previous Page OpenID Connect and Frappe social login  ](openid_connect_and_frappe_social_login.md) [ Next Page Social Login Key  ](social_login_key.md)
 
 Last updated 2 months ago 
 

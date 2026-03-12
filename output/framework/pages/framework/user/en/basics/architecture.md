@@ -1,12 +1,12 @@
 # Architecture
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tisq2qgc9>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tisq2qgc9)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Architecture 
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tisq2qgc9>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tisq2qgc9)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -16,9 +16,9 @@ Frappe framework is based on Python, so it uses the `virtualenv` to setup isolat
 
 The following diagram closely resembles the `frappe-bench` directory structure and its interface with different parts of the stack.
 
-![Architecture](/files/architecture.png) _Architecture_
+![Architecture](https://docs.frappe.io/assets/5eeb62024a66.png) _Architecture_
 
-To setup a Frappe based site, you need to first install Bench. If you haven't installed it already, check out the [Installation](</framework/v14/user/en/installation>) page.
+To setup a Frappe based site, you need to first install Bench. If you haven't installed it already, check out the [Installation](../../../v14/user/en/installation.md) page.
 
 You can create a new `frappe-bench` setup by running the following command:
 [code] 
@@ -39,7 +39,7 @@ This command will do the following:
 
 Each `frappe-bench` setup spawns it owns web, redis and node processes.
 
-[ Previous Page Why Frappe Framework?  ](</framework/user/en/basics/why>) [ Next Page Directory structure  ](</framework/user/en/basics/directory-structure>)
+[ Previous Page Why Frappe Framework?  ](why.md) [ Next Page Directory structure  ](directory-structure.md)
 
 Last updated 3 weeks ago 
 

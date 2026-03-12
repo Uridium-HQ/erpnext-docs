@@ -1,16 +1,16 @@
 # Setup Multitenancy
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/133plj3n4u>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/133plj3n4u)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Setup Multitenancy 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/133plj3n4u>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/133plj3n4u)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-Assuming that you've already got your first site running and you've performed the [production deployment steps](<setup-production.html>), this section explains how to host your second site (and more). Your first site is automatically set as default site. You can change it with the command,
+Assuming that you've already got your first site running and you've performed the [production deployment steps](setup-production.md), this section explains how to host your second site (and more). Your first site is automatically set as default site. You can change it with the command,
 
 bench use sitename
 
@@ -78,7 +78,7 @@ To make a new site under DNS based multitenancy, perform the following steps.
 
 `sudo service nginx reload`
 
-[ Previous Page Setting Limits for your Site  ](</framework/v14/user/en/bench/guides/settings-limits>) [ Next Page Setup Production  ](</framework/v14/user/en/bench/guides/setup-production>)
+[ Previous Page Setting Limits for your Site  ](settings-limits.md) [ Next Page Setup Production  ](setup-production.md)
 
 Last updated 2 months ago 
 

@@ -1,12 +1,12 @@
 # Asset Bundling
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12jj3rtm71>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12jj3rtm71)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Asset Bundling 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12jj3rtm71>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12jj3rtm71)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -66,7 +66,7 @@ You can also run it for specific apps by giving it the `--apps` option.
     
 [/code]
 
-Starting with Version 14, [Desk](</framework/v14/user/en/desk>) will be automatically reloaded if assets get rebuilt in watch mode. This behavior can be toggled by setting the `LIVE_RELOAD` environment variable, or changing the value for `live_reload` in [`common_site_config.json`](</framework/v14/user/en/basics/site_config#common-site-config>).
+Starting with Version 14, [Desk](../desk.md) will be automatically reloaded if assets get rebuilt in watch mode. This behavior can be toggled by setting the `LIVE_RELOAD` environment variable, or changing the value for `live_reload` in [`common_site_config.json`](site_config.md).
 
 ## Bundle files
 
@@ -218,7 +218,7 @@ To build your assets in production mode, run the following command:
     
 [/code]
 
-[ Previous Page Users and Permissions  ](</framework/v14/user/en/basics/users-and-permissions>) [ Next Page Static Assets  ](</framework/v14/user/en/basics/static-assets>)
+[ Previous Page Users and Permissions  ](users-and-permissions.md) [ Next Page Static Assets  ](static-assets.md)
 
 Last updated 2 months ago 
 

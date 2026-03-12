@@ -1,12 +1,12 @@
 # Multiple finished goods with single raw material
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sp8r2rksc>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sp8r2rksc)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Multiple finished goods with single raw material
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sp8r2rksc>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sp8r2rksc)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -19,8 +19,8 @@ In many Manufacturing industries deal with a scenario where they use one RM (Raw
 
 
 
-![](/files/1VHaiPf.png)  
-![](/files/mg68Dbr.png)
+![](../../assets/e4e97a273bfd.png)  
+![](../../assets/7a274882cc88.png)
 
   * While creating a BOM you can add operations as well & run your production cycle (Work order) accordingly.
 
@@ -29,7 +29,7 @@ In many Manufacturing industries deal with a scenario where they use one RM (Raw
 
 
 
-[ Previous Page Manufacturing without creating BOM ](</erpnext/manufacturing-without-creating-bom>) [ Next Page Customer Provided Items  ](</erpnext/customer-provided-items>)
+[ Previous Page Manufacturing without creating BOM ](manufacturing-without-creating-bom.md) [ Next Page Customer Provided Items  ](customer-provided-items.md)
 
 Last updated 1 week ago 
 

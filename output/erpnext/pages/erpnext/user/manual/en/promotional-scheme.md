@@ -1,12 +1,12 @@
 # Promotional Scheme
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ritm6fk9v>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ritm6fk9v)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Promotional Scheme 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ritm6fk9v>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ritm6fk9v)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -138,13 +138,13 @@ The additional options are:
 
 In this type of promotional scheme, the user gets an option to set the discount in terms of percentage or amount based on the min quantity, max quantity, min amount and max amount on the products. Users can also configure the scheme where they can set the flat rate for the product based on the quantity or the amount of the product.
 
-![](/files/price%20discount.png)
+![](../../../../../assets/76192ab716bb.png)
 
 ### Product Discount
 
 In this type of promotional scheme, the user gets an option to give a free product on purchase of the same or different product with conditions like min quantity, max quantity, min amount, max amount.
 
-![](/files/product%20discount.png)
+![](../../../../../assets/230543f0cc12.png)
 
 ## How to configure a Promotional Scheme (Examples)
 
@@ -166,7 +166,7 @@ To configure this in ERPNext the steps are as follows:
 
 
 
-![](/files/imageae467e.png)
+![](../../../../../assets/31340fa09ff9.png)
 
 ### To apply a discount on other Item
 
@@ -184,7 +184,7 @@ To configure this in ERPNext the steps are as follows
 
 
 
-![](/files/imagef3010a.png)
+![](../../../../../assets/2b8d43c5a27b.png)
 
 ## Related Topics
 
@@ -195,7 +195,7 @@ To configure this in ERPNext the steps are as follows
 
 
 
-[ Previous Page Calculate Incentive For Sales Team  ](</erpnext/calculate-incentive-for-sales-team>) [ Next Page Sales Cycle Integration ](</erpnext/sales-integration>)
+[ Previous Page Calculate Incentive For Sales Team  ](../../../calculate-incentive-for-sales-team.md) [ Next Page Sales Cycle Integration ](../../../sales-integration.md)
 
 Last updated 2 weeks ago 
 

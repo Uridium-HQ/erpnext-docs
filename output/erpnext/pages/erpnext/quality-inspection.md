@@ -1,12 +1,12 @@
 # Quality Inspection
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rtarstul7>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rtarstul7)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Quality Inspection
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rtarstul7>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rtarstul7)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -24,9 +24,9 @@ To access this feature go to:
 
 Before creating and using a Quality Inspection, it is advised that you do the following first:
 
-  * **Create an** [**Item**](</erpnext/item>).
-  * **Enable Quality Inspection Criteria in the Item master**. On enabling either checkboxes, **submission** of a stock delivery/receipt document will be allowed only after a Quality Inspection is done against it: ![Enable Quality Inspection](/files/quality-inspection-pre-requisite.png)
-  * (Optional) **Create a Quality Inspection Template**. You can add inspection parameters and acceptance criteria in the template, which can be easily fetched into any Quality Inspection. After saving the template, you can set this template in the Item Master (as shown above). ![Quality Inspection Template](/files/quality-inspection-template.png)
+  * **Create an** [**Item**](item.md).
+  * **Enable Quality Inspection Criteria in the Item master**. On enabling either checkboxes, **submission** of a stock delivery/receipt document will be allowed only after a Quality Inspection is done against it: ![Enable Quality Inspection](https://docs.frappe.io/assets/1a9b1c316ee6.png)
+  * (Optional) **Create a Quality Inspection Template**. You can add inspection parameters and acceptance criteria in the template, which can be easily fetched into any Quality Inspection. After saving the template, you can set this template in the Item Master (as shown above). ![Quality Inspection Template](https://docs.frappe.io/assets/711e50d4767d.png)
 
 
   2. How to create a new Quality Inspection
@@ -46,7 +46,7 @@ Before creating and using a Quality Inspection, it is advised that you do the fo
 
 
 
-![Quality Inspection](/files/quality-inspection-1.png)
+![Quality Inspection](https://docs.frappe.io/assets/875c56239b8f.png)
 
   3. Features
 
@@ -64,7 +64,7 @@ E.g. checking if a reading is in a certain range.
 
 By default the checks are numeric. There are two fields: **Minimum Value** and **Maximum Value** , to define a range that **each** reading must be in. These fields can be set in the Quality Inspection Template once and be simply fetched into the Quality Inspection.
 
-![Numeric Quality Check](/files/quality-inspection-numeric-reading.png)
+![Numeric Quality Check](https://docs.frappe.io/assets/99d0d83a5f7e.png)
 
 If any of the readings entered are not within this range, the status on the row will be set to 'Rejected' automatically on Save.
 
@@ -78,7 +78,7 @@ For Non-numeric checks, enable the 'Non-numeric' checkbox. You will notice the f
 
 Enter the field Reading Value. The Acceptance Criteria Value can be set in the Quality Inspection Template once and then be fetched into the Quality Inspection.
 
-![Non-numeric Quality Check](/files/quality-inspection-non-numeric-reading.png)
+![Non-numeric Quality Check](https://docs.frappe.io/assets/099e911600e1.png)
 
 If the Reading Value does not match the Acceptance Criteria Value, the status on the row will be set to 'Rejected' automatically on Save.
 
@@ -92,7 +92,7 @@ Formula-Based Quality Checks are applicable to Numeric and Non-numeric Quality C
 
 Enable the 'Formula Based Criteria' checkbox to perform a Formula-Based Quality Check. You will then notice a field called **Acceptance Criteria Formula** where you can specify a formula that determines whether a certain check is Accepted or Rejected. This formula can be set in the Quality Inspection Template once and then be fetched into the Quality Inspection.
 
-![Acceptance Criteria Formula](/files/acceptance-criteria-formula.png)
+![Acceptance Criteria Formula](https://docs.frappe.io/assets/e6f853001620.png)
 
 This formula depends on the many Reading fields in the Readings table.
 
@@ -125,7 +125,7 @@ So far, all the Quality Checks have automatic acceptance/rejection on Save. In t
 
 Such cases will require the user to determine the row-level status. To avoid any system interference in such checks, enable the 'Manual Inspection' checkbox. You can now set the status manually and it will be untouched on Save.
 
-![Manual Inspection](/files/quality-inspection-manual-reading.png)
+![Manual Inspection](https://docs.frappe.io/assets/05f3a73eaf8d.png)
 
 Here Reading 1 is outside the defined range, this check would be rejected. But, since it is not very far from 0.153 we accept it manually.
 
@@ -139,16 +139,16 @@ The status for the entire Quality Inspection can then be decided by the user.
 
 ### 5\. Related Topics
 
-  1. [Purchase Receipt](</erpnext/purchase-receipt>)
-  2. [Delivery Note](</erpnext/delivery-note>)
-  3. [Stock Entry](</erpnext/stock-entry>)
-  4. [Sales Invoice](</erpnext/sales-invoice>)
-  5. [Purchase Invoice](</erpnext/purchase-invoice>)
-  6. [Job Card](</erpnext/job-card>)
+  1. [Purchase Receipt](purchase-receipt.md)
+  2. [Delivery Note](delivery-note.md)
+  3. [Stock Entry](stock-entry.md)
+  4. [Sales Invoice](sales-invoice.md)
+  5. [Purchase Invoice](purchase-invoice.md)
+  6. [Job Card](job-card.md)
 
 
 
-[ Previous Page Landed Cost Voucher ](</erpnext/stock-transactions-landed-cost-voucher>) [ Next Page Stock Adjustment / COGS with Negative Stock ](</erpnext/stock-adjustment-cogs-with-negative-stock>)
+[ Previous Page Landed Cost Voucher ](stock-transactions-landed-cost-voucher.md) [ Next Page Stock Adjustment / COGS with Negative Stock ](stock-adjustment-cogs-with-negative-stock.md)
 
 Last updated 2 weeks ago 
 

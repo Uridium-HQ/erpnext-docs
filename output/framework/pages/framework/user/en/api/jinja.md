@@ -1,12 +1,12 @@
 # Jinja API
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tlbc050bu>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tlbc050bu)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Jinja API 
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tlbc050bu>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tlbc050bu)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -305,7 +305,7 @@ If the template is being evaluated in a web request, `frappe.form_dict` is a dic
 
 Current language used by the translation function. Two letter, lowercase code.
 
-[ Previous Page Database API ](</framework/user/en/api/database>) [ Next Page Request Lifecycle  ](</framework/user/en/python-api/routing-and-rendering>)
+[ Previous Page Database API ](database.md) [ Next Page Request Lifecycle  ](../python-api/routing-and-rendering.md)
 
 Last updated 3 weeks ago 
 

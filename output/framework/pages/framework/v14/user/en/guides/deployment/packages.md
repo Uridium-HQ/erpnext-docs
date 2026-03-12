@@ -1,16 +1,16 @@
 # Packages
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12bh6a59nv>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12bh6a59nv)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Packages 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12bh6a59nv>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12bh6a59nv)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-> New in [Version 14](<https://github.com/frappe/frappe/pull/14123>)
+> New in [Version 14](https://github.com/frappe/frappe/pull/14123)
 
 Packages are light weight apps that you can directly build from the Framework UI. A Package is very much like an app and a collection of Module Defs.
 
@@ -24,7 +24,7 @@ You can create a new Package by creating a Package object. You can set a README 
 
 Once you have created a package, you can add your custom Module Defs to that package.
 
-![Package](/files/package.png)
+![Package](https://docs.frappe.io/assets/b875c084ccc3.png)
 
 ### Making a Package Release
 
@@ -32,7 +32,7 @@ A **Package Release** will export all the package modules in the `[bench]/sites/
 
 You can then download the package release and import it in another site
 
-![Package Release](/files/package-release.png)
+![Package Release](https://docs.frappe.io/assets/9e99554159c5.png)
 
 ### Importing a Package
 
@@ -42,9 +42,9 @@ The system will then _migrate_ this package to the database similar to how an ap
 
 A log is created with the output.
 
-![Package Import](/files/package-import.png)
+![Package Import](https://docs.frappe.io/assets/668949d5211f.png)
 
-[ Previous Page Caching ](</framework/v14/user/en/guides/caching>) [ Next Page Email Notifications For Failed Background Jobs  ](</framework/v14/user/en/guides/deployment/email-notifications-for-failed-background-jobs>)
+[ Previous Page Caching ](../caching.md) [ Next Page Email Notifications For Failed Background Jobs  ](email-notifications-for-failed-background-jobs.md)
 
 Last updated 2 months ago 
 

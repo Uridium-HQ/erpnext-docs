@@ -1,12 +1,12 @@
 # Sites
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tjd95o00f>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tjd95o00f)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Sites
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tjd95o00f>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tjd95o00f)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -22,7 +22,7 @@ This file contains a list of Frappe apps. An app should be listed here before it
 
 ### common_site_config.json
 
-Configuration common to all sites can be put in this file. Learn more about [site configuration](</framework/v14/user/en/basics/site_config>).
+Configuration common to all sites can be put in this file. Learn more about [site configuration](../../../v14/user/en/basics/site_config.md).
 
 ### assets
 
@@ -63,7 +63,7 @@ The `mysite.local` directory will now be created in the `sites` directory.
 
 ### locks
 
-This directory is used by the scheduler to synchronize various jobs using the [file locking concept](<http://en.wikipedia.org/wiki/File_locking>).
+This directory is used by the scheduler to synchronize various jobs using the [file locking concept](http://en.wikipedia.org/wiki/File_locking).
 
 ### private
 
@@ -93,7 +93,7 @@ Example `site_config.json`:
     
 [/code]
 
-To learn more about managing Site or Bench level configurations, checkout [this comprehensive document](</framework/v14/user/en/basics/site_config>).
+To learn more about managing Site or Bench level configurations, checkout [this comprehensive document](../../../v14/user/en/basics/site_config.md).
 
 ## Site Resolution
 
@@ -140,7 +140,7 @@ You can just run:
     
 [/code]
 
-[ Previous Page Apps  ](</framework/user/en/basics/apps>) [ Next Page Understanding DocTypes ](</framework/user/en/basics/doctypes>)
+[ Previous Page Apps  ](apps.md) [ Next Page Understanding DocTypes ](doctypes.md)
 
 Last updated 3 weeks ago 
 

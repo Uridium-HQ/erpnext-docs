@@ -1,12 +1,12 @@
 # Depreciation
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sdaujg7rp>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sdaujg7rp)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Depreciation
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sdaujg7rp>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sdaujg7rp)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -41,12 +41,12 @@ For example, if you purchase a printer for $300 that is expected to be useful fo
 
 * * *
 
-  * [Assets](</erpnext/asset>)
-  * [Depreciation Methods](</erpnext/asset-depreciation>)
+  * [Assets](asset.md)
+  * [Depreciation Methods](asset-depreciation.md)
 
 
 
-[ Previous Page Asset ](</erpnext/asset>) [ Next Page Depreciation Methods ](</erpnext/depreciation-methods>)
+[ Previous Page Asset ](asset.md) [ Next Page Depreciation Methods ](depreciation-methods.md)
 
 Last updated 1 week ago 
 

@@ -1,12 +1,12 @@
 # Rate Limiting
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/134sj9c9if>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/134sj9c9if)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Rate Limiting 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/134sj9c9if>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/134sj9c9if)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -62,7 +62,7 @@ X-RateLimit-Remaining | Time remaining (to be used) in the current rate limit wi
 X-RateLimit-Reset | Time remaining till the current rate limit window resets (in seconds).  
 X-RateLimit-Used | Time used for processing the current request (in microseconds).  
   
-[ Previous Page Zero* downtime migrations ](</framework/v14/user/en/zero*_downtime_migrations>) [ Next Page Testing  ](</framework/v14/user/en/testing>)
+[ Previous Page Zero* downtime migrations ](zero-_downtime_migrations.md) [ Next Page Testing  ](testing.md)
 
 Last updated 2 months ago 
 

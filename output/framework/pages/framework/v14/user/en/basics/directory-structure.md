@@ -1,12 +1,12 @@
 # Directory structure
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12ilockpkf>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12ilockpkf)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Directory structure 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12ilockpkf>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12ilockpkf)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -37,13 +37,13 @@ When you initialize a new **frappe-bench** directory, you will have a directory 
 
 The `frappe` app and other frappe based apps live in this directory. When you run the command `bench new-app app_name`, the app will be bootstrapped in this directory. Your custom apps live here and you are supposed to edit/work with them here.
 
-Learn more about [apps](</framework/v14/user/en/basics/apps>).
+Learn more about [apps](apps.md).
 
 ### sites
 
 Sites are served from this directory. When you run the command `bench new-site site_name`, the site will be created in this directory. Sites are distinguished based on their directory name.
 
-Learn more about [sites](</framework/v14/user/en/guides/basics/sites>).
+Learn more about [sites](../guides/basics/sites.md).
 
 ### logs
 
@@ -93,7 +93,7 @@ Redis used for managing background jobs queuing.
 
 #### `web:`
 
-Python web server based on [Werkzeug](<https://palletsprojects.com/p/werkzeug/>).
+Python web server based on [Werkzeug](https://palletsprojects.com/p/werkzeug/).
 
 #### `socketio:`
 
@@ -101,7 +101,7 @@ Node server for a socketio connection with the browser for realtime communicatio
 
 #### `watch:`
 
-Node server for bundling JS/CSS assets using [Rollup](<https://rollupjs.org>). It will also rebuild files as they change.
+Node server for bundling JS/CSS assets using [Rollup](https://rollupjs.org/). It will also rebuild files as they change.
 
 #### `schedule:`
 
@@ -119,7 +119,7 @@ Python worker with a (long) timeout of 1500s.
 
 Python worker with a timeout of 300s.
 
-[ Previous Page Architecture  ](</framework/v14/user/en/basics/architecture>) [ Next Page Apps  ](</framework/v14/user/en/basics/apps>)
+[ Previous Page Architecture  ](architecture.md) [ Next Page Apps  ](apps.md)
 
 Last updated 2 months ago 
 

@@ -1,12 +1,12 @@
 # Print Format Builder
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rajp7bk3l>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rajp7bk3l)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Print Format Builder 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rajp7bk3l>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rajp7bk3l)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -30,9 +30,9 @@ Or via a document.
 
   3. Let's see how to edit an existing Print Format in this section. To know about creating a new Print Format, see the next section.
 
-  4. Select the Print Format to edit. ![Select doctype for editing Print Format](/files/print-format-builder-edit.png)
+  4. Select the Print Format to edit. ![Select doctype for editing Print Format](https://docs.frappe.io/assets/d63f520a9df5.png)
 
-  5. Click on the Edit button, you will be taken to the Print Format Builder UI. ![Print Format builder screen](/files/print-format-builder-screen.png)
+  5. Click on the Edit button, you will be taken to the Print Format Builder UI. ![Print Format builder screen](https://docs.frappe.io/assets/899c6687779e.png)
 
   6. Here you can drag and drop fields from the sidebar to the page and vice versa.
 
@@ -47,7 +47,7 @@ Or via a document.
 
 
 
-![Send Email](/files/print-format-builder-1.gif)
+![Send Email](https://docs.frappe.io/assets/81b55d8e91bb.gif)
 
   1. To add a field, just drag it from the left sidebar and add it in your layout. You can edit the layouts in sections or individual fields by clicking on the settings icon.
 
@@ -66,14 +66,14 @@ Then click on **Edit HTML** to edit your content.
 
 ### 3\. Related Topics
 
-  1. [Print Style](</erpnext/print-style>)
-  2. [Print Headings](</erpnext/print-headings>)
-  3. [Letter Head](</erpnext/letter-head>)
-  4. [Cheque Print Template](</erpnext/cheque-print-template>)
+  1. [Print Style](print-style.md)
+  2. [Print Headings](print-headings.md)
+  3. [Letter Head](letter-head.md)
+  4. [Cheque Print Template](cheque-print-template.md)
 
 
 
-[ Previous Page Print Format  ](</erpnext/print-format>) [ Next Page Print Settings  ](</erpnext/print-settings>)
+[ Previous Page Print Format  ](print-format.md) [ Next Page Print Settings  ](print-settings.md)
 
 Last updated 1 week ago 
 

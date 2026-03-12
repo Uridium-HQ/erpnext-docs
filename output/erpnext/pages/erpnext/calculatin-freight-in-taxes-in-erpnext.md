@@ -1,12 +1,12 @@
 # Calculating Freight in taxes in ERPNext
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0si1e08e1b>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0si1e08e1b)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Calculating Freight in taxes in ERPNext
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0si1e08e1b>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0si1e08e1b)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -18,21 +18,21 @@ When freight is supposed to be calculated in forwarding charges as a tax rate, w
 
 
 
-![](/files/4GSyff2.png)
+![](../../assets/e06cdf482964.png)
 
   * Now create an Item with the name : **Freight and Forwarding**
 
 
 
-![](/files/xOovUcM.png)
+![](../../assets/c5912c8e8f69.png)
 
   * You can now create Purchase Invoice for the Supplier and add this item to calculate the Taxes related to the freight. You can set the freight tax based on the Net total or Item Quantity as per the company policy.
 
 
 
-![](/files/2Nh2r9p.png)
+![](../../assets/fa8e0d85241b.png)
 
-[ Previous Page Amending Purchase Order after Submit  ](</erpnext/amending-purchase-order-after-submit>) [ Next Page Fetch shipping charges based item's value or weight  ](</erpnext/can-we-fetch-shipping-charges-based-items-value-or-weight-in-po>)
+[ Previous Page Amending Purchase Order after Submit  ](amending-purchase-order-after-submit.md) [ Next Page Fetch shipping charges based item's value or weight  ](can-we-fetch-shipping-charges-based-items-value-or-weight-in-po.md)
 
 Last updated 1 week ago 
 

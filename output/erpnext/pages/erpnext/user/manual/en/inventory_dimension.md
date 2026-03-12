@@ -1,12 +1,12 @@
 # Inventory Dimension
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rs96iqe4b>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rs96iqe4b)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Inventory Dimension
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rs96iqe4b>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rs96iqe4b)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,7 +20,7 @@ To access the Inventory Dimension list, go to:
 
 ## Create Inventory Dimension
 
-![new inventory dimension](/files/new-inventory-dimension.png)
+![new inventory dimension](https://docs.frappe.io/assets/001c43171903.png)
 
   * Create a new record and select the Reference Document which you want to use as a custom Inventory Dimension.
   * You can select any non-child document in the reference document.
@@ -32,7 +32,7 @@ To access the Inventory Dimension list, go to:
 
 ### Apply to All Inventory Documents
 
-![inventory dimension applicable for all inventory documents](/files/inventory-dimension-applicable-for-all-inventory-documents.png)
+![inventory dimension applicable for all inventory documents](https://docs.frappe.io/assets/09ec3fc4ea9f.png)
 
   * It will be used to select the custom Dimension in the inventory-related documents.
   * For example, the user has created Inventory Dimension with the name "Shelf" and enabled "Apply to All Inventory Document Types". Then the system will create the custom link field with the name "Shelf" in the inventory documents where Batch No and Serial No fields exist.
@@ -41,7 +41,7 @@ To access the Inventory Dimension list, go to:
 
 ### Apply to Specific Document
 
-![inventory dimension applicable for](/files/inventory-dimension-applicable-for.png)
+![inventory dimension applicable for](https://docs.frappe.io/assets/9083f7dd7b04.png)
 
   * If the user wants to add Inventory Dimension to a specific document then they have to disable the checkbox "Apply to All Inventory Document Types" and select the respective document in the "Applicable to Document" field.
   * Also if you want to add Inventory Dimension for a specific condition like for stock entry type Issue you want separate dimension as "From Shelf" and stock entry type Material Receipt you want separate dimension as "To Shelf" then that can be possible using "Applicable Condition"
@@ -54,11 +54,11 @@ To access the Inventory Dimension list, go to:
 
 Users can set the 'Fetch Value From' field to fetch data from a field that exists at the parent form level. For example, on the Purchase Receipt form, a user has added a custom field called 'Shelf' and created the inventory dimension to 'Shelf'. If a Purchase Receipt contains 200 line items, the user would typically need to set the 'Shelf' value manually for each row—even if the value is the same across all items. However, by setting the 'Fetch Value From' option in the inventory dimension as 'Shelf' and specifying the value at the parent (Purchase Receipt) level, the system will automatically apply the same 'Shelf' value to all Stock Ledger Entries, even if the user hasn’t entered it in each individual line item.
 
-![](/files/463173872-b10fbcaf-4851-43f0-bcfe-ff1dd2d2ec73.png)
+![](../../../../../assets/01047753e395.png)
 
 ## Use of Inventory Dimension
 
-![inventory dimension on transaction](/files/inventory-dimension-on-transaction.png)
+![inventory dimension on transaction](https://docs.frappe.io/assets/d310a455d50d.png)
 
   * Once the Inventory Dimension is created system will create the custom field in respective documents
   * User gets an option to select the Inventory Dimension in the respective transaction.
@@ -68,11 +68,11 @@ Users can set the 'Fetch Value From' field to fetch data from a field that exist
 
 ## Validate Negative Stock
 
-![](/files/fqvxY3m.png)
+![](../../../../../assets/133ac99070f8.png)
 
 If user has enabled the "Validate Negative Stock" checkbox in the inventory dimension, system will not allow to make stock transactions if the respective dimensions has negative stock in the respective warehouse. If user has tried to create the stock transaction with negative stock for the inventory dimension then system will throw the below error
 
-![](/files/OKgkIqS.png)
+![](../../../../../assets/a45790f3832f.png)
 
 ## Stock Balance and Stock Ledger Report
 
@@ -83,19 +83,19 @@ If user has enabled the "Validate Negative Stock" checkbox in the inventory dime
 
 ### Stock Balance Report
 
-![inventory dimension stock balance](/files/inventory-dimension-stock-balance.png)
+![inventory dimension stock balance](https://docs.frappe.io/assets/a489dc4077f7.png)
 
 ### Stock Ledger Report
 
-![inventory dimension stock ledger](/files/inventory-dimension-stock-ledger.png)
+![inventory dimension stock ledger](https://docs.frappe.io/assets/825574c8e431.png)
 
 Note:
 
 User can only use the stock reconciliation with inventory dimensions to enter opening values and they can't use the stock reconciliation to modify the available stock or the valuation. Since we are not maintaining inventory dimensions wise valuation rate there is not sense to allow to modify valuation rate through stock reconciliation. in case if they tried to update the quantity or valuation rate through stock reconciliation, system will throw the below error
 
-![](/files/cTOHcyI.png)
+![](../../../../../assets/3b253c21423c.png)
 
-[ Previous Page Inventory Account ](</erpnext/inventory-account>) [ Next Page Managing Batch wise Inventory  ](</erpnext/managing-batch-wise-inventory>)
+[ Previous Page Inventory Account ](../../../inventory-account.md) [ Next Page Managing Batch wise Inventory  ](../../../managing-batch-wise-inventory.md)
 
 Last updated 2 weeks ago 
 

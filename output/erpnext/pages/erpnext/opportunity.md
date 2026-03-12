@@ -1,12 +1,12 @@
 # Opportunity
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rf9kisdau>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rf9kisdau)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Opportunity 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rf9kisdau>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rf9kisdau)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -25,13 +25,13 @@ To access the Opportunity list, go to:
 
 
 
-![Creating New Opportunity](/files/creating-opportunity.gif)
+![Creating New Opportunity](https://docs.frappe.io/assets/ffe659c55bed.gif)
 
   1. You can also go to a Lead with 'Open' status and select “Opportunity” under **Create** dropdown as shown below.
 
 
 
-![Create Opportunity From Lead](/files/lead-to-opportunity.png)
+![Create Opportunity From Lead](https://docs.frappe.io/assets/76ac94509ae9.png)
 
   1. In 'Opportunity From', select Customer if opportunity is from a customer.
 
@@ -44,7 +44,7 @@ To access the Opportunity list, go to:
 
 
 
-![Item Details in Opportunity](/files/item-details-in-opportunity.png)
+![Item Details in Opportunity](https://docs.frappe.io/assets/25d6181aa683.png)
 
   1. Enter the Source of the opportunity in the SOURCE section.
 
@@ -60,27 +60,27 @@ It is important to reach out to opportunities from time to time and build the re
 
 > Introduced in Version 12
 
-You can define [Assignment Rules](</erpnext/assignment-rule>) to automatically assign the opportunities to sales executives.
+You can define [Assignment Rules](https://docs.frappe.io/erpnext/assignment-rule) to automatically assign the opportunities to sales executives.
 
-![Opportunity Assignment](/files/opportunity-assignment-rule.png)
+![Opportunity Assignment](https://docs.frappe.io/assets/52c2d6a6db9a.png)
 
 ### 2.3 Auto-close Opportunities
 
 If you do not receive a response from an opportunity for a certain number of days, you may want that opportunity to be closed automatically.
 
-You can set the number of days in [Selling Settings](</erpnext/selling-settings>).
+You can set the number of days in [Selling Settings](selling-settings.md).
 
-![Auto Close Opportunities](/files/auto-close-opportunities.png)
+![Auto Close Opportunities](https://docs.frappe.io/assets/ddcae3b7dc6f.png)
 
 ### 2.4 Create a Quotation
 
-You can create a [Quotation](</erpnext/quotation>) from the **Make** dropdown. Relevant field values will be copied over.
+You can create a [Quotation](quotation.md) from the **Make** dropdown. Relevant field values will be copied over.
 
-![Create Quotation From Opportunity](/files/create-quotation-from-opportunity.png)
+![Create Quotation From Opportunity](https://docs.frappe.io/assets/6cf6007e6ecd.png)
 
 ### 2.5 Create a Supplier Quotation
 
-You may need to get a quotation from your supplier against the customer requirement and based on that, prepare the quotation for your customer. With ERPNext, you can make a [Supplier Quotation](</erpnext/supplier-quotation>) from the opportunity itself.
+You may need to get a quotation from your supplier against the customer requirement and based on that, prepare the quotation for your customer. With ERPNext, you can make a [Supplier Quotation](supplier-quotation.md) from the opportunity itself.
 
 > Best Practice: Leads and Opportunities are often referred as your “Sales Pipeline” this is what you need to track if you want to be able to predict how much business you are going to get in the future. Its always a good idea to be able to track what is coming in order to adjust your resources.
 
@@ -88,25 +88,25 @@ You may need to get a quotation from your supplier against the customer requirem
 
 When an opportunity is lost, you can capture the reasons, competitors and detail reason for losing. This will help you to analyse the trends over a long period of time and identify the insights needed for improvements at various areas in the organisation.
 
-![Opportunity Lost Reason](/files/opportunity-lost-reason.png)
+![Opportunity Lost Reason](https://docs.frappe.io/assets/bb0890537399.png)
 
 ### 2.7 Minutes to First Response
 
 When you send the first reply(email) to an Opportunity, it calculates Mins to First Response and is displayed in a field.
 
-A report is generated called 'Minutes to First Response for Opportunity'. Read [CRM Reports](</erpnext/crm_reports>) for more details.
+A report is generated called 'Minutes to First Response for Opportunity'. Read [CRM Reports](https://docs.frappe.io/erpnext/crm_reports) for more details.
 
 ### 3\. Related Topics
 
-  1. [Quotation](</erpnext/quotation.html>)
-  2. [Customer](</erpnext/customer>)
-  3. [Lead](</erpnext/lead>)
-  4. [Supplier Quotation](</erpnext/supplier-quotation>)
-  5. [Difference between Lead, Contact, and Customer](</erpnext/difference_between_lead_contact_and_customer>)
+  1. [Quotation](https://docs.frappe.io/erpnext/quotation.html)
+  2. [Customer](customer.md)
+  3. [Lead](lead.md)
+  4. [Supplier Quotation](supplier-quotation.md)
+  5. [Difference between Lead, Contact, and Customer](https://docs.frappe.io/erpnext/difference_between_lead_contact_and_customer)
 
 
 
-[ Previous Page Lead ](</erpnext/lead>) [ Next Page Appointment  ](</erpnext/appointment>)
+[ Previous Page Lead ](lead.md) [ Next Page Appointment  ](https://docs.frappe.io/erpnext/appointment)
 
 Last updated 1 week ago 
 

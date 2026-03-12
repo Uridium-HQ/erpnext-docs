@@ -1,12 +1,12 @@
 # Shareholder
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0t6681lncj>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0t6681lncj)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Shareholder 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0t6681lncj>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0t6681lncj)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -16,7 +16,7 @@ A Shareholder is any person, company or other institution that owns at least one
 
 Any profit or loss made by a Company belongs to the Shareholders and hence the Shareholders are a liability to the Company.
 
-ERPNext allows you to keep a track of all your Shareholders and maintain Share Transfers, Share Ledger and Share Balances. A shareholder is uniquely identified by the Shareholder ID. Normally this ID is a [Naming Series](</erpnext/document-naming-settings>) starting with 'ACC-SH-'. Also as soon as the Shareholder makes even a single transaction, a Folio number is allocated to him. This also is unique to the Shareholder.
+ERPNext allows you to keep a track of all your Shareholders and maintain Share Transfers, Share Ledger and Share Balances. A shareholder is uniquely identified by the Shareholder ID. Normally this ID is a [Naming Series](document-naming-settings.md) starting with 'ACC-SH-'. Also as soon as the Shareholder makes even a single transaction, a Folio number is allocated to him. This also is unique to the Shareholder.
 
 To access the Shareholder list, go to:
 
@@ -31,15 +31,15 @@ To access the Shareholder list, go to:
 
 
 
-![Shareholder](/files/shareholder.png)
+![Shareholder](https://docs.frappe.io/assets/0cf5d044abbb.png)
 
-A Shareholder can avail the features (operations) in the [Share Transfer](</erpnext/share-transfer>) process. Only after shares are issued to them, a Folio Number and the shares will be visible.
+A Shareholder can avail the features (operations) in the [Share Transfer](share-transfer.md) process. Only after shares are issued to them, a Folio Number and the shares will be visible.
 
 ### 1.1 Contacts and Addresses
 
-[Contacts](</erpnext/contact>) and [Addresses](</erpnext/address>) in ERPNext are stored separately so that you can attach multiple Contacts or Addresses to Shareholders and other parties.
+[Contacts](contact.md) and [Addresses](address.md) in ERPNext are stored separately so that you can attach multiple Contacts or Addresses to Shareholders and other parties.
 
-[ Previous Page Shareholder Management ](</erpnext/shareholder-management>) [ Next Page Share Transfer  ](</erpnext/share-transfer>)
+[ Previous Page Shareholder Management ](shareholder-management.md) [ Next Page Share Transfer  ](share-transfer.md)
 
 Last updated 2 weeks ago 
 

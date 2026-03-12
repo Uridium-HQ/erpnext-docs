@@ -1,12 +1,12 @@
 # bench new-site
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/1301s91hec>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/1301s91hec)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # bench new-site 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/1301s91hec>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/1301s91hec)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,7 +20,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 Create a new Frappe site. This operation creates a new folder under `./sites` which will contain all the site information for the site and also creates a new database in your DBMS with all of Frappe's Modules and DocTypes installed.
 
-The site config, which can be found under `./sites/{site}/site_config.json` maintains information about the site's state. For more information about it, checkout [this guide](</framework/v14/user/en/introduction>).
+The site config, which can be found under `./sites/{site}/site_config.json` maintains information about the site's state. For more information about it, checkout [this guide](../../introduction.md).
 
 ## Options
 
@@ -107,7 +107,7 @@ The site config, which can be found under `./sites/{site}/site_config.json` main
     
 [/code]
 
-[ Previous Page Commands Reference  ](</framework/v14/user/en/bench/reference>) [ Next Page bench drop-site  ](</framework/v14/user/en/bench/reference/drop-site>)
+[ Previous Page Commands Reference  ](../reference.md) [ Next Page bench drop-site  ](drop-site.md)
 
 Last updated 2 months ago 
 

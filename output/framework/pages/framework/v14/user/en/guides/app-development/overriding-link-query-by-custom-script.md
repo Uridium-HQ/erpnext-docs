@@ -1,12 +1,12 @@
 # Overriding Link Query By Custom Script
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/129phpipo2>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/129phpipo2)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Overriding Link Query By Custom Script 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/129phpipo2>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/129phpipo2)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -111,7 +111,7 @@ For more examples see:
 
 <https://github.com/frappe/erpnext/blob/develop/erpnext/controllers/queries.py>
 
-[ Previous Page Dialogs Types  ](</framework/v14/user/en/guides/app-development/dialogs-types>) [ Next Page Set up a new Connected App  ](</framework/v14/user/en/guides/app-development/connected-app>)
+[ Previous Page Dialogs Types  ](dialogs-types.md) [ Next Page Set up a new Connected App  ](connected-app.md)
 
 Last updated 2 months ago 
 

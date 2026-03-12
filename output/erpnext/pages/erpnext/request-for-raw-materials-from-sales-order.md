@@ -1,12 +1,12 @@
 # Request for Raw Materials from Sales Order
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0so9hu95k4>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0so9hu95k4)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Request for Raw Materials from Sales Order 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0so9hu95k4>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0so9hu95k4)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,13 +20,13 @@ To do so, you can follow the below steps.
 
 
 
-![Request For Raw Materials](/files/request-for-raw-materials.png)
+![Request For Raw Materials](https://docs.frappe.io/assets/3641c0a18a34.png)
 
   * It will open a dialog and display all the Finished Items having a BOM.
 
 
 
-![Request For Raw Materials Dialog](/files/request-for-raw-materials-dialog.png)
+![Request For Raw Materials Dialog](https://docs.frappe.io/assets/a0b481d7a201.png)
 
   * Here, you can change the BOM as you want and choose the necessary options.
 
@@ -38,13 +38,13 @@ Suppose, enabling the **Include Exploded Items** will fetch the Raw Materials fr
 
 
 
-![Submitted Material Request](/files/material-request-submitted.png)
+![Submitted Material Request](https://docs.frappe.io/assets/ad09d50855e0.png)
 
 Material Request generated for the Raw Material of the finished Item present in Sales Order.
 
-![Material Request](/files/created-mr-from-sales-order.png)
+![Material Request](https://docs.frappe.io/assets/8a27d53c72f4.png)
 
-[ Previous Page Drop Ship Between Subsidiary Companies ](</erpnext/assistance-sales-purchase-between-companies>) [ Next Page Applying a Discount  ](</erpnext/applying-discount>)
+[ Previous Page Drop Ship Between Subsidiary Companies ](assistance-sales-purchase-between-companies.md) [ Next Page Applying a Discount  ](applying-discount.md)
 
 Last updated 1 week ago 
 

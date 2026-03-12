@@ -1,16 +1,16 @@
 # Search Record by Specific Field
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0t8ro3mijo>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0t8ro3mijo)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Search Record by Specific Field 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0t8ro3mijo>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0t8ro3mijo)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-While creating any DocType, you may want to link a particular field to another DocType. For example, in Sales Order DocType, 'Customer' field allows you to select an existing customer. Such fields are called [Link Fields](</erpnext/field-types#link>).
+While creating any DocType, you may want to link a particular field to another DocType. For example, in Sales Order DocType, 'Customer' field allows you to select an existing customer. Such fields are called [Link Fields](field-types.md).
 
 Using Link Fields you can create a
 
@@ -28,13 +28,13 @@ Here, we will select the Document Item.
 
 Update Warehouse field name in the Search By field.
 
-![Search By in Customize Form](/files/customize-search-record-1.png) ![Search By in Customize Form](/files/customize-search-record-2.png)
+![Search By in Customize Form](https://docs.frappe.io/assets/65f02d0fce86.png) ![Search By in Customize Form](https://docs.frappe.io/assets/ed7ddf26cc81.png)
 
 Once these settings have been updated, while creating a Sales Order, when you select the Item, you will also be able to the warehouse there.
 
-![Search By in Customize Form](/files/customize-search-record-3.png)
+![Search By in Customize Form](https://docs.frappe.io/assets/918e77312140.png)
 
-[ Previous Page Sorting Order in List View ](</erpnext/customizing-sorting-order-in-the-list-view>) [ Next Page Disable Rounded Total  ](</erpnext/disable-rounded-total>)
+[ Previous Page Sorting Order in List View ](customizing-sorting-order-in-the-list-view.md) [ Next Page Disable Rounded Total  ](https://docs.frappe.io/erpnext/disable-rounded-total)
 
 Last updated 1 week ago 
 

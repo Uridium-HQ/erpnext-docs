@@ -1,12 +1,12 @@
 # Sales Return
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ri3idl82h>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ri3idl82h)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Sales Return 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ri3idl82h>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ri3idl82h)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -43,7 +43,7 @@ On Creating a Sales Return against a Delivery Note:
 
   * The original Delivery Note's status is changed to **Return Issued** if 100% returned:
 
-![](/files/Return%20issued.png)
+![](../../../../../assets/fc77de19d29a.png)
 
 
 
@@ -55,7 +55,7 @@ On Creating a Sales Return against a Delivery Note:
 
 
 
-[ Previous Page Sales Partner  ](</erpnext/sales-partner>) [ Next Page Inter Company Invoices  ](</erpnext/inter-company-invoices>)
+[ Previous Page Sales Partner  ](../../../sales-partner.md) [ Next Page Inter Company Invoices  ](../../../inter-company-invoices.md)
 
 Last updated 2 weeks ago 
 

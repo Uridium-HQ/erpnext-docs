@@ -1,18 +1,18 @@
 # Bench Commands
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0u4kppgale>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0u4kppgale)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Bench Commands 
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0u4kppgale>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0u4kppgale)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-This page is concerned only with the commands that exist in the bench project, that are a direct part of the CLI tool. These commands are defined under the [frappe/bench](<https://github.com/frappe/bench>).
+This page is concerned only with the commands that exist in the bench project, that are a direct part of the CLI tool. These commands are defined under the [frappe/bench](https://github.com/frappe/bench).
 
-> For references of any Framework commands, checkout [Frappe Commands](</framework/v14/user/en/bench/frappe-commands>).
+> For references of any Framework commands, checkout [Frappe Commands](../../../v14/user/en/bench/frappe-commands.md).
 
 ## Using the bench CLI
 [code] 
@@ -161,7 +161,7 @@ This command group consists of commands used to manipulate the requirements and 
 
   * **requirements** : Setup Python and Node dependencies
 
-  * **manager** : Setup `bench-manager.local` site with the [Bench Manager](<https://github.com/frappe/bench_manager>) app, a GUI for bench installed on it.
+  * **manager** : Setup `bench-manager.local` site with the [Bench Manager](https://github.com/frappe/bench_manager) app, a GUI for bench installed on it.
 
   * **procfile** : Generate Procfile for bench start
 
@@ -258,7 +258,7 @@ Frappe apps are run by frappe sites and you will have to create at least one sit
 
 ### Add apps
 
-The get-app command gets remote frappe apps from a remote git repository and installs them. Example: [erpnext](<https://github.com/frappe/erpnext>)
+The get-app command gets remote frappe apps from a remote git repository and installs them. Example: [erpnext](https://github.com/frappe/erpnext)
 [code] 
     ➜ bench get-app erpnext https://github.com/frappe/erpnext
     
@@ -294,7 +294,7 @@ Update all apps and sites from your bench directory. This operation performs bac
 
 ### Update Bench config
 
-To update the common site config for your bench, you can use the `set-common-config` and `remove-common-config` commands under the config command group. To learn more about Frappe Site configurations available, checkout the [Site Config](</framework/v14/user/en/basics/sites#site-config>) and [Bench Config docs](</framework/v14/user/en/bench/bench-commands#config-commands>).
+To update the common site config for your bench, you can use the `set-common-config` and `remove-common-config` commands under the config command group. To learn more about Frappe Site configurations available, checkout the [Site Config](../../../v14/user/en/basics/sites.md) and [Bench Config docs](../../../v14/user/en/bench/bench-commands.md).
 
 To add or update an existing config key, you can run something like
 [code] 
@@ -310,7 +310,7 @@ To remove an existing config key, you can run something like
 
 ## Bench Manager
 
-For a UI based approach to managing your deployments, checkout [Bench Manager](<https://github.com/frappe/bench_manager>).
+For a UI based approach to managing your deployments, checkout [Bench Manager](https://github.com/frappe/bench_manager).
 [code] 
     ➜ bench setup manager
     
@@ -328,7 +328,7 @@ You can set it up easily on any existing bench by running the above command.
 
 You can use this site to manage your bench operations through _bench-manager.local_ 's `/desk` view.
 
-[ Previous Page Bench ](</framework/user/en/bench>) [ Next Page Frappe Commands ](</framework/user/en/bench/frappe-commands>)
+[ Previous Page Bench ](../bench.md) [ Next Page Frappe Commands ](frappe-commands.md)
 
 Last updated 3 weeks ago 
 

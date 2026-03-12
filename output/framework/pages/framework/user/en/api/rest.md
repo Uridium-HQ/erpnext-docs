@@ -1,12 +1,12 @@
 # REST API
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tmudao8hp>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tmudao8hp)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # REST API
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tmudao8hp>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tmudao8hp)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -84,7 +84,7 @@ Password based authentication relies on cookies and session data to maintain aut
 
 ### 3\. Access Token
 
-Refer documentation for [How to setup OAuth](</framework/v14/user/en/guides/integration/how_to_set_up_oauth>).
+Refer documentation for [How to setup OAuth](../../../v14/user/en/guides/integration/how_to_set_up_oauth.md).
 
 Use the generated `access_token` in request header.
 [code] 
@@ -503,9 +503,9 @@ Here is the curl command for it:
     
 [/code]
 
-If you are using client side Javascript to upload files, you can append the uploaded files as FormData and send an XHR request. Here is the [implementation code](<https://github.com/frappe/frappe/blob/421f070e78ee1186e7f2f4b2575d8be1d3e2d646/frappe/public/js/frappe/file_uploader/FileUploader.vue#L381-L401>) in Frappe Desk.
+If you are using client side Javascript to upload files, you can append the uploaded files as FormData and send an XHR request. Here is the [implementation code](https://github.com/frappe/frappe/blob/421f070e78ee1186e7f2f4b2575d8be1d3e2d646/frappe/public/js/frappe/file_uploader/FileUploader.vue) in Frappe Desk.
 
-[ Previous Page Hooks ](</framework/user/en/python-api/hooks>) [ Next Page FullTextSearch API ](</framework/user/en/api/full-text-search>)
+[ Previous Page Hooks ](../python-api/hooks.md) [ Next Page FullTextSearch API ](full-text-search.md)
 
 Last updated 3 weeks ago 
 

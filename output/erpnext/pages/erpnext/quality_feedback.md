@@ -1,12 +1,12 @@
 # Quality Feedback
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s5drva2jn>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s5drva2jn)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Quality Feedback 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s5drva2jn>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s5drva2jn)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,7 +14,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 Quality Feedback has different fields to rate different parameters. The Customer/User can easily give their feedback by selecting their template to rate on different parameters and also provide qualitative feedback on these parameters.
 
-You can also fetch the parameters using a [Quality Feedback Template](<https://docs.frappe.io/erpnext/user/manual/en/quality-feedback-template>). The templates store preset information for you to select in the Quality Feedback.
+You can also fetch the parameters using a [Quality Feedback Template](https://docs.frappe.io/erpnext/user/manual/en/quality-feedback-template). The templates store preset information for you to select in the Quality Feedback.
 
 If the Feedback is not as per expectations, a Quality Action may be initialized on the basis of the seriousness of the Feedback.
 
@@ -34,9 +34,9 @@ To access Quality Feedback, go to:
 
 
 
-![](/files/feedback58d87a.gif)
+![](../../assets/1f6dfcc4bb0e.gif)
 
-[ Previous Page Quality Feedback Template  ](</erpnext/quality-feedback-template>) [ Next Page Quality Meeting ](</erpnext/quality_meeting>)
+[ Previous Page Quality Feedback Template  ](https://docs.frappe.io/erpnext/quality-feedback-template) [ Next Page Quality Meeting ](quality_meeting.md)
 
 Last updated 2 weeks ago 
 

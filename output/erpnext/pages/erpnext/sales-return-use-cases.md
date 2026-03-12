@@ -1,12 +1,12 @@
 # Sales Return Management
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sphk7028q>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sphk7028q)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Sales Return Management 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sphk7028q>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sphk7028q)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -34,7 +34,7 @@ This is a scenario where the customer purchased an item from you for which Sales
 
 
 
-![Create sales return](/files/sales-return-against-payment.png)
+![Create sales return](https://docs.frappe.io/assets/60b4f2db5ece.png)
 
 As per this entry, the sold items will be accepted back in your Warehouse. Also, the payment received from the Customer will be reversed.
 
@@ -46,7 +46,7 @@ In the case of Sales Return where the customer didn't process any payment, you c
 
 For the Adjustment of stock, you can create a Sales Return against Delivery Note or in the Credit Note itself, check field "Update Stock".
 
-[ Previous Page Sales Persons in the Sales Transactions  ](</erpnext/sales-persons-in-the-sales-transactions>) [ Next Page Adding Margin  ](</erpnext/adding-margin>)
+[ Previous Page Sales Persons in the Sales Transactions  ](sales-persons-in-the-sales-transactions.md) [ Next Page Adding Margin  ](adding-margin.md)
 
 Last updated 1 week ago 
 

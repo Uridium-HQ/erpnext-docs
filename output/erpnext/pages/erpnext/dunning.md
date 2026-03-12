@@ -1,12 +1,12 @@
 # Sales Interest / Dunning
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rnobjg6eo>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rnobjg6eo)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Sales Interest / Dunning
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rnobjg6eo>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rnobjg6eo)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,7 +20,7 @@ To access the Dunning list, go to:
 
 ## 1\. Prerequisites
 
-  * [Sales Invoice](</erpnext/sales-invoice>)
+  * [Sales Invoice](sales-invoice.md)
 
 
 
@@ -58,13 +58,13 @@ A Dunning is created against a list of overdue scheduled payments. You can creat
 
 
 
-![Dunning example](/files/dunning9768a2.png)
+![Dunning example](https://docs.frappe.io/assets/5809b4a38655.png)
 
 ### 2.1 What is a Dunning Type
 
 Dunning Type stores default values for dunning fee, interest rate and text blocks to be included. For example, a Dunning Type "First Notice" will not have any fees, but Dunning Type "Second Notice" will have a dunning fee and interest charged on the outstanding amount.
 
-![Dunning Type](/files/first_dunning.png)
+![Dunning Type](https://docs.frappe.io/assets/f5c5abe4d26d.png)
 
 ### 2.2 Statuses
 
@@ -81,16 +81,16 @@ These are the statuses that are auto-assigned to Dunning.
 
 When you receive a full payment, including interest and fees, please open the unresolved **Dunning** and click on "Create > Payment". This will create a **Payment Entry** against the outstanding scheduled payments and record the interest and fees as "Payment Deductions or Loss". The **Payment Entry** will automatically set the **Dunning** 's status to resolved.
 
-![Dunning Payment](/files/dunning_payment_entry.png)
+![Dunning Payment](https://docs.frappe.io/assets/4994f13d5fb7.png)
 
 ## 4\. Related Topics
 
-  1. [Payment Entry](</erpnext/payment-entry>)
-  2. [Sales Invoice](</erpnext/purchase-invoice>)
+  1. [Payment Entry](payment-entry.md)
+  2. [Sales Invoice](purchase-invoice.md)
 
 
 
-[ Previous Page Credit Note  ](</erpnext/credit-note>) [ Next Page Loyalty Program  ](</erpnext/loyalty-program>)
+[ Previous Page Credit Note  ](credit-note.md) [ Next Page Loyalty Program  ](loyalty-program.md)
 
 Last updated 2 weeks ago 
 

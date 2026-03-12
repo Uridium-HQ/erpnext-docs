@@ -1,12 +1,12 @@
 # Subscription Settings
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rnn68dpn4>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rnn68dpn4)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Subscription Settings 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rnn68dpn4>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rnn68dpn4)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -23,9 +23,9 @@ To access the Subscription list, go to:
 
 
 
-![Subscription](/files/subscription-settings.png)
+![Subscription](https://docs.frappe.io/assets/33c9e7fb70c1.png)
 
-[ Previous Page Accounts Settings ](</erpnext/accounts-settings>) [ Next Page Currency Exchange Settings ](</erpnext/currency-exchange-settings>)
+[ Previous Page Accounts Settings ](accounts-settings.md) [ Next Page Currency Exchange Settings ](currency-exchange-settings.md)
 
 Last updated 2 weeks ago 
 

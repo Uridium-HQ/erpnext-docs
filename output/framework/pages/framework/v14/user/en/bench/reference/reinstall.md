@@ -1,12 +1,12 @@
 # bench reinstall
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/131lf0u7q7>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/131lf0u7q7)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # bench reinstall 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/131lf0u7q7>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/131lf0u7q7)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -63,7 +63,7 @@ Reinstall a site with the current apps. This will wipe all site data and start a
     
 [/code]
 
-[ Previous Page bench backup  ](</framework/v14/user/en/bench/reference/backup>) [ Next Page bench list-apps  ](</framework/v14/user/en/bench/reference/list-apps>)
+[ Previous Page bench backup  ](backup.md) [ Next Page bench list-apps  ](list-apps.md)
 
 Last updated 2 months ago 
 

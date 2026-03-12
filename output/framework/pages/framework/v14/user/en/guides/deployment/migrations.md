@@ -1,12 +1,12 @@
 # Migrations
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12b0083uke>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12b0083uke)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Migrations
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12b0083uke>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12b0083uke)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -64,7 +64,7 @@ For Example,
 
 execute:frappe.installer.make_site_dirs() #2014-02-19
 
-[ Previous Page How To Migrate Doctype Changes To Production  ](</framework/v14/user/en/guides/deployment/how-to-migrate-doctype-changes-to-production>) [ Next Page How To Enable Social Logins  ](</framework/v14/user/en/guides/deployment/how-to-enable-social-logins>)
+[ Previous Page How To Migrate Doctype Changes To Production  ](how-to-migrate-doctype-changes-to-production.md) [ Next Page How To Enable Social Logins  ](how-to-enable-social-logins.md)
 
 Last updated 2 months ago 
 

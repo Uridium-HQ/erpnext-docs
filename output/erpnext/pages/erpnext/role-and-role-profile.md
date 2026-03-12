@@ -1,12 +1,12 @@
 # Role and Role Profile
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0schs8bv35>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0schs8bv35)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Role and Role Profile 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0schs8bv35>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0schs8bv35)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -33,7 +33,7 @@ To access Role, go to:
 
 You can add two factor authentication for the role and also restrict it to a specific domain. From here, you can go to the Roles Permission Manager and set permissions for the role across different DocTypes.
 
-![Permissions for new Role](/files/role-permissions.png)
+![Permissions for new Role](https://docs.frappe.io/assets/76dd34ed62ce.png)
 
 ## 2\. How to add a Role Profile
 
@@ -48,7 +48,7 @@ To access Role Profile, go to:
 
 
 
-[ Previous Page Role Based Permissions ](</erpnext/permissions>) [ Next Page Role Permission for Page and Report  ](</erpnext/role-permission-for-page-and-report>)
+[ Previous Page Role Based Permissions ](https://docs.frappe.io/erpnext/permissions) [ Next Page Role Permission for Page and Report  ](https://docs.frappe.io/erpnext/role-permission-for-page-and-report)
 
 Last updated 2 weeks ago 
 

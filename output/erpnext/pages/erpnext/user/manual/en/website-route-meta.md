@@ -1,12 +1,12 @@
 # Website Route Meta
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s8g9snlm7>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s8g9snlm7)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Website Route Meta 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s8g9snlm7>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s8g9snlm7)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -27,7 +27,7 @@ To access Website Route Meta go to:
 
 
 
-![New Website Route Meta](/files/new-website-route-meta.png) _New Website Route Meta_
+![New Website Route Meta](https://docs.frappe.io/assets/128189fecb28.png) _New Website Route Meta_
 
 Now if you check the page source of your web page, the meta tags will look something like this:
 [code] 
@@ -39,7 +39,7 @@ Now if you check the page source of your web page, the meta tags will look somet
 > 
 > For e.g., You can add meta tags to your blog posts if you know the route which you can get from the Blog Post form.
 
-[ Previous Page Web Forms ](</erpnext/web-form>) [ Next Page Blogs ](</erpnext/blogs>)
+[ Previous Page Web Forms ](../../../web-form.md) [ Next Page Blogs ](https://docs.frappe.io/erpnext/blogs)
 
 Last updated 2 weeks ago 
 

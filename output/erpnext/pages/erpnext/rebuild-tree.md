@@ -1,12 +1,12 @@
 # Rebuild Tree
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rl9i96pdg>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rl9i96pdg)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Rebuild Tree
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rl9i96pdg>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rl9i96pdg)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,7 +14,7 @@ The Rebuild Tree feature is a tool in ERPNext used to correct and refresh the st
 
 **Issue** :
 
-Sometime in the general Ledger report the user selects the Account but the data in the report shows for different account as shown below screenshot. ![Rebuild Issue](/files/Rebuild%20Issue.png)
+Sometime in the general Ledger report the user selects the Account but the data in the report shows for different account as shown below screenshot. ![Rebuild Issue](https://docs.frappe.io/assets/a24437785da7.png)
 
 In this case you can Use the **Rebuild Tree** so that the user can easily fix this issue
 
@@ -30,13 +30,13 @@ Accounting > Chart of Accounts
 
 **Step 3** : Select "Rebuild Tree" From the dropdown menu that appears, select the Rebuild Tree option
 
-![Screenshot 2025 10 16 at 1.27.11 PM](/files/Screenshot%202025-10-16%20at%201.27.11%E2%80%AFPM.png)
+![Screenshot 2025 10 16 at 1.27.11 PM](https://docs.frappe.io/assets/557636c944fd.png)
 
 After Rebuild tree process is done you can check the GL report shows the correct data in the report
 
-![Screenshot 2025 10 16 at 1.11.56 PM](/files/Screenshot%202025-10-16%20at%201.11.56%E2%80%AFPM.png)
+![Screenshot 2025 10 16 at 1.11.56 PM](https://docs.frappe.io/assets/2157f0910ac9.png)
 
-[ Previous Page Immutable Ledger ](</erpnext/immutable-ledger-in-erpnext>) [ Next Page Common Party Accounting ](</erpnext/common_party_accounting>)
+[ Previous Page Immutable Ledger ](immutable-ledger-in-erpnext.md) [ Next Page Common Party Accounting ](common_party_accounting.md)
 
 Last updated 2 weeks ago 
 

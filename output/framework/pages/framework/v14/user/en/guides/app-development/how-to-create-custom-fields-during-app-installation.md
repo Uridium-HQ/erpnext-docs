@@ -1,12 +1,12 @@
 # How To Create Custom Fields During App Installation
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/129hjhllpi>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/129hjhllpi)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # How To Create Custom Fields During App Installation 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/129hjhllpi>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/129hjhllpi)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -28,7 +28,7 @@ This file will be automatically imported when the app is installed in a new site
 
 Note: You can also add single DocTypes like "Website Settings" as fixtures
 
-[ Previous Page Insert A Document Via Api  ](</framework/v14/user/en/guides/app-development/insert-a-document-via-api>) [ Next Page Using Html Templates In Javascript  ](</framework/v14/user/en/guides/app-development/using-html-templates-in-javascript>)
+[ Previous Page Insert A Document Via Api  ](insert-a-document-via-api.md) [ Next Page Using Html Templates In Javascript  ](using-html-templates-in-javascript.md)
 
 Last updated 2 months ago 
 

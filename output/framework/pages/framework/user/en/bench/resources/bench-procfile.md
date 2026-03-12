@@ -1,12 +1,12 @@
 # Bench Procfile
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0u8llnvfh2>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0u8llnvfh2)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Bench Procfile 
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0u8llnvfh2>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0u8llnvfh2)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -46,7 +46,7 @@ Optionally if you are developing for frappe you can add:
     
 [/code]
 
-[ Previous Page Bench Commands Cheatsheet ](</framework/user/en/bench/resources/bench-commands-cheatsheet>) [ Next Page Database Migrations  ](</framework/user/en/database-migrations>)
+[ Previous Page Bench Commands Cheatsheet ](https://docs.frappe.io/framework/user/en/bench/resources/bench-commands-cheatsheet) [ Next Page Database Migrations  ](../../database-migrations.md)
 
 Last updated 3 weeks ago 
 

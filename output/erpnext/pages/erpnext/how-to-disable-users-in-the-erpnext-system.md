@@ -1,12 +1,12 @@
 # Disable Any User
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sc566cttj>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sc566cttj)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Disable Any User
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sc566cttj>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sc566cttj)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -23,9 +23,9 @@ If you want to prohibit an ERPNext user from using the system then you can follo
 
 Once the changes are saved, the user will be marked as 'Disabled' in the list which can always be re-enabled as per the need. After re-enabling a user, all the configurations associated with it will be retrieved as is.
 
-![Screenshot 2023-12-27 at 3.51.59 PM](/files/Screenshot%202023-12-27%20at%203.51.59%20PM.png)
+![Screenshot 2023-12-27 at 3.51.59 PM](https://docs.frappe.io/assets/70179dac6541.png)
 
-[ Previous Page Change User Password ](</erpnext/change-password>) [ Next Page Role Based Permissions ](</erpnext/permissions>)
+[ Previous Page Change User Password ](https://docs.frappe.io/erpnext/change-password) [ Next Page Role Based Permissions ](https://docs.frappe.io/erpnext/permissions)
 
 Last updated 2 weeks ago 
 

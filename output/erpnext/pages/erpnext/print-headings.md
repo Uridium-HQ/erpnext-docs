@@ -1,12 +1,12 @@
 # Print Headings
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0raiaeubno>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0raiaeubno)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Print Headings 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0raiaeubno>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0raiaeubno)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -28,29 +28,29 @@ To access Print Headings go to:
 
 
 
-![Print Heading](/files/print-heading.png)
+![Print Heading](https://docs.frappe.io/assets/1fe68f41cb81.png)
 
 To use the print heading, select the created print heading in the 'Print Heading' field transaction, shown as follows:
 
-![Using a Print Heading](/files/use-print-heading.gif)
+![Using a Print Heading](https://docs.frappe.io/assets/058c31dc0932.gif)
 
 Example of a change in print heading is shown as follows:
 
-![Print Heading](/files/print-heading-1.png)
+![Print Heading](https://docs.frappe.io/assets/697df8024614.png)
 
 ## 2\. Video
 
 ### 3\. Related Topics
 
-  1. [Print Format](</erpnext/print-format>)
-  2. [Print Style](</erpnext/print-style>)
-  3. [Letter Head](</erpnext/letter-head>)
-  4. [Cheque Print Template](</erpnext/cheque-print-template>)
-  5. [Quotation](</erpnext/quotation>)
+  1. [Print Format](print-format.md)
+  2. [Print Style](print-style.md)
+  3. [Letter Head](letter-head.md)
+  4. [Cheque Print Template](cheque-print-template.md)
+  5. [Quotation](quotation.md)
 
 
 
-[ Previous Page Letter Head  ](</erpnext/letter-head>) [ Next Page Cheque Print Template ](</erpnext/cheque-print-template>)
+[ Previous Page Letter Head  ](letter-head.md) [ Next Page Cheque Print Template ](cheque-print-template.md)
 
 Last updated 1 week ago 
 

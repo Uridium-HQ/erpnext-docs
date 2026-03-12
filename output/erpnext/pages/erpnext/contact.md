@@ -1,12 +1,12 @@
 # Contact
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rirjqmtk3>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rirjqmtk3)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Contact 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rirjqmtk3>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rirjqmtk3)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -32,7 +32,7 @@ To access the Contact list, go to:
 
 You can also add a Contact from the Customer or Supplier record by clicking on “New Contact” button as shown below.
 
-![](/files/imagea26d72.png)
+![](../../assets/746205060506.png)
 
 When you have multiple contacts against an entity like customer/supplier, you can check 'Is Primary Contact' to indicate the preferred contact. The primary contact will be chosen automatically in transactions like sales order and sales invoice.
 
@@ -48,13 +48,13 @@ A contact may be linked to multiple customers or multiple suppliers.
 
 A contact can also be linked to customers and suppliers at the same time.
 
-![](/files/link%20company.png)
+![](../../assets/f1eb28e3b6fe.png)
 
 ### Invite the Contact as a User
 
 You can allow contacts of your customers and suppliers to log into your ERPNext system and view data relevant to them. Check Customer Portal for more details on this. You can send an email invitation to a contact by clicking on 'Invite as User' button.
 
-![](/files/Invite%20as%20user.png)
+![](../../assets/ff0bc627d7af.png)
 
 ### Related Topics
 
@@ -64,7 +64,7 @@ You can allow contacts of your customers and suppliers to log into your ERPNext 
 
 
 
-[ Previous Page Territory  ](</erpnext/territory>) [ Next Page Address  ](</erpnext/address>)
+[ Previous Page Territory  ](territory.md) [ Next Page Address  ](address.md)
 
 Last updated 2 weeks ago 
 

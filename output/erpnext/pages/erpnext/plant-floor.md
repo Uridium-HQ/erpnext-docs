@@ -1,12 +1,12 @@
 # Plant Floor
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0t5p696tda>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0t5p696tda)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Plant Floor
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0t5p696tda>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0t5p696tda)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -22,19 +22,19 @@ Plant Floor feature in the ERPNext is used to visualize the status of machines a
 
 After that you can see the status of machines and workstations using plant floor.
 
-![](/files/plant-floor-design.png)
+![](../../assets/cd56ed6fdb1f.png)
 
 ### Visualize Stock Summary
 
 Using plant floor, users can visualize the stock of the corresponding plant floor. Using this feature user can add or move the stock.
 
-![stock-summary](/files/stock-summary.png)
+![stock-summary](https://docs.frappe.io/assets/84ade2971b15.png)
 
 ### Visualize Job Cards
 
-![job_cards](/files/job_cards.gif)
+![job_cards](https://docs.frappe.io/assets/b5d156b7f13f.gif)
 
-[ Previous Page Job Card  ](</erpnext/job-card>) [ Next Page Manufacturing Reports  ](</erpnext/manufacturing-reports>)
+[ Previous Page Job Card  ](job-card.md) [ Next Page Manufacturing Reports  ](https://docs.frappe.io/erpnext/manufacturing-reports)
 
 Last updated 2 weeks ago 
 

@@ -1,12 +1,12 @@
 # Process Deferred Accounting
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ropbupi7s>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ropbupi7s)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Process Deferred Accounting 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ropbupi7s>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ropbupi7s)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -22,8 +22,8 @@ To access the Process Deferred Accounting list, go to:
 
 Before creating and using a Process Deferred Accounting, it is advised to create and understand the following first:
 
-  * [Deferred Revenue](</erpnext/deferred-revenue>)
-  * [Deferred Expense](</erpnext/deferred-expense>)
+  * [Deferred Revenue](../../../deferred-revenue.md)
+  * [Deferred Expense](../../../deferred-expense.md)
 
 
 
@@ -38,7 +38,7 @@ Before creating and using a Process Deferred Accounting, it is advised to create
 
 
 
-![Process Deferred Revenue](/files/process-deferred-accounting.png)
+![Process Deferred Revenue](https://docs.frappe.io/assets/790aaae392a1.png)
 
 ## 3\. Features
 
@@ -56,9 +56,9 @@ To access Accounts Settings go to:
 
 > Home > Accounting > Accounting Masters > Accounts Settings
 
-![Deferred Accounting Settings](/files/deferred-accounting-settings.png)
+![Deferred Accounting Settings](https://docs.frappe.io/assets/c6ddf8e91967.png)
 
-[ Previous Page Deferred Accounting ](</erpnext/deferred-accounting>) [ Next Page Currency  ](</erpnext/currency>)
+[ Previous Page Deferred Accounting ](../../../deferred-accounting.md) [ Next Page Currency  ](../../../currency.md)
 
 Last updated 2 weeks ago 
 

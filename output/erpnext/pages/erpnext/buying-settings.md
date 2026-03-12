@@ -1,12 +1,12 @@
 # Buying Settings
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rgj1ebcl0>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rgj1ebcl0)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Buying Settings
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rgj1ebcl0>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rgj1ebcl0)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,7 +14,7 @@ ERPNext allows you to configure various settings and configurations that help st
 
 ## Naming Series and Price Defaults
 
-![Screenshot 2024-08-29 at 1.23.09 PM](/files/Screenshot%202024-08-29%20at%201.23.09%20PM.png)
+![Screenshot 2024-08-29 at 1.23.09 PM](https://docs.frappe.io/assets/28697f14c493.png)
 
 ### 1\. Supplier Naming By
 
@@ -47,7 +47,7 @@ This setting specifies which user roles have the permission to override the "Sto
 
 ## Transaction Settings
 
-![Screenshot 2024-08-29 at 1.24.53 PM](/files/Screenshot%202024-08-29%20at%201.24.53%20PM.png)
+![Screenshot 2024-08-29 at 1.24.53 PM](https://docs.frappe.io/assets/3f49c4b23ba6.png)
 
 ### 1\. Is Purchase Order Required for Purchase Invoice & Receipt Creation?
 
@@ -96,7 +96,7 @@ If checked, Rejected Quantity will be included while making Purchase Invoice fro
 
 For rejected materials, the valuation rate is set to zero, and no accounting ledger entry is created for them in the Purchase Receipt. To apply a valuation rate and generate accounting entries for rejected materials, enable the 'Set Valuation Rate for Rejected Materials' option in Buying Settings. This option is only applicable when `Bill for Rejected Quantity in Purchase Invoice` has enabled in the Buying Settings.
 
-![](/files/Screenshot%202025-06-09%20at%204.49.24%20PM%201.png)
+![](../../assets/76167a6a2276.png)
 
 ##### 8\. **Set Landed Cost Based on Purchase Invoice Rate**
 
@@ -125,7 +125,7 @@ While making Purchase Invoice from Purchase Order, use Exchange Rate on Invoice'
 
 ## Subcontracting Settings
 
-![Screenshot 2024-08-29 at 1.32.06 PM](/files/Screenshot%202024-08-29%20at%201.32.06%20PM.png)
+![Screenshot 2024-08-29 at 1.32.06 PM](https://docs.frappe.io/assets/8ccb598d29e6.png)
 
 ### 1\. Backflush Raw Materials of Subcontract Based On
 
@@ -146,7 +146,7 @@ System will auto create the purchase receipt for the service items in a Draft st
 
 It is the percentage you are allowed to transfer more against the quantity ordered. For example: If you have ordered 100 units. and your Allowance is 10% then you are allowed to transfer 110 units.
 
-[ Previous Page Supplier ](</erpnext/supplier>) [ Next Page Purchase Transactions ](</erpnext/purchase-transactions>)
+[ Previous Page Supplier ](supplier.md) [ Next Page Purchase Transactions ](purchase-transactions.md)
 
 Last updated 2 weeks ago 
 

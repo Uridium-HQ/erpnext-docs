@@ -1,12 +1,12 @@
 # Report Print Formats
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12cqomdbp6>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12cqomdbp6)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Report Print Formats 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12cqomdbp6>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12cqomdbp6)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,7 +14,7 @@ In version 4.1 we introduce Report Print Formats. These are HTML templates that 
 
 ### 1\. Creating New Print Formats
 
-To create a new Print Format, just drop in a `.html` file in the folder of the query report. For example, for the [General Ledger](<https://github.com/frappe/erpnext/tree/develop/erpnext/accounts/report/general_ledger>) report in ERPNext, you can drop in a file called `general_ledger.html` along side the `.js` and `.py` files.
+To create a new Print Format, just drop in a `.html` file in the folder of the query report. For example, for the [General Ledger](https://github.com/frappe/erpnext/tree/develop/erpnext/accounts/report/general_ledger) report in ERPNext, you can drop in a file called `general_ledger.html` along side the `.js` and `.py` files.
 
 ##### Tree Of `erpnext/accounts/general_ledger`
 
@@ -22,7 +22,7 @@ general_ledger/ ├── __init__.py ├── general_ledger.html ├── ge
 
 ### 2\. Templating
 
-For templating, we use an adapted version of [John Resig's microtemplating script](<http://ejohn.org/blog/javascript-micro-templating/>). If you know Javascript, it is very easy to follow this templating language.
+For templating, we use an adapted version of [John Resig's microtemplating script](http://ejohn.org/blog/javascript-micro-templating/). If you know Javascript, it is very easy to follow this templating language.
 
 ##### Here are some examples (from John Resig's Blog):
 
@@ -30,9 +30,9 @@ Example: Properities:
 
 ">
 
-![](%=profile_image_url%)
+![](https://docs.frappe.io/framework/v14/user/en/guides/reports-and-printing/%=profile_image_url%)
 
-**[<%=from_user%>](</%3C%=from_user%%3E>):** <%=text%>
+**[<%=from_user%>](https://docs.frappe.io/%3C%=from_user%%3E):** <%=text%>
 
 Example: Code structures, Loops
 
@@ -60,22 +60,22 @@ Data is available to the template as:
 
 Here is how the General Ledger Report is built:
 
-[General Ledger Print Format Template](<https://github.com/frappe/erpnext/blob/develop/erpnext/accounts/report/general_ledger/general_ledger.html>)
+[General Ledger Print Format Template](https://github.com/frappe/erpnext/blob/develop/erpnext/accounts/report/general_ledger/general_ledger.html)
 
 Here is what the report looks like:
 
-![General Ledger](/files/general-ledger.png)
+![General Ledger](https://docs.frappe.io/assets/6895a3d8fc1c.png)
 
 ##### Comments:
 
-  1. [Bootstrap Stylesheet](<http://getbootstrap.com>) is pre-loaded.
+  1. [Bootstrap Stylesheet](http://getbootstrap.com/) is pre-loaded.
   2. You can use all global functions like `fmt_money` and dateutil.
   3. Translatable strings should be written as `__("text")`
   4. You can create modules and import using `{% include "templates/includes/formats/common_format" %}`
 
 
 
-[ Previous Page How To Make Query Report  ](</framework/v14/user/en/guides/reports-and-printing/how-to-make-query-report>) [ Next Page Script Report  ](</framework/v14/user/en/guides/reports-and-printing/how-to-make-script-reports>)
+[ Previous Page How To Make Query Report  ](how-to-make-query-report.md) [ Next Page Script Report  ](how-to-make-script-reports.md)
 
 Last updated 2 months ago 
 

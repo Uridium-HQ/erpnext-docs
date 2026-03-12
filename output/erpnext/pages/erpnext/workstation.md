@@ -1,12 +1,12 @@
 # Workstation
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s0imp5o5m>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s0imp5o5m)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Workstation
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s0imp5o5m>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s0imp5o5m)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -37,27 +37,27 @@ Optionally, you can enter a description for the Workstation.
 
 Using this table you can divide the different cost components and set it to the Operation.
 
-![](/files/Screenshot%202025-08-19%20at%2012.57.24%20PM.png)
+![](../../assets/17f80e7555e9.png)
 
 ### Workstation Operating Component
 
 User can also define the expense account per component company wise in the Workstation Operating Component.
 
-![](/files/CleanShot%202026-02-19%20at%2012.20.21@2x.png)
+![](../../assets/c99ddc541940.png)
 
 * * *
 
-A [Holiday List](</hr/holiday-list>) can be added to exclude counting these days for the Workstation.
+A [Holiday List](https://docs.frappe.io/hr/holiday-list) can be added to exclude counting these days for the Workstation.
 
 The hours when the Workstation will be Operational can be added. On adding a Holiday list, the days listed as holidays won't be counted as working for the Workstation.
 
-Under Working Hours table, you can add start and end times for a Workstation. For example, a Workstation may be active from 9 am to 1 pm, then 2 pm to 5 pm. You can also specify the working hours based on shifts. While scheduling a [Work Order](</erpnext/work-order>), the system will check for the availability of the Workstation based on the working hours specified.
+Under Working Hours table, you can add start and end times for a Workstation. For example, a Workstation may be active from 9 am to 1 pm, then 2 pm to 5 pm. You can also specify the working hours based on shifts. While scheduling a [Work Order](work-order.md), the system will check for the availability of the Workstation based on the working hours specified.
 
-![](/files/CleanShot%202026-02-19%20at%2012.22.41@2x.png)
+![](../../assets/60c385cbb78d.png)
 
 After saving the Workstation, the following actions can be performed against it:
 
-![](/files/CleanShot%202026-02-19%20at%2012.23.30@2x.png)
+![](../../assets/299a6aae03be.png)
 
 * * *
 
@@ -67,7 +67,7 @@ After saving the Workstation, the following actions can be performed against it:
 
 Production Capacity is the total number of jobs can be executed at the same time in the respective workstation.
 
-![](/files/CleanShot%202026-02-19%20at%2012.24.54@2x.png)
+![](../../assets/c93d5025cd7a.png)
 
 * * *
 
@@ -75,15 +75,15 @@ Production Capacity is the total number of jobs can be executed at the same time
 
 ## Related Topics
 
-  1. [Bill Of Materials](</erpnext/bill-of-materials>)
-  2. [Operation](</erpnext/operation>)
-  3. [Routing](</erpnext/routing>)
-  4. [Work Order](</erpnext/work-order>)
-  5. [Job Card](</erpnext/job-card>)
+  1. [Bill Of Materials](bill-of-materials.md)
+  2. [Operation](operation.md)
+  3. [Routing](routing.md)
+  4. [Work Order](work-order.md)
+  5. [Job Card](job-card.md)
 
 
 
-[ Previous Page Operation  ](</erpnext/operation>) [ Next Page Routing  ](</erpnext/routing>)
+[ Previous Page Operation  ](operation.md) [ Next Page Routing  ](routing.md)
 
 Last updated 2 weeks ago 
 

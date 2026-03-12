@@ -1,12 +1,12 @@
 # Module
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tju8acju0>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tju8acju0)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Module 
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tju8acju0>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tju8acju0)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -46,7 +46,7 @@ Modules also helps in grouping of code files in directories. The controller file
     
 [/code]
 
-[ Previous Page Docstatus ](</framework/user/en/basics/doctypes/frameworktatus>) [ Next Page Virtual DocField ](</framework/user/en/basics/virtual_docfield>)
+[ Previous Page Docstatus ](frameworktatus.md) [ Next Page Virtual DocField ](../virtual_docfield.md)
 
 Last updated 3 weeks ago 
 

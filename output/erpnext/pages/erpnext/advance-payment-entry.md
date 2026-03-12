@@ -1,12 +1,12 @@
 # Advance Payment Entry
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rn0rielgc>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rn0rielgc)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Advance Payment Entry
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rn0rielgc>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rn0rielgc)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -16,7 +16,7 @@ Generally, advance payment is done in the case of high value deals. Consider a C
 
 In ERPNext, advance payment entry is created using Payment Entry. If there exist a Sales Order, you can directly create a Payment Entry for the advance amount. Or else, you can also create a standalone Payment Entry for the Customer. Same way, you can also create advance Payment Entry for Supplier, via Purchase Order.
 
-![Payment Entry From Sales Order](/files/payment-option-in-sales-order.png)
+![Payment Entry From Sales Order](https://docs.frappe.io/assets/41f971632c60.png)
 
 > Note: If payment is not linked to an invoice, it is considered as an advance payment. The advance payments are reflected in the Accounts Receivable and Payable reports.
 
@@ -54,7 +54,7 @@ If the Customer has given $5,000 as cash advance, it will be recorded as a credi
 
 When creating an invoice, you can check if there is an Advance Payment against that Party.
 
-![Fetch Advance Payments in Sales Invoice](/files/fetch-advance-payments-in-invoice.png)
+![Fetch Advance Payments in Sales Invoice](https://docs.frappe.io/assets/4d5a7dc246c7.png)
 
 On clicking **Get Advance Received** button, it will fetch the Advance Payment Entries found for that party. Once Advance Payment Entries are fetched, you can allocate the Amount of advance against this invoice. The allocation will reduce the Outstanding Amount for that invoice right-away.
 
@@ -62,14 +62,14 @@ Save and submit the Sales Invoice.
 
 ### 3\. Related Topics
 
-  1. [Sales Invoice](</erpnext/sales-invoice>)
-  2. [Journal Entry](</erpnext/journal-entry>)
-  3. [Payment Entry](</erpnext/payment-entry>)
-  4. [Advance under Liability/Asset](<https://docs.erpnext.com/docs/user/manual/en/advance-in-separate-party-account>)
+  1. [Sales Invoice](sales-invoice.md)
+  2. [Journal Entry](journal-entry.md)
+  3. [Payment Entry](payment-entry.md)
+  4. [Advance under Liability/Asset](https://docs.erpnext.com/docs/user/manual/en/advance-in-separate-party-account)
 
 
 
-[ Previous Page Update Subscription Payment Method ](</erpnext/update-subscription-payment-method>) [ Next Page Accounting Period ](</erpnext/accounting-period>)
+[ Previous Page Update Subscription Payment Method ](update-subscription-payment-method.md) [ Next Page Accounting Period ](accounting-period.md)
 
 Last updated 2 weeks ago 
 

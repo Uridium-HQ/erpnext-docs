@@ -1,12 +1,12 @@
 # Asset Maintenance Log
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s3n6khfkq>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s3n6khfkq)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Asset Maintenance Log 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s3n6khfkq>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s3n6khfkq)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -24,7 +24,7 @@ To access the Asset Maintenance Log, go to:
 
 Before creating and using Asset Maintenance Log, it is advised to create the following first:
 
-  * [Asset Maintenance](<https://docs.frappe.io/erpnext/user/manual/en/asset-maintenance>)
+  * [Asset Maintenance](https://docs.frappe.io/erpnext/user/manual/en/asset-maintenance.md)
 
 
 
@@ -40,9 +40,9 @@ In order to submit an Asset Maintenance Log, the Asset Maintenance status has to
 
 
 
-![](/files/Screenshot%202026-01-11%20at%2011.48.03%E2%80%AFPM.png)
+![](../../assets/48314793dafc.png)
 
-[ Previous Page Asset Maintenance Team  ](</erpnext/asset-maintenance-team>) [ Next Page Asset Movement ](</erpnext/asset-movement>)
+[ Previous Page Asset Maintenance Team  ](asset-maintenance-team.md) [ Next Page Asset Movement ](asset-movement.md)
 
 Last updated 2 weeks ago 
 

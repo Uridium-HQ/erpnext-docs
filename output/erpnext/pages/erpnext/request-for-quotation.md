@@ -1,18 +1,18 @@
 # Request for Quotation
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rghabbdd9>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rghabbdd9)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Request for Quotation
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rghabbdd9>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rghabbdd9)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 **A Request for Quotation is a document that an organization sends to one or more suppliers asking a quotation for items.**
 
-![Buying Flow](/files/buying_flow_rfq.png)
+![Buying Flow](https://docs.frappe.io/assets/f6491f18a4ff.png)
 
 To access **Request for Quotation** , open the "Buying" workspace and, under "Reports & Masters" > "Buying", click on "Request for Quotation".
 
@@ -24,8 +24,8 @@ To access **Request for Quotation** , open the "Buying" workspace and, under "Re
 
 Before creating and using a **Request for Quotation** , it is advised that you create the following first:
 
-  * [Supplier](</erpnext/supplier>)
-  * [Item](</erpnext/item>)
+  * [Supplier](supplier.md)
+  * [Item](item.md)
 
 
   2. How to create a Request For Quotation
@@ -60,10 +60,10 @@ Apart from these, you can access all values in this RFQ, like `{{ message_for_su
 
 
 
-![Preview Email](/files/email-preview.png) 8\. If you want to send further attachments to your suppliers, you can enable the checkbox  
+![Preview Email](https://docs.frappe.io/assets/ddb356651f84.png) 8\. If you want to send further attachments to your suppliers, you can enable the checkbox  
 _Send Attached Files_. This will add each file attached to the **Request for Quotation** as an attachment to each supplier email. 9\. Once you're done, save the **Request for Quotation** as a draft. 10\. When you're ready, you can submit the **Request for Quotation**. This will trigger an email to each supplier that has _Send Email_ enabled.
 
-![Create RFQ](/files/rfq-create.png)
+![Create RFQ](https://docs.frappe.io/assets/7874bf159684.png)
 
 A Request for Quotation (RFQ) can also be created from a submitted Material Request. Once an RFQ is created, you can print and send suppliers the PDF which will have all the details you entered relevant to the RFQ. You can also get their reply (Supplier Quotation) in ERPNext itself, see section 4.1 Supplier Quotation by User. However, for a large number of items, your supplier may be more comfortable with an Excel sheet, etc.
 
@@ -83,7 +83,7 @@ The items in the items table can be fetched from other documents. The options ar
 
 
 
-![RFQ get items](/files/rfq-get-items.png)
+![RFQ get items](https://docs.frappe.io/assets/ef638edadca5.png)
 
 ### 3.2 Get Suppliers
 
@@ -94,7 +94,7 @@ Instead of entering the suppliers manually in the table, you can also fetch them
 
 
 
-![RFQ get suppliers](/files/rfq-get-suppliers.png)
+![RFQ get suppliers](https://docs.frappe.io/assets/d31f4025dbef.png)
 
 In the Supplier table, on expanding a row with the inverted triangle, you'll see an option 'Download PDF' which will open a PDF of the RFQ.
 
@@ -102,25 +102,25 @@ In the Supplier table, on expanding a row with the inverted triangle, you'll see
 
 When you click on **Tools > Link to Material Requests**, it links the Request for Quotation to available Material Requests. The items should be the same in the Request for Quotation and the Material Request.
 
-![Link to Material Request](/files/link-to-material-request.png)
+![Link to Material Request](https://docs.frappe.io/assets/582429aa5b43.png)
 
 Now, when the Request for Quotation is saved, you can see in the Dashboard that it is linked to the Material Request. If there are multiple Material Requests with the same items, then the link will be created with the newest Material Request.
 
 ### 3.5 Terms and Conditions
 
-In Sales/Purchase transactions, there might be certain Terms and Conditions based on which the Supplier provides goods or services to the Customer. You can apply the Terms and Conditions to transactions and they will appear when printing the document. To know about Terms and Conditions, [click here](</erpnext/terms-and-conditions>)
+In Sales/Purchase transactions, there might be certain Terms and Conditions based on which the Supplier provides goods or services to the Customer. You can apply the Terms and Conditions to transactions and they will appear when printing the document. To know about Terms and Conditions, [click here](terms-and-conditions.md)
 
 ### 3.6 Print Settings
 
 #### Letterhead
 
-You can print your request for quotation/purchase order on your company's letterhead. Know more [here](</erpnext/letter-head>).
+You can print your request for quotation/purchase order on your company's letterhead. Know more [here](letter-head.md).
 
 'Group same items' will group the same items added multiple times in the items table. This can be seen when you print it.
 
 #### Print Headings
 
-Titles of your documents can be changed. Know more [here](</erpnext/print-headings>).
+Titles of your documents can be changed. Know more [here](print-headings.md).
 
 #### Special properties
 
@@ -147,32 +147,32 @@ After creation of Request for Quotation, there are two ways to generate Supplier
 
 
 
-![Supplier Quotation from RFQ](/files/make-supplier-quotation-from-rfq.png) 2\. Select the Supplier, click on the supplier again. In this page, click on the + next to 'Supplier Quotation'. A new Supplier Quotation page will be opened, user has to enter the quantity, rate and submit it.
+![Supplier Quotation from RFQ](https://docs.frappe.io/assets/7ac214546bb5.png) 2\. Select the Supplier, click on the supplier again. In this page, click on the + next to 'Supplier Quotation'. A new Supplier Quotation page will be opened, user has to enter the quantity, rate and submit it.
 
-![Supplier Quotation from Supplier](/files/supplier-quotation-from-sup.png)
+![Supplier Quotation from Supplier](https://docs.frappe.io/assets/144ed9b02754.png)
 
 ### 4.2 Supplier Quotation from Supplier
 
-  1. If a [Contact](</erpnext/contact>) is created for the Supplier and an email address is associated with the Contact, the Contact details and the email address will be fetched on selecting the Supplier. Create a Contact and email address if not present already.
+  1. If a [Contact](contact.md) is created for the Supplier and an email address is associated with the Contact, the Contact details and the email address will be fetched on selecting the Supplier. Create a Contact and email address if not present already.
   2. Click on **Tools > Send Emails to Suppliers**.
 
 
 
 **If the Supplier's account is not present** : The system will create the Supplier's account and send details to the Supplier. The Supplier will need to click on the link (Password Update) present in the email. After the password update, the Supplier can access their portal with the 'Request for Quotation' form. The Supplier will be created as a Website User.
 
-![Supplier email if account not present](/files/supplier-email-with-update-password.png)
+![Supplier email if account not present](https://docs.frappe.io/assets/e23a16875aa6.png)
 
 **If Supplier's account is present** : The system will send a Request for Quotation link to the Supplier. The Supplier must log in using his credentials to view the Request for Quotation form on the portal.
 
-![Supplier email if account present](/files/supplier-email-normal.png) 3\. Either way, when the Supplier logs in, the following screen will be shown to them. From here they can send you a quotation:
+![Supplier email if account present](https://docs.frappe.io/assets/d631aac61027.png) 3\. Either way, when the Supplier logs in, the following screen will be shown to them. From here they can send you a quotation:
 
-![Supplier Quotation Screen](/files/rfq-supplier-quotation.png)
+![Supplier Quotation Screen](https://docs.frappe.io/assets/412d310cbd71.png)
 
 The Supplier has to enter the amount and notes (payment terms) on the form and click on Submit. In the Quotations section, previous quotations will be visible. 4\. On submission, ERPNext will create a Supplier Quotation (draft mode) against the Supplier. The user has to review the Supplier Quotation and submit it. When all the items from the Request for Quotation have been quoted by a Supplier, the quote status is updated to 'Received' in the 'Suppliers' table of the Request for Quotation.
 
-![RFQ status after supplier quote](/files/rfq-supplier-quoted.png)
+![RFQ status after supplier quote](https://docs.frappe.io/assets/4f3d2afb7577.png)
 
-Read [Supplier Quotation](</erpnext/supplier-quotation>) to know more.
+Read [Supplier Quotation](supplier-quotation.md) to know more.
 
   5. Video
 
@@ -182,15 +182,15 @@ Read [Supplier Quotation](</erpnext/supplier-quotation>) to know more.
 
 ### 6\. Related Topics
 
-  1. [Purchase Order](</erpnext/purchase-order>)
-  2. [Supplier](</erpnext/supplier>)
-  3. [Supplier Quotation](</erpnext/supplier-quotation>)
-  4. [Quotation](</erpnext/quotation>)
-  5. [Material Request](</erpnext/material-request>)
+  1. [Purchase Order](purchase-order.md)
+  2. [Supplier](supplier.md)
+  3. [Supplier Quotation](supplier-quotation.md)
+  4. [Quotation](quotation.md)
+  5. [Material Request](material-request.md)
 
 
 
-[ Previous Page Purchase Return  ](</erpnext/purchase-return>) [ Next Page Supplier Quotation  ](</erpnext/supplier-quotation>)
+[ Previous Page Purchase Return  ](purchase-return.md) [ Next Page Supplier Quotation  ](supplier-quotation.md)
 
 Last updated 2 weeks ago 
 

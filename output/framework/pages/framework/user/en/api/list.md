@@ -1,12 +1,12 @@
 # List
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tnbf3pjoe>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tnbf3pjoe)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # List
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tnbf3pjoe>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tnbf3pjoe)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -22,7 +22,7 @@ The List view is packed with features. Some of them are:
 
 
 
-![List View](/files/list-view.png) _List View_
+![List View](https://docs.frappe.io/assets/2aa0cce35352.png) _List View_
 
 ## Standard List JS
 
@@ -101,15 +101,15 @@ To create a new Client Script, go to
 
 **Home > Customization > Client Script > New**
 
-![New Client Script](/files/client-script-list.png) _New Client Script for List_
+![New Client Script](https://docs.frappe.io/assets/06a48dd86e9b.png) _New Client Script for List_
 
 The above customization will result in a list view that looks like this:
 
-![List View Customized](/files/list-view-customized.png) _List View Customized_
+![List View Customized](https://docs.frappe.io/assets/d12c5c0349f7.png) _List View Customized_
 
 ## Multiple Buttons in the List JS
 
-> This feature is available on [Develop](<https://github.com/frappe/frappe/tree/develop>) version.
+> This feature is available on [Develop](https://github.com/frappe/frappe/tree/develop) version.
 
 You now have the capability to add multiple buttons within a dropdown menu in the list view row through the use of the list view client script. This feature enhances the user experience by providing convenient access to various actions directly from the list view.
 [code] 
@@ -181,9 +181,9 @@ You now have the capability to add multiple buttons within a dropdown menu in th
     
 [/code]
 
-![](/files/w7DupHw.png)
+![](../../../../../assets/d4f36cee066d.png)
 
-[ Previous Page Controls  ](</framework/user/en/api/controls>) [ Next Page Page API ](</framework/user/en/api/page>)
+[ Previous Page Controls  ](controls.md) [ Next Page Page API ](page.md)
 
 Last updated 3 weeks ago 
 

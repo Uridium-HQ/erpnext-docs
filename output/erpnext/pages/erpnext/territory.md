@@ -1,12 +1,12 @@
 # Territory
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0riumibkq4>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0riumibkq4)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Territory 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0riumibkq4>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0riumibkq4)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -46,7 +46,7 @@ Here you can set specific sales targets based on the following fields:
 
 
 
-![](/files/Territory.png)
+![](../../assets/8125bbbf678b.png)
 
 To know more about setting sales targets, visit the Sales Person Target Allocation page
 
@@ -57,7 +57,7 @@ To know more about setting sales targets, visit the Sales Person Target Allocati
 
 
 
-[ Previous Page Customer Group  ](</erpnext/customer-group>) [ Next Page Contact  ](</erpnext/contact>)
+[ Previous Page Customer Group  ](customer-group.md) [ Next Page Contact  ](contact.md)
 
 Last updated 2 weeks ago 
 

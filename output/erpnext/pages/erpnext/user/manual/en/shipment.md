@@ -1,12 +1,12 @@
 # Shipment
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rtnvs64jt>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rtnvs64jt)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Shipment 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rtnvs64jt>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rtnvs64jt)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -24,8 +24,8 @@ To access the Shipment list, go to:
 
 Before creating and using a Shipment, it is advised that you create the following first:
 
-  * Company and Customer [Address](</erpnext/address>) with Postal Code, Email Address and Phone Number set.
-  * Customer [Contact](</erpnext/contact>).
+  * Company and Customer [Address](../../../address.md) with Postal Code, Email Address and Phone Number set.
+  * Customer [Contact](../../../contact.md).
 
 
 
@@ -41,7 +41,7 @@ To create a Shipment manually, follow these steps:
 
 
 
-![Unsaved Shipment](/files/unsaved-shipment.png)
+![Unsaved Shipment](https://docs.frappe.io/assets/94bcb09ac0c3.png)
 
   1. Select an option in the **Pickup from** field. On selecting one of the three options, you will be prompted to select a Company/Supplier/Customer based on your selection.
   2. If you select 'Company' in the **Pickup from** field, along with the Address you must also select a **Pickup Contact Person** who will be a user from your organization, in ERPNext. Make sure the Last Name, Email Address and Phone Number are set for this user.
@@ -55,7 +55,7 @@ To create a Shipment manually, follow these steps:
 
 
 
-![Submitted Shipment](/files/shipment-submitted.png)
+![Submitted Shipment](https://docs.frappe.io/assets/2db80ff3de7c.png)
 
 ### 2.1. Shipment from Delivery Note
 
@@ -65,7 +65,7 @@ To create a Shipment from a Delivery Note:
 
 
 
-![Submitted Shipment](/files/shipment-from-delivery-note.png)
+![Submitted Shipment](https://docs.frappe.io/assets/54d9bfd64f2a.png)
 
   1. Fill the form as mentioned in the previous section.
 
@@ -79,7 +79,7 @@ You can specify the length, width, height and, weight of a parcel in the Shipmen
 
 To automatically fetch frequently used parcel dimensions, a Parcel Template can be created and set in the **Parcel Template** field. After adding the template, click on the **Add template** button.
 
-![Submitted Shipment](/files/shipment-parcel.png)
+![Submitted Shipment](https://docs.frappe.io/assets/944cc95d0ab0.png)
 
 ### 3.2. Shipment Information / Details
 
@@ -91,22 +91,22 @@ The Shipment Information section is an **optional** section where a user can man
   4. **Carrier** : The Carrier that handles your Shipment and delivers it.
   5. **Carrier Service** (optional): The type/category of service provided by the carrier. E.g. some carriers have categories such as Economy, Express, etc.
   6. **AWB Number** : An air waybill (AWB) accompanies **international** air cargo. It usually has a unique **AWB Number** , that makes it easy to identify and track an air courier.
-  7. **Incoterm** : They are a set of internationally recognized rules which define the responsibilities of sellers and buyers. [Know more about it here.](<https://iccwbo.org/resources-for-business/incoterms-rules/incoterms-2020/>)
+  7. **Incoterm** : They are a set of internationally recognized rules which define the responsibilities of sellers and buyers. [Know more about it here.](https://iccwbo.org/resources-for-business/incoterms-rules/incoterms-2020/)
 
 
 
 ### 3.3 Automation
 
-You can also automate rate comparison, label generation, tracking, etc. using our [Shipping Integration](</erpnext/erpnext_shipping>).
+You can also automate rate comparison, label generation, tracking, etc. using our [Shipping Integration](../../../erpnext_shipping.md).
 
 ### 4\. Related Topics
 
-  1. [Delivery Note](</erpnext/delivery-note>)
-  2. [Packing Slip](</erpnext/packing-slip>)
+  1. [Delivery Note](../../../delivery-note.md)
+  2. [Packing Slip](../../../packing-slip.md)
 
 
 
-[ Previous Page Item Alternative  ](</erpnext/item-alternative>) [ Next Page Installation Note  ](</erpnext/installation-note>)
+[ Previous Page Item Alternative  ](../../../item-alternative.md) [ Next Page Installation Note  ](../../../installation-note.md)
 
 Last updated 2 weeks ago 
 

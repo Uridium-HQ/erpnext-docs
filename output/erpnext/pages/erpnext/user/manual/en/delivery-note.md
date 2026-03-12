@@ -1,12 +1,12 @@
 # Delivery Note
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rh728fbro>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rh728fbro)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Delivery Note 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rh728fbro>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rh728fbro)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -18,7 +18,7 @@ To access the Delivery Note list, go to:
 
 > Home > Stock > Stock Transactions > Delivery Note
 
-![Delivery Note flow](/files/delivery-note-flow.png)
+![Delivery Note flow](https://docs.frappe.io/assets/19bde2e628b3.png)
 
 ## Prerequisites
 
@@ -70,7 +70,7 @@ When you create a Delivery Note from a Sales Order, the quantities can be change
 
 You can create Delivery Notes in bulk, from Pick Lists also. From a submitted Pick List, click on Create -> Delivery Note.
 
-![](/files/image81aab7.png)
+![](../../../../../assets/3af308071ea5.png)
 
 This would create separate Delivery Notes for Sales Orders, grouped by Customer. If a Pick List Item is not linked to a Sales Order(added manually by user), a separate DN would be created for all those items as well.
 
@@ -175,7 +175,7 @@ If you outsource transporting Items to their delivery location, the transporter 
 
 
 
-![](/files/transportation.png)
+![](../../../../../assets/85501b3a02f1.png)
 
 The following details can be recorded:
 
@@ -232,7 +232,7 @@ If the sale took place via one of your Sales Partners, you can add their commiss
 
 This is usually fetched from a Sales Order, for example:
 
-![](/files/image71a4c0.png)
+![](../../../../../assets/f22c5ccc9105.png)
 
 ### Shipping Packets or Items with Product Bundle
 
@@ -255,7 +255,7 @@ The Dashboard will show the following options:
   * Installation Note
   * Sales Return
   * Delivery Trip
-  * Sales Invoice ![](/files/image4843aa.png)
+  * Sales Invoice ![](../../../../../assets/0dade48e5ddb.png)
 
 
 
@@ -279,7 +279,7 @@ If you don't want to create a Delivery Note after a Sales Order and directly wan
 
 
 
-[ Previous Page Purchase Receipt  ](</erpnext/purchase-receipt>) [ Next Page Stock Entry ](</erpnext/stock-entry>)
+[ Previous Page Purchase Receipt  ](../../../purchase-receipt.md) [ Next Page Stock Entry ](../../../stock-entry.md)
 
 Last updated 2 weeks ago 
 

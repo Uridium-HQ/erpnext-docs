@@ -1,12 +1,12 @@
 # Actions and Links
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12lf6g5nmh>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12lf6g5nmh)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Actions and Links 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12lf6g5nmh>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12lf6g5nmh)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,7 +14,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 Action and Links (also called Connections) are two ways to provide the end user more interaction with the document. The image below shows what they are :
 
-![Action and Link View](/files/action-link.png)
+![Action and Link View](https://docs.frappe.io/assets/a6a86a41c875.png)
 
 ## Actions
 
@@ -27,7 +27,7 @@ A DocType may have some `DocType Action` that will result in a button creation o
 
 ### Configuration of Action
 
-![Action Configuraton](/files/action-config.png)
+![Action Configuraton](https://docs.frappe.io/assets/268fd4a83844.png)
 
 ### Configuration of Action in custom app
 
@@ -50,7 +50,7 @@ This code should go somewhere inside you app, typically in a file like `apps/my_
 
 And then, configure the correspondant Action path :
 
-![Custom Action Configuraton](/files/custom-app-action-config.png)
+![Custom Action Configuraton](https://docs.frappe.io/assets/f28f7b205945.png)
 
 ## Connections (Linked Documents)
 
@@ -60,15 +60,15 @@ These links also support adding internal links (links to DocType in child tables
 
 ### Configuration Connections
 
-![Link Configuration](/files/link-config.png)
+![Link Configuration](https://docs.frappe.io/assets/99d212626347.png)
 
-![Internal Link](/files/internal-link.png)
+![Internal Link](https://docs.frappe.io/assets/1e8860ad70f8.png)
 
 ### Customization of Actions and Links
 
-DocType Actions and Links are extensible via [Customize Form](<customize>)
+DocType Actions and Links are extensible via [Customize Form](customize.md)
 
-[ Previous Page Virtual DocTypes ](</framework/v14/user/en/basics/doctypes/virtual-doctype>) [ Next Page Customizing DocTypes  ](</framework/v14/user/en/basics/doctypes/customize>)
+[ Previous Page Virtual DocTypes ](virtual-doctype.md) [ Next Page Customizing DocTypes  ](customize.md)
 
 Last updated 2 months ago 
 

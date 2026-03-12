@@ -1,12 +1,12 @@
 # Period Closing Voucher
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sel1ldac0>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sel1ldac0)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Period Closing Voucher 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sel1ldac0>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sel1ldac0)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -35,7 +35,7 @@ To access the Period Closing Voucher list, go to:
   2. Set a posting date.
   3. Select the account, usually this is the 'Reserves and Surplus' account.
   4. Enter any remarks.
-  5. Save and Submit. ![Period Closing Voucher](/files/period-closing-voucher.png)
+  5. Save and Submit. ![Period Closing Voucher](https://docs.frappe.io/assets/b012e4d5cb76.png)
 
 
 
@@ -54,23 +54,23 @@ The Period Closing Voucher will make accounting entries (GL Entry). This will ma
 
 You should select a liability account like Reserves and Surplus, or Any Revenue Reserve account or into Owners Capital account as Closing Account.
 
-![Period Closing Voucher ledger](/files/period-closing-voucher-ledger.png)
+![Period Closing Voucher ledger](https://docs.frappe.io/assets/c4ac2126bd82.png)
 
 If **Book Cost Center Wise Profit/Loss** is enabled, the net profit & loss will be booked according to the individual transaction's cost center. Below is the closing entry made for two sales transaction having different cost center.
 
-![Cost Center-wise Period Closing Voucher](/files/cost-center-wise-period-closing-voucher.png)
+![Cost Center-wise Period Closing Voucher](https://docs.frappe.io/assets/8d2c5259a6f9.png)
 
 > **Note:** If accounting entries are made in a closing Fiscal Year, even after Period Closing Voucher was created for that Fiscal Year, you should create another Period Closing Voucher. Later voucher will only transfer the pending P&L balance into Closing Account Head.
 
 ### 2\. Related Topics
 
-  1. [Fiscal Year](</erpnext/fiscal-year>)
-  2. [Tax Withholding Category](</erpnext/tax-withholding-category>)
-  3. [Accounting Period](</erpnext/accounting-period>)
+  1. [Fiscal Year](fiscal-year.md)
+  2. [Tax Withholding Category](tax-withholding-category.md)
+  3. [Accounting Period](accounting-period.md)
 
 
 
-[ Previous Page Accounting Period ](</erpnext/accounting-period>) [ Next Page Accounting Reports ](</erpnext/accounting-reports>)
+[ Previous Page Accounting Period ](accounting-period.md) [ Next Page Accounting Reports ](accounting-reports.md)
 
 Last updated 2 weeks ago 
 

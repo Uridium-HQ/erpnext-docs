@@ -1,12 +1,12 @@
 # Docstatus
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tjvon34cj>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tjvon34cj)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Docstatus
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tjvon34cj>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tjvon34cj)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -55,7 +55,7 @@ In the backend code we have a helper class `DocStatus` that can be used as follo
 
 The docstatus gets stored as an integer value in each Doctype table of the database.
 
-[ Previous Page Audit Trail ](</framework/user/en/audit-trail>) [ Next Page Module  ](</framework/user/en/basics/doctypes/modules>)
+[ Previous Page Audit Trail ](../../audit-trail.md) [ Next Page Module  ](modules.md)
 
 Last updated 3 weeks ago 
 

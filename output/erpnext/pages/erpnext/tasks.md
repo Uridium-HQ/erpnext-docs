@@ -1,18 +1,18 @@
 # Tasks
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s2ejronct>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s2ejronct)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Tasks 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s2ejronct>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s2ejronct)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 **In project management, a task is an actionable unit or activity which needs to be completed.**
 
-![](/files/imagef14e5f.png)
+![](../../assets/5de8a63b6339.png)
 
 To access Tasks, go to,
 
@@ -22,7 +22,7 @@ To access Tasks, go to,
 
   1. Go to the Task List and click on New.
   2. Add the subject of the task.
-  3. Save. ![](/files/task7e7df9.gif)
+  3. Save. ![](../../assets/8a3c013303b8.gif)
 
 
 
@@ -69,7 +69,7 @@ The following additional details can be added when editing a new task:
 
 > **Note** : Based on the values of **Begin** and **Duration** field, the **Expected Start Date** and **Expected End Date** gets calculated for Project Tasks created using Project Template. This calculation skips holidays based on the holiday list of your company.
 
-![](/files/image825fe3.png)
+![](../../assets/e14dbcc71375.png)
 
 ### Dependencies and Actual Time Tracking
 
@@ -79,14 +79,14 @@ The following additional details can be added when editing a new task:
 
 Task dependencies can be viewed in the Gantt Charts in the following way.
 
-![](/files/imagedbb600.png)
+![](../../assets/beac8df8d44f.png)
 
   * **Actual Start Date** : The actual date and time on which the Task is started get recorded basis the Timesheets.
   * **Actual End Date** : The actual date and time on which the task was finished get recorded here via the Timesheets.
 
 
 
-![](/files/image4e4084.png)
+![](../../assets/38e4809f5531.png)
 
 ### Task costing and Billing
 
@@ -105,16 +105,16 @@ Task dependencies can be viewed in the Gantt Charts in the following way.
 
 
 
-![](/files/image05684c.png)
+![](../../assets/43951d9a2c8e.png)
 
 ## Related Topics
 
-  1. [Project](</erpnext/project>)
-  2. [Timesheet](</erpnext/timesheets>)
+  1. [Project](project.md)
+  2. [Timesheet](timesheets.md)
 
 
 
-[ Previous Page Project  ](</erpnext/project>) [ Next Page Project Views  ](</erpnext/project-views>)
+[ Previous Page Project  ](project.md) [ Next Page Project Views  ](project-views.md)
 
 Last updated 1 week ago 
 

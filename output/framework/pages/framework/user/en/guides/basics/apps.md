@@ -1,16 +1,16 @@
 # Frappe Apps
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tpugv4ebf>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tpugv4ebf)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Frappe Apps
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tpugv4ebf>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tpugv4ebf)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-Frappe Apps are Python packages which use the Frappe platform. They can live anywhere on the [Python path](<https://docs.python.org/2/tutorial/modules.html#the-module-search-path>) and must have an entry in the `apps.txt` file.
+Frappe Apps are Python packages which use the Frappe platform. They can live anywhere on the [Python path](https://docs.python.org/2/tutorial/modules.html) and must have an entry in the `apps.txt` file.
 
 ### Creating an app
 
@@ -94,7 +94,7 @@ Install the app to your site
 
 ` bench --site site_name install-app app_name`
 
-[ Previous Page Guides ](</framework/user/en/guides>) [ Next Page Frappe Ajax Call  ](</framework/user/en/guides/basics/frappe_ajax_call>)
+[ Previous Page Guides ](../../guides.md) [ Next Page Frappe Ajax Call  ](frappe_ajax_call.md)
 
 Last updated 3 weeks ago 
 

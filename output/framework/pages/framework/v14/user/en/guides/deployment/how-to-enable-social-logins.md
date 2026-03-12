@@ -1,12 +1,12 @@
 # How To Enable Social Logins
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12bbbpq6dr>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12bbbpq6dr)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # How To Enable Social Logins 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12bbbpq6dr>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12bbbpq6dr)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -16,7 +16,7 @@ The system uses the **Email Address** supplied by these services to **match with
 
 #### Login screen with Social Logins enabled
 
-![Login screen with Social Logins enabled](/files/social-logins.png)
+![Login screen with Social Logins enabled](https://docs.frappe.io/assets/9eac19fe106f.png)
 
 To enable these signups, you need to have **Client ID** and **Client Secret** from these authentication services for your Frappe site. The Client ID and Client Secret are to be set in **Desktop > Integration > Authentication > Social Login Key > Client ID** and **Desktop > Integration > Authentication > Social Login Key > Client Secret**. Here are the steps to obtain these credentials.
 
@@ -123,7 +123,7 @@ This is assuming you have two 2 sites built on Frappe Framework. Site A is `http
 
 * * *
 
-[ Previous Page Migrations ](</framework/v14/user/en/guides/deployment/migrations>) [ Next Page Getting Information From Another Document In Print Format ](</framework/v14/user/en/guides/reports-and-printing/getting-information-from-another-document-in-print-format>)
+[ Previous Page Migrations ](migrations.md) [ Next Page Getting Information From Another Document In Print Format ](../reports-and-printing/getting-information-from-another-document-in-print-format.md)
 
 Last updated 2 months ago 
 

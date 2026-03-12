@@ -1,12 +1,12 @@
 # Email Inbox
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rbj5j0j72>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rbj5j0j72)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Email Inbox 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rbj5j0j72>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rbj5j0j72)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,11 +20,11 @@ In ERPNext, you can configure Email Inbox for each System User. Following are th
 
 You can configure an Email Inbox for a System User only. Hence ensure that you have added yourself and your colleagues as a User and assigned them required permissions.
 
-To know how to add a new User, go to the [User page](</erpnext/adding-users>).
+To know how to add a new User, go to the [User page](adding-users.md).
 
 ## 2\. Create an Email Domain
 
-Email Domain for the following Services is available out-of-the-box and you can directly proceed to create an [Email Account](</erpnext/email-account>). Know more about creating an Email Domain [here](</erpnext/email-domain>).
+Email Domain for the following Services is available out-of-the-box and you can directly proceed to create an [Email Account](email-account.md). Know more about creating an Email Domain [here](https://docs.frappe.io/erpnext/email-domain).
 
   * **Gmail**
   * **Yahoo**
@@ -35,7 +35,7 @@ Email Domain for the following Services is available out-of-the-box and you can 
 
 
 
-![Email Service](/files/email-service.png)
+![Email Service](https://docs.frappe.io/assets/6b48aff753a4.png)
 
 To be able to send and receive emails into your ERPNext account from other email services (like WebMail or Gmail), you should set up an Email Domain master. In this master, email gateway details like SMTP Address, Port No., IMAP/POP3 address details are captured. If you have ever configured a local email client (like Outlook), Email Domain master requires details to be fed similarly.
 
@@ -43,9 +43,9 @@ To add new Email Domain, go to:
 
 > Home > Settings > Emails > Email Domain > New
 
-![Email Domain](/files/email-domain.png)
+![Email Domain](https://docs.frappe.io/assets/2fdf2c18c0d3.png)
 
-Know more about Email Domains [here](</erpnext/email-domain>). Once you have configured an Email Domain for your Email Service, it will be used for creating Email Accounts for all the Users in your ERPNext account.
+Know more about Email Domains [here](https://docs.frappe.io/erpnext/email-domain). Once you have configured an Email Domain for your Email Service, it will be used for creating Email Accounts for all the Users in your ERPNext account.
 
 ## 3\. Email Account
 
@@ -53,17 +53,17 @@ Create an Email Account based on the Email ID of the User. For each User whose e
 
 If you are creating an Email Account for your colleague who's Email Password is unknown to you, then check field "Awaiting Password". As per this setting, a User (for whom Email Account is created) will get a prompt to enter email password when accessing his/her ERPNext Account.
 
-![Email Password](/files/email-password.png)
+![Email Password](https://docs.frappe.io/assets/756d9c5d29fb.png)
 
 > If you are creating an Email Account for Email Inbox of a User, then leave Append To field as blank.
 
-Read [Email Account documentation](</erpnext/email-account>) for more details on how to setup.
+Read [Email Account documentation](email-account.md) for more details on how to setup.
 
 ## 4\. Linking Email Account in the User master
 
 Once an Email Account is created for a User, select that Email Account in the User. This will ensure that emails pulled from the said Email ID will accessible only to this User in your ERPNext account.
 
-![Email User Link](/files/email-user-link.png)
+![Email User Link](https://docs.frappe.io/assets/f3f132370dfe.png)
 
 You can link multiple emails with one user.
 
@@ -75,29 +75,29 @@ If you have correctly configured Email Inbox as instructed above, then on the lo
 
 In ERPNext, you can link multiple Email Accounts with the single User. To switch to Inbox of a different email account and access other folders like Sent Emails, Spam, Trash, click on Email Inbox option in the left bar.
 
-![Email Folders](/files/email-folders.png)
+![Email Folders](https://docs.frappe.io/assets/1b1d110f8014.png)
 
 ### 5.2 Actions
 
 On the emails in your inbox, you can take various actions like Reply, Forward, Mark as Spam or Trash.
 
-![Email Actions](/files/email-actions.png)
+![Email Actions](https://docs.frappe.io/assets/2a1e4cfa0d28.png)
 
 ### 5.3 Relink
 
 You can relink an email to a document like Issue, Lead, Opportunity, etc. based on the context of the email. Select the document type and the document to link the email to.
 
-![Make from Email](/files/make-from-email.png)
+![Make from Email](https://docs.frappe.io/assets/6d5a5d429194.png)
 
 ### 6\. Related Topics
 
-  1. [Email Account](</erpnext/email-account>)
-  2. [Sending Email](</erpnext/sending-email>)
-  3. [Email Domain](</erpnext/email-domain>)
+  1. [Email Account](email-account.md)
+  2. [Sending Email](sending-email.md)
+  3. [Email Domain](https://docs.frappe.io/erpnext/email-domain)
 
 
 
-[ Previous Page Email Dropbox  ](</erpnext/email-dropbox>) [ Next Page Linking Emails to Documents ](</erpnext/linking-emails-to-document>)
+[ Previous Page Email Dropbox  ](https://docs.frappe.io/erpnext/email-dropbox) [ Next Page Linking Emails to Documents ](https://docs.frappe.io/erpnext/linking-emails-to-document)
 
 Last updated 1 week ago 
 

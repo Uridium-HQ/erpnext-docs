@@ -1,12 +1,12 @@
 # Credit Note
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0riiod0u38>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0riiod0u38)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Credit Note 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0riiod0u38>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0riiod0u38)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -33,7 +33,7 @@ Once a Payment Entry is created against the original Sales Invoice, the amount w
 
 This is how the ledger is affected after a payment entry against a returned invoice:
 
-![](/files/imagefed588.png)
+![](../../../../../assets/b59cf2f6c8f0.png)
 
 Refer the Sales Invoice page for any other details.
 
@@ -47,7 +47,7 @@ Customer Rohan had purchased PVC pipes worth Rs 300 + taxes and at the time of d
 
 Credit Note with payment entry in ERPNext for above example is as below:
 
-![](/files/credit%20note222474.gif)
+![](../../../../../assets/c18f858cff4d.gif)
 
 ### Related Topics
 
@@ -57,7 +57,7 @@ Credit Note with payment entry in ERPNext for above example is as below:
 
 
 
-[ Previous Page Sales Invoice ](</erpnext/sales-invoice>) [ Next Page Sales Interest / Dunning ](</erpnext/dunning>)
+[ Previous Page Sales Invoice ](../../../sales-invoice.md) [ Next Page Sales Interest / Dunning ](../../../dunning.md)
 
 Last updated 2 weeks ago 
 

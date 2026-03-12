@@ -1,12 +1,12 @@
 # Server Calls (AJAX)
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tosgbbgp8>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tosgbbgp8)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Server Calls (AJAX) 
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tosgbbgp8>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tosgbbgp8)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -210,7 +210,7 @@ Returns true if a document record exists.
     
 [/code]
 
-[ Previous Page Scanner API  ](</framework/user/en/api/scanner>) [ Next Page Logging ](</framework/user/en/api/logging>)
+[ Previous Page Scanner API  ](scanner.md) [ Next Page Logging ](logging.md)
 
 Last updated 3 weeks ago 
 

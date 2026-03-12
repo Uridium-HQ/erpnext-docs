@@ -1,12 +1,12 @@
 # Asset Capitalization
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s33p7nhg3>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s33p7nhg3)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Asset Capitalization
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s33p7nhg3>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s33p7nhg3)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -71,7 +71,7 @@ This is used when building a new Asset from inventory items.
 
 
 
-![](/files/Screenshot%202026-01-11%20at%2011.22.10%E2%80%AFPM.png)
+![](../../../../../assets/27c6c4c0eedf.png)
 
 ## 2\. Convert Stock Items and Capitalize Service Expenses
 
@@ -131,7 +131,7 @@ When submitted:
 
 
 
-![](/files/Screenshot%202026-01-11%20at%2011.29.23%E2%80%AFPM.png)
+![](../../../../../assets/807870290e8a.png)
 
 ## 4\. After Submitting
 
@@ -146,7 +146,7 @@ After completing Asset Capitalization:
 
 
 
-[ Previous Page Asset Value Adjustment  ](</erpnext/asset-value-adjustment>) [ Next Page Selling an Asset ](</erpnext/selling-an-asset>)
+[ Previous Page Asset Value Adjustment  ](../../../asset-value-adjustment.md) [ Next Page Selling an Asset ](https://docs.frappe.io/erpnext/selling-an-asset)
 
 Last updated 1 week ago 
 

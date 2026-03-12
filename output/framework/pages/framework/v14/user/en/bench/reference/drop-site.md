@@ -1,12 +1,12 @@
 # bench drop-site
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/1308s3u2hc>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/1308s3u2hc)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # bench drop-site 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/1308s3u2hc>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/1308s3u2hc)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -61,7 +61,7 @@ Drop an existing site. In this operation, the database is dropped and the respec
     
 [/code]
 
-[ Previous Page bench new-site  ](</framework/v14/user/en/bench/reference/new-site>) [ Next Page bench migrate  ](</framework/v14/user/en/bench/reference/migrate>)
+[ Previous Page bench new-site  ](new-site.md) [ Next Page bench migrate  ](migrate.md)
 
 Last updated 2 months ago 
 

@@ -1,12 +1,12 @@
 # Hooks
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tmi049j3s>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tmi049j3s)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Hooks
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tmi049j3s>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tmi049j3s)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -86,7 +86,7 @@ The following hooks allow you to inject static JS and CSS assets in various part
 
 ### Desk
 
-These hooks allow you to inject JS / CSS in `desk.html` which renders the [Desk](</framework/v14/user/en/desk>).
+These hooks allow you to inject JS / CSS in `desk.html` which renders the [Desk](../../../v14/user/en/desk.md).
 [code] 
     # injected in desk.html
     app_include_js = "assets/js/app.min.js"
@@ -101,7 +101,7 @@ These hooks allow you to inject JS / CSS in `desk.html` which renders the [Desk]
 
 ### Portal
 
-These hooks allow you to inject JS / CSS in `web.html` which renders the [Portal](</framework/v14/user/en/portal-pages>).
+These hooks allow you to inject JS / CSS in `web.html` which renders the [Portal](../../../v14/user/en/portal-pages.md).
 [code] 
     # injected in the web.html
     web_include_js = "assets/js/app-web.min.js"
@@ -170,7 +170,7 @@ You can play your added sound using the client utility method:
 
 ## Install Hooks
 
-These hooks allow you to run code before and after installation of your app. For example, [ERPNext](<https://github.com/frappe/erpnext>) has these [defined](<https://github.com/frappe/erpnext/blob/ecfa6344c02b18455637455742202c7fadf1b35d/erpnext/hooks.py#L42-L43>).
+These hooks allow you to run code before and after installation of your app. For example, [ERPNext](https://github.com/frappe/erpnext) has these [defined](https://github.com/frappe/erpnext/blob/ecfa6344c02b18455637455742202c7fadf1b35d/erpnext/hooks.py).
 [code] 
     # python module path
     before_install = "app.setup.install.before_install"
@@ -448,7 +448,7 @@ Dynamic routes are the routes with dynamic values in them.
 
 here "name" is the dynamic part but same profile page is rendered. By default, Frappe supports dynamic routes from documents in "Web Page" doctype. To add more dynamic routes, `get_web_pages_with_dynamic_routes` can be used.
 
-**app/**[**hooks.py**](<http://hooks.py>)
+**app/**[**hooks.py**](http://hooks.py/)
 [code] 
     get_web_pages_with_dynamic_routes = "script.get_web_pages_with_dynamic_routes"
       
@@ -562,7 +562,7 @@ Now, you can create your controller files in `app/projects` folder.
 
 Frappe does some standard route resolving eg. any request to "/profile" gets internally converted to "/me". `website_path_resolver` can be used to override this behaviour.
 
-**app/**[**hooks.py**](<http://hooks.py>)
+**app/**[**hooks.py**](http://hooks.py/)
 [code] 
     website_path_resolver = "path.to.custom_resolver_method"
     
@@ -657,7 +657,7 @@ Some Portal views are shown with a sidebar with links to quickly jump to pages. 
 
 The above configuration will add two sidebar links for users with the role Customer.
 
-![Portal Sidebar](/files/hooks-portal-menu-items.png)
+![Portal Sidebar](https://docs.frappe.io/assets/f05a38a8c785.png)
 
 These sidebar items are hardcoded in your app so they are not customizable from Desk. For e.g., if you want to hide a sidebar link temporarily you will have to make changes in your code.
 
@@ -676,7 +676,7 @@ There is another hook called `standard_portal_menu_items` which allows you to do
 
 The above configuration will sync sidebar items to the Portal Settings which can later be edited by any System User.
 
-![Portal Settings](/files/hooks-standard-portal-menu-items.png)
+![Portal Settings](https://docs.frappe.io/assets/f65520ab3514.png)
 
 ## Brand HTML
 
@@ -757,7 +757,7 @@ The calendar hook is a list of doctype names which are shown as menu items for q
     
 [/code]
 
-![Event Menu Shortcuts](/files/hooks-event-menu-shortcuts.png)
+![Event Menu Shortcuts](https://docs.frappe.io/assets/d31e662f3266.png)
 
 ## Clear Cache
 
@@ -1091,7 +1091,7 @@ You can override/extend the class for standard doctypes by using the `override_d
 
 ### Override Form Scripts
 
-You can override/extend [Standard Form Scripts](</framework/v14/user/en/api/form#standard-form-scripts>) by using the `doctype_js` hook.
+You can override/extend [Standard Form Scripts](../../../v14/user/en/api/form.md) by using the `doctype_js` hook.
 
 **app/hooks.py**
 [code] 
@@ -1155,7 +1155,7 @@ The method will be passed the doc and the method name as arguments.
     
 [/code]
 
-> See [Controller Hooks](</framework/v14/user/en/basics/doctypes/controllers#controller-hooks>) > for a list of all available hooks.
+> See [Controller Hooks](../../../v14/user/en/basics/doctypes/controllers.md) > for a list of all available hooks.
 
 ### Override Whitelisted Methods
 
@@ -1197,7 +1197,7 @@ To ignore links to specific DocTypes when deleting documents, you can specify th
 
 ### Form Timeline
 
-The timeline section of [form view](</framework/v14/user/en/desk#form-view>) of a document shows an audit trail of actions performed on that document like views, value changes, comments and related communications, etc.
+The timeline section of [form view](../../../v14/user/en/desk.md) of a document shows an audit trail of actions performed on that document like views, value changes, comments and related communications, etc.
 
 Apart from these standard actions, there might arise a situation where you need to add your own custom actions. You can do this via `additional_timeline_content` hook.
 [code] 
@@ -1272,7 +1272,7 @@ These events will trigger every hour, day, week and month respectively.
 
 
 
-Same as above but these jobs are run in the [long worker](</framework/v14/user/en/basics/directory-structure#worker_long>) suitable for long running jobs.
+Same as above but these jobs are run in the [long worker](../../../v14/user/en/basics/directory-structure.md) suitable for long running jobs.
 
   * `all`
 
@@ -1284,7 +1284,7 @@ The `all` event is triggered every 60 seconds. This can be configured via the `s
 
 
 
-A valid cron string that can be parsed by [croniter](<https://pypi.org/project/croniter/>).
+A valid cron string that can be parsed by [croniter](https://pypi.org/project/croniter/).
 
 Usage Examples:
 [code] 
@@ -1314,7 +1314,7 @@ Usage Examples:
 
 ## Jinja Customization
 
-Frappe provides a list of [global utility methods](</framework/v14/user/en/api/jinja>) in Jinja templates. To add your own methods and filters you can use the `jinja` hook.
+Frappe provides a list of [global utility methods](../../../v14/user/en/api/jinja.md) in Jinja templates. To add your own methods and filters you can use the `jinja` hook.
 
 **app/hooks.py**
 [code] 
@@ -1486,8 +1486,8 @@ Field | Description
 
 Related Topics:
 
-  1. [Personal Data Deletion](<https://docs.erpnext.com/docs/user/manual/en/setting-up/personal-data-deletion>)
-  2. [Personal Data Download](<https://docs.erpnext.com/docs/user/manual/en/setting-up/personal-data-download>)
+  1. [Personal Data Deletion](https://docs.erpnext.com/docs/user/manual/en/setting-up/personal-data-deletion)
+  2. [Personal Data Download](https://docs.erpnext.com/docs/user/manual/en/setting-up/personal-data-download)
 
 
 
@@ -1682,7 +1682,7 @@ Hook Name | Explanation
 `write_file_keys` | _Deprecated_  
 `write_file` | File Hooks  
   
-[ Previous Page Search  ](</framework/user/en/python-api/search>) [ Next Page REST API ](</framework/user/en/api/rest>)
+[ Previous Page Search  ](search.md) [ Next Page REST API ](../api/rest.md)
 
 Last updated 3 weeks ago 
 

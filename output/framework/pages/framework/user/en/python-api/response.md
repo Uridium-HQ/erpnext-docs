@@ -1,18 +1,18 @@
 # Responses
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tmndvhoo3>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tmndvhoo3)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Responses 
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tmndvhoo3>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tmndvhoo3)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 Here, let's take a look into how responses are built in Frappe, and how you may be able to use them in your Frappe apps or scripts.
 
-If you have already gone through the [Router Documentation](</framework/v14/user/en/python-api/routing-and-rendering>), you might've noticed the `build_response` function that Frappe internally utilizes to build responses depending on the type of the content. The logic that defines this behaviour is a part of the module [frappe.utils.response](<https://github.com/frappe/frappe/blob/develop/frappe/utils/response.py>), of which `build_response` is the meat and potatoes.
+If you have already gone through the [Router Documentation](../../../v14/user/en/python-api/routing-and-rendering.md), you might've noticed the `build_response` function that Frappe internally utilizes to build responses depending on the type of the content. The logic that defines this behaviour is a part of the module [frappe.utils.response](https://github.com/frappe/frappe/blob/develop/frappe/utils/response.py), of which `build_response` is the meat and potatoes.
 [code] 
     def build_response(response_type=None):
      if "docs" in frappe.local.response and not frappe.local.response.docs:
@@ -67,7 +67,7 @@ To create an API endpoint that would directly download the file you require, you
     
 [/code]
 
-[ Previous Page Utility Functions ](</framework/user/en/api/utils>) [ Next Page Search  ](</framework/user/en/python-api/search>)
+[ Previous Page Utility Functions ](../api/utils.md) [ Next Page Search  ](search.md)
 
 Last updated 3 weeks ago 
 

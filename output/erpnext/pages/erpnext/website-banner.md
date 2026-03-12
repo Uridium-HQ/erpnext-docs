@@ -1,12 +1,12 @@
 # Website Banner Resizing
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sesjoip3t>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sesjoip3t)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Website Banner Resizing 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sesjoip3t>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sesjoip3t)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -16,9 +16,9 @@ Each ERPNext account website automatically generated from it. On a website, logo
 
 For the exact steps on how to upload a Website Banner and resize it, please refer to the help given below.
 
-![Website Banner image](/files/brand-logo.gif)
+![Website Banner image](https://docs.frappe.io/assets/bb4d0a1f6358.gif)
 
-[ Previous Page Website Home Page ](</erpnext/website-home-page>) [ Next Page 3 Step SEO for your ERPNext Website ](</erpnext/how-to-setup-seo-for-your-website-on-erpnext>)
+[ Previous Page Website Home Page ](website-home-page.md) [ Next Page 3 Step SEO for your ERPNext Website ](https://docs.frappe.io/erpnext/how-to-setup-seo-for-your-website-on-erpnext)
 
 Last updated 1 week ago 
 

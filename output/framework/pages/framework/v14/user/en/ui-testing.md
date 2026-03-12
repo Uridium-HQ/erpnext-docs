@@ -1,16 +1,16 @@
 # UI Testing
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/135h5gj0b8>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/135h5gj0b8)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # UI Testing 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/135h5gj0b8>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/135h5gj0b8)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-You can write UI tests using [Cypress](<https://cypress.io>). It is a NodeJS based full-stack testing framework which doesn't rely on Selenium.
+You can write UI tests using [Cypress](https://cypress.io/). It is a NodeJS based full-stack testing framework which doesn't rely on Selenium.
 
 To write integration tests, create a `.js` file in the `cypress/integration` directory.
 
@@ -54,7 +54,7 @@ You can also run tests in headless mode.
     
 [/code]
 
-To enable cypress parallel testing you can pass `--parallel` flag. More information on how cypress parallel tests work can be found [here](<https://docs.cypress.io/guides/guides/parallelization>).
+To enable cypress parallel testing you can pass `--parallel` flag. More information on how cypress parallel tests work can be found [here](https://docs.cypress.io/guides/guides/parallelization).
 [code] 
     # run tests parallelly
     bench --site [sitename] run-ui-tests [app] --parallel
@@ -65,7 +65,7 @@ To enable cypress parallel testing you can pass `--parallel` flag. More informat
 
 Code coverage helps to identify which lines of the source code were executed during the tests. In order to measure code coverage, the source code needs to be instrumented and this instrumented source code needs to be integrated with our test runner to collect the coverage and generate a report.
 
-For Cypress tests in Frappe, the `.js` files are instrumented using [Istanbul](<https://istanbul.js.org/>) and the [Cypress code-coverage plugin](<https://github.com/cypress-io/code-coverage>) is used to merge coverage from each test and save the combined result.
+For Cypress tests in Frappe, the `.js` files are instrumented using [Istanbul](https://istanbul.js.org/) and the [Cypress code-coverage plugin](https://github.com/cypress-io/code-coverage) is used to merge coverage from each test and save the combined result.
 
 **Code Instrumentation:**
 
@@ -107,7 +107,7 @@ When using this modified (instrumented) source code for testing, these counters 
 
 **Generating Code Coverage Report Locally:**
 
-  1. Instrument source code using [istanbul/nyc](<https://github.com/istanbuljs/nyc>) :
+  1. Instrument source code using [istanbul/nyc](https://github.com/istanbuljs/nyc) :
 
 
 [code] 
@@ -115,7 +115,7 @@ When using this modified (instrumented) source code for testing, these counters 
     
 [/code]
 
-This replaces the existing source code in the frappe folder with the instrumented source code. The `-x` flag is used to exclude specified paths. You can also use the `-n` flag to specify paths to be included. See [here](<https://github.com/istanbuljs/nyc/blob/master/docs/instrument.md>) for more details about the `nyc instrument` command
+This replaces the existing source code in the frappe folder with the instrumented source code. The `-x` flag is used to exclude specified paths. You can also use the `-n` flag to specify paths to be included. See [here](https://github.com/istanbuljs/nyc/blob/master/docs/instrument.md) for more details about the `nyc instrument` command
 
   2. Run Cypress tests:
 
@@ -133,11 +133,11 @@ This replaces the existing source code in the frappe folder with the instrumente
     
 [/code]
 
-See [here](<https://istanbul.js.org/docs/advanced/alternative-reporters/>) for alternate report formats
+See [here](https://istanbul.js.org/docs/advanced/alternative-reporters/) for alternate report formats
 
 ### Testing-Library Queries
 
-You can also use [Testing Library](<https://testing-library.com/>) queries within your Cypress tests. Testing Library provides testing utilities that:
+You can also use [Testing Library](https://testing-library.com/) queries within your Cypress tests. Testing Library provides testing utilities that:
 
   * Make it easier to write UI tests that resemble the way users interact with the app
   * Make it easier to find elements in the DOM without knowing all the implementation details
@@ -145,60 +145,60 @@ You can also use [Testing Library](<https://testing-library.com/>) queries withi
 
 
 
-> See [Testing Library Docs](<https://testing-library.com/docs/queries/about>) for more details about usage
+> See [Testing Library Docs](https://testing-library.com/docs/queries/about) for more details about usage
 
 Testing Library provides several queries to find elements on a page. Here are some examples:
 
-  * [ByRole](<https://testing-library.com/docs/queries/byrole>)
+  * [ByRole](https://testing-library.com/docs/queries/byrole)
 
 
 
-Look [here](<https://www.w3.org/TR/html-aria/#docconformance>) for table of HTML elements and their default roles
+Look [here](https://www.w3.org/TR/html-aria/) for table of HTML elements and their default roles
 
 Query | Element  
 ---|---  
-`findByRole('button', {name: 'Save'})` | `` with [accessible name](<https://www.tpgi.com/what-is-an-accessible-name/>) = 'Save'  
+`findByRole('button', {name: 'Save'})` | `` with [accessible name](https://www.tpgi.com/what-is-an-accessible-name/) = 'Save'  
 `findByRole('checkbox')` | ``  
 `findByRole('textbox')` | `, ` _(Also matches other elements with default role='textbox')_  
 `findByRole('searchbox')` | ``  
 `findByRole('listbox')` | `, `  
   
-  * [ByLabelText](<https://testing-library.com/docs/queries/bylabeltext>)
+  * [ByLabelText](https://testing-library.com/docs/queries/bylabeltext)
 
 Query | Element  
 ---|---  
 `findByLabelText('Optimize')` | element associated with the label 'Optimize'  
   
-  * [ByPlaceholderText](<https://testing-library.com/docs/queries/byplaceholdertext>)
+  * [ByPlaceholderText](https://testing-library.com/docs/queries/byplaceholdertext)
 
 Query | Element  
 ---|---  
 `findByPlaceholderText('Name')` | element with placeholder='Name'  
   
-  * [ByText](<https://testing-library.com/docs/queries/bytext>)
+  * [ByText](https://testing-library.com/docs/queries/bytext)
 
 Query | Element  
 ---|---  
 `findByText('example.json')` | element with textContent='example.json'  
   
-  * [ByDisplayValue](<https://testing-library.com/docs/queries/bydisplayvalue>)
+  * [ByDisplayValue](https://testing-library.com/docs/queries/bydisplayvalue)
 
 Query | Element  
 ---|---  
 `findByDisplayValue('Option 1')` | `with selected` 'Option 1' _(Also matches `or` with matching value attribute)_  
   
-  * [ByTitle](<https://testing-library.com/docs/queries/bytitle>)
+  * [ByTitle](https://testing-library.com/docs/queries/bytitle)
 
 Query | Element  
 ---|---  
 `findByTitle('Open Link')` | element with title='Open Link'  
   
-  * [ByAltText](<https://testing-library.com/docs/queries/byalttext/>)
-  * [ByTestId](<https://testing-library.com/docs/queries/bytestid/>)
+  * [ByAltText](https://testing-library.com/docs/queries/byalttext/)
+  * [ByTestId](https://testing-library.com/docs/queries/bytestid/)
 
 
 
-[ Previous Page Testing  ](</framework/v14/user/en/testing>) [ Next Page Desk ](</framework/v14/user/en/hidden-features/desk>)
+[ Previous Page Testing  ](testing.md) [ Next Page Desk ](hidden-features/desk.md)
 
 Last updated 2 months ago 
 

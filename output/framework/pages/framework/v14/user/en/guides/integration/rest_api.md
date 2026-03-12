@@ -1,12 +1,12 @@
 # Introduction
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12f9keljnq>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12f9keljnq)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Introduction 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12f9keljnq>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12f9keljnq)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -18,7 +18,7 @@ The base URL is `https://{your frappe instance}`. Every request shown here shoul
 
 A request to an endpoint `/api/method/dotted.path.to.function` will call a whitelisted python function.
 
-For example, `GET /api/method/frappe.auth.get_logged_user` will call [this function](<https://github.com/frappe/frappe/blob/28b909435320e3d6d1a3b2e7c02f286984dc39b3/frappe/auth.py#L347-L349>) from frappe's auth module:
+For example, `GET /api/method/frappe.auth.get_logged_user` will call [this function](https://github.com/frappe/frappe/blob/28b909435320e3d6d1a3b2e7c02f286984dc39b3/frappe/auth.py) from frappe's auth module:
 [code] 
     @frappe.whitelist()
     def get_logged_user():
@@ -62,7 +62,7 @@ You can update a document by sending a `PUT` request to the endpoint, `/api/reso
 
 You can delete a document by its name by sending a `DELETE` request to the endpoint, `/api/resource/{doctype}/{name}`.
 
-[ Previous Page Using Frappe as OAuth Service ](</framework/v14/user/en/using_frappe_as_oauth_service>) [ Next Page Simple Authentication  ](</framework/v14/user/en/guides/integration/rest_api/simple_authentication>)
+[ Previous Page Using Frappe as OAuth Service ](../../using_frappe_as_oauth_service.md) [ Next Page Simple Authentication  ](rest_api/simple_authentication.md)
 
 Last updated 2 months ago 
 

@@ -1,12 +1,12 @@
 # CRM Settings
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rei5bs209>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rei5bs209)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # CRM Settings
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rei5bs209>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rei5bs209)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,7 +20,7 @@ To access CRM Settings, go to:
 
 ## Lead
 
-![Screenshot 2024-06-03 at 12.48.00 PM](/files/Screenshot%202024-06-03%20at%2012.48.00%20PM.png)
+![Screenshot 2024-06-03 at 12.48.00 PM](https://docs.frappe.io/assets/b7a8f4ea50b3.png)
 
 ### 1\. Campaign Naming By
 
@@ -36,7 +36,7 @@ The system will automatically create a new Contact on creation of a Lead.
 
 ## Opportunity
 
-![Screenshot 2024-06-03 at 12.54.38 PM](/files/Screenshot%202024-06-03%20at%2012.54.38%20PM.png)
+![Screenshot 2024-06-03 at 12.54.38 PM](https://docs.frappe.io/assets/b857412115af.png)
 
 ### 1\. Close Replied Opportunity After Days
 
@@ -44,7 +44,7 @@ If there are many Opportunities having a status other than Open, then they will 
 
 ## Quotation
 
-![Screenshot 2024-06-03 at 12.56.40 PM](/files/Screenshot%202024-06-03%20at%2012.56.40%20PM.png)
+![Screenshot 2024-06-03 at 12.56.40 PM](https://docs.frappe.io/assets/784b923ac861.png)
 
 ### 1\. Default Quotation Validity Days
 
@@ -52,13 +52,13 @@ You can configure quotations to the customer to be valid only for certain days. 
 
 ## Other Settings
 
-![Screenshot 2024-06-03 at 12.58.09 PM](/files/Screenshot%202024-06-03%20at%2012.58.09%20PM.png)
+![Screenshot 2024-06-03 at 12.58.09 PM](https://docs.frappe.io/assets/629009cfe2b4.png)
 
 ### 1\. Carry Forward Communication and Comments
 
 If this is enabled, When converting a Lead into Opportunity and Opportunity to Quotation, the system will auto copy the emails and comments from the source document.
 
-[ Previous Page Campaign  ](</erpnext/campaign>) [ Next Page Lead ](</erpnext/lead>)
+[ Previous Page Campaign  ](campaign.md) [ Next Page Lead ](lead.md)
 
 Last updated 2 weeks ago 
 

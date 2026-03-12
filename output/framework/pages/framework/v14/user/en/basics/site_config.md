@@ -1,12 +1,12 @@
 # Configuration
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12jrsgge4r>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12jrsgge4r)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Configuration
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12jrsgge4r>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12jrsgge4r)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -101,7 +101,7 @@ These keys are set in the `site_config.json` and are generated automatically unl
 ---|---  
 `admin_password` | Default Password for the standard "Administrator" User. This will be used as the password for the Administrator User for all new sites.  
 `allow_tests` | Setting this allows tests to be run on this site.  
-`allow_cors` | Enables [cross-site HTTP requests](<https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS>). Can be set to: 1. a specific origin, for example: `"https://example.com"` 2\. a list of origins, for example: `["https://portal.example.com", "https://shop.example.com"]` 3\. a wildcard: `"*"` (Not recommended for production use)  
+`allow_cors` | Enables [cross-site HTTP requests](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS). Can be set to: 1. a specific origin, for example: `"https://example.com"` 2\. a list of origins, for example: `["https://portal.example.com", "https://shop.example.com"]` 3\. a wildcard: `"*"` (Not recommended for production use)  
 `data_import_batch_size` | Batch Size for Data Import  
 `deny_multiple_logins` | Stop users from having more than one active session.  
 `deny_multiple_sessions` | Deny Multiple Sessions.  
@@ -125,10 +125,10 @@ These keys are set in the `site_config.json` and are generated automatically unl
 `maintenance_mode` | Enable maintenance mode.  
 `max_file_size` | Max file size allowed for file uploads. Default is 10MiB.  
 `max_reports_per_user` | Maximum number of Auto Email Reports which can be created by a user, default is 3.  
-`monitor` | If set, logs all requests and saves under `./logs/monitor.json.log`. Check out [monitoring](</framework/v14/user/en/debugging#monitoring>) under the Debugging documentation.  
+`monitor` | If set, logs all requests and saves under `./logs/monitor.json.log`. Check out [monitoring](../debugging.md) under the Debugging documentation.  
 `mute_emails` | Stops email sending if true.  
 `pause_scheduler` | Pause Scheduler  
-`rate_limit` | Specify Rate Limits using `frappe.rate_limiter`. Check out the document reference [rate limiting](</framework/v14/user/en/rate-limiting>).  
+`rate_limit` | Specify Rate Limits using `frappe.rate_limiter`. Check out the document reference [rate limiting](../rate-limiting.md).  
 `robots_txt` | Path to robots.txt file to be rendered when going to frappe-site.com/robots.txt  
 `root_login` | Database root username.  
 `root_password` | Database root password.  
@@ -141,7 +141,7 @@ These keys are set in the `site_config.json` and are generated automatically unl
   
 ### Remote Database Host Settings
 
-To connect to a remote database server using _SSL_ , you must first configure the database host to accept SSL connections. An example of how to do this is available at [this tutorial by Digital Ocean](<https://www.digitalocean.com/community/tutorials/how-to-configure-ssl-tls-for-mysql-on-ubuntu-16-04>). After you do the configuration, set the following three options. All options must be set for Frappe to attempt to connect using SSL.
+To connect to a remote database server using _SSL_ , you must first configure the database host to accept SSL connections. An example of how to do this is available at [this tutorial by Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-configure-ssl-tls-for-mysql-on-ubuntu-16-04). After you do the configuration, set the following three options. All options must be set for Frappe to attempt to connect using SSL.
 
 |   
 ---|---  
@@ -154,7 +154,7 @@ To connect to a remote database server using _SSL_ , you must first configure th
   
 ### Replica Read Only Database Host Settings
 
-Guide to setup read operations from secondary MariaDB server in a replica setup is available at in the [user guides](</framework/v14/user/en/guides/database-settings/setup-read-from-secondary-db>).
+Guide to setup read operations from secondary MariaDB server in a replica setup is available at in the [user guides](../guides/database-settings/setup-read-from-secondary-db.md).
 
 |   
 ---|---  
@@ -246,7 +246,7 @@ Some third party integrations may require lower level configurations you may wan
 `google_analytics_id` | Google Analytics ID  
 `converted_rupee_to_paisa` | Converted Rupee To Paisa for RazorPay Settings  
   
-[ Previous Page Static Assets  ](</framework/v14/user/en/basics/static-assets>) [ Next Page Docstatus ](</framework/v14/user/en/basics/doctypes/frameworktatus>)
+[ Previous Page Static Assets  ](static-assets.md) [ Next Page Docstatus ](doctypes/frameworktatus.md)
 
 Last updated 2 months ago 
 

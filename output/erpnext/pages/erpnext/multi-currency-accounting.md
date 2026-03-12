@@ -1,12 +1,12 @@
 # Multi Currency Accounting
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rq4gmrb45>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rq4gmrb45)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Multi Currency Accounting 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rq4gmrb45>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rq4gmrb45)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,21 +20,21 @@ Bank accounts in foreign currencies can be for other branches of your own compan
 
 ### 1.1 Set currency in Chart of Accounts
 
-To get started with multi-currency accounting, you need to assign accounting currency in the Account record. You can define Currency from [Chart of Accounts](</erpnext/chart-of-accounts>) while creating an Account.
+To get started with multi-currency accounting, you need to assign accounting currency in the Account record. You can define Currency from [Chart of Accounts](chart-of-accounts.md) while creating an Account.
 
-![Set Currency in Account](/files/set-default-currency-in-ledger.png)
+![Set Currency in Account](https://docs.frappe.io/assets/2edd2dd06678.png)
 
 ### 1.2 New account with different currency
 
 You can also assign/modify the currency by opening specific Account records for existing Accounts.
 
-![Update Currency in Ledger](/files/update-currency-in-ledger.png)
+![Update Currency in Ledger](https://docs.frappe.io/assets/701b29475429.png)
 
 ### 1.3 Currency for Customer/Supplier
 
 For Customer/Supplier (Party), you can also define its billing currency in the party record. If the party's accounting currency is different from Company Currency, you should mention Default Receivable/Payable Account in that currency.
 
-![Billing Currency in Customer](/files/customer-billing-currency.png)
+![Billing Currency in Customer](https://docs.frappe.io/assets/764640c35c83.png)
 
 ### 1.4 After setup
 
@@ -48,18 +48,18 @@ You can change accounting currency in Party/Account record before you make any t
 
 ## 2\. Exchange Rates
 
-When dealing with multiple currencies, ERPNext has the Currency Exchange page for managing exchange rates. It allows you to save the exchange rate quotes you require. To know more, visit the [Currency Exchange](</erpnext/currency-exchange>) page.
+When dealing with multiple currencies, ERPNext has the Currency Exchange page for managing exchange rates. It allows you to save the exchange rate quotes you require. To know more, visit the [Currency Exchange](currency-exchange.md) page.
 
 For foreign currency transactions, ERPNext checks exchange rates from:
 
   1. From the Currency Exchange for any matching record (if created by a User).
-  2. If this fails, ERPNext will attempt to get the current market exchange rate from [Frankfurter](<https://www.frankfurter.app>).
-  3. **NOTE** : Starting from ERPNext version 13.10.0, Frankfurter is replaced by a new service called [exchangerate.host](<https://exchangerate.host>).
+  2. If this fails, ERPNext will attempt to get the current market exchange rate from [Frankfurter](https://www.frankfurter.app/).
+  3. **NOTE** : Starting from ERPNext version 13.10.0, Frankfurter is replaced by a new service called [exchangerate.host](https://exchangerate.host/).
   4. If this still fails, then the exchange rate will have to be entered manually.
 
 
 
-The rates in the Currency Exchange master are fetched based on whether 'Allow Stale Exchange Rate' is enabled in Accounts Settings. To know more, visit the [Accounts Settings](</erpnext/accounts-settings>) page.
+The rates in the Currency Exchange master are fetched based on whether 'Allow Stale Exchange Rate' is enabled in Accounts Settings. To know more, visit the [Accounts Settings](accounts-settings.md) page.
 
 ## 3\. Transactions
 
@@ -69,9 +69,9 @@ In a Sales Invoice, transaction currency must be the same as the accounting curr
 
 Now, in Invoice, Paid Amount will be entered in transaction currency, instead of earlier Company Currency. Write Off Amount will also be entered in the transaction currency.
 
-Outstanding Amount and Advance Amount will always be calculated and shown in Customer's Account Currency. The paid amounts will be reflected in the [Payment Entry](</erpnext/payment-entry>):
+Outstanding Amount and Advance Amount will always be calculated and shown in Customer's Account Currency. The paid amounts will be reflected in the [Payment Entry](payment-entry.md):
 
-![Multi-currency in Payment Entry](/files/multi-currency-in-payment-entry.png)
+![Multi-currency in Payment Entry](https://docs.frappe.io/assets/56e1ae8c2704.png)
 
 ### 3.2 Purchase Invoice
 
@@ -81,11 +81,11 @@ Similarly, in a Purchase Invoice, accounting entries will be made based on Suppl
 
 In Journal Entry, you can make transactions in different currencies. There is a checkbox 'Multi Currency', to enable multi-currency entries. Only when 'Multi Currency' option selected, you will be able to select accounts which have different currencies.
 
-![Multi-currency in Journal Entry](/files/multi-currency-journal-entry.png)
+![Multi-currency in Journal Entry](https://docs.frappe.io/assets/d316e68c0e86.png)
 
 In the Accounts table, on the selection of a foreign currency account, the system will show the Currency section and fetch Account Currency and Exchange Rate automatically. You can change/modify the Exchange Rate later manually. Debit/Credit amount should be entered in Account Currency, the system will calculate and show the Debit/Credit amount in Company Currency automatically.
 
-![Company and Transaction Currency in Journal ENtry](/files/company-and-transaction-currency-in-journal-entry.png)
+![Company and Transaction Currency in Journal ENtry](https://docs.frappe.io/assets/0688704b97d0.png)
 
 ## 4\. Reports
 
@@ -93,25 +93,25 @@ In the Accounts table, on the selection of a foreign currency account, the syste
 
 In General Ledger, the system shows debit/credit amount in party currency **if filtered** by an Account and that Account Currency is different from Company Currency.
 
-![Multi-currency in General Ledger](/files/multi-currency-in-general-ledger.png)
+![Multi-currency in General Ledger](https://docs.frappe.io/assets/45cd89d60f72.png)
 
 ### 4.2 Accounts Receivable/Payable
 
 In Accounts Receivable/Payable report, the system shows all the amounts in Party/Account Currency.
 
-![Multi-currency in Accounts Receivables](/files/multi-currency-in-accounts-receivable.png)
+![Multi-currency in Accounts Receivables](https://docs.frappe.io/assets/d9e2507a4716.png)
 
 ### 5\. Related Topics
 
-  1. [Exchange Rate Revaluation](</erpnext/exchange-rate-revaluation>)
-  2. [Currency Exchange](</erpnext/currency-exchange>)
-  3. [Currency](</erpnext/currency>)
-  4. [Sales Invoice](</erpnext/sales-invoice>)
-  5. [Purchase Invoice](</erpnext/purchase-invoice>)
+  1. [Exchange Rate Revaluation](exchange-rate-revaluation.md)
+  2. [Currency Exchange](currency-exchange.md)
+  3. [Currency](currency.md)
+  4. [Sales Invoice](sales-invoice.md)
+  5. [Purchase Invoice](purchase-invoice.md)
 
 
 
-[ Previous Page Currency Exchange ](</erpnext/currency-exchange>) [ Next Page Multi Currency Setup ](</erpnext/multi-currency-setup>)
+[ Previous Page Currency Exchange ](currency-exchange.md) [ Next Page Multi Currency Setup ](multi-currency-setup.md)
 
 Last updated 2 weeks ago 
 

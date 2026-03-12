@@ -1,12 +1,12 @@
 # Token Based Authentication
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12g6jgug9l>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12g6jgug9l)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Token Based Authentication
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12g6jgug9l>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12g6jgug9l)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -111,11 +111,11 @@ Example in python:
 
 ## Further resources
 
-  * [Authorization Header](<https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Authorization>)
+  * [Authorization Header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Authorization)
 
 
 
-[ Previous Page Simple Authentication  ](</framework/v14/user/en/guides/integration/rest_api/simple_authentication>) [ Next Page OAuth 2  ](</framework/v14/user/en/guides/integration/rest_api/oauth-2>)
+[ Previous Page Simple Authentication  ](simple_authentication.md) [ Next Page OAuth 2  ](oauth-2.md)
 
 Last updated 2 months ago 
 

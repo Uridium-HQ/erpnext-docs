@@ -1,12 +1,12 @@
 # Item Price
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rd3tbssfm>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rd3tbssfm)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Item Price
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rd3tbssfm>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rd3tbssfm)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -26,7 +26,7 @@ Or
 4\. Enter the actual rate in the Rate field.  
 5\. Save.
 
-![](/files/item-price.png)
+![](../../../../../assets/e7ba8f203e63.png)
 
 ### 1.1 Selecting the Price List
 
@@ -38,7 +38,7 @@ To check all Item Prices together, go to:
 
 **Stock > Stock Reports > Item Price Stock**
 
-Visit the [Price Lists](</erpnext/price-lists>) page to know more.
+Visit the [Price Lists](../../../price-lists.md) page to know more.
 
 * * *
 
@@ -78,7 +78,7 @@ The approximate number of days it takes the product to reach the warehouse. You 
 
 You can add any note about the Item Price in this field.
 
-[ Previous Page Price Lists ](</erpnext/price-lists>) [ Next Page Opening Stock ](</erpnext/opening-stock>)
+[ Previous Page Price Lists ](../../../price-lists.md) [ Next Page Opening Stock ](../../../opening-stock.md)
 
 Last updated 1 week ago 
 

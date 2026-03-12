@@ -1,12 +1,12 @@
 # Sales Invoice
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rmboa4n04>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rmboa4n04)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Sales Invoice
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rmboa4n04>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rmboa4n04)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -16,7 +16,7 @@ Sales Invoice is an accounting transaction. On submission of Sales Invoice, the 
 
 To access the Sales Invoice list, go to: > Home > Accounting > Accounts Receivable > Sales Invoice
 
-![SO Flow](/files/so-flow.png)
+![SO Flow](https://docs.frappe.io/assets/a75f83ced82c.png)
 
 ## Prerequisites
 
@@ -59,7 +59,7 @@ For manual creation, follow these steps:
 
 
 
-![](/files/imagee21e36.png)
+![](../../assets/06bd980a2e4c.png)
 
 For India: **e-Way Bill No** : According to GST rules, transporters need to carry an e-Way Bill. To know how to generate an e-Way Bill, visit this page.
 
@@ -100,7 +100,7 @@ Accounting Dimensions lets you tag transactions based on a specific Territory, B
 ### Customer PO Details
 
   * **Customer's Purchase Order** : Track customer's PO No. received, primarily to prevent the creation of duplicate Sales Order or Invoice for the same PO received from the Customer. You can do more configuration related to customer's PO No. validation in Selling Settings
-  * **Customer's Purchase Order Date** : The date on which the Customer placed the Purchase Order. ![](/files/imaged6b057.png)
+  * **Customer's Purchase Order Date** : The date on which the Customer placed the Purchase Order. ![](../../assets/e7ea9bfd5244.png)
 
 
 
@@ -167,7 +167,7 @@ If you want to bill Employees working on Projects on an hourly basis (contract b
 
 If your Company's Employees are working at a location and it needs to be billed, you can create an Invoice based on the Timesheet.
 
-![](/files/image143b53.png)
+![](../../assets/c9724449c567.png)
 
 To know more, visit this page.
 
@@ -183,7 +183,7 @@ To add taxes automatically via a Tax Category, visit this page.
 
 Make sure to mark all your taxes in the Taxes and Charges table correctly for an accurate valuation.
 
-![](/files/imagef2fbc4.png)
+![](../../assets/6e3d247ebe36.png)
 
 #### Shipping Rule
 
@@ -197,7 +197,7 @@ If the Customer is enrolled in a Loyalty Program, they can choose to redeem it. 
 
 Any additional discounts to the whole Invoice can be set in this section. This discount could be based on the Grand Total i.e., post tax/charges or Net total i.e., pre tax/charges. The additional discount can be applied as a percentage or an amount. Visit the Applying Discount page for more details.
 
-![](/files/image850c84.png)
+![](../../assets/e03b2a5c47cb.png)
 
 ### Advance Payment
 
@@ -250,7 +250,7 @@ The following Sales details can be recorded:
 
 
 
-![](/files/image7df229.png)
+![](../../assets/556e680aaf06.png)
 
 ### Accounting Details
 
@@ -260,7 +260,7 @@ The following Sales details can be recorded:
 
 
 
-![](/files/Accounting%20details%20sales%20invoice.png)
+![](../../assets/652e073c8bc8.png)
 
 ### Commission
 
@@ -282,7 +282,7 @@ Consider a scenario where the retail transaction is carried out. For e.g: A reta
 
 Also, if you check the **Update Stock** the stock will also update automatically, without the need for a Delivery Note.
 
-![](/files/imagee752f4.png)
+![](../../assets/71a6580312a3.png)
 
 ### After Submitting
 
@@ -292,7 +292,7 @@ On submitting a Sales Invoice, the following documents can be created against it
   2. Payment Entry
   3. Payment Request
   4. Invoice Discounting
-  5. Delivery Note ![](/files/imageea95e3.png)
+  5. Delivery Note ![](../../assets/6b770d15ae48.png)
 
 
 
@@ -316,7 +316,7 @@ When booking a sale (accrual):
 
   * **Debit:** Customer (grand total)
   * **Credit:** Income (net total, minus taxes for each Item)
-  * **Credit:** Taxes (liabilities to be paid to the government) ![](/files/image7fd0cd.png)
+  * **Credit:** Taxes (liabilities to be paid to the government) ![](../../assets/613972653926.png)
 
 
 
@@ -338,7 +338,7 @@ When booking a sale (accrual):
 
 
 
-[ Previous Page Tax Withholding Category ](</erpnext/tax-withholding-category>) [ Next Page Credit Note  ](</erpnext/credit-note>)
+[ Previous Page Tax Withholding Category ](tax-withholding-category.md) [ Next Page Credit Note  ](credit-note.md)
 
 Last updated 2 weeks ago 
 

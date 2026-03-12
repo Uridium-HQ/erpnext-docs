@@ -1,12 +1,12 @@
 # Inter Company Invoices
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rirajkem6>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rirajkem6)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Inter Company Invoices 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rirajkem6>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rirajkem6)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -24,7 +24,7 @@ For example, you can create a Purchase Invoice for a company say 'Company ABC', 
 
   2. Select the Customer who you would want to choose for the inter-linked invoice.
 
-  3. Enable the checkbox, **Is Internal Customer** shown as follows: ![](/files/image6c0597.png)
+  3. Enable the checkbox, **Is Internal Customer** shown as follows: ![](../../assets/e1366a5d2a9b.png)
 
   4. Add the company which the Customer represents in the **Represents Company** field. This the company for which the Sales Invoice will be created.
 
@@ -47,7 +47,7 @@ For example, you can create a Purchase Invoice for a company say 'Company ABC', 
 
 
 
-![](/files/image01250f.png)
+![](../../assets/f1143d55f806.png)
 
 ### Creating the Invoice
 
@@ -84,7 +84,7 @@ You can follow the same process to create a Purchase Invoice and then an inter-l
 
 
 
-[ Previous Page Sales Return  ](</erpnext/sales-return>) [ Next Page Sales Person  ](</erpnext/sales-person>)
+[ Previous Page Sales Return  ](sales-return.md) [ Next Page Sales Person  ](sales-person.md)
 
 Last updated 2 weeks ago 
 

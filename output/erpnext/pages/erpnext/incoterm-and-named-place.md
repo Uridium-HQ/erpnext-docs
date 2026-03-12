@@ -1,12 +1,12 @@
 # Incoterm and Named Place
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sohai4b5g>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sohai4b5g)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Incoterm and Named Place
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sohai4b5g>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sohai4b5g)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -27,15 +27,15 @@ In ERPNext transactions, there are two fields that pertain to Incoterms: the "In
 
 
 
-![after](/files/after.png)
+![after](https://docs.frappe.io/assets/b073d8fc34a7.png)
 
 ### Further reading
 
-  * [en.wikipedia.org/wiki/Incoterms](<https://en.wikipedia.org/wiki/Incoterms>)
+  * [en.wikipedia.org/wiki/Incoterms](https://en.wikipedia.org/wiki/Incoterms)
 
 
 
-[ Previous Page Short Close Multiple Orders ](</erpnext/how-to-short-close-multiple-orders-in-erpnext>) [ Next Page Sales Persons in the Sales Transactions  ](</erpnext/sales-persons-in-the-sales-transactions>)
+[ Previous Page Short Close Multiple Orders ](https://docs.frappe.io/erpnext/how-to-short-close-multiple-orders-in-erpnext) [ Next Page Sales Persons in the Sales Transactions  ](sales-persons-in-the-sales-transactions.md)
 
 Last updated 1 week ago 
 

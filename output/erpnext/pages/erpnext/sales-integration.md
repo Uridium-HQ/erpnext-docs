@@ -1,12 +1,12 @@
 # Sales Cycle Integration
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rh8muv7ls>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rh8muv7ls)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Sales Cycle Integration
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rh8muv7ls>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rh8muv7ls)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,7 +14,7 @@ Standard whitelisted methods and flows for integrating external order management
 
 ### 1\. Sales Order
 
-Frappe Framework generates [REST API](<https://frappeframework.com/docs/v14/user/en/api/rest>) for all the DocTypes out of the box. This approach can be used for creating the very first document of the sales cycle. In case you are starting with the Sales Order you can use the standard REST API POST request for generating the Order. An example is shown below, you can include custom fields and other doctype details in the body accordingly.
+Frappe Framework generates [REST API](https://frappeframework.com/docs/v14/user/en/api/rest) for all the DocTypes out of the box. This approach can be used for creating the very first document of the sales cycle. In case you are starting with the Sales Order you can use the standard REST API POST request for generating the Order. An example is shown below, you can include custom fields and other doctype details in the body accordingly.
 [code] 
     POST /api/resource/Sales Order
     
@@ -93,7 +93,7 @@ For generating a Payment Entry against a Sales Order or Invoice use the below en
     
 [/code]
 
-[ Previous Page Promotional Scheme  ](</erpnext/promotional-scheme>) [ Next Page Sales Reports ](</erpnext/sales-analytics>)
+[ Previous Page Promotional Scheme  ](promotional-scheme.md) [ Next Page Sales Reports ](https://docs.frappe.io/erpnext/sales-analytics)
 
 Last updated 2 weeks ago 
 

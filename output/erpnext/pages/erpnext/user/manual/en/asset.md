@@ -1,12 +1,12 @@
 # Asset
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s4682jm31>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s4682jm31)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Asset
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s4682jm31>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s4682jm31)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -28,10 +28,10 @@ To access the Asset list, go to:
 
 Before creating and using Asset, it is advised to create the following first:
 
-  * [Item](<https://docs.frappe.io/erpnext/user/manual/en/item>) with 'Is Fixed Asset' enabled.
-  * [Location](<https://docs.frappe.io/erpnext/user/manual/en/asset-location>)
-  * [Asset Category](<https://docs.frappe.io/erpnext/user/manual/en/asset-category>)
-  * [Purchase Receipt](<https://docs.frappe.io/erpnext/user/manual/en/purchase-receipt>) / [Purchase Invoice](<https://docs.frappe.io/erpnext/user/manual/en/purchase-invoice>)
+  * [Item](https://docs.frappe.io/erpnext/user/manual/en/item.md) with 'Is Fixed Asset' enabled.
+  * [Location](https://docs.frappe.io/erpnext/user/manual/en/asset-location.md)
+  * [Asset Category](https://docs.frappe.io/erpnext/user/manual/en/asset-category.md)
+  * [Purchase Receipt](https://docs.frappe.io/erpnext/user/manual/en/purchase-receipt.md) / [Purchase Invoice](https://docs.frappe.io/erpnext/user/manual/en/purchase-invoice.md)
 
 
 
@@ -80,9 +80,9 @@ If auto asset creation is not enabled:
 
 
 
-![](/files/Screenshot%202026-02-20%20at%201.32.41%E2%80%AFAM.png)
+![](../../../../../assets/959da25cb048.png)
 
-![](/files/Screenshot%202026-01-11%20at%2011.22.10%E2%80%AFPM.png)
+![](../../../../../assets/27c6c4c0eedf.png)
 
 ### 2.5 Importing Existing Assets
 
@@ -140,7 +140,7 @@ ERPNext will calculate the remaining depreciation schedule automatically.
 
 
 
-![](/files/Screenshot%202026-01-12%20at%2012.26.14%E2%80%AFAM.png)
+![](../../../../../assets/371babd274d9.png)
 
 ### 4.3 Insurance Details
 
@@ -163,7 +163,7 @@ ERPNext will calculate the remaining depreciation schedule automatically.
 ### 4.5 Maintenance
 
   * Enable Maintenance Required to record Asset Maintenance entries
-  * Refer to **[Asset Maintenance](<https://docs.frappe.io/erpnext/user/manual/en/asset-maintenance>)** page for details
+  * Refer to **[Asset Maintenance](https://docs.frappe.io/erpnext/user/manual/en/asset-maintenance.md)** page for details
 
 
 
@@ -180,20 +180,20 @@ Once an asset is created and submitted, you can:
 
 
 
-![](/files/Screenshot%202026-01-11%20at%2011.41.58%E2%80%AFPM.png)
+![](../../../../../assets/876e3757b590.png)
 
 ## 6\. Related Topics
 
 * * *
 
-  1. [Asset Maintenance](<https://docs.frappe.io/erpnext/user/manual/en/asset-maintenance>)
-  2. [Asset Movement](<https://docs.frappe.io/erpnext/user/manual/en/asset-movement>)
-  3. [Purchase Receipt](<https://docs.frappe.io/erpnext/user/manual/en/purchase-receipt>)
-  4. [Purchase Invoice](<https://docs.frappe.io/erpnext/user/manual/en/purchase-invoice>)
+  1. [Asset Maintenance](https://docs.frappe.io/erpnext/user/manual/en/asset-maintenance.md)
+  2. [Asset Movement](https://docs.frappe.io/erpnext/user/manual/en/asset-movement.md)
+  3. [Purchase Receipt](https://docs.frappe.io/erpnext/user/manual/en/purchase-receipt.md)
+  4. [Purchase Invoice](https://docs.frappe.io/erpnext/user/manual/en/purchase-invoice.md)
 
 
 
-[ Previous Page Purchasing an Asset ](</erpnext/purchasing-an-asset>) [ Next Page Depreciation ](</erpnext/asset-depreciation>)
+[ Previous Page Purchasing an Asset ](../../../purchasing-an-asset.md) [ Next Page Depreciation ](../../../asset-depreciation.md)
 
 Last updated 2 weeks ago 
 

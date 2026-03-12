@@ -1,12 +1,12 @@
 # Renaming Documents
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sm8po9hb6>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sm8po9hb6)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Renaming Documents 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sm8po9hb6>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sm8po9hb6)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,7 +14,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 Using this feature you can also merge two master documents into a single one.
 
-Check [List of Renamable Documents](</erpnext/renaming-documents#list-of-renamable-documents>) for the list of all the documents that can be renamed in the system.
+Check [List of Renamable Documents](renaming-documents.md) for the list of all the documents that can be renamed in the system.
 
 ### Steps to rename a Document
 
@@ -22,11 +22,11 @@ Check [List of Renamable Documents](</erpnext/renaming-documents#list-of-renamab
 
 **Step 2** : From the drop-down menu, select the option 'Rename'.
 
-![Document Renaming](/files/using-rename-documents-1.gif)
+![Document Renaming](https://docs.frappe.io/assets/9f48f3d874cb.gif)
 
 Alternatively, you can also click on the Title of the document, which will result in a pop-up, wherein you will be able to change the name of the document that you wish to rename.
 
-![Document Renaming](/files/using-rename-documents-2.gif)
+![Document Renaming](https://docs.frappe.io/assets/91de9d97ed20.gif)
 
 ### Effect of Renaming
 
@@ -75,11 +75,11 @@ Following is the list of all the documents that can be renamed.
 
 ## See also
 
-  1. [Bulk Rename](</erpnext/bulk-rename>)
+  1. [Bulk Rename](bulk-rename.md)
 
 
 
-[ Previous Page Document Versioning  ](</erpnext/document-versioning>) [ Next Page Duplicate Records  ](</erpnext/duplicate-record>)
+[ Previous Page Document Versioning  ](document-versioning.md) [ Next Page Duplicate Records  ](https://docs.frappe.io/erpnext/duplicate-record)
 
 Last updated 1 week ago 
 

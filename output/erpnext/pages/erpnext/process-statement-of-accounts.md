@@ -1,12 +1,12 @@
 # Process Statement Of Accounts
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sfdqqsb4n>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sfdqqsb4n)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Process Statement Of Accounts 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sfdqqsb4n>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sfdqqsb4n)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -27,11 +27,11 @@ To access _Process Statement Of Accounts_ list you can either search in the navb
   1. The tool uses the email IDs of customers to send them the reports. On not finding the below email entries in the Customer contacts the tool won't allow you to select the respective Customer, so please ensure the following details are filled in the Customer documents.
 
 
-  * Billing Email of Customer: This is mandatory and can be set within the [Customer Contact](</erpnext/contact#1-how-to-create-a-contact>) with "Is Billing Contact" option checked.
+  * Billing Email of Customer: This is mandatory and can be set within the [Customer Contact](contact.md) with "Is Billing Contact" option checked.
   * Primary Email of Customer: This is not mandatory, unless you select the "Send To Primary Contact" in the form.
 
 
-  2. Email Account setup with outgoing enabled. Learn more about this [here](</erpnext/email-account>).
+  2. Email Account setup with outgoing enabled. Learn more about this [here](email-account.md).
 
 
 
@@ -46,11 +46,11 @@ To access _Process Statement Of Accounts_ list you can either search in the navb
 
 
   * "From Date" and "To Date" filters will be hidden and auto-filled dynamically when "Enable Auto Email" option is selected.
-  * "Project" and "Cost Center" are [Table MultiSelect](</erpnext/table-multiselect-field>) fields. Meaning you can select multiple Projects and Cost Centers in the General Ledger filters.
+  * "Project" and "Cost Center" are [Table MultiSelect](table-multiselect-field.md) fields. Meaning you can select multiple Projects and Cost Centers in the General Ledger filters.
 
 
 
-![New Process Statement of Accounts](/files/process-statement-of-accounts.png)
+![New Process Statement of Accounts](https://docs.frappe.io/assets/240d754c7cd3.png)
 
   4. In the "Customers" section, you have an option to select customers in the child table and fetch their primary and billing emails.
 
@@ -61,7 +61,7 @@ To access _Process Statement Of Accounts_ list you can either search in the navb
 
 
 
-![Customer](/files/psoa-customers.png)
+![Customer](https://docs.frappe.io/assets/b906a29e0a33.png)
 
   5. In "Print Preferences" section you can select 2 things:
 
@@ -71,13 +71,13 @@ To access _Process Statement Of Accounts_ list you can either search in the navb
 
 
 
-![Print Preference](/files/psoa-print.png)
+![Print Preference](https://docs.frappe.io/assets/263a37ac3bd4.png)
 
   6. The "Email Settings" section lets you configure how you want the emails to be sent. There are two subsections in this:
 
 
 
-![Email Settings](/files/psoa-auto-email.png)
+![Email Settings](https://docs.frappe.io/assets/d4eb27c8c070.png)
 
   * On selecting "Enable Auto Email" you will see the options to send automated periodic reports to the customers in the entry.
   * You can select the "Frequency" at which the emails will be sent after the "Start Date" to the customers. The available options are weekly, monthly, and quarterly.
@@ -102,7 +102,7 @@ On creating an entry, there is a button seen at the top called "Download" which 
 
 On creating an entry, there is a button seen at the top called "Send Emails" which lets you trigger email sending manually to the customers. The emails are queued via a background job, which you can track in the "Email Queue" doctype with the DocType and Document references. You can do this even if "Enable Auto Email" is on.
 
-![Send Email and Download](/files/psoa-buttons.png)
+![Send Email and Download](https://docs.frappe.io/assets/931486f28ab1.png)
 
 ### 3.3 Using dynamic values in the Email Subject and Body
 
@@ -110,31 +110,31 @@ You can use Jinja tags to enter dynamic values from:
 
   * The customer to which the email will be sent to under the "customer" object
   * Any field in the selected Process Statement Of Account document under the "doc" object
-  * Any method in [`frappe.utils`](<https://github.com/frappe/frappe/blob/develop/frappe/utils/__init__.py>) under the "frappe" object
+  * Any method in [`frappe.utils`](https://github.com/frappe/frappe/blob/develop/frappe/utils/__init__.py) under the "frappe" object
 
 
 
 They can be used as shown below:
 
-![Template](/files/psoa-template.png)
+![Template](https://docs.frappe.io/assets/9425b97590d9.png)
 
 Resulting Email:
 
-![Email](/files/psoa-email.png)
+![Email](https://docs.frappe.io/assets/37ea1ee2e0ed.png)
 
 Report PDF:
 
-![Report](/files/psoa-report.png)
+![Report](https://docs.frappe.io/assets/1f9a8a38fb71.png)
 
 ## 4\. Related Topics
 
-  1. [Setting up an Email Account](</erpnext/email-account>)
-  2. [Creating Customer Contact](</erpnext/contact#1-how-to-create-a-contact>)
-  3. [Contact](</erpnext/contact>)
+  1. [Setting up an Email Account](email-account.md)
+  2. [Creating Customer Contact](contact.md)
+  3. [Contact](contact.md)
 
 
 
-[ Previous Page Bank Reconciliation ](</erpnext/bank-reconciliation>) [ Next Page Accounts Settings ](</erpnext/accounts-settings>)
+[ Previous Page Bank Reconciliation ](bank-reconciliation.md) [ Next Page Accounts Settings ](accounts-settings.md)
 
 Last updated 2 weeks ago 
 

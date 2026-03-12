@@ -1,12 +1,12 @@
 # Loyalty points redemption in POS
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sj50tf3qe>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sj50tf3qe)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Loyalty points redemption in POS
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sj50tf3qe>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sj50tf3qe)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -16,10 +16,10 @@ In ERPNext POS module, the invoices are auto generated. You can set your complet
 
 
 
-![](/files/GPSIGPX.png)* Once the loyalty program is set, you can create a Customer and link the Loyalty program to it.
+![](../../assets/1b2b1b6ecc44.png)* Once the loyalty program is set, you can create a Customer and link the Loyalty program to it.
 
-![](/files/9Wphzgr.png)Once this Customer is linked to the Loyalty program, you can now setup your POS profile if it is not set yet:  
-![](/files/Lw5UhFp.png)  
+![](../../assets/ef0ae76b35b2.png)Once this Customer is linked to the Loyalty program, you can now setup your POS profile if it is not set yet:  
+![](../../assets/2c37fe00fb61.png)  
 Now, you can go to POS transaction:* Select Customer
 
   * Add items
@@ -28,9 +28,9 @@ Now, you can go to POS transaction:* Select Customer
 
 
 
-![](/files/s2Jps8N.png)
+![](../../assets/5e7420efc94f.png)
 
-[ Previous Page POS Invoice Consolidation ](</erpnext/pos-invoice-consolidation>) [ Next Page Manufacturing in ERPNext ](</erpnext/manufacturing>)
+[ Previous Page POS Invoice Consolidation ](pos-invoice-consolidation.md) [ Next Page Manufacturing in ERPNext ](manufacturing.md)
 
 Last updated 1 week ago 
 

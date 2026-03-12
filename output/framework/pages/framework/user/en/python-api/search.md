@@ -1,18 +1,18 @@
 # Search
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tmfnq51ro>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tmfnq51ro)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Search 
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tmfnq51ro>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tmfnq51ro)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-Searching in Frappe is managed by the [Search](<https://github.com/frappe/frappe/blob/develop/frappe/search>) module. It is a wrapper for [Whoosh](<https://pypi.org/project/Whoosh/>) a full text search library written in Python.
+Searching in Frappe is managed by the [Search](https://github.com/frappe/frappe/blob/develop/frappe/search) module. It is a wrapper for [Whoosh](https://pypi.org/project/Whoosh/) a full text search library written in Python.
 
-You can extend the `FullTextSearch` class to create a search class for a specific requirement. For example the [`WebsiteSearch`](<https://github.com/frappe/frappe/blob/develop/frappe/search/website_search.py>) is a wrapper for indexing public facing web pages and exposing a search.
+You can extend the `FullTextSearch` class to create a search class for a specific requirement. For example the [`WebsiteSearch`](https://github.com/frappe/frappe/blob/develop/frappe/search/website_search.py) is a wrapper for indexing public facing web pages and exposing a search.
 
 ## The `FullTextSearch` class
 
@@ -31,7 +31,7 @@ When initializing a FTS based class, you need to provide an index name. On insta
 
 Once instantiated you can run the `build` function. It gets all the documents from `get_items_to_index`, the documents are a list of `frappe._dict` (frappe dicts) conforming to the defined schema. These documents are then added to the index and written to the file.
 
-You can search the index using the `search` method of the FTS class. These functions are documented in the API reference [here](</framework/v14/user/en/api/full-text-search>).
+You can search the index using the `search` method of the FTS class. These functions are documented in the API reference [here](../../../v14/user/en/api/full-text-search.md).
 
 An example implementation for blog will look like the following:
 [code] 
@@ -64,7 +64,7 @@ An example implementation for blog will look like the following:
 
 
 
-[ Previous Page Responses  ](</framework/user/en/python-api/response>) [ Next Page Hooks ](</framework/user/en/python-api/hooks>)
+[ Previous Page Responses  ](response.md) [ Next Page Hooks ](hooks.md)
 
 Last updated 3 weeks ago 
 

@@ -1,22 +1,22 @@
 # Child / Table DocType
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12lejjr7bk>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12lejjr7bk)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Child / Table DocType
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12lejjr7bk>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12lejjr7bk)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 Up until now we have only seen DocTypes that can have a single value for each field. However, there might be a need for storing multiple records against one record, also known as many-to-one relationships. A Child DocType is doctype which can only be linked to a parent DocType. To make a Child DocType make sure to check **Is Child Table** while creating the doctype.
 
-![Child DocType](/files/child-doctype.png)
+![Child DocType](https://docs.frappe.io/assets/95e452a74575.png)
 
 To link a Child Doctype to its parent, add another row in Parent Doctype with field type **Table** and options as **Child Table**.
 
-![Child Table](/files/child-table-field.png)
+![Child Table](https://docs.frappe.io/assets/01e468444129.png)
 
 Child DocType records are directly attached to the parent doc.
 [code] 
@@ -44,7 +44,7 @@ Child documents have special properties that define their relationship to their 
 
 
 
-[ Previous Page Form & View Settings ](</framework/v14/user/en/basics/doctypes/form_&_view_settings>) [ Next Page Single DocType  ](</framework/v14/user/en/basics/doctypes/single-doctype>)
+[ Previous Page Form & View Settings ](form_-_view_settings.md) [ Next Page Single DocType  ](single-doctype.md)
 
 Last updated 2 months ago 
 

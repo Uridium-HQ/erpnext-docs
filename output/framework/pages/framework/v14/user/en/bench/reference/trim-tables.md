@@ -1,12 +1,12 @@
 # bench trim-tables
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/1320j22239>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/1320j22239)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # bench trim-tables 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/1320j22239>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/1320j22239)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -30,7 +30,7 @@ Some benefits of regular table trimming are:
 
 
 
-This command modifies the schema of tables in your site's database. It will by default, take a full backup of your entire database before modifying them. In case, these tables were modified errenously, you can restore your site to it's original state using the [`restore`](</framework/v14/user/en/bench/reference/restore>) command.
+This command modifies the schema of tables in your site's database. It will by default, take a full backup of your entire database before modifying them. In case, these tables were modified errenously, you can restore your site to it's original state using the [`restore`](restore.md) command.
 
 ## Options
 
@@ -55,7 +55,7 @@ This command modifies the schema of tables in your site's database. It will by d
     
 [/code]
 
-[ Previous Page bench trim-database  ](</framework/v14/user/en/bench/reference/trim-database>) [ Next Page Adding Custom Domains to your Site  ](</framework/v14/user/en/bench/guides/adding-custom-domains>)
+[ Previous Page bench trim-database  ](trim-database.md) [ Next Page Adding Custom Domains to your Site  ](../guides/adding-custom-domains.md)
 
 Last updated 2 months ago 
 

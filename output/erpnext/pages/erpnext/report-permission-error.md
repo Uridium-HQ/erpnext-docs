@@ -1,18 +1,18 @@
 # Permission Error Problems
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sktvdscgk>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sktvdscgk)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Permission Error Problems
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sktvdscgk>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sktvdscgk)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 **Question:** User has roles like Account User and Account Manager assigned. Still, when accessing Account Receivable report, User is getting an error message of no permission the territory master.
 
-![Screenshot 2024-06-21 at 2.31.40 PM](/files/Screenshot%202024-06-21%20at%202.31.40%20PM.png)
+![Screenshot 2024-06-21 at 2.31.40 PM](https://docs.frappe.io/assets/1d2105cc88b5.png)
 
 **Answer:**
 
@@ -24,11 +24,11 @@ As per the permission system in ERPNext, for the User to be able to access a for
 
 
 
-![Screenshot 2024-06-21 at 2.26.27 PM](/files/Screenshot%202024-06-21%20at%202.26.27%20PM.png)
+![Screenshot 2024-06-21 at 2.26.27 PM](https://docs.frappe.io/assets/b8a715d9c191.png)
 
 As per this permission update, User should be able to access Account Receivable report fine.
 
-[ Previous Page Perm Level Error ](</erpnext/perm-level-error-in-permission-manager>) [ Next Page Overview ](</erpnext/accounting/introduction>)
+[ Previous Page Perm Level Error ](https://docs.frappe.io/erpnext/perm-level-error-in-permission-manager) [ Next Page Overview ](https://docs.frappe.io/erpnext/accounting/introduction)
 
 Last updated 1 week ago 
 

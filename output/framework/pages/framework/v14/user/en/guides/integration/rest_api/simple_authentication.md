@@ -1,12 +1,12 @@
 # Simple Authentication
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12fpojl01l>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12fpojl01l)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Simple Authentication 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12fpojl01l>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12fpojl01l)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -52,7 +52,7 @@ Returns:
     
 [/code]
 
-  * Cookie: `sid` (send this to authenticate future requests). [Expires in three days](<https://github.com/frappe/frappe/blob/e551153ea0a5fb905f2d9508143a9d25ec74aa43/frappe/auth.py#L320>).
+  * Cookie: `sid` (send this to authenticate future requests). [Expires in three days](https://github.com/frappe/frappe/blob/e551153ea0a5fb905f2d9508143a9d25ec74aa43/frappe/auth.py).
 
 
 [code] 
@@ -110,7 +110,7 @@ Returns:
 
 Author: Raffael Meyer (raffael@alyf.de)
 
-[ Previous Page Introduction  ](</framework/v14/user/en/guides/integration/rest_api>) [ Next Page Token Based Authentication ](</framework/v14/user/en/guides/integration/rest_api/token_based_authentication>)
+[ Previous Page Introduction  ](../rest_api.md) [ Next Page Token Based Authentication ](token_based_authentication.md)
 
 Last updated 2 months ago 
 

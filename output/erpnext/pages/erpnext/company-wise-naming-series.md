@@ -1,12 +1,12 @@
 # Company-wise Naming Series
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sjnjmpieb>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sjnjmpieb)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Company-wise Naming Series
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sjnjmpieb>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sjnjmpieb)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -27,29 +27,29 @@ The need is to create naming series which is company-specific for documents such
 
 
 
-![](/files/3mLkrQs.png)
+![](../../assets/ac534974fd89.png)
 
 Also, keep this field hidden (if needed).
 
-![](/files/w6DS7FY.png)
+![](../../assets/55dc8edb412a.png)
 
   3. Now, in the Customize Form itself, go to the Naming Series row and expand it. In the Options box, add another entry in new line (taking Sales Invoice as example) `SINV-.abbr.-.####` and set this as default.
 
 
 
-![](/files/WAE0FQA.png)
+![](../../assets/81bc70b43ad0.png)
 
-![](/files/2GJ5YLM.png)
+![](../../assets/09d7bb17ae2f.png)
 
 Once this is done, click on Update.
 
 Now, go to Sales Invoice and create one. Select the Company and the Naming Series will be updated automatically based on the company's abbreviation.
 
-![](/files/PrEgDa7.png)
+![](../../assets/1c4c4864a938.png)
 
 **Comments**
 
-[ Previous Page Set Current Value for Naming Series ](</erpnext/naming-series-current-value>) [ Next Page Custom Field ](</erpnext/custom-field>)
+[ Previous Page Set Current Value for Naming Series ](naming-series-current-value.md) [ Next Page Custom Field ](custom-field.md)
 
 Last updated 1 week ago 
 

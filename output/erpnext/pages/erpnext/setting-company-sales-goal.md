@@ -1,12 +1,12 @@
 # Setting Company Sales Goal
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sdt4jcllv>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sdt4jcllv)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Setting Company Sales Goal 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sdt4jcllv>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sdt4jcllv)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -16,29 +16,29 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 
 
-![Sales Graph](/files/sales_history_graph.png)
+![Sales Graph](https://docs.frappe.io/assets/117ce6523c7c.png)
 
   1. You can set the **Sales Target** field to track progress against the graph:
 
 
 
-![Setting Sales Goal](/files/setting_sales_goal.gif)
+![Setting Sales Goal](https://docs.frappe.io/assets/751c77da4664.gif)
 
   1. The target progress is also shown in notifications:
 
 
 
-![Sales Notification](/files/sales_goal_notification.png)
+![Sales Notification](https://docs.frappe.io/assets/fcd8e6bb589d.png)
 
 ### Related Topics
 
-  1. [Company Setup](</erpnext/company-setup>)
-  2. [Sales Order](</erpnext/sales-order>)
-  3. [Sales Partner](</erpnext/sales-partner>)
+  1. [Company Setup](company-setup.md)
+  2. [Sales Order](sales-order.md)
+  3. [Sales Partner](sales-partner.md)
 
 
 
-[ Previous Page Sales Person Target Allocation  ](</erpnext/sales-person-target-allocation>) [ Next Page Sales Commission ](</erpnext/how-to-give-commission-to-sales-partner>)
+[ Previous Page Sales Person Target Allocation  ](sales-person-target-allocation.md) [ Next Page Sales Commission ](how-to-give-commission-to-sales-partner.md)
 
 Last updated 1 week ago 
 

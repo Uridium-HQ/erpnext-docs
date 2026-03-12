@@ -1,12 +1,12 @@
 # Invoice Discounting
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rmbae9sbe>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rmbae9sbe)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Invoice Discounting 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rmbae9sbe>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rmbae9sbe)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -40,13 +40,13 @@ You need to create following ledgers in order to post invoice discounting transa
 
 
 
-![Disburse Loan in Invoice Discounting](/files/invoice-discounting.png)
+![Disburse Loan in Invoice Discounting](https://docs.frappe.io/assets/b23b8d9b08ed.png)
 
-  1. You'll be taken to a [Journal Entry](</erpnext/journal-entry>) screen. Save and Submit the Journal Entry.
+  1. You'll be taken to a [Journal Entry](../../../journal-entry.md) screen. Save and Submit the Journal Entry.
 
 
 
-![Journal Entry](/files/invoice-discounting-journal-entry.png)
+![Journal Entry](https://docs.frappe.io/assets/7b8cb6a77ff5.png)
 
 ## 2\. Features
 
@@ -64,13 +64,13 @@ You can also specify multiple of the above filters.
 
 ### 2.2 Closing the Loan
 
-When you repay the loan at the end of the loan period or before that, you can update the same by clicking on 'Close Loan' button. ![Journal Entry](/files/invoice-discounting-close-loan.png) System will prepare the Journal Entry. Review and Submit the it.
+When you repay the loan at the end of the loan period or before that, you can update the same by clicking on 'Close Loan' button. ![Journal Entry](https://docs.frappe.io/assets/fc76aba0e601.png) System will prepare the Journal Entry. Review and Submit the it.
 
 ### 2.3 Auto Update of Ledgers at the end of Loan Period
 
 If the loan is not repaid at the end of loan period, system will create a Journal Entry via a scheduled job to shift value from 'Accounts Receivable Discounted Account' to 'Accounts Receivable Unpaid Account'. This will make it easy to trace the invoices which were discounted and remained unpaid at the end of the loan period.
 
-[ Previous Page Bank Account ](</erpnext/bank-account>) [ Next Page Payment Request  ](</erpnext/payment-request>)
+[ Previous Page Bank Account ](../../../bank-account.md) [ Next Page Payment Request  ](../../../payment-request.md)
 
 Last updated 2 weeks ago 
 

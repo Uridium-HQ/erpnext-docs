@@ -1,16 +1,16 @@
 # Stock Reposting Settings
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rrtr5c7m7>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rrtr5c7m7)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Stock Reposting Settings
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rrtr5c7m7>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rrtr5c7m7)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-![Screenshot 2024-04-24 at 12.54.08 PM](/files/Screenshot%202024-04-24%20at%2012.54.08%20PM.png)
+![Screenshot 2024-04-24 at 12.54.08 PM](https://docs.frappe.io/assets/4d0bd251b517.png)
 
 ### **Limit timeslot for Stock Reposting**
 
@@ -34,7 +34,7 @@ If reposting fails due to any issues, the system sends emails to the system mana
 
 ### **Enable Parallel Reposting**
 
-![Screenshot 2025 12 10 at 5.54.21 PM](/files/Screenshot%202025-12-10%20at%205.54.21%20PM.png)
+![Screenshot 2025 12 10 at 5.54.21 PM](https://docs.frappe.io/assets/f411830f9d58.png)
 
 Allows the system to use multiple background workers to repost stock entries in parallel per item. This setting is effective only when Item-Based Reposting is enabled.
 
@@ -51,7 +51,7 @@ Reposting is a tough computational problem to solve because it involves repostin
 
 
 
-[ Previous Page Projected Quantity  ](</erpnext/projected-quantity>) [ Next Page Repost Item Valuation ](</erpnext/repost-item-valuation>)
+[ Previous Page Projected Quantity  ](projected-quantity.md) [ Next Page Repost Item Valuation ](https://docs.frappe.io/erpnext/repost-item-valuation)
 
 Last updated 2 weeks ago 
 

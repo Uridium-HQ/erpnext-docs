@@ -1,12 +1,12 @@
 # Installation Note
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rt5o9ma7p>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rt5o9ma7p)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Installation Note 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rt5o9ma7p>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rt5o9ma7p)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -29,18 +29,18 @@ An Installation Note is usually created from a Delivery Note. You can also creat
 
 
 
-![Installation Note](/files/installation-note.png)
+![Installation Note](https://docs.frappe.io/assets/721c004f9fdb.png)
 
 Any additional remarks about the installation can be added. If the Item is serialized, the serial numbers can be added in Items table.
 
 ### 2\. Related Topics
 
-  1. [Delivery Note](</erpnext/delivery-note>)
-  2. [Delivery Trip](</erpnext/delivery-trip>)
+  1. [Delivery Note](delivery-note.md)
+  2. [Delivery Trip](delivery-trip.md)
 
 
 
-[ Previous Page Shipment  ](</erpnext/shipment>) [ Next Page Pick List ](</erpnext/pick-list>)
+[ Previous Page Shipment  ](shipment.md) [ Next Page Pick List ](pick-list.md)
 
 Last updated 2 weeks ago 
 

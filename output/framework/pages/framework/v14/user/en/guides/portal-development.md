@@ -1,12 +1,12 @@
 # Pages
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12ccjatce3>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12ccjatce3)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Pages 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12ccjatce3>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12ccjatce3)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,7 +14,7 @@ You can make your website by adding pages to the `/www` folder of your website. 
 
 Pages must be `.html` or `.md` (Markdown) files. Basic HTML template is provided in frappe in `frappe/templates/base_template.html`
 
-[ Previous Page Script Report  ](</framework/v14/user/en/guides/reports-and-printing/how-to-make-script-reports>) [ Next Page Ordering  ](</framework/v14/user/en/guides/portal-development/ordering>)
+[ Previous Page Script Report  ](reports-and-printing/how-to-make-script-reports.md) [ Next Page Ordering  ](portal-development/ordering.md)
 
 Last updated 2 months ago 
 

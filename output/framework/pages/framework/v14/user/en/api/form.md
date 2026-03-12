@@ -1,12 +1,12 @@
 # Form Scripts
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12qifutjln>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12qifutjln)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Form Scripts 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12qifutjln>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12qifutjln)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -73,7 +73,7 @@ To create a new Client Script, go to
 
 **Home > Customization > Client Script > New**
 
-![New Client Script](/files/client-script-form.png) _New Client Script for Form_
+![New Client Script](https://docs.frappe.io/assets/b13ec742b32d.png) _New Client Script for Form_
 
 ## Form Events
 
@@ -277,11 +277,11 @@ Color can be 'blue', 'red', 'orange', 'green' or 'yellow'. Default is blue.
     
 [/code]
 
-![Intro text example](/files/Screenshot%202022-04-23%20at%201.56.04%20AM.png) _Intro Text Example_
+![Intro text example](https://docs.frappe.io/assets/33a32f3e676f.png) _Intro Text Example_
 
 ### frm.add\\_custom_button
 
-Add a custom button in the inner toolbar of the page. Alias to [page.add\\_inner_button](</framework/v14/user/en/api/page#pageadd_inner_button>).
+Add a custom button in the inner toolbar of the page. Alias to [page.add\\_inner_button](page.md).
 [code] 
     // Custom buttons
     frm.add_custom_button('Open Reference form', () => {
@@ -519,7 +519,7 @@ To avoid cancellation of linked documents during cancel all, you need to set the
 
 In the above example, the system will avoid cancellation for all documents of 'DocType 2' and 'DocType 3' which are linked with document of 'DocType 1' during cancellation.
 
-[ Previous Page Developer API  ](</framework/v14/user/en/api>) [ Next Page Controls  ](</framework/v14/user/en/api/controls>)
+[ Previous Page Developer API  ](../api.md) [ Next Page Controls  ](controls.md)
 
 Last updated 2 months ago 
 

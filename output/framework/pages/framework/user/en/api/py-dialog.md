@@ -1,16 +1,16 @@
 # Dialog API
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tm70j5hqm>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tm70j5hqm)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Dialog API
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tm70j5hqm>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tm70j5hqm)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-Frappe provides a group of standard, interactive and flexible dialogs that are easy to configure and use. There's also a more extensive API for [Javascript](</framework/v14/user/en/api/dialog>).
+Frappe provides a group of standard, interactive and flexible dialogs that are easy to configure and use. There's also a more extensive API for [Javascript](../../../v14/user/en/api/dialog.md).
 
 ### frappe.msgprint
 
@@ -42,7 +42,7 @@ The argument list includes:
     
 [/code]
 
-![frappe.msgprint](/files/dialog-api-msgprint-py.png) _frappe.msgprint_
+![frappe.msgprint](https://docs.frappe.io/assets/633b09d2189d.png) _frappe.msgprint_
 
 `primary_action` can contain a `server_action` **or** `client_side` action which must contain dotted paths to the respective methods. The JavaScript function must be a globally available function. You can also pass `hide_on_success` to close the message after the action is successfully completed.
 [code] 
@@ -63,7 +63,7 @@ The argument list includes:
     
 [/code]
 
-![frappe.msgprint with primary action](/files/dialog-api-msgprint-py-with-primary-action.png) _frappe.msgprint with primary action_
+![frappe.msgprint with primary action](https://docs.frappe.io/assets/38f40115a00e.png) _frappe.msgprint with primary action_
 
 ### frappe.throw
 
@@ -83,9 +83,9 @@ This method will raise an exception as well as show a message in Desk. It is ess
     
 [/code]
 
-![Throw-py](/files/dialog-api-msgprint-py.png) _frappe.throw_
+![Throw-py](https://docs.frappe.io/assets/633b09d2189d.png) _frappe.throw_
 
-[ Previous Page FullTextSearch API ](</framework/user/en/api/full-text-search>) [ Next Page Query Builder  ](</framework/user/en/api/query-builder>)
+[ Previous Page FullTextSearch API ](full-text-search.md) [ Next Page Query Builder  ](query-builder.md)
 
 Last updated 3 weeks ago 
 

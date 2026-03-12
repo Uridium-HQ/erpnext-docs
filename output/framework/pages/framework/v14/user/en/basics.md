@@ -1,18 +1,18 @@
 # What is Frappe Framework?
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12ik2k3jhi>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12ik2k3jhi)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # What is Frappe Framework? 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12ik2k3jhi>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12ik2k3jhi)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 Frappe is a full stack, batteries-included, web framework written in Python and Javascript.
 
-It is the framework which powers [ERPNext](<https://erpnext.com>). It is pretty generic and can be used to build database driven apps.
+It is the framework which powers [ERPNext](https://erpnext.com/). It is pretty generic and can be used to build database driven apps.
 
 ## Meta-data driven
 
@@ -86,21 +86,21 @@ Frappe does not only manage the backend, it also comes with a feature rich admin
 
 The List View supports paging, filtering, sorting and bulk editing records.
 
-![List View](/files/list-view.png) _List View_
+![List View](https://docs.frappe.io/assets/2aa0cce35352.png) _List View_
 
 The Form View used for editing records also supports file attachments, PDF format, comments, email, etc.
 
-![Form View](/files/form-view.png) _Form View_
+![Form View](https://docs.frappe.io/assets/3c6bc21bca63.png) _Form View_
 
 The Report Builder supports adding columns, grouping, filtering, sorting and saving it as a configuration.
 
-![Report Builder](/files/report-builder.png) _Report Builder_
+![Report Builder](https://docs.frappe.io/assets/160c89ef656b.png) _Report Builder_
 
 ## Users, Roles and Permissions
 
 Frappe comes with User and Role management out of the box. A **User** is someone who can login to the system and perform authorized actions like creating, updating or deleting records. A **Role** is a mapping of DocTypes and actions allowed to perform on it.
 
-![Role Permission Manager](/files/permission-manager.png)
+![Role Permission Manager](https://docs.frappe.io/assets/20ee27a1be15.png)
 
 ## Python, JS and MariaDB
 
@@ -143,21 +143,21 @@ Frappe also supports background job queuing based on Python RQ.
 
 Frappe supports sending and receiving emails, which can also be linked to individual documents.
 
-![Email](/files/email.png)
+![Email](https://docs.frappe.io/assets/fa7ae91bd819.png)
 
 ## Printing
 
 Frappe supports generating PDF print formats based on Jinja Templates. It also comes with a drag-and-drop Print Format Builder.
 
-![Print Preview](/files/print-view.png) _Print Preview_
+![Print Preview](https://docs.frappe.io/assets/423168b7e717.png) _Print Preview_
 
-![Print Format Builder](/files/print-format-builder.png) _Print Format Builder_
+![Print Format Builder](https://docs.frappe.io/assets/aa79943f35af.png) _Print Format Builder_
 
 ## Batteries Included
 
 Frappe has tons of features that are essential to building a modern complex app. Only the basic features are introduced here. The rest of this guide will cover them and other advanced features with much finer detail, so make sure to read it all!
 
-[ Previous Page Making Charts  ](</framework/v14/user/en/guides/desk/making_charts>) [ Next Page Why Frappe Framework?  ](</framework/v14/user/en/basics/why>)
+[ Previous Page Making Charts  ](guides/desk/making_charts.md) [ Next Page Why Frappe Framework?  ](basics/why.md)
 
 Last updated 2 months ago 
 

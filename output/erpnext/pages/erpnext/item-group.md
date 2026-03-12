@@ -1,12 +1,12 @@
 # Item Group
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rsdqp5ii1>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rsdqp5ii1)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Item Group
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rsdqp5ii1>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rsdqp5ii1)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,7 +20,7 @@ To access the Item Group list, go to:
 
 This is what the Item Group tree looks like:
 
-![](/files/item_groups.png)
+![](../../assets/9544ce48d271.png)
 
 ## How to create an Item Group
 
@@ -41,7 +41,7 @@ Note:
 
 
 
-![](/files/item-group-new2af55d.gif)
+![](../../assets/42be628c768b.gif)
 
 ### 1.2 Delete an Item Group
 
@@ -72,19 +72,19 @@ You can change the parent Item Group of an item by choosing another one under Ge
 
 ### 2.3 Item Tax
 
-A default item tax template will be applied to all items belonging to this group. Similarly a Tax Category can also be selected, visit [Quotation](</erpnext/quotation>) to know more about Tax Categories.
+A default item tax template will be applied to all items belonging to this group. Similarly a Tax Category can also be selected, visit [Quotation](quotation.md) to know more about Tax Categories.
 
 ### 2.4 Website Settings
 
   * **Show in Website** : Items belonging to this group will be shown on your website under the Item Group.
   * **Weightage** : This is the weight for the Item Groups themselves, item groups with higher weights will be shown first.
-  * **Slideshow** : A slideshow for the Item Group, just like in an Item. Visit the [Homepage](</erpnext/homepage>) page in Website module to know more.
+  * **Slideshow** : A slideshow for the Item Group, just like in an Item. Visit the [Homepage](homepage.md) page in Website module to know more.
   * **Description** : This will appear on the Item Group page.
   * **Website Specifications** : Label and its description for an item group.
 
 
 
-[ Previous Page Item ](</erpnext/item>) [ Next Page Unit of Measure (UoM)  ](</erpnext/uom>)
+[ Previous Page Item ](item.md) [ Next Page Unit of Measure (UoM)  ](uom.md)
 
 Last updated 1 week ago 
 

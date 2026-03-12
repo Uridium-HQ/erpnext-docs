@@ -1,12 +1,12 @@
 # Email Notifications For Failed Background Jobs
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12breaa2f3>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12breaa2f3)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Email Notifications For Failed Background Jobs 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12breaa2f3>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12breaa2f3)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -40,7 +40,7 @@ You can configure email notification for scheduler errors. By writing a file, `s
 
 One limitation is that it'll use local mailserver on port 25 to send the emails.
 
-[ Previous Page Packages  ](</framework/v14/user/en/guides/deployment/packages>) [ Next Page How To Migrate Doctype Changes To Production  ](</framework/v14/user/en/guides/deployment/how-to-migrate-doctype-changes-to-production>)
+[ Previous Page Packages  ](packages.md) [ Next Page How To Migrate Doctype Changes To Production  ](how-to-migrate-doctype-changes-to-production.md)
 
 Last updated 2 months ago 
 

@@ -1,12 +1,12 @@
 # Terms And Conditions
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rab10u33b>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rab10u33b)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Terms And Conditions 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rab10u33b>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rab10u33b)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -25,19 +25,19 @@ To access Terms and Conditions template go to:
 
 
 
-![Terms and Conditions](/files/terms-1.png)
+![Terms and Conditions](https://docs.frappe.io/assets/1de118dd4a2a.png)
 
 ### 1.1. Select in Transaction
 
 In transactions, you will find a section of Terms and Conditions where you will be able to search and fetch the required Terms and Condition master.
 
-![Terms and Conditions, Select in document](/files/terms-3.png)
+![Terms and Conditions, Select in document](https://docs.frappe.io/assets/f1a044efac3a.png)
 
 ### 1.2 Terms and Conditions when printing
 
 Once the Terms and Conditions are set in a Sales/Purchase transaction, it will appear when printing:
 
-![Terms and Conditions in print](/files/terms-in-print.png)
+![Terms and Conditions in print](https://docs.frappe.io/assets/4050f5000b17.png)
 
 ### 1.3 What should Terms and Conditions contain?
 
@@ -59,12 +59,12 @@ Terms and conditions are the general and special arrangements, provisions, requi
 
 ### 2\. Related Topics
 
-  1. [Address Template](</erpnext/address-template>)
-  2. [Cheque Print Template](</erpnext/cheque-print-template>)
+  1. [Address Template](address-template.md)
+  2. [Cheque Print Template](cheque-print-template.md)
 
 
 
-[ Previous Page Address Template  ](</erpnext/address-template>) [ Next Page Selling Settings ](</erpnext/selling-settings>)
+[ Previous Page Address Template  ](address-template.md) [ Next Page Selling Settings ](selling-settings.md)
 
 Last updated 1 week ago 
 

@@ -1,12 +1,12 @@
 # Sales Commission
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sp9vrjcd0>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sp9vrjcd0)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Sales Commission
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sp9vrjcd0>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sp9vrjcd0)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -15,7 +15,7 @@ To pay to the Sales Partner, you need to create a Supplier* with Sales Partner n
 Once you are done creating a Supplier, you can create a Payment Entry against the amount due in the Sales Partner Commission Report.  
 **Why Supplier and Supplier Group?* *Creating a Supplier helps in application of Taxes and other Charges(if applicable against the Sales Partner).** Supplier Group is used to distinguish between your Suppliers and Sales Partners.*
 
-[ Previous Page Setting Company Sales Goal  ](</erpnext/setting-company-sales-goal>) [ Next Page Setting up "Buy 1 Get 1 Free" Pricing Rule ](</erpnext/setting-up-buy-1-get-1-free-pricing-rule>)
+[ Previous Page Setting Company Sales Goal  ](setting-company-sales-goal.md) [ Next Page Setting up "Buy 1 Get 1 Free" Pricing Rule ](setting-up-buy-1-get-1-free-pricing-rule.md)
 
 Last updated 1 week ago 
 

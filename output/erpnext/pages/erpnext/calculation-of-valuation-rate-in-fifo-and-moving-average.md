@@ -1,12 +1,12 @@
 # FIFO and Moving Average calculation difference
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sh9qe71ln>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sh9qe71ln)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # FIFO and Moving Average calculation difference
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sh9qe71ln>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sh9qe71ln)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -45,7 +45,7 @@ To make a sale of 15 qty, we will directly multiply it by the average value we r
 
 If you check, even though the quantity is same the stock value is different but both amounts to a total of 3400 only. 
 
-[ Previous Page Item Valuation Setup and Transactions ](</erpnext/item-valuation-transactions>) [ Next Page Serialised Item Valuation Rate calculation ](</erpnext/how-is-valuation-rate-of-serialised-item-calculated-in-erpnext>)
+[ Previous Page Item Valuation Setup and Transactions ](item-valuation-transactions.md) [ Next Page Serialised Item Valuation Rate calculation ](how-is-valuation-rate-of-serialised-item-calculated-in-erpnext.md)
 
 Last updated 1 week ago 
 

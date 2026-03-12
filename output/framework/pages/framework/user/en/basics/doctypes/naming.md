@@ -1,12 +1,12 @@
 # Naming
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tkahvi42s>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tkahvi42s)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Naming 
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tkahvi42s>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tkahvi42s)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -45,7 +45,7 @@ The system generates a sequential numeric name by incrementing the last created 
 
 
 
-![](/files/autoincrement.gif) _Autoincrement_
+![](../../../../../../assets/cbc5632bcf70.gif) _Autoincrement_
 
 ### 3\. By fieldname
 
@@ -53,7 +53,7 @@ The document name is fetched directly from the value of a specific field.
 
 > **Note:** The value in the selected field must always be unique.
 
-![](/files/fieldname.gif) _By Fieldname_
+![](../../../../../../assets/63fe56c3adc9.gif) _By Fieldname_
 
 ### 4\. By "Naming Series" field
 
@@ -63,7 +63,7 @@ For example, if you have a field `naming_series` in your document and its value 
 
 > **Requirement:** This works only if you have a field called `naming_series` in your DocType.
 
-![](/files/naming-series.gif) _By "Naming Series"_
+![](../../../../../../assets/622cfa8d0d1a.gif) _By "Naming Series"_
 
 ### 5\. Expression
 
@@ -74,7 +74,7 @@ For example, if you set the pattern as `PRE-.#####`:
   * The first document created will be named `PRE-00001`
   * The second will be `PRE-00002`
   * And so on...  
-![](/files/expression.gif) _Expression_
+![](../../../../../../assets/61b62d75c0de.gif) _Expression_
 
 
 
@@ -103,7 +103,7 @@ This format allows you to combine:
 
 Generates a random alphanumeric string as the document name.
 
-![](/files/ramdom.gif) _Random_
+![](../../../../../../assets/c5dbcc40503f.gif) _Random_
 
 ### 8\. UUID
 
@@ -111,7 +111,7 @@ Uses a randomly generated Universally Unique Identifier (UUID v4) as the documen
 
 **Example:** `550e8400-e29b-41d4-a716-446655440000`
 
-![](/files/uuid.gif) _UUID_
+![](../../../../../../assets/2ceaf36a4196.gif) _UUID_
 
 ### 9\. By script
 
@@ -131,7 +131,7 @@ You can define custom naming logic using the `autoname` controller method in you
 
 You can also create rules for naming DocTypes by creating **Document Naming Rule.**
 
-![](/files/imagec0c7f9.png)
+![](../../../../../../assets/384519badf75.png)
 
 You can create multiple Document Naming Rules for a particular doctype that can be applied selectively based on filters.
 
@@ -173,7 +173,7 @@ When multiple naming rules might apply, the framework prioritizes them in this o
 
 
 
-[ Previous Page Field Types ](</framework/user/en/basics/doctypes/fieldtypes>) [ Next Page DocField  ](</framework/user/en/basics/doctypes/docfield>)
+[ Previous Page Field Types ](fieldtypes.md) [ Next Page DocField  ](docfield.md)
 
 Last updated 3 weeks ago 
 

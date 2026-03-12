@@ -1,12 +1,12 @@
 # Document Title
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0t7v4hrk1d>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0t7v4hrk1d)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Document Title 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0t7v4hrk1d>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0t7v4hrk1d)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,7 +14,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 For example, the default title on a Quotation is the customer name, but if you are dealing with only a few customers and sending lots of quotations to each customer, you may want to customize.
 
-![Document Title](/files/document-title.png)
+![Document Title](https://docs.frappe.io/assets/363951aec49d.png)
 
 ## Setting Title Fields
 
@@ -32,21 +32,21 @@ You can set the default value of that property by using Python style string form
 
 You can define the title by setting document properties in braces `{}`. For example, if your document has fields `customer_name`, you can specify that as the Title of the Form.
 
-![Set Document Title](/files/set-document-title.gif)
+![Set Document Title](https://docs.frappe.io/assets/245861d67784.gif)
 
 Alternatively, you can also define a particular field as the 'Title Field' in Customize Form.
 
-![Title Field](/files/title-field-in-view-settings.png)
+![Title Field](https://docs.frappe.io/assets/24ba79c09c39.png)
 
 ## Fixed or Editable Titles
 
 If your title is generated as a default title, it can be edited by the user by clicking on the heading of the document.
 
-![Editable Title](/files/customize-document%20title.gif)
+![Editable Title](https://docs.frappe.io/assets/173a06e4f49c.gif)
 
 If you want a fixed title, you can set the rule in the **Options** property. In this way, the title will be automatically updated every time the document is updated.
 
-[ Previous Page Customize Form ](</erpnext/customize-form>) [ Next Page Customizing Workspace ](</erpnext/workspace>)
+[ Previous Page Customize Form ](customize-form.md) [ Next Page Customizing Workspace ](https://docs.frappe.io/erpnext/workspace)
 
 Last updated 2 weeks ago 
 

@@ -1,12 +1,12 @@
 # Inter Company Journal Entry
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sf4ck4qf3>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sf4ck4qf3)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Inter Company Journal Entry 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sf4ck4qf3>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sf4ck4qf3)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -22,7 +22,7 @@ Inter company Journal Entries are created using the Journal Entry form in ERPNex
 
 Before creating an Inter Company Journal Entry, you need the following:
 
-  * At least two [Companies](</erpnext/company-setup>)
+  * At least two [Companies](company-setup.md)
 
 
 
@@ -44,19 +44,19 @@ Before creating an Inter Company Journal Entry, you need the following:
 
 
 
-![Inter Company Journal Entry](/files/inter-company-journal-entry.png)
+![Inter Company Journal Entry](https://docs.frappe.io/assets/25ccaaa6b6ae.png)
 
   1. Click on the button. Now, you will be asked to select the Company against which you wish to create the linked Journal Entry.
 
 
 
-![Company Master](/files/select-company-in-inter-company-journal-entry.png)
+![Company Master](https://docs.frappe.io/assets/e816aca66d3f.png)
 
   1. On selecting the Company, you will be routed to another Journal Entry where the relevant fields will be mapped, i.e. Company, Voucher Type, Inter Company Journal Entry Reference etc.
 
 
 
-![Auto Generated Inter Company Journal Entry](/files/auto-generated-intercompany-journal-entry.png)
+![Auto Generated Inter Company Journal Entry](https://docs.frappe.io/assets/54eb10b8a795.png)
 
   1. Select the Internal accounts for the second Company in the table.
   2. Submit the Journal Entry.
@@ -76,12 +76,12 @@ You can also find the reference link at the bottom, which will be added in both 
 
 ### 3\. Related Topics
 
-  1. [Journal Entry](</erpnext/journal-entry>)
-  2. [Inter Company Invoices](</erpnext/inter-company-invoices>)
+  1. [Journal Entry](journal-entry.md)
+  2. [Inter Company Invoices](inter-company-invoices.md)
 
 
 
-[ Previous Page Journal Entry Template  ](</erpnext/journal-entry-template>) [ Next Page Deferred Revenue  ](</erpnext/deferred-revenue>)
+[ Previous Page Journal Entry Template  ](journal-entry-template.md) [ Next Page Deferred Revenue  ](deferred-revenue.md)
 
 Last updated 1 week ago 
 

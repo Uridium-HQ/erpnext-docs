@@ -1,12 +1,12 @@
 # User Permissions
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sc6d24jvi>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sc6d24jvi)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # User Permissions
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sc6d24jvi>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sc6d24jvi)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -39,7 +39,7 @@ To access User Permissions, go to: > Home > User and Permissions > User Permissi
 
 
 
-![Creating a new user permission](/files/new-user-permission.png)
+![Creating a new user permission](https://docs.frappe.io/assets/e16f5d21b85c.png)
 
 > Note: Only a single user permission can be set as default for a particular document type for a specific user.
 
@@ -57,7 +57,7 @@ In Advanced Control, you can have better command over where the User Permission 
 
 You can optionally apply user permissions only for specific document type by setting the Document Type after unchecking the Apply To All Document Types checkbox. Setting **Applicable For** option will make the current user permission applicable only under the selected Document Type master.
 
-![Applicable For](/files/advanced-control.png)
+![Applicable For](https://docs.frappe.io/assets/13fb30f5504f.png)
 
 In the above User Permission, the user will be able to access only Sales Orders of the selected company.
 
@@ -71,7 +71,7 @@ Let's assume **For Value** , 'Unico Plastics Inc.', has a child company 'Unico T
 
 **Hide Descendants** is visible only on selecting a Tree View DocType. By enabling this checkbox, permissions for descendants of **For Value** will not be granted.
 
-![Hide Descendant Permissions](/files/hide-descendant-permissions.png)
+![Hide Descendant Permissions](https://docs.frappe.io/assets/6bc82acdbb66.png)
 
 A user that can view records of 'Unico Plastics Inc.' will not be able to view those of 'Unico Toys'.
 
@@ -81,7 +81,7 @@ Another way of allowing documents to be seen by everyone that have been restrict
 
 For example, you don't want Assets to be restricted for any user, then select **Asset** in form type. Under the fields table, expand the Company field and tick on "Ignore User Permissions".
 
-![Ignore User Permissions on specific properties](/files/ignore-user-permissions.png)
+![Ignore User Permissions on specific properties](https://docs.frappe.io/assets/5829d4376291.png)
 
 ### 2.3 Strict Permissions
 
@@ -94,7 +94,7 @@ When user permissions are defined, for a particular role - the role permissions 
 
 You can choose how to interpret this the way you want by checking "Apply strict permissions" on the System Settings page.
 
-To know more, go to the [System Settings page](</erpnext/system-settings#14-permissions>).
+To know more, go to the [System Settings page](system-settings.md).
 
 ### 2.4 Checking How User Permissions are Applied
 
@@ -102,22 +102,22 @@ Finally, once you have created your air-tight permission model, and you want to 
 
 Ticking on the Show Permissions checkbox will show the read/write/submit and other access levels.
 
-![Permitted Documents for User report](/files/permitted-documents.png)
+![Permitted Documents for User report](https://docs.frappe.io/assets/b8c88ca0b6bb.png)
 
-Note: If you cannot access Sales Order or any other document type in this list, make sure you've set the [roles](</erpnext/role-based-permissions>) correctly.
+Note: If you cannot access Sales Order or any other document type in this list, make sure you've set the [roles](role-based-permissions.md) correctly.
 
-For example, the user, Bruce is restricted to Company 'Unico Plastics Inc.' ![User restricted to Company](/files/user-restricted-to-company.png)
+For example, the user, Bruce is restricted to Company 'Unico Plastics Inc.' ![User restricted to Company](https://docs.frappe.io/assets/d9eb4cc5d20d.png)
 
 ### 3\. Related Topics
 
-  1. [Adding Users](</erpnext/adding-users>)
-  2. [Role and Role Profile](</erpnext/role-and-role-profile>)
-  3. [Role Based Permissions](</erpnext/role-based-permissions>)
-  4. [Role Permission For Page And Report](</erpnext/role-permission-for-page-and-report>)
+  1. [Adding Users](adding-users.md)
+  2. [Role and Role Profile](role-and-role-profile.md)
+  3. [Role Based Permissions](role-based-permissions.md)
+  4. [Role Permission For Page And Report](https://docs.frappe.io/erpnext/role-permission-for-page-and-report)
 
 
 
-[ Previous Page Role Based Permissions ](</erpnext/role-based-permissions>) [ Next Page Administrator ](</erpnext/administrator>)
+[ Previous Page Role Based Permissions ](role-based-permissions.md) [ Next Page Administrator ](https://docs.frappe.io/erpnext/administrator)
 
 Last updated 2 weeks ago 
 

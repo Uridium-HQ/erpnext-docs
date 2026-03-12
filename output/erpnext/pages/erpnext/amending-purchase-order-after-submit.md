@@ -1,22 +1,22 @@
 # Amending Purchase Order after Submit
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0shppt3ir4>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0shppt3ir4)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Amending Purchase Order after Submit 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0shppt3ir4>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0shppt3ir4)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 Rate and Qty in Purchase Order can now be amended after Submit using the `Update Items` button.
 
-![Update Items](/files/po-update-items.png)
+![Update Items](https://docs.frappe.io/assets/49ff64dae5be.png)
 
 To Update Rate and Qty in a Submitted Purchase Order, click on the `Update Items` button. A dialog will pop up to let you make the change.
 
-![Update Items](/files/po-update-items-rate-and-qty.gif)
+![Update Items](https://docs.frappe.io/assets/88aec8f41ef3.gif)
 
 Please Note the following validations and usecases:
 
@@ -26,7 +26,7 @@ Please Note the following validations and usecases:
 
 
 
-[ Previous Page Purchasing in Different UoM ](</erpnext/purchasing-in-different-unit>) [ Next Page Calculating Freight in taxes in ERPNext ](</erpnext/calculatin-freight-in-taxes-in-erpnext>)
+[ Previous Page Purchasing in Different UoM ](purchasing-in-different-unit.md) [ Next Page Calculating Freight in taxes in ERPNext ](calculatin-freight-in-taxes-in-erpnext.md)
 
 Last updated 1 week ago 
 

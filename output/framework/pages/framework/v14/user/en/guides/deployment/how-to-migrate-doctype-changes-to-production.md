@@ -1,12 +1,12 @@
 # How To Migrate Doctype Changes To Production
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12b2ai1lgu>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12b2ai1lgu)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # How To Migrate Doctype Changes To Production 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12b2ai1lgu>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12b2ai1lgu)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -22,7 +22,7 @@ Permissions do not get updated because the user may have changed them. To update
 
 execute:frappe.permissions.reset_perms("[docype]")
 
-[ Previous Page Email Notifications For Failed Background Jobs  ](</framework/v14/user/en/guides/deployment/email-notifications-for-failed-background-jobs>) [ Next Page Migrations ](</framework/v14/user/en/guides/deployment/migrations>)
+[ Previous Page Email Notifications For Failed Background Jobs  ](email-notifications-for-failed-background-jobs.md) [ Next Page Migrations ](migrations.md)
 
 Last updated 2 months ago 
 

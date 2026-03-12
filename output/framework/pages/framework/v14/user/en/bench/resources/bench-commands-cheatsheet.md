@@ -1,18 +1,18 @@
 # Bench Commands Cheatsheet
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/1343nbii72>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/1343nbii72)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Bench Commands Cheatsheet 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/1343nbii72>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/1343nbii72)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 ### Printable Bench CLI Cheatsheet
 
-Grab a A4 size printable cheatsheet of the most important Bench CLI commands [here](/files/Bench Cheatsheet v1.1.pdf). Download, print and put it on your desk!
+Grab a A4 size printable cheatsheet of the most important Bench CLI commands [here](https://docs.frappe.io/files/Bench Cheatsheet v1.1.pdf). Download, print and put it on your desk!
 
 ### General Usage
 
@@ -157,7 +157,7 @@ Backup will be saved to `~/frappe-bench/sites/{your site}/private/backups/`.
   * `bench execute` Execute a method inside any app.
   * Eg : `bench execute frappe.utils.scheduler.enqueue\_scheduler\_events`
   * `bench --site [sitename] mariadb` Opens SQL Console
-  * `bench --site [sitename] export-fixtures [--app TEXT]` Export the [records defined in the app's hooks](</framework/v14/user/en/python-api/hooks#fixtures>) as JSON files.
+  * `bench --site [sitename] export-fixtures [--app TEXT]` Export the [records defined in the app's hooks](../../python-api/hooks.md) as JSON files.
   * `bench run-tests` Run tests
   * `--app` App Name
   * `--doctype` DocType to run tests for
@@ -186,7 +186,7 @@ Backup will be saved to `~/frappe-bench/sites/{your site}/private/backups/`.
 
 
 
-[ Previous Page Background Services  ](</framework/v14/user/en/bench/resources/background-services>) [ Next Page Bench Procfile  ](</framework/v14/user/en/bench/resources/bench-procfile>)
+[ Previous Page Background Services  ](background-services.md) [ Next Page Bench Procfile  ](bench-procfile.md)
 
 Last updated 2 months ago 
 

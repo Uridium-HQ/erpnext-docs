@@ -1,12 +1,12 @@
 # Frappe Framework Tutorial
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/125igu5k11>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/125igu5k11)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Frappe Framework Tutorial 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/125igu5k11>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/125igu5k11)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -36,20 +36,20 @@ We will also create public Web Views which can be accessed by the Library Member
 
 ## Table of Contents
 
-  1. [Create a Bench](</framework/v14/user/en/tutorial/install-and-setup-bench>)
-  2. [Create an App](</framework/v14/user/en/tutorial/create-an-app>)
-  3. [Create a Site](</framework/v14/user/en/tutorial/create-a-site>)
-  4. [Create a DocType](</framework/v14/user/en/tutorial/create-a-doctype>)
-  5. [DocType Features](</framework/v14/user/en/tutorial/doctype-features>)
-  6. [Controller Methods](</framework/v14/user/en/tutorial/controller-methods>)
-  7. [Types of DocType](</framework/v14/user/en/tutorial/types-of-doctype>)
-  8. [Form Scripts](</framework/v14/user/en/tutorial/form-scripts>)
-  9. [Portal Pages](</framework/v14/user/en/tutorial/portal-pages>)
-  10. [What's Next](</framework/v14/user/en/tutorial/whats-next>)
+  1. [Create a Bench](tutorial/install-and-setup-bench.md)
+  2. [Create an App](tutorial/create-an-app.md)
+  3. [Create a Site](tutorial/create-a-site.md)
+  4. [Create a DocType](tutorial/create-a-doctype.md)
+  5. [DocType Features](tutorial/doctype-features.md)
+  6. [Controller Methods](tutorial/controller-methods.md)
+  7. [Types of DocType](tutorial/types-of-doctype.md)
+  8. [Form Scripts](tutorial/form-scripts.md)
+  9. [Portal Pages](tutorial/portal-pages.md)
+  10. [What's Next](tutorial/whats-next.md)
 
 
 
-[ Previous Page Installation ](</framework/v14/user/en/installation>) [ Next Page Install and Setup Bench  ](</framework/v14/user/en/tutorial/install-and-setup-bench>)
+[ Previous Page Installation ](installation.md) [ Next Page Install and Setup Bench  ](tutorial/install-and-setup-bench.md)
 
 Last updated 2 months ago 
 

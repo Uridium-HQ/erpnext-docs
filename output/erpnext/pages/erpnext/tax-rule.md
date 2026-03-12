@@ -1,18 +1,18 @@
 # Tax Rule
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rp21oh739>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rp21oh739)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Tax Rule 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rp21oh739>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rp21oh739)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 **A Tax Rule automatically applies taxes to transactions based on preset rules.**
 
-You can define which [Tax Template](</erpnext/setting-up-taxes.html>) must be applied on a Sales / Purchase transaction using Tax Rule. This is decided by various factors like Customer, Customer Group, Supplier, Supplier Group, Item, Item Group or a combination of these.
+You can define which [Tax Template](setting-up-taxes.md) must be applied on a Sales / Purchase transaction using Tax Rule. This is decided by various factors like Customer, Customer Group, Supplier, Supplier Group, Item, Item Group or a combination of these.
 
 To access the Tax Rule list, go to:
 
@@ -22,13 +22,13 @@ To access the Tax Rule list, go to:
 
 Before creating and using a Tax Rule, it is advised to create the following first:
 
-  1. [Sales Taxes and Charges Template](</erpnext/sales-taxes-and-charges-template>)
+  1. [Sales Taxes and Charges Template](sales-taxes-and-charges-template.md)
 
 
 
 Or
 
-  1. [Purchase Taxes and Charges Template](</erpnext/purchase-taxes-and-charges-template>)
+  1. [Purchase Taxes and Charges Template](purchase-taxes-and-charges-template.md)
 
 
 
@@ -37,13 +37,13 @@ Or
   1. Go to the Tax Rule list and click on New.
   2. Under Tax Type select whether the tax will be applied at Sales or Purchase.
   3. Select the Tax Template to be applied.
-  4. Save. ![Tax Rule](/files/tax-rule.png)
+  4. Save. ![Tax Rule](https://docs.frappe.io/assets/d4c17db55a58.png)
 
 
 
-You can list Items online using the Website module. Selecting 'Use for Shopping Cart' will use this Tax Rule for Shopping Cart transactions also. To know more, visit the [Shopping Cart](</erpnext/shopping-cart>) page.
+You can list Items online using the Website module. Selecting 'Use for Shopping Cart' will use this Tax Rule for Shopping Cart transactions also. To know more, visit the [Shopping Cart](shopping-cart.md) page.
 
-> Note: It is advised to not use the Sales/Purchase Template selected here in [Item Tax Template](</erpnext/item-tax-template>), it may cause interference. If you want to use same tax rates for Tax Rule and Item Tax Template, use a different name for the Sales/Purchase Tax Templates.
+> Note: It is advised to not use the Sales/Purchase Template selected here in [Item Tax Template](item-tax-template.md), it may cause interference. If you want to use same tax rates for Tax Rule and Item Tax Template, use a different name for the Sales/Purchase Tax Templates.
 
 ## 3\. Features
 
@@ -59,7 +59,7 @@ On setting an Item or Item group in the Tax Rule, this Tax Rule will automatical
 
 ### 3.3 Setting a Tax Category
 
-Setting a Tax Category allows applying multiple Tax Rules to a transaction based on different factors. To know more, visit the [Tax Category](</erpnext/tax-category>) page.
+Setting a Tax Category allows applying multiple Tax Rules to a transaction based on different factors. To know more, visit the [Tax Category](tax-category.md) page.
 
 ### 3.4 Validity
 
@@ -75,27 +75,27 @@ Let us configure Tax Rule so that system automatically applies specific tax rate
 
 Create a Sales Taxes and Charges Template as shown below.
 
-![City Specific To Zipcode](/files/city-specific-tax.png)
+![City Specific To Zipcode](https://docs.frappe.io/assets/f4fccafeeac7.png)
 
 Create a Tax Rule as shown below.
 
-![Tax Rule](/files/tax-rule.png)
+![Tax Rule](https://docs.frappe.io/assets/d4c17db55a58.png)
 
 Once you select a customer and a billing address of that customer with city as 'Malibu', system automatically applies the appropriate taxes.
 
-![Tax Rule in Sales Invoice](/files/tax-rule-in-sales-invoice.gif)
+![Tax Rule in Sales Invoice](https://docs.frappe.io/assets/863e2d6116cb.gif)
 
 ### 5\. Related Topics
 
-  1. [Pricing Rule](</erpnext/pricing-rule>)
-  2. [Item Tax Template](</erpnext/item-tax-template>)
-  3. [Tax Category](</erpnext/tax-category>)
-  4. [Customer](</erpnext/customer>)
-  5. [Supplier](</erpnext/supplier>)
+  1. [Pricing Rule](pricing-rule.md)
+  2. [Item Tax Template](item-tax-template.md)
+  3. [Tax Category](tax-category.md)
+  4. [Customer](customer.md)
+  5. [Supplier](supplier.md)
 
 
 
-[ Previous Page Finance Book ](</erpnext/finance-book>) [ Next Page Item Tax Template  ](</erpnext/item-tax-template>)
+[ Previous Page Finance Book ](finance-book.md) [ Next Page Item Tax Template  ](item-tax-template.md)
 
 Last updated 1 week ago 
 

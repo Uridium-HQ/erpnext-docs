@@ -1,12 +1,12 @@
 # Generators
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12d31v5djk>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12d31v5djk)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Generators 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12d31v5djk>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12d31v5djk)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -34,7 +34,7 @@ We added `published`, `route` in the DocType
 
 **Note:** The field `route` is mandatory
 
-![Generator fields](/files/generators.png)
+![Generator fields](https://docs.frappe.io/assets/7e98a463fcc7.png)
 
 #### 2\. Added Website Generator to Hooks
 
@@ -78,7 +78,7 @@ Add the template in `erpnext/templates/generators/job_opening.html`
 
 {% block page_content %}
 
-{{ description }} [{{ _("Apply Now") }}](/job_application?job_title={{ doc.job_title }})
+{{ description }} [{{ _("Apply Now") }}](https://docs.frappe.io/job_application?job_title={{ doc.job_title }})
 
 {% endblock %}{% endraw %}
 
@@ -88,7 +88,7 @@ If you add a method `get_list_view` in the controller file (job_opening.py), you
 
 def get_list_context(context): context.title = _("Jobs") context.introduction = _('Current Job Openings')
 
-[ Previous Page Customizing Web Forms  ](</framework/v14/user/en/guides/portal-development/web-forms>) [ Next Page Redirects  ](</framework/v14/user/en/guides/portal-development/redirects>)
+[ Previous Page Customizing Web Forms  ](web-forms.md) [ Next Page Redirects  ](redirects.md)
 
 Last updated 2 months ago 
 

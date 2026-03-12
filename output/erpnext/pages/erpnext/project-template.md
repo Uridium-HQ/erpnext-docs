@@ -1,12 +1,12 @@
 # Project Template
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s2bejs82f>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s2bejs82f)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Project Template 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s2bejs82f>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s2bejs82f)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -18,7 +18,7 @@ To access Project Template, go to:
 
 > Home > Projects > Projects > Project Template
 
-![](/files/image9c09a2.png)
+![](../../assets/24970eb1da07.png)
 
 ## How to Create A New Project Template:
 
@@ -34,12 +34,12 @@ To access Project Template, go to:
 
 ## Related Topics
 
-  1. [Project](</erpnext/user/manual/en/project>)
-  2. [Task](</erpnext/user/manual/en/tasks>)
+  1. [Project](https://docs.frappe.io/erpnext/user/manual/en/project)
+  2. [Task](https://docs.frappe.io/erpnext/user/manual/en/tasks)
 
 
 
-[ Previous Page Project Type  ](</erpnext/project-type>) [ Next Page Activity Type ](</erpnext/activity-type>)
+[ Previous Page Project Type  ](project-type.md) [ Next Page Activity Type ](https://docs.frappe.io/erpnext/activity-type)
 
 Last updated 2 weeks ago 
 

@@ -1,12 +1,12 @@
 # Diagnosing The Scheduler
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/133f9cuq27>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/133f9cuq27)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Diagnosing The Scheduler 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/133f9cuq27>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/133f9cuq27)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -43,7 +43,7 @@ Desirable output:
 
 This will remove all pending jobs from all queues
 
-[ Previous Page Configuring HTTPS  ](</framework/v14/user/en/bench/guides/configuring-https>) [ Next Page Using Let's Encrypt to setup HTTPS  ](</framework/v14/user/en/bench/guides/lets-encrypt-ssl-setup>)
+[ Previous Page Configuring HTTPS  ](configuring-https.md) [ Next Page Using Let's Encrypt to setup HTTPS  ](lets-encrypt-ssl-setup.md)
 
 Last updated 2 months ago 
 

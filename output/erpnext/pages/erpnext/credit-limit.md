@@ -1,12 +1,12 @@
 # Credit Limit
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ric9o38d8>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ric9o38d8)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Credit Limit 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ric9o38d8>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ric9o38d8)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -46,13 +46,13 @@ To set the Credit Controller role:
 
 
 
-![](/files/image02f3c1.png)
+![](../../assets/7f497d84fb8d.png)
 
 ### Bypass Credit Limit Check for Sales Order
 
 For specific customers, you can set the credit limit to be checked against the cumulative amount of the outstanding sales invoices and not the sales orders. You can do so by ticking 'Bypass credit limit check at Sales Order' checkbox in 'Credit Limit and Payment Terms' section of the customer.
 
-![](/files/imagef9bb2d.png)
+![](../../assets/e7e66ec0a357.png)
 
 ### Credit Limit for Customer Groups
 
@@ -81,7 +81,7 @@ To set Credit Limit at Company level:
 
 
 
-[ Previous Page Drop Ship ](</erpnext/drop-shipping-in-erpnext>) [ Next Page Sales Partner  ](</erpnext/sales-partner>)
+[ Previous Page Drop Ship ](drop-shipping-in-erpnext.md) [ Next Page Sales Partner  ](sales-partner.md)
 
 Last updated 2 weeks ago 
 

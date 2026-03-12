@@ -1,16 +1,16 @@
 # Negative Batch Report
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/2du75878lu>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/2du75878lu)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Negative Batch Report
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/2du75878lu>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/2du75878lu)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-![](/files/Screenshot%202026-02-17%20at%203.18.20%20PM.png)
+![](../../../../assets/58c159026c90.png)
 
 The **Negative Batch Report** is designed to identify and analyze transactions where batch stock has gone into negative quantity. This report helps users detect inconsistencies caused by backdated entries, incorrect stock movements, or improper batch usage, enabling timely corrections and accurate stock valuation.
 
@@ -26,7 +26,7 @@ The main purpose of this report is to:
 
 
 
-[ Previous Page Serial No and Batch Traceability Report ](</erpnext/serial-and-batch-traceability-report>) [ Next Page Change Valuation Method ](</erpnext/change-valuation-method>)
+[ Previous Page Serial No and Batch Traceability Report ](https://docs.frappe.io/erpnext/serial-and-batch-traceability-report) [ Next Page Change Valuation Method ](../../change-valuation-method.md)
 
 Last updated 2 weeks ago 
 

@@ -1,12 +1,12 @@
 # Google Drive
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12unk2o6tq>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12unk2o6tq)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Google Drive 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12unk2o6tq>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12unk2o6tq)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -18,7 +18,7 @@ You can use Frappe Framework's file picker to select any file from Google Drive 
 
 ### Google Cloud Console
 
-First we need to get some credentials that will allow us to access Google Drive. You can [use the setup tool](<https://console.cloud.google.com/flows/enableapi?apiid=picker&credential=client_key>), which guides you through creating a project in the Google Cloud Console, enabling the API, and creating credentials.
+First we need to get some credentials that will allow us to access Google Drive. You can [use the setup tool](https://console.cloud.google.com/flows/enableapi?apiid=picker&credential=client_key), which guides you through creating a project in the Google Cloud Console, enabling the API, and creating credentials.
 
 If you haven't done so already, create your application's API key by clicking **Create credentials > API key**. Next, look for your API key in the **API keys** section. You can open the API Key and restrict it.
 
@@ -28,7 +28,7 @@ If you haven't done so already, create your application's API key by clicking **
 
 
 
-![API Key configuration](/files/google_drive_picker_api_key.png)
+![API Key configuration](https://docs.frappe.io/assets/2ee65a03a950.png)
 
 If you haven't done so already, create your OAuth 2.0 credentials by clicking **Create credentials > OAuth client ID**.
 
@@ -37,15 +37,15 @@ If you haven't done so already, create your OAuth 2.0 credentials by clicking **
 
 
 
-![OAuth Client configuration](/files/google_drive_picker_oauth_client.png)
+![OAuth Client configuration](https://docs.frappe.io/assets/55645a684235.png)
 
-After you've created the credentials, you can see your client ID on the [Credentials page](<https://console.cloud.google.com/apis/credentials>).
+After you've created the credentials, you can see your client ID on the [Credentials page](https://console.cloud.google.com/apis/credentials).
 
-Last but not least you need to configure the [OAuth Consent Screen](<https://console.cloud.google.com/apis/credentials/consent>). This is the page that users will see when they are using the Google Drive Picker for the first time. It asks them to grant access to their Google Drive. You can configure this as you like, just take care to add the scope `https://www.googleapis.com/auth/drive.readonly` on the **Scopes** page.
+Last but not least you need to configure the [OAuth Consent Screen](https://console.cloud.google.com/apis/credentials/consent). This is the page that users will see when they are using the Google Drive Picker for the first time. It asks them to grant access to their Google Drive. You can configure this as you like, just take care to add the scope `https://www.googleapis.com/auth/drive.readonly` on the **Scopes** page.
 
 You will also need your App ID at hand. This is your project number which you can find under **IAM & Admin > Settings**.
 
-> Portions of this section are modifications based on work created and [shared by Google](<https://developers.google.com/picker/docs>) and used according to terms described in the [Creative Commons 4.0 Attribution License](<https://creativecommons.org/licenses/by/4.0/>).
+> Portions of this section are modifications based on work created and [shared by Google](https://developers.google.com/picker/docs) and used according to terms described in the [Creative Commons 4.0 Attribution License](https://creativecommons.org/licenses/by/4.0/).
 
 ### Frappe instance
 
@@ -59,27 +59,27 @@ Now that the Google Picker API is enabled and we have the necessary credentials 
 
 
 
-![Google Settings](/files/google_drive_picker_settings.png)
+![Google Settings](https://docs.frappe.io/assets/73c84ac0f9d2.png)
 
 Now when you click "Attach file" in the sidebar you should see the Google Drive icon.
 
-![Attach File Dialog](/files/google_drive_picker_attach_file.png)
+![Attach File Dialog](https://docs.frappe.io/assets/1aea9f9454ed.png)
 
 If you click on it the first time you have to authorize the Frappe app to access your Google Drive files.
 
-![Google Sign In](/files/google_drive_picker_signin.png)
+![Google Sign In](https://docs.frappe.io/assets/96479fe573d3.png)
 
 Then the Google Drive Picker opens where you can choose a file.
 
-![Google Drive Picker](/files/google_drive_picker_select.png)
+![Google Drive Picker](https://docs.frappe.io/assets/00ad8dba54b3.png)
 
 Click the blue button on the bottom left to attach a link to this file to the current DocType.
 
-![File Attached to DocType](/files/google_drive_picker_attached.png)
+![File Attached to DocType](https://docs.frappe.io/assets/94f7c8ddae80.png)
 
-> In case you're looking for technical details, Google Drive was introduced in [Pull Request #12715](<https://github.com/frappe/frappe/pull/12715>).
+> In case you're looking for technical details, Google Drive was introduced in [Pull Request #12715](https://github.com/frappe/frappe/pull/12715).
 
-[ Previous Page RazorPay  ](</framework/v14/user/en/integration/razorpay>) [ Next Page Setting up LDAP  ](</framework/v14/user/en/integration/ldap-integration>)
+[ Previous Page RazorPay  ](razorpay.md) [ Next Page Setting up LDAP  ](ldap-integration.md)
 
 Last updated 2 months ago 
 

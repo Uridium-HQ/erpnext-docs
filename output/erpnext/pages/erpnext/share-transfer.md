@@ -1,12 +1,12 @@
 # Share Transfer
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0t6g8sorrm>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0t6g8sorrm)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Share Transfer 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0t6g8sorrm>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0t6g8sorrm)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -36,7 +36,7 @@ To access the Share Transfer list, go to:
 
 
 
-![Share Transfer](/files/sharetransfer-issue.png)
+![Share Transfer](https://docs.frappe.io/assets/bde742b067da.png)
 
 After submitting, a Journal Entry can be created to update the ledger using the **Create Journal Entry** button.
 
@@ -56,7 +56,7 @@ Transfer Types:
 
 **Share Type** : The two default options in ERPNext are Preference and Equity. This only indicates the type of share, more can be added as per your Company structure.
 
-[ Previous Page Shareholder  ](</erpnext/shareholder>) [ Next Page Share Reports  ](</erpnext/share-reports>)
+[ Previous Page Shareholder  ](shareholder.md) [ Next Page Share Reports  ](share-reports.md)
 
 Last updated 2 weeks ago 
 

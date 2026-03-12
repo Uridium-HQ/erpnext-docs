@@ -1,12 +1,12 @@
 # Concepts and Terms
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0r9a5u5lel>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0r9a5u5lel)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Concepts and Terms
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0r9a5u5lel>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0r9a5u5lel)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -304,7 +304,7 @@ How quantity is measured for an Item. E.g., Kg, No., Pair, Packet, etc.
 
 > Stock > Setup > UOM
 
-[ Previous Page The Project Champion ](</erpnext/the-champion>) [ Next Page Getting Started with ERPNext ](</erpnext/getting-started-with-erpnext>)
+[ Previous Page The Project Champion ](the-champion.md) [ Next Page Getting Started with ERPNext ](getting-started-with-erpnext.md)
 
 Last updated 2 weeks ago 
 

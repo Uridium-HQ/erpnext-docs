@@ -1,12 +1,12 @@
 # Portal Roles
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12d9fnmqui>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12d9fnmqui)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Portal Roles 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12d9fnmqui>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12d9fnmqui)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,7 +20,7 @@ Roles can be assigned to Website Users and they will see menu based on their rol
 
 
 
-![Portal Settings](/files/portal-settings.png)
+![Portal Settings](https://docs.frappe.io/assets/7c5add720b9d.png)
 
 #### Rules for Default Role
 
@@ -28,7 +28,7 @@ For example if the Email Address matches with a contact id, then set role Custom
 
 default_roles = [ {'role': 'Customer', 'doctype':'Contact', 'email_field': 'email_id', 'filters': {'ifnull(customer, "")': ('!=', '')}}, {'role': 'Supplier', 'doctype':'Contact', 'email_field': 'email_id', 'filters': {'ifnull(supplier, "")': ('!=', '')}}, {'role': 'Student', 'doctype':'Student', 'email_field': 'student_email_id'} ]
 
-[ Previous Page Dynamic Pages  ](</framework/v14/user/en/guides/portal-development/context>) [ Next Page Customizing Web Forms  ](</framework/v14/user/en/guides/portal-development/web-forms>)
+[ Previous Page Dynamic Pages  ](context.md) [ Next Page Customizing Web Forms  ](web-forms.md)
 
 Last updated 2 months ago 
 

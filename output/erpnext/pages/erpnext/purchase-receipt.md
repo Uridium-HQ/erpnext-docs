@@ -1,12 +1,12 @@
 # Purchase Receipt
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rgqevrc25>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rgqevrc25)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Purchase Receipt 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rgqevrc25>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rgqevrc25)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -18,7 +18,7 @@ To access the Purchase Receipt list, go to:
 
 > Home > Stock > Stock Transactions > Purchase Receipt
 
-![Purchase Receipt flow](/files/purchase-receipt-flow.png)
+![Purchase Receipt flow](https://docs.frappe.io/assets/5dadcd91b023.png)
 
 ## 1\. Prerequisites
 
@@ -98,7 +98,7 @@ The following Warehouses set will apply to all Items in the Items table of the P
 
 
 
-![Purchase Receipt Items table](/files/purchase-receipt-item.png)
+![Purchase Receipt Items table](https://docs.frappe.io/assets/e9df5c3b3d1c.png)
 
   * **Rate** : The Rate is fetched if set in the Price List and the total Amount is calculated.
   * **Item Tax Template** : You can set an Item Tax Template to apply a specific Tax amount to this particular Item. To know more, visit this page.
@@ -131,12 +131,12 @@ After enabling Inspection Criteria in the Item form for Purchase and attaching a
 
 To know more, visit the Quality Inspection page.
 
-![Quality Inspection](/files/quality-inspection.png)
+![Quality Inspection](https://docs.frappe.io/assets/ec97ff958cb0.png)
 
 ### 3.5 Raw Materials Consumed
 
   * The **Consumed Items** table contains the Raw Materials consumed by the Supplier in order to receive the Finished Item.
-  * The **Get Current Stock** button will fetch the current stock of the Consumed Items from the Supplier Warehouse. ![Purchase Receipt](/files/purchase-receipt-consumed-items.png)
+  * The **Get Current Stock** button will fetch the current stock of the Consumed Items from the Supplier Warehouse. ![Purchase Receipt](https://docs.frappe.io/assets/8926488e51bc.png)
 
 
 
@@ -189,7 +189,7 @@ After submitting the Purchase Receipt, the following can be created:
 
 
 
-![Purchase Receipt submit](/files/purchase-receipt-submit.png)
+![Purchase Receipt submit](https://docs.frappe.io/assets/c90a7ac568f5.png)
 
 ### 3.11 Returning a Purchase Order
 
@@ -215,7 +215,7 @@ Sometimes, certain expenses that add to the total of your purchased Items are kn
 
 
 
-[ Previous Page Stock Transactions ](</erpnext/stock-transactions>) [ Next Page Delivery Note  ](</erpnext/delivery-note>)
+[ Previous Page Stock Transactions ](stock-transactions.md) [ Next Page Delivery Note  ](delivery-note.md)
 
 Last updated 2 weeks ago 
 

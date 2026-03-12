@@ -1,18 +1,18 @@
 # Tree
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tnmmavbkg>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tnmmavbkg)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Tree 
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tnmmavbkg>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tnmmavbkg)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 The Tree View is generated for all DocTypes that has Is Tree enabled.
 
-![Tree View](/files/treeview.png) _Tree View_
+![Tree View](https://docs.frappe.io/assets/ffd6443ebdda.png) _Tree View_
 
 ## Standard Tree JS
 
@@ -95,7 +95,7 @@ For instance, if you want to configure the Account DocType, you'll have to creat
     
 [/code]
 
-[ Previous Page Page API ](</framework/user/en/api/page>) [ Next Page Common Utilities API  ](</framework/user/en/api/js-utils>)
+[ Previous Page Page API ](page.md) [ Next Page Common Utilities API  ](js-utils.md)
 
 Last updated 3 weeks ago 
 

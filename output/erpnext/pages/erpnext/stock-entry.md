@@ -1,12 +1,12 @@
 # Stock Entry
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ru2jgsplt>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ru2jgsplt)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Stock Entry
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ru2jgsplt>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ru2jgsplt)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -21,15 +21,15 @@ Stock Entries can be made for the following purposes:
   * **Material Issue** : If the material is being issued to someone in or outside the company (**Outgoing Material)**. The Items will be deducted from the Warehouse set under Source Warehouse.
   * **Material Receipt** : If the material is being received (Incoming Material). The Items will be added to the Warehouse set under Target Warehouse.
   * **Material Transfer** : If the material is being moved from one internal Warehouse to another.
-  * **Material Transfer for Manufacturing** : If raw materials are being transferred for manufacturing. The transfer can happen against a [Work Order](</erpnext/work-order>) or a [Job Card](</erpnext/job-card>). To know more, visit the [Bill Of Materials](</erpnext/bill-of-materials>) page.
-  * **Material Consumption for Manufacture** : There can be multiple consumption stock entries against a manufacturing Work Order. [Refer this link for more details](</erpnext/material_consumption>)
+  * **Material Transfer for Manufacturing** : If raw materials are being transferred for manufacturing. The transfer can happen against a [Work Order](work-order.md) or a [Job Card](job-card.md). To know more, visit the [Bill Of Materials](bill-of-materials.md) page.
+  * **Material Consumption for Manufacture** : There can be multiple consumption stock entries against a manufacturing Work Order. [Refer this link for more details](material_consumption.md)
   * **Manufacture** : If the Material is being received from a Manufacturing/Production Operation.
   * **Repack** : If the Original item/items are being repacked into new item/items.
-  * **Send to Subcontractor** : If the Material is being issued for a sub-contract activity. This entry is made from a Purchase Order. To know more, visit the [subcontracting](</erpnext/subcontracting>) page.
+  * **Send to Subcontractor** : If the Material is being issued for a sub-contract activity. This entry is made from a Purchase Order. To know more, visit the [subcontracting](subcontracting.md) page.
 
 
 
-To know more in detail about the stock entry purpose, [visit this page](</erpnext/user/manual/en/stock-entry-purpose>).
+To know more in detail about the stock entry purpose, [visit this page](user/manual/en/stock-entry-purpose.md).
 
   1. Prerequisites
 
@@ -39,8 +39,8 @@ To know more in detail about the stock entry purpose, [visit this page](</erpnex
 
 Before creating and using a Stock Entry, it is advised that you create the following first:
 
-  * [Warehouse](</erpnext/warehouse>)
-  * [Item](</erpnext/item>)
+  * [Warehouse](warehouse.md)
+  * [Item](item.md)
 
 
   2. How to create a Stock Entry
@@ -49,7 +49,7 @@ Before creating and using a Stock Entry, it is advised that you create the follo
 
 * * *
 
-Stock Entries for Manufacturing purposes are usually created from a [Work Order](</erpnext/work-order>). To create a Stock Entry manually for other purposes, follow these steps:
+Stock Entries for Manufacturing purposes are usually created from a [Work Order](work-order.md). To create a Stock Entry manually for other purposes, follow these steps:
 
   1. Go to the Stock Entry list, click on New.
   2. Select the Stock Entry Purpose from the ones listed above.
@@ -61,7 +61,7 @@ Stock Entries for Manufacturing purposes are usually created from a [Work Order]
 
 
 
-![Stock Entry](/files/stock-entry.png)
+![Stock Entry](https://docs.frappe.io/assets/735d7b58dbe0.png)
 
 Usually, "Source Warehouse" and "Target Warehouse" both are set for recording a movement.
 
@@ -69,7 +69,7 @@ Usually, "Source Warehouse" and "Target Warehouse" both are set for recording a 
 
   * **Work Order** : If this is a Manufacturing entry, the Work Order will be shown in this field.
   * **Edit Posting Date and Time** : Will allow you to edit the Stock Entry's date and time.
-  * **Inspection Required** : If a [Quality Inspection](</erpnext/quality-inspection>) needs to be performed on the Items before submitting the Stock Entry.
+  * **Inspection Required** : If a [Quality Inspection](quality-inspection.md) needs to be performed on the Items before submitting the Stock Entry.
   * **From BOM** : If this is a Manufacturing entry, the associated BOM for the Item being manufactured will be shown.
 
 
@@ -78,7 +78,7 @@ Usually, "Source Warehouse" and "Target Warehouse" both are set for recording a 
 
 You can also create a Stock Entry Type where only the name will be different, for example 'Scrap Entry'. The purpose will be Material Transfer but the name will be different. This is useful if you want certain Users to have access only to specific actions related to stock.
 
-![Stock Entry Type](/files/stock-entry-type.png)
+![Stock Entry Type](https://docs.frappe.io/assets/0245be81f2f2.png)
 
   3. Features
 
@@ -94,7 +94,7 @@ Ticking on 'Allow Zero Valuation Rate' will allow submitting the Purchase Receip
 
 Different Source and Target Warehouses can be set for different Items.
 
-![Stock Entry](/private/files/stock_entry_item.png)
+![Stock Entry](https://docs.frappe.io/private/files/stock_entry_item.png)
 
 ### 3.2 Scrap and Process Loss
 
@@ -103,7 +103,7 @@ Different Source and Target Warehouses can be set for different Items.
 
 
 
-![Stock Entry](/private/files/ste_manufacture_process_loss.png)
+![Stock Entry](https://docs.frappe.io/private/files/ste_manufacture_process_loss.png)
 
 ### 3.3 Additional Costs
 
@@ -116,25 +116,25 @@ To add additional costs:
 
 
 
-![Stock Entry Additional Costs](/files/additional-costs-table.png)
+![Stock Entry Additional Costs](https://docs.frappe.io/assets/6931caa2d56d.png)
 
 The added Additional Costs will be distributed among the receiving items (where the Target Warehouse mentioned) proportionately based on the Basic Amount of the items. And the distributed additional cost will be added to the basic rate of the item, to calculate Valuation Rate.
 
-Quantity and Rate is shown as follows when you expand the Items table. ![Stock Entry Item Valuation Rate](/files/stock-entry-item-valuation-rate.png)
+Quantity and Rate is shown as follows when you expand the Items table. ![Stock Entry Item Valuation Rate](https://docs.frappe.io/assets/22e8a606b0e3.png)
 
 ### 3.4 Accounting Dimensions
 
-You can tag different transactions based on different dimensions. By default, [Projects](</erpnext/project>) can be considered as a dimension as it is a common practice to track costs of different projects. To know more about Accounting Dimensions, [visit this page](</erpnext/accounting-dimensions>).
+You can tag different transactions based on different dimensions. By default, [Projects](project.md) can be considered as a dimension as it is a common practice to track costs of different projects. To know more about Accounting Dimensions, [visit this page](accounting-dimensions.md).
 
 ### 3.5 Printing Settings
 
 #### Letterhead
 
-You can print your Purchase Receipt on your company's letterhead. Know more [here](</erpnext/letter-head>).
+You can print your Purchase Receipt on your company's letterhead. Know more [here](letter-head.md).
 
 #### Print Headings
 
-Purchase Receipt headings can also be changed when printing the document. You can do this by selecting a **Print Heading**. To create new Print Headings go to: Home > Settings > Printing > Print Heading. Know more [here](</erpnext/print-headings>).
+Purchase Receipt headings can also be changed when printing the document. You can do this by selecting a **Print Heading**. To create new Print Headings go to: Home > Settings > Printing > Print Heading. Know more [here](print-headings.md).
 
 ### 3.6 More Information
 
@@ -149,13 +149,13 @@ Purchase Receipt headings can also be changed when printing the document. You ca
 
 If the perpetual inventory system is enabled, additional costs will be booked in Expense Account mentioned in the Additional Costs table .
 
-![Additional Costs General Ledger](/files/stock-entry-additional-cost.png) ![Additional Costs General Ledger](/files/additional-costs-general-ledger.png)
+![Additional Costs General Ledger](https://docs.frappe.io/assets/2b833e89c694.png) ![Additional Costs General Ledger](https://docs.frappe.io/assets/dff7d635ead3.png)
 
 ### 3.8 After Submitting
 
 After submitting a Stock Entry, you can go to the stock ledger or the accounting ledger from the dashboard.
 
-![Additional Costs General Ledger](/files/stock-entry-submit.png)
+![Additional Costs General Ledger](https://docs.frappe.io/assets/3131ad0e1b13.png)
 
   4. Add to Transit
 
@@ -167,11 +167,11 @@ If you want to transfer materials from one warehouse to another and you want to 
 
 To use "Add to Transit" feature, make stock entry with type as "Material Transfer" and enable "Add to Transit" checkbox. Next you need to select the source warehouse from where you want to issue the material and then select the warehouse of type "Transit" in the target warehouse. To make transit warehouse you can goto the Warehouse master and select the warehouse type as "Transit". After that add items in the stock entry which needs to be transfer and submit it.
 
-![Add to Transit](/private/files/add_to_transit_entry.png)
+![Add to Transit](https://docs.frappe.io/private/files/add_to_transit_entry.png)
 
 To make second stock entry at the destination warehouse, users has two options. Either they can open the Original Stock Entry and click on "End Transit" or they can create new stock entry and click on "Get Items From" -> "Transit Stock Entry". System will fetch items from the original stock entry with the source warehouse (Transit warehouse) same as traget warehouse from the original stock entry. User has to set the target warehouse and save.
 
-![End Transit](/private/files/end_transit_entry.png)
+![End Transit](https://docs.frappe.io/private/files/end_transit_entry.png)
 
   5. How to update a Stock Entry
 
@@ -189,17 +189,17 @@ Once a stock entry is submitted, it can be updated by cancelling and amending th
 
 ### 5\. Related Topics
 
-  1. [Stock Entry Purpose](</erpnext/stock-entry-purpose>)
-  2. [Stock Reconciliation](</erpnext/stock-reconciliation>)
-  3. [Opening Stock Balance Entry For Serialized And Batch Item](</erpnext/opening-stock-balance-entry-for-serialized-and-batch-item>)
-  4. [Stock Reconciliation](</erpnext/stock-reconciliation>)
-  5. [Work Order](</erpnext/work-order>)
-  6. [Production Plan](</erpnext/production-plan>)
-  7. [Job Card](</erpnext/job-card>)
+  1. [Stock Entry Purpose](stock-entry-purpose.md)
+  2. [Stock Reconciliation](stock-reconciliation.md)
+  3. [Opening Stock Balance Entry For Serialized And Batch Item](opening-stock-balance-entry-for-serialized-and-batch-item.md)
+  4. [Stock Reconciliation](stock-reconciliation.md)
+  5. [Work Order](work-order.md)
+  6. [Production Plan](production-plan.md)
+  7. [Job Card](job-card.md)
 
 
 
-[ Previous Page Delivery Note  ](</erpnext/delivery-note>) [ Next Page Product Bundle ](</erpnext/product-bundle>)
+[ Previous Page Delivery Note  ](delivery-note.md) [ Next Page Product Bundle ](product-bundle.md)
 
 Last updated 2 weeks ago 
 

@@ -1,12 +1,12 @@
 # Migrate To Perpetual Inventory
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sjt305o1b>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sjt305o1b)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Migrate To Perpetual Inventory 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sjt305o1b>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sjt305o1b)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -64,16 +64,16 @@ Dr. Expense Account (COGS) .................. XXX
 
 
 
-![Perpetual Inventory](/files/perpetual-1.png)
+![Perpetual Inventory](https://docs.frappe.io/assets/fc31a2501a97.png)
 
 #### 2\. Related Topics
 
-  1. [Accounting Of Inventory Stock](</erpnext/accounting-of-inventory-stock>)
-  2. [Perpetual Inventory](</erpnext/perpetual-inventory>)
+  1. [Accounting Of Inventory Stock](accounting-of-inventory-stock.md)
+  2. [Perpetual Inventory](perpetual-inventory.md)
 
 
 
-[ Previous Page Material Transfer from Delivery Note and Purchase Receipt  ](</erpnext/material-transfer-from-delivery-note>) [ Next Page Purpose of Stock Received but not Billed  ](</erpnext/stock-received-but-not-billed>)
+[ Previous Page Material Transfer from Delivery Note and Purchase Receipt  ](material-transfer-from-delivery-note.md) [ Next Page Purpose of Stock Received but not Billed  ](stock-received-but-not-billed.md)
 
 Last updated 1 week ago 
 

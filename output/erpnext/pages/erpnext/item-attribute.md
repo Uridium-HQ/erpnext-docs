@@ -1,12 +1,12 @@
 # Item Attribute
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ru3hsbbqi>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ru3hsbbqi)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Item Attribute
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ru3hsbbqi>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ru3hsbbqi)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,7 +14,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 The attributes can be defined based on item's physical appearance and capabilities. Defining item attributes properly will be helpful in creating item variants as a combination of multiple attributes.
 
-![](/files/attributes.png)
+![](../../assets/692ccdbb70a0.png)
 
 To access the Item Attribute list, go to:
 
@@ -35,7 +35,7 @@ The attribute values can be numeric or non-numeric.
 
 For Non-numeric attributes, specify attribute values along with their abbreviations in the Attribute Values table.
 
-![](/files/attribute-code.png)
+![](../../assets/958b982c54ab.png)
 
 ##### Numeric Attribute
 
@@ -43,9 +43,9 @@ If your attribute is 'Numeric', then specify the range and increment so that the
 
 In the following example, the cable length is of range 1 to 5 and the increment is 1. Hence, the variants will be 1,2,3,4,5.
 
-![](/files/num_attribute.png)
+![](../../assets/f7da57f2efda.png)
 
-[ Previous Page Item Variants  ](</erpnext/item-variants>) [ Next Page Brand  ](</erpnext/brand>)
+[ Previous Page Item Variants  ](item-variants.md) [ Next Page Brand  ](brand.md)
 
 Last updated 1 week ago 
 

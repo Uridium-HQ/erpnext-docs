@@ -1,12 +1,12 @@
 # Perpetual Inventory for Non-stock Item
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sifn9reop>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sifn9reop)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Perpetual Inventory for Non-stock Item
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sifn9reop>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sifn9reop)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -34,7 +34,7 @@ COGS / Other Expense Account | 90 |
 Tax | 10 |   
 |  |   
   
-[ Previous Page Serialised Item Valuation Rate calculation ](</erpnext/how-is-valuation-rate-of-serialised-item-calculated-in-erpnext>) [ Next Page Material Transfer from Delivery Note and Purchase Receipt  ](</erpnext/material-transfer-from-delivery-note>)
+[ Previous Page Serialised Item Valuation Rate calculation ](how-is-valuation-rate-of-serialised-item-calculated-in-erpnext.md) [ Next Page Material Transfer from Delivery Note and Purchase Receipt  ](material-transfer-from-delivery-note.md)
 
 Last updated 1 week ago 
 

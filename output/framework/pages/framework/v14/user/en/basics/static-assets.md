@@ -1,12 +1,12 @@
 # Static Assets
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12ja5c9b0o>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12ja5c9b0o)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Static Assets 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12ja5c9b0o>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12ja5c9b0o)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -32,7 +32,7 @@ This means if there is file at `[appname]/public/images/favicon.png`, then it al
 
 ### Bundled Assets
 
-[Bundled Assets](</framework/v14/user/en/basics/asset-bundling>) are generated at `assets/[appname]/dist/js` and `assets/[appname]/dist/css`. Hence, they are accessible via the URL `/assets/[appname]/dist/js/main.bundle.[hash].js`.
+[Bundled Assets](asset-bundling.md) are generated at `assets/[appname]/dist/js` and `assets/[appname]/dist/css`. Hence, they are accessible via the URL `/assets/[appname]/dist/js/main.bundle.[hash].js`.
 
 ## Site Assets
 
@@ -58,7 +58,7 @@ Here is the output of the `ls` command:
     
 [/code]
 
-[ Previous Page Asset Bundling  ](</framework/v14/user/en/basics/asset-bundling>) [ Next Page Configuration ](</framework/v14/user/en/basics/site_config>)
+[ Previous Page Asset Bundling  ](asset-bundling.md) [ Next Page Configuration ](site_config.md)
 
 Last updated 2 months ago 
 

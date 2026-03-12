@@ -1,12 +1,12 @@
 # Client Script
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12oevsjogf>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12oevsjogf)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Client Script 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12oevsjogf>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12oevsjogf)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -30,7 +30,7 @@ To create a Client Script
 
 As compared to the restrictive nature of Server Scripts, everything is fair game in Client Scripts. This is because the frontend APIs are secure by design. You can utilize all of JavaScript APIs, along with Frappe's and any other JS or CSS library you might've customized Desk with.
 
-> The validations you add through Client Script will only be applied while using the standard form view accessible through the browser. In case you wish for those to be applied through API or [System Console](</framework/v14/user/en/desk/scripting/system-console>) access too, use [Server Scripts](</framework/v14/user/en/desk/scripting/server-script>).
+> The validations you add through Client Script will only be applied while using the standard form view accessible through the browser. In case you wish for those to be applied through API or [System Console](system-console.md) access too, use [Server Scripts](server-script.md).
 
 ## 3\. Examples
 
@@ -91,7 +91,7 @@ Calculate incentives on a Sales Invoice form on save.
     
 [/code]
 
-[ Previous Page Report Builder  ](</framework/v14/user/en/desk/reports/report-builder>) [ Next Page System Console  ](</framework/v14/user/en/desk/scripting/system-console>)
+[ Previous Page Report Builder  ](../reports/report-builder.md) [ Next Page System Console  ](system-console.md)
 
 Last updated 2 months ago 
 

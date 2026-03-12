@@ -1,12 +1,12 @@
 # Supplier Scorecard
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rgr8g9ado>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rgr8g9ado)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Supplier Scorecard 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rgr8g9ado>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rgr8g9ado)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -22,7 +22,7 @@ To access Supplier Scorecard, go to:
 
 Before creating and using a Supplier Scorecard, it is advised that you create the following first:
 
-  * [Supplier](</erpnext/supplier>)
+  * [Supplier](supplier.md)
 
 
 
@@ -32,7 +32,7 @@ Before creating and using a Supplier Scorecard, it is advised that you create th
   2. Select a Supplier to score.
   3. Select the evaluating period whether weekly, monthly, or yearly.
   4. Setup the scoring function (details in next section).
-  5. A supplier scorecard is created for each supplier individually. Only one supplier scorecard can be created for each supplier. ![Purchase Order](/files/supplier-scorecard.png)
+  5. A supplier scorecard is created for each supplier individually. Only one supplier scorecard can be created for each supplier. ![Purchase Order](https://docs.frappe.io/assets/9d6410e017a1.png)
 
 
 
@@ -40,19 +40,19 @@ Before creating and using a Supplier Scorecard, it is advised that you create th
 
 ### 2.1 Scoring Setup
 
-The supplier scorecard consists of a set evaluation periods, during which the performance of a supplier is evaluated. This period can be weekly, monthly or yearly. The current score is calculated from the score of each evaluation period based on the weighting function. The default formula is linearly weighed over the previous 12 scoring periods. ![Purchase Order](/files/supplier-scorecard-weighing.png) This formula is customizable.
+The supplier scorecard consists of a set evaluation periods, during which the performance of a supplier is evaluated. This period can be weekly, monthly or yearly. The current score is calculated from the score of each evaluation period based on the weighting function. The default formula is linearly weighed over the previous 12 scoring periods. ![Purchase Order](https://docs.frappe.io/assets/28d2bdd5d0c2.png) This formula is customizable.
 
 #### Supplier Standings
 
 The supplier standing is used to quickly sort suppliers based on their performance. These are customizable for each supplier.
 
-The scorecard standing of a supplier can also be used to restrict suppliers from being included in Request for Quotations or being issued Purchase Orders. The following screen can be seen on expanding a row in the 'Scoring Standings' table, click on the downward facing arrow. ![Purchase Order](/files/supplier-scorecard-standing.png)
+The scorecard standing of a supplier can also be used to restrict suppliers from being included in Request for Quotations or being issued Purchase Orders. The following screen can be seen on expanding a row in the 'Scoring Standings' table, click on the downward facing arrow. ![Purchase Order](https://docs.frappe.io/assets/6e9f337aa62d.png)
 
 ### 2.2 Criteria Setup
 
 A supplier can be evaluated on several individual evaluation criteria, including (but not limited to) quotation response time, delivered item quality, and delivery timeliness. These criteria are weighed to determine the final period score.
 
-To create a new Criteria, go to Buying > Supplier Scorecard > Supplier Scorecard Criteria: ![Purchase Order](/files/supplier-scorecard-criteria.png)
+To create a new Criteria, go to Buying > Supplier Scorecard > Supplier Scorecard Criteria: ![Purchase Order](https://docs.frappe.io/assets/f1f792fa361e.png)
 
 Note: Criteria weights for a scorecard should add up to 100.
 
@@ -70,7 +70,7 @@ The value of each of these variables is calculated over the scoring period for e
 
 
 
-![Supplier Scorecard variable](/files/supplier-scorecard-variables.png)
+![Supplier Scorecard variable](https://docs.frappe.io/assets/adef397c41ac.png)
 
 Variables are pre-set, additional variables can be added through server-side customizations. Tick the Custom checkbox if the variable you're creating is for a custom field.
 
@@ -113,12 +113,12 @@ An evaluation is generated for each Supplier Scorecard Period by clicking the "G
 
 ### 3\. Related Topics
 
-  1. [Supplier](</erpnext/supplier>)
-  2. [Supplier Quotation](</erpnext/supplier-quotation>)
+  1. [Supplier](supplier.md)
+  2. [Supplier Quotation](supplier-quotation.md)
 
 
 
-[ Previous Page Create Supplier Quotation through Supplier Portal ](</erpnext/how-to-create-a-supplier-quotation-through-the-supplier-portal>) [ Next Page Customer Portal ](</erpnext/customer-portal>)
+[ Previous Page Create Supplier Quotation through Supplier Portal ](how-to-create-a-supplier-quotation-through-the-supplier-portal.md) [ Next Page Customer Portal ](https://docs.frappe.io/erpnext/customer-portal)
 
 Last updated 2 weeks ago 
 

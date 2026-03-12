@@ -1,12 +1,12 @@
 # Additional Charges in Payment
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rp6v3jbno>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rp6v3jbno)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Additional Charges in Payment
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rp6v3jbno>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rp6v3jbno)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -21,9 +21,9 @@ When customer makes payment via payment gateway, they deduct (say) USD 7 as a se
 
 **Answer:** Here is the help on how to adjust additional charges in the Payment Entry, yet have Sales Invoice paid completely. Please refer to GIF below for the exact steps.
 
-![](/files/VPopPg2.gif)
+![](../../assets/24df394fed09.gif)
 
-[ Previous Page Mode of Payment  ](</erpnext/mode-of-payment>) [ Next Page Handling Excess Customer Payments ](</erpnext/handling-excess-customer-payments>)
+[ Previous Page Mode of Payment  ](mode-of-payment.md) [ Next Page Handling Excess Customer Payments ](handling-excess-customer-payments.md)
 
 Last updated 2 weeks ago 
 

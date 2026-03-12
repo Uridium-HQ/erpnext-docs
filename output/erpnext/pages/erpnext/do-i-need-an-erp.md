@@ -1,12 +1,12 @@
 # Do I Need ERPNext?
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0r88kcjkkv>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0r88kcjkkv)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Do I Need ERPNext?
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0r88kcjkkv>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0r88kcjkkv)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -40,7 +40,7 @@ ERPNext will help you get rid of these pain points as it is an open source platf
 
 
 
-[ Previous Page Why should businesses use an ERP? ](</erpnext/why-ERP>) [ Next Page Open Source ](</erpnext/open-source>)
+[ Previous Page Why should businesses use an ERP? ](why-ERP.md) [ Next Page Open Source ](open-source.md)
 
 Last updated 2 weeks ago 
 

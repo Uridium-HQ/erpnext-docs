@@ -1,18 +1,18 @@
 # Configuring HTTPS
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/132ai5648t>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/132ai5648t)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Configuring HTTPS 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/132ai5648t>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/132ai5648t)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 ### Get the required files
 
-You can get a SSL certificate from a trusted Certificate Authority or generate your own. For self signed certificates the browser will show a warning that the certificate is not trusted. [Here's a tutorial for using Let's Encrypt to get a free SSL Certificate](<lets-encrypt-ssl-setup.html>)
+You can get a SSL certificate from a trusted Certificate Authority or generate your own. For self signed certificates the browser will show a warning that the certificate is not trusted. [Here's a tutorial for using Let's Encrypt to get a free SSL Certificate](lets-encrypt-ssl-setup.md)
 
 The files required are
 
@@ -23,7 +23,7 @@ The files required are
 
 ### Prequisites
 
-  1. You need to have a [DNS Multitenant Setup](<https://frappe.io/docs/v14/user/en/bench/guides/setup-multitenancy>)
+  1. You need to have a [DNS Multitenant Setup](https://frappe.io/docs/v14/user/en/bench/guides/setup-multitenancy)
   2. Your site should be accessible via a valid domain
   3. You need root permissions on your server
   4. You need a valid certificate generated through a trusted Certificate Authority or a Self-Signed Certificate.
@@ -68,7 +68,7 @@ systemctl reload nginx # for CentOS 7
 
 Now that you have configured SSL, all HTTP traffic will be redirected to HTTPS
 
-[ Previous Page Adding Custom Domains to your Site  ](</framework/v14/user/en/bench/guides/adding-custom-domains>) [ Next Page Diagnosing The Scheduler  ](</framework/v14/user/en/bench/guides/diagnosing-the-scheduler>)
+[ Previous Page Adding Custom Domains to your Site  ](adding-custom-domains.md) [ Next Page Diagnosing The Scheduler  ](diagnosing-the-scheduler.md)
 
 Last updated 2 months ago 
 

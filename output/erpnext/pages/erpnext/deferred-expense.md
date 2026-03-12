@@ -1,12 +1,12 @@
 # Deferred Expense
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rohqan1bf>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rohqan1bf)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Deferred Expense 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rohqan1bf>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rohqan1bf)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,9 +20,9 @@ The cost is recorded as an asset until such time as the underlying goods or serv
 
 Before you start using deferred accounting you should be aware of the below settings which will give you more control over how you manage your deferred accounting
 
-![Deferred Accounting Settings](/files/deferred-accounting-settings.png)
+![Deferred Accounting Settings](https://docs.frappe.io/assets/c6ddf8e91967.png)
 
-  1. **Automatically Process Deferred Accounting Entry:** This setting is enabled by default. In case you don't want the deferred accounting entries to be posted automatically, you can disable this setting. If this setting is disabled, deferred accounting will have to be processed manually using [Process Deferred Accounting](</erpnext/process-deferred-accounting>)
+  1. **Automatically Process Deferred Accounting Entry:** This setting is enabled by default. In case you don't want the deferred accounting entries to be posted automatically, you can disable this setting. If this setting is disabled, deferred accounting will have to be processed manually using [Process Deferred Accounting](process-deferred-accounting.md)
 
   2. **Book Deferred Entries Based On:** Deferred expense amount can be booked based on two criteria. The default option here is "Days". If "Days" is selected, the deferred expense amount will be booked based on the number of days in each month and if "Months" is selected then it will be booked based on the number of months. **For Eg:** If "Days" is selected and $12000 expense has to be deferred over a period of 12 months, then $986.30 will be for the month having 30 days and $1019.17 will be booked for the month having 31 days. If "Months" is selected, $1000 deferred expense will be booked each month irrespective of the number of days in a month.
 
@@ -54,19 +54,19 @@ Following is how you can configure Deferred Expense accounting in ERPNext to aut
 
 In the Item master, under Deferred Expense section, check field **Enable Deferred Expense**. In this section, you can also select a Deferred Expense account (Asset Account, preferably Current Asset) for this particular item and no. of months.
 
-![Item With Deferred Expense](/files/deferred-item-expense.png)
+![Item With Deferred Expense](https://docs.frappe.io/assets/bda0d01e74c2.png)
 
 ### 2.2 Purchase Invoice
 
 On creation of Purchase Invoice for the Deferred Expense Item, instead of posting in the Expense Account, Deferred Expense account (Asset account) is Credited by the purchase amount. Let's consider a simple example of an Internet subscription here:
 
-![Invoice With Deferred Expense](/files/deferred-purchase-invoice.gif)
+![Invoice With Deferred Expense](https://docs.frappe.io/assets/208160042384.gif)
 
 ### 2.3 Journal Entry
 
 Based on the From Date and To Date set in the Purchase Invoice Item table, Journal Entries are created automatically at the end of each month. It debits the value from Deferred Expense account and credits Expense Account selected for an Item in the Purchase Invoice.
 
-[ Previous Page Deferred Revenue  ](</erpnext/deferred-revenue>) [ Next Page Deferred Accounting ](</erpnext/deferred-accounting>)
+[ Previous Page Deferred Revenue  ](deferred-revenue.md) [ Next Page Deferred Accounting ](deferred-accounting.md)
 
 Last updated 2 weeks ago 
 

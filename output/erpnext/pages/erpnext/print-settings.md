@@ -1,12 +1,12 @@
 # Print Settings
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ra2ojfcok>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ra2ojfcok)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Print Settings 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ra2ojfcok>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ra2ojfcok)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -18,7 +18,7 @@ To edit Print Settings, go to:
 
 > Home > Settings > Print Settings
 
-![Print Settings](/files/print-settings.png)
+![Print Settings](https://docs.frappe.io/assets/c2713e0be0e6.png)
 
 There are various configurations available in the Print Settings. Let's learn about them.
 
@@ -34,7 +34,7 @@ The letterhead is a master where you can define the standard Header and Footer w
 
 ### 1.3 PDF Page Size
 
-The default size for printing PDF pages is A4, and you can choose any size from the options defined [here](<https://doc.qt.io/archives/qt-4.8/qprinter.html#PaperSize-enum>), including custom dimensions defined in millimeters.
+The default size for printing PDF pages is A4, and you can choose any size from the options defined [here](https://doc.qt.io/archives/qt-4.8/qprinter.html), including custom dimensions defined in millimeters.
 
 ## 2\. Page Settings
 
@@ -50,9 +50,9 @@ As per this setting, there will be only four columns in the Print Format, namely
 
 The values of other columns (like name, description, image, serial nos. etc.) are concatenated in the Description column.
 
-When the checkbox is unticked, the print format looks like this: ![Incompact Print Format Settings](/files/incompact-print.png)
+When the checkbox is unticked, the print format looks like this: ![Incompact Print Format Settings](https://docs.frappe.io/assets/831836f4c242.png)
 
-This is what the Compact Print Format looks like: ![Compact Print Format Settings](/files/compact-print.png)
+This is what the Compact Print Format looks like: ![Compact Print Format Settings](https://docs.frappe.io/assets/53b995c1f17c.png)
 
 ### 2.3 Allow Print for Draft
 
@@ -98,18 +98,18 @@ This is executed from the `frappe-bench` directory.
 
 ## 4\. Raw Printing
 
-You can enable raw printing and print to many supported thermal printers. Read [Raw Printing](</erpnext/raw-printing>) to know more.
+You can enable raw printing and print to many supported thermal printers. Read [Raw Printing](raw-printing.md) to know more.
 
 ### 5\. Related Topics
 
-  1. [Print Format](</erpnext/print-format>)
-  2. [Print Style](</erpnext/print-style>)
-  3. [Print Headings](</erpnext/print-headings>)
-  4. [Custom Translations](</erpnext/custom-translations>)
+  1. [Print Format](print-format.md)
+  2. [Print Style](print-style.md)
+  3. [Print Headings](print-headings.md)
+  4. [Custom Translations](custom-translations.md)
 
 
 
-[ Previous Page Print Format Builder  ](</erpnext/print-format-builder>) [ Next Page Print Style ](</erpnext/print-style>)
+[ Previous Page Print Format Builder  ](print-format-builder.md) [ Next Page Print Style ](print-style.md)
 
 Last updated 1 week ago 
 

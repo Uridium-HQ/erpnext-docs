@@ -1,12 +1,12 @@
 # Sales Person
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rfku0usif>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rfku0usif)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Sales Person 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rfku0usif>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rfku0usif)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -30,28 +30,28 @@ It can also be accessed from: Home > CRM > Settings > Sales Person
 
 
 
-![Sales Person Tree](/files/sales-person-tree.gif)
+![Sales Person Tree](https://docs.frappe.io/assets/afdf3bfae76c.gif)
 
 ## 2\. Features
 
 ### 2.1 Sales Person in Transactions
 
-You can use Sales Person sales transactions like Sales Order, Delivery Note and Sales Invoice. Read [Sales Persons in Sales Transactions](</erpnext/sales-persons-in-the-sales-transactions>) for more details.
+You can use Sales Person sales transactions like Sales Order, Delivery Note and Sales Invoice. Read [Sales Persons in Sales Transactions](sales-persons-in-the-sales-transactions.md) for more details.
 
 ### 2.2 Assign Sales Targets to Sales Person
 
-You can assign sales target for sales person and track the progress. Read [Sales Person Target Allocation](</erpnext/sales-person-target-allocation>) for more details.
+You can assign sales target for sales person and track the progress. Read [Sales Person Target Allocation](sales-person-target-allocation.md) for more details.
 
 ### 3\. Related Topics
 
-  1. [Sales Order](</erpnext/sales-order>)
-  2. [Sales Person Target Allocation](</erpnext/sales-person-target-allocation>)
-  3. [Delivery Note](</erpnext/delivery-note>)
-  4. [Sales Invoice](</erpnext/sales-invoice>)
+  1. [Sales Order](sales-order.md)
+  2. [Sales Person Target Allocation](sales-person-target-allocation.md)
+  3. [Delivery Note](delivery-note.md)
+  4. [Sales Invoice](sales-invoice.md)
 
 
 
-[ Previous Page Inter Company Invoices  ](</erpnext/inter-company-invoices>) [ Next Page Calculate Incentive For Sales Team  ](</erpnext/calculate-incentive-for-sales-team>)
+[ Previous Page Inter Company Invoices  ](inter-company-invoices.md) [ Next Page Calculate Incentive For Sales Team  ](calculate-incentive-for-sales-team.md)
 
 Last updated 1 week ago 
 

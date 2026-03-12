@@ -1,12 +1,12 @@
 # Cheque Print Template
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0raj6k77is>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0raj6k77is)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Cheque Print Template
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0raj6k77is>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0raj6k77is)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,7 +20,7 @@ Using the Cheque Print Template you can generate a new Print Format for cheques.
 
 A sample cheque:
 
-![Sample Cheque](/files/sample-cheque.jpg)
+![Sample Cheque](https://docs.frappe.io/assets/87cbdc450c30.jpg)
 
   1. How to create a Cheque Print Template
 
@@ -36,7 +36,7 @@ A sample cheque:
 
 In the Cheque Print Template, for each value (say Payee, Date), exact coordinates are provided based on where that value should be printed on a cheque. Co-ordinates are provided in centimeters. Here is a representation the structure:
 
-![Sample Cheque](/files/cheque-1.png)
+![Sample Cheque](https://docs.frappe.io/assets/499a717bdf80.png)
 
 ### 1.1 New Format by Scanning
 
@@ -52,22 +52,22 @@ You can manually provide the co-ordinate for each value based on where you want 
 
 Based on coordinates provided for all the values, a preview will be shown as to how the values will be printed on the cheque.
 
-![Sample Cheque](/files/cheque-2.png)
+![Sample Cheque](https://docs.frappe.io/assets/48f9be9b8ca3.png)
 
 ### 1.3 Printing Cheques
 
 New print format generated for the cheque will be visible in the Payment Entry form. After creating the payment entry, you will be able to print transaction details on the cheque.
 
-![Sample Cheque](/files/cheque-3.gif)
+![Sample Cheque](https://docs.frappe.io/assets/547cafe5abb0.gif)
 
 ### 2\. Related Topics
 
-  1. [Address Template](</erpnext/address-template>)
-  2. [Terms and Conditions Template](</erpnext/terms-and-conditions>)
+  1. [Address Template](address-template.md)
+  2. [Terms and Conditions Template](terms-and-conditions.md)
 
 
 
-[ Previous Page Print Headings  ](</erpnext/print-headings>) [ Next Page Raw Printing  ](</erpnext/raw-printing>)
+[ Previous Page Print Headings  ](print-headings.md) [ Next Page Raw Printing  ](raw-printing.md)
 
 Last updated 1 week ago 
 

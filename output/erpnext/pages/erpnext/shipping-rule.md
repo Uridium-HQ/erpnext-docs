@@ -20,7 +20,7 @@ To set up a Shipping Rule, go to:
 
 
 
-![Shipping Rule](/files/shipping-rule.png)
+![Shipping Rule](https://docs.frappe.io/assets/d54f4690d160.png)
 
 ## Features
 
@@ -28,7 +28,7 @@ To set up a Shipping Rule, go to:
 
 On selecting Net Total or Net Weight, a table will appear where you can set the from and to values for the amount or weight. Enter the Shipping Amount to be calculated for the entered range. Add more conditions as necessary. You can select only one of the three calculation methods in one Shipping Rule.
 
-![Shipping Rule Conditions](/files/shipping-rule-conditions.png)
+![Shipping Rule Conditions](https://docs.frappe.io/assets/7a7cc3176f43.png)
 
 Referring above, you will notice that shipping charges are reducing as the value increases. This shipping charge will only be applied if the transaction total falls under one of the above ranges.
 
@@ -36,12 +36,12 @@ Referring above, you will notice that shipping charges are reducing as the value
 
 You can restrict the Shipping Rule to certain countries. Add the countries in the table. By default, the Shipping Rule will be applicable globally. If specific countries are mentioned, then Shipping Charges will be applied only if the Customer's country matches the country mentioned in the Shipping Rule.
 
-![Country Specific Shipping Rules](/files/country-specific-shipping-rules.gif)
+![Country Specific Shipping Rules](https://docs.frappe.io/assets/1181ee90d217.gif)
 
 ### Shipping Rule Application
 
 Following is an example of how shipping charges are auto-applied on a Sales Order based on a Shipping Rule.
 
-![Shipping Rule in Sales Order](/files/shipping-rule-in-sales-order.gif)
+![Shipping Rule in Sales Order](https://docs.frappe.io/assets/52ad74210251.gif)
 
 Last updated 2 weeks ago

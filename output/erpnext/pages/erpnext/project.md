@@ -1,12 +1,12 @@
 # Project
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s26g1c9n7>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s26g1c9n7)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Project 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s26g1c9n7>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s26g1c9n7)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -24,7 +24,7 @@ To access Projects, go to:
 
 > Home > Projects > Project
 
-![](/files/imagec3fe96.png)
+![](../../assets/4146a7713095.png)
 
 ## How to Create a Project
 
@@ -40,17 +40,17 @@ To access Projects, go to:
 
 ### Additional Options while creating a Project
 
-  1. **From Template** : If you have an existing [Project Template](</erpnext/project-template>), you can choose to create your project using this template.
+  1. **From Template** : If you have an existing [Project Template](project-template.md), you can choose to create your project using this template.
   2. **Expected Start Date** : If you have a time-line fixed for the project, you can define both expected Start Date and Expected End Date in the form.
-  3. **Project Type** : You can classify your projects into different [types](</erpnext/project-type>), e.g., Internal or External.
+  3. **Project Type** : You can classify your projects into different [types](project-type.md), e.g., Internal or External.
   4. **Priority** : You can select the priority level of the Project based on how crucial it is. You can also add more priority levels.
-  5. **Department** : If the project belongs to, or is owned by a [Department](</hr/department>) in the organization, you can add that here.
+  5. **Department** : If the project belongs to, or is owned by a [Department](https://docs.frappe.io/hr/department) in the organization, you can add that here.
   6. **Is Active** : A Yes/No tab, which lets you change the active status of the project at any later stage.
   7. **Completion Method** : You can track the % completion of your project based on one of the three methods, viz. **Manual, Task Completion, Task Progress and Task Weight**.
 
 
 
-![](/files/image2d8eef.png)
+![](../../assets/8d21cd930eb3.png)
 
 Some examples of how the Percentage Completion is calculated based on Tasks:
 
@@ -85,9 +85,9 @@ Method | Formula | Calculation | % Task Completed
 
 
 
-> Learn more about allowing users to view projects - click [here](</erpnext/project-customer-portal>)
+> Learn more about allowing users to view projects - click [here](project-customer-portal.md)
 
-![](/files/imagebf5e91.png)
+![](../../assets/749761197bde.png)
 
 ### **Project Timeline Tracking**
 
@@ -96,9 +96,9 @@ Method | Formula | Calculation | % Task Completed
 
 
 
-> To learn more about Timesheets, click [here](</erpnext/timesheets>).
+> To learn more about Timesheets, click [here](timesheets.md).
 
-![](/files/image1e72e3.png)
+![](../../assets/6311423f4a9c.png)
 
 ### Costing, Billing, and Financial Tracking
 
@@ -134,7 +134,7 @@ Method | Formula | Calculation | % Task Completed
     
 [/code]
 
-![](/files/imagecf9da7.png)
+![](../../assets/9ca07f1250fa.png)
 
 ### Monitor progress
 
@@ -145,17 +145,17 @@ When you enable the 'Collect Progress' option by checking the box, it will enabl
 
 
 
-![](/files/imagebeb9e1.png)
+![](../../assets/2e674c45361e.png)
 
 ## Related Topics
 
-  1. [Task](</erpnext/tasks>)
-  2. [Project Type](</erpnext/project-type>)
-  3. [Project Template](</erpnext/project-template>)
+  1. [Task](tasks.md)
+  2. [Project Type](project-type.md)
+  3. [Project Template](project-template.md)
 
 
 
-[ Previous Page Activity Cost  ](</erpnext/activity-cost>) [ Next Page Tasks  ](</erpnext/tasks>)
+[ Previous Page Activity Cost  ](activity-cost.md) [ Next Page Tasks  ](tasks.md)
 
 Last updated 2 weeks ago 
 

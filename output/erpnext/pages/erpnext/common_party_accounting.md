@@ -1,12 +1,12 @@
 # Common Party Accounting
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rljun02p9>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rljun02p9)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Common Party Accounting
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rljun02p9>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rljun02p9)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -23,7 +23,7 @@ The above can be achieved by enabling Common Party Accounting.
   2. Create a link between two parties
 
      * If the primary role of the party is Supplier, then go to the Supplier Master and Click on Actions -> Link with Customer
-     * If the primary role of the party is Customer, then go to the Customer Master and Click on Actions -> Link with Supplier![Party Link](/files/Party_Link.gif)
+     * If the primary role of the party is Customer, then go to the Customer Master and Click on Actions -> Link with Supplier![Party Link](https://docs.frappe.io/assets/15b38d90815b.gif)
   3. Create a Sales Invoice against the Customer that was set as Secondary Party in the 2nd step.
 
   4. On submitting the Sales Invoice, a Journal Entry will be posted automatically that will create an advance balance against the linked Supplier.
@@ -31,9 +31,9 @@ The above can be achieved by enabling Common Party Accounting.
 
 
 
-![Journal Entry](/files/Journal-Entry.png) 5\. Now this Journal Entry advance can be then used to reconcile against a Purchase Invoice.
+![Journal Entry](https://docs.frappe.io/assets/df8cb0323e11.png) 5\. Now this Journal Entry advance can be then used to reconcile against a Purchase Invoice.
 
-[ Previous Page Rebuild Tree ](</erpnext/rebuild-tree>) [ Next Page Advance In Separate Party Account ](</erpnext/advance-in-separate-party-account>)
+[ Previous Page Rebuild Tree ](rebuild-tree.md) [ Next Page Advance In Separate Party Account ](advance-in-separate-party-account.md)
 
 Last updated 2 weeks ago 
 

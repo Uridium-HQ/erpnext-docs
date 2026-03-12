@@ -1,12 +1,12 @@
 # Manipulating DocTypes
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12g8ue5ko6>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12g8ue5ko6)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Manipulating DocTypes 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12g8ue5ko6>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12g8ue5ko6)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -194,15 +194,15 @@ The name (ID) of the document you'd like to delete. For example, 'EMP-00001'.
 
 HTTP Headers:
 
-  * [Content-Type](<https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type>)
-  * [Accept](<https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept>)
-  * [Authorization](<https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Authorization>)
+  * [Content-Type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type)
+  * [Accept](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept)
+  * [Authorization](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Authorization)
 
 
 
 Author: Raffael Meyer (raffael@alyf.de)
 
-[ Previous Page Listing documents  ](</framework/v14/user/en/guides/integration/rest_api/listing_documents>) [ Next Page Setup read operations from slave/secondary mysql system  ](</framework/v14/user/en/guides/database-settings/setup-read-from-secondary-db>)
+[ Previous Page Listing documents  ](listing_documents.md) [ Next Page Setup read operations from slave/secondary mysql system  ](../../database-settings/setup-read-from-secondary-db.md)
 
 Last updated 2 months ago 
 

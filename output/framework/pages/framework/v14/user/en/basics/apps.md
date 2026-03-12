@@ -1,12 +1,12 @@
 # Apps
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12i3pbirsa>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12i3pbirsa)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Apps 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12i3pbirsa>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12i3pbirsa)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -85,7 +85,7 @@ This file stores the list of python development dependencies. Syntax of this fil
 
 ### package.json
 
-This file is used to keep track of node dependencies. Learn more about it [here](<https://docs.npmjs.com/files/package.json>).
+This file is used to keep track of node dependencies. Learn more about it [here](https://docs.npmjs.com/files/package.json).
 
 ### custom_app
 
@@ -99,19 +99,19 @@ When you create a new app, a module with the same name is also created within th
 
 This file is used to hook into frappe events and extend or override standard behaviour by frappe.
 
-Learn more about [hooks](</framework/v14/user/en/python-api/hooks>).
+Learn more about [hooks](../python-api/hooks.md).
 
 ### custom_app/modules.txt
 
 Every frappe app is organized into different modules. Every DocType is part of a module. These modules are listed in this file.
 
-Learn more about [modules](</framework/v14/user/en/basics/doctypes/modules>).
+Learn more about [modules](doctypes/modules.md).
 
 ### custom_app/patches.txt
 
 This file is used to store references to patches that run in database migrations. These patches are run in order, and they are run only once.
 
-Learn more about [Database Migrations](</framework/v14/user/en/database-migrations#data-migrations>).
+Learn more about [Database Migrations](../database-migrations.md).
 
 ### custom_app/public
 
@@ -131,7 +131,7 @@ For example, when you include a partial `{% include "templates/navbar/navbar.htm
 
 Files in this directory are directly mapped to portal pages and the URLs match the directory structure.
 
-Learn more about [portal pages](</framework/v14/user/en/portal-pages>).
+Learn more about [portal pages](../portal-pages.md).
 
 ## Installing an app into a site
 
@@ -153,7 +153,7 @@ To check whether the app was installed correctly, run the following command:
     
 [/code]
 
-[ Previous Page Directory structure  ](</framework/v14/user/en/basics/directory-structure>) [ Next Page Sites  ](</framework/v14/user/en/basics/sites>)
+[ Previous Page Directory structure  ](directory-structure.md) [ Next Page Sites  ](sites.md)
 
 Last updated 2 months ago 
 

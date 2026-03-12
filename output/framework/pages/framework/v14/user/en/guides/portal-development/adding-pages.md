@@ -1,12 +1,12 @@
 # Adding Pages
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12cqpiee94>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12cqpiee94)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Adding Pages 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12cqpiee94>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12cqpiee94)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -24,7 +24,7 @@ Either file must be present for the system to make this a valid folder to build 
 
 # This is a title
 
-This is some page content a [link](</link/to/page>)
+This is some page content a [link](https://docs.frappe.io/link/to/page)
 
 ### Adding Links
 
@@ -48,7 +48,7 @@ You can also add a `.css` file with the same filename (e.g. `index.css` for `ind
 
 
 
-[ Previous Page Ordering  ](</framework/v14/user/en/guides/portal-development/ordering>) [ Next Page Table of Contents  ](</framework/v14/user/en/guides/portal-development/table-of-contents>)
+[ Previous Page Ordering  ](ordering.md) [ Next Page Table of Contents  ](table-of-contents.md)
 
 Last updated 2 months ago 
 

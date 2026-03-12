@@ -1,12 +1,12 @@
 # Blog Post
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12phmlcfrf>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12phmlcfrf)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Blog Post 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12phmlcfrf>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12phmlcfrf)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -30,29 +30,29 @@ To access the Blog Post, go to:
 
 The Blog Intro is a short description of your blog that appears just after the title and before the content.
 
-![New Blog Post](/files/v-14-new-blog-post.png)
+![New Blog Post](https://docs.frappe.io/assets/cef661f8f0f2.png)
 
 You can write your blog in Rich Text, Markdown, or HTML. If you want to write simple content pages, Rich Text and Markdown are great options.
 
-> Learn markdown in a few minutes at [Mastering Markdown](<https://guides.github.com/features/mastering-markdown/>).
+> Learn markdown in a few minutes at [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
 
-![Blog Post in Markdown](/files/v-14-blog-post-in-markdown.png) _Blog Post in Markdown_
+![Blog Post in Markdown](https://docs.frappe.io/assets/caff12740298.png) _Blog Post in Markdown_
 
-View your Blog Post by clicking on **See on Website** in the sidebar. ![Blog Post](/files/blog-post.png) _Blog Post_
+View your Blog Post by clicking on **See on Website** in the sidebar. ![Blog Post](https://docs.frappe.io/assets/a5263a2cd4b7.png) _Blog Post_
 
 Readers can comment on the blog post. The guest user will have to enter their **Name** and **Email** to comment.
 
-![Blog Post](/files/blog-post-comment-closed.png) ![Blog Post](/files/blog-post-comment-open.png)
+![Blog Post](https://docs.frappe.io/assets/abe8266e1a04.png) ![Blog Post](https://docs.frappe.io/assets/3b8431bd2475.png)
 
-Check the **Disable Comments** option if you'd like to disable the ability for readers to add comments to the current blog post. ![Blog Post](/files/v-14-blog-post-disable-comments.png)
+Check the **Disable Comments** option if you'd like to disable the ability for readers to add comments to the current blog post. ![Blog Post](https://docs.frappe.io/assets/9cf0d08a5fb6.png)
 
-![Blog Post](/files/blog-post-no-comments.png) _Adding Comments Disabled_
+![Blog Post](https://docs.frappe.io/assets/cfdf79f47d46.png) _Adding Comments Disabled_
 
-Readers can give likes on their favorite blog posts. ![Blog Post](/files/blog-post-like-default.png) ![Blog Post](/files/blog-post-liked.png) _Like_
+Readers can give likes on their favorite blog posts. ![Blog Post](https://docs.frappe.io/assets/2fe2bc26de9d.png) ![Blog Post](https://docs.frappe.io/assets/b23aff960f2a.png) _Like_
 
-Check the **Disable Likes** option if you'd like to disable the ability for readers to give like to the current blog post. ![Blog Post](/files/v-14-blog-post-disable-likes.png) ![Blog Post](/files/blog-post-no-like.png)
+Check the **Disable Likes** option if you'd like to disable the ability for readers to give like to the current blog post. ![Blog Post](https://docs.frappe.io/assets/f7399f57ac49.png) ![Blog Post](https://docs.frappe.io/assets/46f70ee565c9.png)
 
-When a reader comments on a blog post or gives a like, an email is sent to the blogger with a link to the comment/like on the blog post. If the blogger doesn't want to receive any email he/can uncheck the **Enable Email Notification** checkbox. ![Blog Post](/files/v14-blog-post-enable-email-notification.png)
+When a reader comments on a blog post or gives a like, an email is sent to the blogger with a link to the comment/like on the blog post. If the blogger doesn't want to receive any email he/can uncheck the **Enable Email Notification** checkbox. ![Blog Post](https://docs.frappe.io/assets/d77b4998b12e.png)
 
 ## 2\. Features
 
@@ -64,9 +64,9 @@ Blogger is a user who can post blogs. To create a Blogger, go to:
 
 You can mention a short bio about the blogger and also set an avatar here.
 
-![Blogger](/files/v-14-blogger.png) _Blogger_
+![Blogger](https://docs.frappe.io/assets/a20e7f634d15.png) _Blogger_
 
-The preview will be shown at the end of the blog post. ![Blogger Preview](/files/v-14-blogger-preview.png) _Blogger Preview_
+The preview will be shown at the end of the blog post. ![Blogger Preview](https://docs.frappe.io/assets/f3c0515f2dfc.png) _Blogger Preview_
 
 ### 2.2 Blog Category
 
@@ -74,11 +74,11 @@ You can group your blogs into categories. To create a new Blog Category, go to:
 
 **Home > Website > Blog > Blog Category**.
 
-![Blog Category](/files/blog-category.png) _Blog Category_
+![Blog Category](https://docs.frappe.io/assets/24b008c92432.png) _Blog Category_
 
 If you click on **See on Website** in the sidebar, you'll be redirected to a list of blogs under that category.
 
-![Blog Category - General](/files/blog-category-web-view.png) _Blog Category - General_
+![Blog Category - General](https://docs.frappe.io/assets/dee30f5f3c6d.png) _Blog Category - General_
 
 ### 2.3 Meta Tags
 
@@ -95,26 +95,26 @@ Under the SEO section, you can add the meta description and image for your blog 
 
 If you leave this section empty, the blog introduction or the first 140 characters of the blog will be shown as the meta description. In the same way, if you leave the meta image empty, the first image in the blog will be selected.
 
-![Google Search Preview](/files/v-14-blog-post-seo-meta.png) _Blog Post Google Search Preview_
+![Google Search Preview](https://docs.frappe.io/assets/8de24fc154e3.png) _Blog Post Google Search Preview_
 
 On submitting the blog, you can also preview how the blog will look when shared on a social media platform like Facebook or Twitter. To check this, use the debugging tools offered by the platforms:
 
-  * Facebook: [Sharing Debugger](<https://developers.facebook.com/tools/debug/>)
+  * Facebook: [Sharing Debugger](https://developers.facebook.com/tools/debug/)
 
-  * Twitter: [Card Validator](<https://cards-dev.twitter.com/validator>)
+  * Twitter: [Card Validator](https://cards-dev.twitter.com/validator)
 
-  * LinkedIn: [Post Inspector](<https://www.linkedin.com/post-inspector/inspect/>)
+  * LinkedIn: [Post Inspector](https://www.linkedin.com/post-inspector/inspect/)
 
 
 
 
 To check the post preview, simply enter the webpage/blog link in the tool:
 
-![Facebook Sharing Debugger](/files/blog-post-facebook-debugger.png) _Using Facebook's Sharing Debugger Tool_
+![Facebook Sharing Debugger](https://docs.frappe.io/assets/df0531b3087e.png) _Using Facebook's Sharing Debugger Tool_
 
 Using these tools, you can optimize your blog post for sharing.
 
-[ Previous Page Portal Pages  ](</framework/v14/user/en/portal-pages>) [ Next Page Web Form ](</framework/v14/user/en/web-form>)
+[ Previous Page Portal Pages  ](portal-pages.md) [ Next Page Web Form ](web-form.md)
 
 Last updated 2 months ago 
 

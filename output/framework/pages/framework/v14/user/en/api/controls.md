@@ -1,12 +1,12 @@
 # Controls
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12q9p297l5>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12q9p297l5)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Controls 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12q9p297l5>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12q9p297l5)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -282,7 +282,7 @@ Example:
     
 [/code]
 
-[ Previous Page Form Scripts  ](</framework/v14/user/en/api/form>) [ Next Page List  ](</framework/v14/user/en/api/list>)
+[ Previous Page Form Scripts  ](form.md) [ Next Page List  ](list.md)
 
 Last updated 2 months ago 
 

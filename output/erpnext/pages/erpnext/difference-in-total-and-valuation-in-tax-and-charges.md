@@ -1,12 +1,12 @@
 # Include Tax or Charge in Valuation or Total?
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rpu5926hv>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rpu5926hv)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Include Tax or Charge in Valuation or Total?
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rpu5926hv>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rpu5926hv)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -18,7 +18,7 @@ Consider Tax or Charge field in Taxes and Charges table of purchase or sales tra
 
 
 
-![Valuation And Total](/files/valuation-and-total.png)
+![Valuation And Total](https://docs.frappe.io/assets/f7e684cd8edf.png)
 
 Let's consider an example to understand an effect of each charge type. We purchase ten units of item, at the rate of 800. total purchase amount is 800. Purchased item has 4% VAT applied on it, and INR 100 was incurred in transportation.
 
@@ -36,7 +36,7 @@ Tax or charge categorized as **Valuation** will be added in the value of purchas
 
 Transportation charge of INR 100 should be categorized as valuation. With this, the value of purchased item will be increased from 800 to 900. Also, this charge will be not be added to the total of purchase transaction, because it is your expense, and should not be reflected to the supplier.
 
-Check [here](</erpnext/perpetual-inventory>) to learn general posting done for expense categorized as Valuation.
+Check [here](perpetual-inventory.md) to learn general posting done for expense categorized as Valuation.
 
 ####Total and Valuation:
 
@@ -44,7 +44,7 @@ Tax or Charge categorized as for **Total and Valuation** will be added in the va
 
 Let's assume that transportion is arranged by our supplier, but we need to pay transportation charges to them. In that case, for transportation charges, category selected should be Total and Valuation. With this, INR 100 transportation charge will be added to the actual purchase amount 800. Also, INR 100 will reflect in the total, as it will be payable for us towards supplier.
 
-[ Previous Page Bank Transaction ](</erpnext/bank-transaction>) [ Next Page Tax on another tax amount ](</erpnext/tax-on-another-tax-amount>)
+[ Previous Page Bank Transaction ](https://docs.frappe.io/erpnext/bank-transaction) [ Next Page Tax on another tax amount ](https://docs.frappe.io/erpnext/tax-on-another-tax-amount)
 
 Last updated 2 weeks ago 
 

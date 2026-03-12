@@ -1,12 +1,12 @@
 # Chart Of Accounts
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rokbfec95>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rokbfec95)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Chart Of Accounts
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rokbfec95>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rokbfec95)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -42,7 +42,7 @@ To access the Chart of Accounts, go to:
 
 * * *
 
-ERPNext comes with a standard set Chart of Accounts. Instead of creating/modifying, you can also use the [Chart of Accounts Importer](</erpnext/chart-of-accounts-importer>) tool. Note that the existing Chart of Accounts will be overwritten when this tool is used.
+ERPNext comes with a standard set Chart of Accounts. Instead of creating/modifying, you can also use the [Chart of Accounts Importer](chart-of-accounts-importer.md) tool. Note that the existing Chart of Accounts will be overwritten when this tool is used.
 
   1. Go to the Chart of Accounts
 
@@ -50,7 +50,7 @@ ERPNext comes with a standard set Chart of Accounts. Instead of creating/modifyi
 
 Here you can open group accounts which contain other accounts. There are options to “Add Child” in an account, Edit or Delete the account.
 
-![Screenshot 2024-06-25 at 5.32.27 PM](/files/Screenshot%202024-06-25%20at%205.32.27%20PM.png) 2\. The option to create a child account will only appear if you click on a Group (folder) type Account. 3\. Enter a name for the account. 4\. Enter a number for the account. 5\. Tick 'Is Group' if you want this to be a group account which can contain other accounts. 6\. Select the Account Type. Selecting this is important as some fields allow selecting only specific type of accounts. 7\. Change the currency if this account will be used for transactions with different currency. By default, it's the Company's currency. To know more, visit the [Multi Currency Accounting](</erpnext/multi-currency-accounting>) page. 8\. Click on **Create New**.
+![Screenshot 2024-06-25 at 5.32.27 PM](https://docs.frappe.io/assets/9265b8730c13.png) 2\. The option to create a child account will only appear if you click on a Group (folder) type Account. 3\. Enter a name for the account. 4\. Enter a number for the account. 5\. Tick 'Is Group' if you want this to be a group account which can contain other accounts. 6\. Select the Account Type. Selecting this is important as some fields allow selecting only specific type of accounts. 7\. Change the currency if this account will be used for transactions with different currency. By default, it's the Company's currency. To know more, visit the [Multi Currency Accounting](multi-currency-accounting.md) page. 8\. Click on **Create New**.
 
 Typically, you might want to create Accounts for:
 
@@ -61,7 +61,7 @@ Typically, you might want to create Accounts for:
 
 
 
-![Chart of Accounts](/files/coa-root-accounts.png)
+![Chart of Accounts](https://docs.frappe.io/assets/6ac310fc12aa.png)
 
 > Tip: Accounts with different currencies are created when you receive or make payments to or from different currencies. For example if you are based in India and transact with USA, you may need to create accounts like 'Debtors US', 'Creditors US', etc.
 
@@ -95,7 +95,7 @@ Unlike Balance Sheet accounts, Profit and Loss accounts (or PL accounts) do not 
 
 In ERPNext it is easy to keep track of Profit and Loss via the Profit and Loss chart.
 
-![Profit and Loss Report](/files/profit-and-loss-report.png)
+![Profit and Loss Report](https://docs.frappe.io/assets/12b71b0f9f0e.png)
 
 Note that, on the first day of the year you have not made any profit or loss, but you still have assets, hence balance sheet accounts never become zero at the beginning or end of a period.
 
@@ -109,7 +109,7 @@ Accounting Transactions can only be made against Ledger Accounts (not Groups)
 
 > Note: An Account “Ledger” is also sometimes called as Account “Head”.
 
-![Groups and Ledgers in CoA](/files/coa-group-and-ledger.png)
+![Groups and Ledgers in CoA](https://docs.frappe.io/assets/e286550c1700.png)
 
 ### 2.4 Other Account Types
 
@@ -132,8 +132,8 @@ Explanation of account types:
   * **Income Account** : This type of accounts represents any source of income or revenue booked for the Company.
   * **Payable** : The account type represents the amount owed by a company to its creditors (Suppliers).
   * **Receivable** : The account type represents the amount owed to a company by its debtors (Customers).
-  * **Round Off** : In many Invoices there can be some [rounding off](</erpnext/round-off-account-validation>) in the final amount. For accurate tracking, those amounts can be booked to accounts of this type.
-  * **Stock** : The account group under which [Warehouse accounts](</erpnext/round-off-account-validation>) will be created.
+  * **Round Off** : In many Invoices there can be some [rounding off](round-off-account-validation.md) in the final amount. For accurate tracking, those amounts can be booked to accounts of this type.
+  * **Stock** : The account group under which [Warehouse accounts](round-off-account-validation.md) will be created.
   * **Stock Adjustment** : An expense account to book any adjustment entry of stock/inventory. Generally comes at the same level of Cost of Goods Sold.
   * **Stock Received But Not Billed** : A temporary liability account which holds the value of stock received but not billed yet and used in Perpetual Inventory.
   * **Tax** : All tax accounts like VAT, TDS, GST, etc. come under this type.
@@ -157,9 +157,9 @@ An Example of various financial statement are given below:
 
 
 
-![Cash Flow](/files/cash-flow.png) 2\. Profit and Loss Report: ![Profit and Loss Report](/files/profit-and-loss-report.png) 3\. Balance Sheet Report:
+![Cash Flow](https://docs.frappe.io/assets/8d87d1a2e90d.png) 2\. Profit and Loss Report: ![Profit and Loss Report](https://docs.frappe.io/assets/12b71b0f9f0e.png) 3\. Balance Sheet Report:
 
-![Balance Sheet](/files/balance-sheet.png)
+![Balance Sheet](https://docs.frappe.io/assets/0e516fea0b08.png)
 
 ### 2.6 Account Number
 
@@ -167,7 +167,7 @@ A standard Chart of Accounts is organized according to a numerical system. Each 
 
 You can assign a number while creating an account from Chart of Accounts page. You can also edit a number from account record, by clicking **Update Account Name / Number** button. On updating account number, the system renames the account name automatically to embed the number in the account name.
 
-![Account Number](/files/update-account-number.png)
+![Account Number](https://docs.frappe.io/assets/8e934d56a530.png)
 
   3. Video
 
@@ -177,16 +177,16 @@ You can assign a number while creating an account from Chart of Accounts page. Y
 
 ### 4\. Related Topics
 
-  1. [Opening Balance](</erpnext/opening-balance>)
-  2. [Accounts Settings](</erpnext/accounts-settings>)
-  3. [Journal Entry](</erpnext/journal-entry>)
-  4. [Inter Company Journal Entry](</erpnext/inter-company-journal-entry>)
-  5. [Accounting Reports](</erpnext/accounting-reports>)
-  6. [Multi Currency Accounting](</erpnext/multi-currency-accounting>)
+  1. [Opening Balance](opening-balance.md)
+  2. [Accounts Settings](accounts-settings.md)
+  3. [Journal Entry](journal-entry.md)
+  4. [Inter Company Journal Entry](inter-company-journal-entry.md)
+  5. [Accounting Reports](accounting-reports.md)
+  6. [Multi Currency Accounting](multi-currency-accounting.md)
 
 
 
-[ Previous Page Setting Up Taxes  ](</erpnext/setting-up-taxes>) [ Next Page Tax Category  ](</erpnext/tax-category>)
+[ Previous Page Setting Up Taxes  ](setting-up-taxes.md) [ Next Page Tax Category  ](tax-category.md)
 
 Last updated 2 weeks ago 
 

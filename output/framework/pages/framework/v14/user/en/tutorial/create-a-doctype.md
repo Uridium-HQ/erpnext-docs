@@ -1,12 +1,12 @@
 # Create a DocType
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/125b5dburi>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/125b5dburi)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Create a DocType 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/125b5dburi>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/125b5dburi)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -25,7 +25,7 @@ Go to your terminal and quit the bench server if it's already running then from 
 
 ## Creating a DocType
 
-While in Desk, navigate to the **DocType List** using the [Awesomebar](</framework/v14/user/en/desk#awesomebar>). This list will include DocTypes bundled with the framework, those that are a part of the installed Frappe apps and custom ones, which you can create specific to each site.
+While in Desk, navigate to the **DocType List** using the [Awesomebar](../desk.md). This list will include DocTypes bundled with the framework, those that are a part of the installed Frappe apps and custom ones, which you can create specific to each site.
 
 The first doctype we will create is **Article**. To create it, click on New.
 
@@ -44,7 +44,7 @@ The first doctype we will create is **Article**. To create it, click on New.
 
 Refer the following GIF to check how it should be done:
 
-![Article DocType](/files/article-doctype.gif)
+![Article DocType](https://docs.frappe.io/assets/24aee239a326.gif)
 
 After adding the fields, click on Save.
 
@@ -54,7 +54,7 @@ Let's create some records. But before that, we need to clear the Desk cache. Cli
 
 Now, you should see the **New** button. Click on it and you will see the Form view of the Article doctype. Fill in the form and click on Save. You have created your first Article document. Go back to the list view and you should see one record.
 
-![Article New Form](/files/article-new-form.gif)
+![Article New Form](https://docs.frappe.io/assets/061cf74eb460.gif)
 
 ### What happened when you created the Article DocType?
 
@@ -134,7 +134,7 @@ If you notice, the layout of fields in the form is according to how you ordered 
 
 **NOTE**
 
-Make sure you uncheck the 'Custom?' checkbox in the doctype configuration. Otherwise the files discussed below won't be generated. An explaination for this is given [here](<https://discuss.erpnext.com/t/whats-the-difference-between-customize-form-vs-custom-doctype/42676/2>)
+Make sure you uncheck the 'Custom?' checkbox in the doctype configuration. Otherwise the files discussed below won't be generated. An explaination for this is given [here](https://discuss.erpnext.com/t/whats-the-difference-between-customize-form-vs-custom-doctype/42676/2)
 
 * * *
 
@@ -168,9 +168,9 @@ As you can see, a DocType describes a lot of things about the model. Not only do
 
 Good job following the tutorial so far. Let's keep going!
 
-Next: [DocType Features](</framework/v14/user/en/tutorial/doctype-features>)
+Next: [DocType Features](doctype-features.md)
 
-[ Previous Page Create a Site ](</framework/v14/user/en/tutorial/create-a-site>) [ Next Page DocType Features  ](</framework/v14/user/en/tutorial/doctype-features>)
+[ Previous Page Create a Site ](create-a-site.md) [ Next Page DocType Features  ](doctype-features.md)
 
 Last updated 2 months ago 
 

@@ -1,12 +1,12 @@
 # bench list-apps
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/131m41k1tk>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/131m41k1tk)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # bench list-apps 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/131m41k1tk>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/131m41k1tk)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -62,7 +62,7 @@ Multi-site support has been added in Version 13. To see the summary for all site
     
 [/code]
 
-[ Previous Page bench reinstall  ](</framework/v14/user/en/bench/reference/reinstall>) [ Next Page bench uninstall-app  ](</framework/v14/user/en/bench/reference/uninstall-app>)
+[ Previous Page bench reinstall  ](reinstall.md) [ Next Page bench uninstall-app  ](uninstall-app.md)
 
 Last updated 2 months ago 
 

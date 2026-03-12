@@ -23,7 +23,7 @@ To access the Bank Guarantee list, go to:
   5. The Customer/Supplier and the Amount will be fetched automatically.
   6. Select a Bank and the Bank Account.
   7. Enter a Bank Guarantee number and name of the beneficiary.
-  8. Save and Submit. ![Bank Guarantee](/files/bank-guarantee.png)
+  8. Save and Submit. ![Bank Guarantee](https://docs.frappe.io/assets/89928b650a52.png)
 
 
 
@@ -39,9 +39,9 @@ This document allows you to track Bank Guarantees given to Suppliers and receive
 
 ### 2\. Related Topics
 
-  1. [Chart Of Accounts](</erpnext/chart-of-accounts>)
-  2. [Sales Order](</erpnext/sales-order>)
-  3. [Purchase Order](</erpnext/purchase-order>)
+  1. [Chart Of Accounts](../../../chart-of-accounts.md)
+  2. [Sales Order](../../../sales-order.md)
+  3. [Purchase Order](../../../purchase-order.md)
 
 
 

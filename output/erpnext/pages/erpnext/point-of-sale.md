@@ -1,12 +1,12 @@
 # Introduction
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/fgl9pcniaa>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/fgl9pcniaa)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Introduction
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/fgl9pcniaa>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/fgl9pcniaa)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -27,7 +27,7 @@ With built-in reporting and analytics, businesses can gain valuable insights int
 
 
 
-[ Previous Page Return Rejected Items  ](</erpnext/return-rejected-item>) [ Next Page Getting Started ](</erpnext/point-of-sale/setup>)
+[ Previous Page Return Rejected Items  ](https://docs.frappe.io/erpnext/return-rejected-item) [ Next Page Getting Started ](https://docs.frappe.io/erpnext/point-of-sale/setup)
 
 Last updated 2 weeks ago 
 

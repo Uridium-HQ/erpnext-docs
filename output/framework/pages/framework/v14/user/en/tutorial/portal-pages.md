@@ -1,12 +1,12 @@
 # Web View Pages
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/126h6cd2t1>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/126h6cd2t1)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Web View Pages
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/126h6cd2t1>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/126h6cd2t1)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -25,9 +25,9 @@ Go to Article doctype, and scroll down to the Web View section.
 
 The published field will help filter out those documents which are not supposed to be shown in web view, otherwise you will run into an error.
 
-![](/files/148695460-d90b4b4f-1bf5-44cb-939c-a620786dc777.png)
+![](../../../../../../assets/7fe07f23e8af.png)
 
-![](/files/148695486-f4674a7b-2d6f-42ab-a279-b17342d75e9b.png)
+![](../../../../../../assets/4e97a9b968e4.png)
 
 We have now enabled web views for Article doctype. This means you can now view details of an Article on your website without logging into Desk. Let's test this out by creating a new Article. You should see **See on Website** at the top left of your form. Click on it to view the web view of the Article.
 
@@ -43,7 +43,7 @@ Let's edit **article.html** first. Frappe uses Bootstrap 4 by default for it's w
     
     
     
-    ![{{ title }}]({{%20image%20}})
+    ![{{ title }}](https://docs.frappe.io/framework/v14/user/en/tutorial/{{%20image%20}})
     
     
     {{ title }}
@@ -81,17 +81,17 @@ Let's edit **article.html** first. Frappe uses Bootstrap 4 by default for it's w
 
 Now, go to any Article and click on **See on Website**. If you have filled in all fields of your Article, you should see a page like this:
 
-![Article Portal Page](/files/article-portal-page.png)
+![Article Portal Page](https://docs.frappe.io/assets/2e8b9c529a49.png)
 
 Now, open http://library.test:8000/articles. This should show the list of articles, but it is also pretty barebones. Let's customize the HTML.
 
 Edit the **article\\_row.html** and add the following HTML:
 [code] 
     
-    ![{{ doc.name }}]({{%20doc.image%20}})
+    ![{{ doc.name }}](https://docs.frappe.io/framework/v14/user/en/tutorial/{{%20doc.image%20}})
     
     
-    [{{ doc.name }}]({{ doc.route }})
+    [{{ doc.name }}](https://docs.frappe.io/framework/v14/user/en/tutorial/{{ doc.route }})
     By {{ doc.author }}
     
     
@@ -102,13 +102,13 @@ Edit the **article\\_row.html** and add the following HTML:
 
 Now, the articles list should look prettier. You can click on any article to view it's details.
 
-![Articles Portal Page](/files/articles-portal-page.png)
+![Articles Portal Page](https://docs.frappe.io/assets/a6b1b0d3a687.png)
 
 Good job on following the tutorial so far.
 
-Next: [What's Next](</framework/v14/user/en/tutorial/whats-next>)
+Next: [What's Next](whats-next.md)
 
-[ Previous Page Form Scripts  ](</framework/v14/user/en/tutorial/form-scripts>) [ Next Page What's Next?  ](</framework/v14/user/en/tutorial/whats-next>)
+[ Previous Page Form Scripts  ](form-scripts.md) [ Next Page What's Next?  ](whats-next.md)
 
 Last updated 2 months ago 
 

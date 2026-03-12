@@ -1,16 +1,16 @@
 # Database API
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tl2gt7pp2>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tl2gt7pp2)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Database API
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tl2gt7pp2>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tl2gt7pp2)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-_Version 16_ onwards has some [breaking changes](<https://github.com/frappe/frappe/wiki/query-builder-migration>) in `get_list` and `get_all`
+_Version 16_ onwards has some [breaking changes](https://github.com/frappe/frappe/wiki/query-builder-migration) in `get_list` and `get_all`
 
 ## frappe.db.get_list
 
@@ -311,7 +311,7 @@ Example:
     
 [/code]
 
-> Avoid using this method as it will bypass validations and integrity checks. It's always better to use [frappe.get_doc](<https://frappeframework.com/docs/v14/user/en/api/document#frappeget_doc>), frappe.db.get_list, etc., if possible.
+> Avoid using this method as it will bypass validations and integrity checks. It's always better to use [frappe.get_doc](https://frappeframework.com/docs/v14/user/en/api/document), frappe.db.get_list, etc., if possible.
 
 ## frappe.db.multisql
 
@@ -483,7 +483,7 @@ Frappe's database abstractions implement a sane transaction model by default. So
 
 > Note: If you're catching exceptions anywhere, then database abstraction does not know that something has gone wrong hence you're responsible for the correct rollback of the transaction.
 
-[ Previous Page Document API ](</framework/user/en/api/document>) [ Next Page Jinja API  ](</framework/user/en/api/jinja>)
+[ Previous Page Document API ](document.md) [ Next Page Jinja API  ](jinja.md)
 
 Last updated 3 weeks ago 
 

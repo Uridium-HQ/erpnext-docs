@@ -1,12 +1,12 @@
 # Data Export
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rdj89ubme>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rdj89ubme)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Data Export
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rdj89ubme>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rdj89ubme)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -28,11 +28,11 @@ To access Data Export, go here.
 
 
 
-![](/files/image9dfe7c.png)
+![](../../assets/e8464fb000fb.png)
 
-After exporting data, you can use the same file to import data using [Data Import](</erpnext/data-import>).
+After exporting data, you can use the same file to import data using [Data Import](data-import.md).
 
-[ Previous Page Chart Of Accounts Importer  ](</erpnext/chart-of-accounts-importer>) [ Next Page Downloading Backups ](</erpnext/download-backup>)
+[ Previous Page Chart Of Accounts Importer  ](chart-of-accounts-importer.md) [ Next Page Downloading Backups ](download-backup.md)
 
 Last updated 1 week ago 
 

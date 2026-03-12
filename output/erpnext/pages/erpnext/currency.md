@@ -1,16 +1,16 @@
 # Currency
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rmnfsnqan>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rmnfsnqan)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Currency 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rmnfsnqan>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rmnfsnqan)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-In ERPNext, the Currency list stores the currency value, it's symbol and fraction unit. Most of the commonly used currencies are already present in ERPNext. The exchange rates are fetched automatically according to the current market rate. You can also configure the system to use older fixed exchange rates by creating them in the [Currency Exchange](</erpnext/currency-exchange>) form.
+In ERPNext, the Currency list stores the currency value, it's symbol and fraction unit. Most of the commonly used currencies are already present in ERPNext. The exchange rates are fetched automatically according to the current market rate. You can also configure the system to use older fixed exchange rates by creating them in the [Currency Exchange](currency-exchange.md) form.
 
 To access the Currency list, go to:
 
@@ -18,7 +18,7 @@ To access the Currency list, go to:
 
 For example, this is how the Currency page for Euro:
 
-![EUR currency](/files/eur_new.png)
+![EUR currency](https://docs.frappe.io/assets/79ee5384ea3b.png)
 
 ## Configurations
 
@@ -42,13 +42,13 @@ You can also hide all currency symbols from "Global Defaults".
 
 ## Related Topics
 
-  1. [Exchange Rate Revaluation](</erpnext/exchange-rate-revaluation>)
-  2. [Multi Currency Accounting](</erpnext/multi-currency-accounting>)
-  3. [Currency Exchange](</erpnext/currency-exchange>)
+  1. [Exchange Rate Revaluation](exchange-rate-revaluation.md)
+  2. [Multi Currency Accounting](multi-currency-accounting.md)
+  3. [Currency Exchange](currency-exchange.md)
 
 
 
-[ Previous Page Process Deferred Accounting  ](</erpnext/process-deferred-accounting>) [ Next Page Currency Exchange ](</erpnext/currency-exchange>)
+[ Previous Page Process Deferred Accounting  ](process-deferred-accounting.md) [ Next Page Currency Exchange ](currency-exchange.md)
 
 Last updated 2 weeks ago 
 

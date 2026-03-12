@@ -1,12 +1,12 @@
 # Utility Functions
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tmkln7njn>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tmkln7njn)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Utility Functions
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tmkln7njn>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tmkln7njn)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -507,7 +507,7 @@ Helpful when multiple documents are created and instead of showing long msg dial
     
 [/code]
 
-[ Previous Page Language Resolution  ](</framework/user/en/python-api/language>) [ Next Page Responses  ](</framework/user/en/python-api/response>)
+[ Previous Page Language Resolution  ](https://docs.frappe.io/framework/user/en/python-api/language) [ Next Page Responses  ](../python-api/response.md)
 
 Last updated 2 weeks ago 
 

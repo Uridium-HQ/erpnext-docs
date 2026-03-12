@@ -1,12 +1,12 @@
 # Translations
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/136plh0pp5>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/136plh0pp5)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Translations 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/136plh0pp5>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/136plh0pp5)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -30,9 +30,9 @@ For example:
 
 ### 2\. Translating the extracted strings
 
-Once we have a list of strings that we want to translate, they are put into CSV files based on the language. Translations are primarily contributed by various users of Frappe and ERPNext on the [translator portal](<https://translate.erpnext.com>).
+Once we have a list of strings that we want to translate, they are put into CSV files based on the language. Translations are primarily contributed by various users of Frappe and ERPNext on the [translator portal](https://translate.erpnext.com/).
 
-The submitted translations are verified and then converted into a [Pull Request](<https://github.com/frappe/frappe/pull/7805/files>) by a bot every week and merged into the core.
+The submitted translations are verified and then converted into a [Pull Request](https://github.com/frappe/frappe/pull/7805/files) by a bot every week and merged into the core.
 
 ### 3\. Translating strings in app
 
@@ -192,7 +192,7 @@ If you have to add space around your text, you can do it outside the translation
 
 ### 6\. Adding context for a string
 
-A translatable string can have different meaning in different context. For example, string "Change" can mean "to make or become different" or "Coins". So to tackle this issue `context` variable can be used to set the context for a string so that it can be translated differently in different language using [Translation Tool](<https://docs.erpnext.com/docs/user/manual/en/translations>).
+A translatable string can have different meaning in different context. For example, string "Change" can mean "to make or become different" or "Coins". So to tackle this issue `context` variable can be used to set the context for a string so that it can be translated differently in different language using [Translation Tool](https://docs.erpnext.com/docs/user/manual/en/translations).
 
 In JavaScript
 [code] 
@@ -222,7 +222,7 @@ To add a new language, follow these steps:
 
 #### Step 2: Translate
 
-Create another file with updated translations (in the same order as the source file). For this you can use the [Google Translator](<https://translate.google.com/>) or [Bing Translator](<http://www.bing.com/translator/>).
+Create another file with updated translations (in the same order as the source file). For this you can use the [Google Translator](https://translate.google.com/) or [Bing Translator](http://www.bing.com/translator/).
 
 #### Step 3: Import your translations
 [code] 
@@ -240,7 +240,7 @@ Add your language in `frappe/geo/languages.json`
 
 Commit your changes with the `.csv` files in each app and push them to their repositories.
 
-[ Previous Page Profiling and Monitoring ](</framework/v14/user/en/profiling>) [ Next Page Logging  ](</framework/v14/user/en/logging>)
+[ Previous Page Profiling and Monitoring ](profiling.md) [ Next Page Logging  ](logging.md)
 
 Last updated 2 months ago 
 

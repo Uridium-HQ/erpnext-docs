@@ -1,12 +1,12 @@
 # Opening Invoice Creation Tool
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rm6qgmilt>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rm6qgmilt)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Opening Invoice Creation Tool 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rm6qgmilt>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rm6qgmilt)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -27,7 +27,7 @@ To access the Opening Invoice Creation Tool, go to:
 
 
 
-![Opening Invoice Creation Tool](/files/opening-invoice-creation-tool.png)
+![Opening Invoice Creation Tool](https://docs.frappe.io/assets/8b1963c5adf4.png)
 
   4. Fill up the Invoices table. It consists of the following fields:
 
@@ -43,7 +43,7 @@ To access the Opening Invoice Creation Tool, go to:
 
 > **Tip** : You can click the download button to download an excel sheet that you can fill up easily with appropriate data. If you have downloaded the excel sheet, then use the Upload button to upload it. Once you upload the sheet, the table will be filled with appropriate data rows.
 
-[ Previous Page Fiscal Year  ](</erpnext/fiscal-year>) [ Next Page Opening Balance in Accounts  ](</erpnext/opening-balance>)
+[ Previous Page Fiscal Year  ](fiscal-year.md) [ Next Page Opening Balance in Accounts  ](opening-balance.md)
 
 Last updated 2 weeks ago 
 

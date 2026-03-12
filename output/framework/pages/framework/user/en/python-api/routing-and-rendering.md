@@ -1,24 +1,24 @@
 # Request Lifecycle
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tlb6ngcih>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tlb6ngcih)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Request Lifecycle 
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tlb6ngcih>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tlb6ngcih)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 The user of a web application can visit different URLs like `/about`, `/posts` or `/api/resources`. Each request is handled based on the following request types.
 
-  1. API requests that start with `/api` are handled by [rest API handler](<https://github.com/frappe/frappe/blob/develop/frappe/api.py#L16>).
+  1. API requests that start with `/api` are handled by [rest API handler](https://github.com/frappe/frappe/blob/develop/frappe/api.py).
   2. File downloads like backups (`/backups`), public files (`/files`), and private files (`/private/files`) are handled separately to respond with a downloadable file.
   3. Web page requests like `/about`, `/posts` are handled by the website router. This is explained further on this page.
 
 
 
-Learn more about [API requests](</framework/v14/user/en/api/rest>) and [Static Files](</framework/v14/user/en/basics/static-assets>) in detail.
+Learn more about [API requests](../../../v14/user/en/api/rest.md) and [Static Files](../../../v14/user/en/basics/static-assets.md) in detail.
 
 ## Request pre-processing
 
@@ -32,11 +32,11 @@ Path resolver does the following operations:
 
 ### Redirect Resolution
 
-Path resolver tries to resolve any possible redirect for an incoming request path. Path resolver gets redirect rules for [`website_redirects` hook](</framework/v14/user/en/python-api/hooks#website-redirects>) and route redirects from website settings.
+Path resolver tries to resolve any possible redirect for an incoming request path. Path resolver gets redirect rules for [`website_redirects` hook](../../../v14/user/en/python-api/hooks.md) and route redirects from website settings.
 
 ### Route Resolution
 
-If there are no redirects for incoming requests path resolver tries to resolve the route to get the final endpoint based on rules from [website_routing_rules hook](<https://frappeframework.com/docs/v14/user/en/python-api/hooks#website-route-rules>) and dynamic route set in documents of DocType with `has_web_view` enabled.
+If there are no redirects for incoming requests path resolver tries to resolve the route to get the final endpoint based on rules from [website_routing_rules hook](https://frappeframework.com/docs/v14/user/en/python-api/hooks) and dynamic route set in documents of DocType with `has_web_view` enabled.
 
 ### Renderer Selection
 
@@ -83,11 +83,11 @@ The DocumentPage tries to render a document template if it is available in `/tem
 
 ### ListPage
 
-If a DocType has a list template in `/templates` folder of the DocType, the ListPage will render it. Please check [Blog Post templates folder](<https://github.com/frappe/frappe/tree/develop/frappe/website/doctype/blog_post/templates>) for implementation reference.
+If a DocType has a list template in `/templates` folder of the DocType, the ListPage will render it. Please check [Blog Post templates folder](https://github.com/frappe/frappe/tree/develop/frappe/website/doctype/blog_post/templates) for implementation reference.
 
 ### PrintPage
 
-The PrintPage renders a print view for a document. It uses [standard print format](<https://github.com/frappe/frappe/blob/develop/frappe/templates/print_formats/standard.html>) unless a different print format is set for a DocType via `default_print_format`.
+The PrintPage renders a print view for a document. It uses [standard print format](https://github.com/frappe/frappe/blob/develop/frappe/templates/print_formats/standard.html) unless a different print format is set for a DocType via `default_print_format`.
 
 ### NotFoundPage
 
@@ -132,7 +132,7 @@ Path resolver calls `can_render` to check if a renderer instance can render a pa
 
 **Note:** You can also extend Standard Page Renderers to override or to use some standard functionalities.
 
-[ Previous Page Jinja API  ](</framework/user/en/api/jinja>) [ Next Page Language Resolution  ](</framework/user/en/python-api/language>)
+[ Previous Page Jinja API  ](../api/jinja.md) [ Next Page Language Resolution  ](https://docs.frappe.io/framework/user/en/python-api/language)
 
 Last updated 3 weeks ago 
 

@@ -1,12 +1,12 @@
 # Sales Partner
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ri3k1haph>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ri3k1haph)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Sales Partner 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ri3k1haph>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ri3k1haph)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -29,7 +29,7 @@ To access Sales Partner, go to:
 
 
 
-![](/files/Sales%20partner.png)
+![](../../assets/f8686ab4fd5b.png)
 
 ## Features
 
@@ -37,25 +37,25 @@ To access Sales Partner, go to:
 
 You can add and track a Sales Partner's Addresses and Contact details. These can be added in the Address & Contacts section in a Sales Partner:
 
-![](/files/Sales%20person%20address.png)
+![](../../assets/9ab57fdfe9a9.png)
 
 ### Sales Partner Target
 
 You can allocate Targets for each Item Group and Territory, based on Qty and Amount. You can allocate targets Territory- or Month-wise, to know more see _Related Topics_.
 
-![](/files/image5caafa.png)
+![](../../assets/00c297a11ad3.png)
 
 ### Including Sales Partners in Your Website
 
 To include the name of your Partner on your website, tick the "Show in Website" checkbox. When you click on "Show in Website", you will see a field where you can attach the logo of your partner's company and enter a brief introduction of the partner, and optionally add a description for internal purposes/references.
 
-![](/files/sales%20person%20website.png)
+![](../../assets/cedca28ea6a3.png)
 
 To see the listing of partners, go to:
 
 https://yourCompanyName.erpnext.com/partners
 
-![Sales Partner](/files/sales-partner-listing.png)
+![Sales Partner](https://docs.frappe.io/assets/98461f910edf.png)
 
 ### Track Sales via Sales Partner
 
@@ -65,7 +65,7 @@ URL as shown below should be sent to the sales partner to use in their website/c
 
 e.g. A URL having "sp" as parameter like this http://xyz.erpnext.com?sp=speed will capture the Sales Partner Information in the Sales Order generated via Shopping Cart.
 
-![](/files/image20b288.png)
+![](../../assets/3b5a9c7d258e.png)
 
 ## Sales Partner Reports
 
@@ -73,19 +73,19 @@ e.g. A URL having "sp" as parameter like this http://xyz.erpnext.com?sp=speed wi
 
 To get Sales Order wise Sales Partner commission data.
 
-![](/files/Report.png)
+![](../../assets/3a1766f8c3ec.png)
 
 ### Sales Partner Transaction Summary
 
 To get Sales Order item-wise Sales Partner commission data.
 
-![](/files/Sales%20partner%20transaction%20summary.png)
+![](../../assets/eccb0c78cbef.png)
 
 ### Sales Partner Target Variance
 
 This report will provide you variance between target and actual performance of the Sales Partner based on the Sales Order / Sales Invoice / Delivery Note data. User can view this report period wise like Monthly, Quarterly, Half-Yearly, or Yearly.
 
-![](/files/image113963.png)
+![](../../assets/72e008c0307e.png)
 
 ## Related Topics
 
@@ -94,7 +94,7 @@ This report will provide you variance between target and actual performance of t
 
 
 
-[ Previous Page Credit Limit  ](</erpnext/credit-limit>) [ Next Page Sales Return  ](</erpnext/sales-return>)
+[ Previous Page Credit Limit  ](credit-limit.md) [ Next Page Sales Return  ](sales-return.md)
 
 Last updated 2 weeks ago 
 

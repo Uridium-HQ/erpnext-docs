@@ -1,12 +1,12 @@
 # Item Variants
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ru5o2mhrk>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ru5o2mhrk)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Item Variants 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ru5o2mhrk>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ru5o2mhrk)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -33,8 +33,8 @@ Variants can be based on two things:
 
   1. To use Item Variants in ERPNext, create an Item and tick 'Has Variants' under Variants.
   2. The Item then shall be referred to as a so-called 'Template'. Such a Template is not identical to a regular 'Item' any longer. For example, it (the Template) cannot be used directly in any transaction (Sales Order, Delivery Note, Purchase Invoice) itself.
-  3. Only the Variants of the Item (blue t-shirt in size small) can be practically used. Therefore it would be ideal to decide whether an item 'Has Variants' or not directly when creating it. [Has Variants](</files/item-has-variants.png>)
-  4. On selecting 'Has Variants' a table will appear. Specify the variant attributes for the Item in the table. In case the attribute has Numeric Values, you can specify the range and create intervals based on the increment values. [Valid Attributes](</files/item-attributes.png>)
+  3. Only the Variants of the Item (blue t-shirt in size small) can be practically used. Therefore it would be ideal to decide whether an item 'Has Variants' or not directly when creating it. [Has Variants](https://docs.frappe.io/files/item-has-variants.png)
+  4. On selecting 'Has Variants' a table will appear. Specify the variant attributes for the Item in the table. In case the attribute has Numeric Values, you can specify the range and create intervals based on the increment values. [Valid Attributes](https://docs.frappe.io/files/item-attributes.png)
 
 
 
@@ -46,16 +46,16 @@ To create 'Item Variants' against a 'Template' click on 'Create'. From there, ch
 
 Creating multiple variants in ERPNext:
 
-![](/files/item-variants.png)
+![](../../../../../assets/5abf659a72dd.png)
 
-To learn more about setting attributes, check out [Item Attributes](</erpnext/item-attribute>)
+To learn more about setting attributes, check out [Item Attributes](../../../item-attribute.md)
 
 ### 1.3 Item Variants Based on Manufacturers
 
 To set up variants based on Manufacturers, in your Item template, set "Variants Based On" as "Manufacturers"  
 In this case, to create variants, click on Create > Make Variant. The system will prompt you to select a Manufacturer. You can also optionally put in a Manufacturer Part Number.
 
-![](/files/variant-manufacturer.png)
+![](../../../../../assets/917939bb157d.png)
 
 The naming of the variant will be based on the name (ID) of the template Item with a number suffix. e.g. "Screwdriver" will have variant "Screwdriver-1".
 
@@ -65,11 +65,11 @@ Go to: **Home > Stock > Items and Pricing > Item Variant Settings**. The fields 
 
 ### 3\. Related Topics
 
-  1. [Item Attribute](</erpnext/item-attribute>)
+  1. [Item Attribute](../../../item-attribute.md)
 
 
 
-[ Previous Page Serial and Batch ](</erpnext/serial-and-batch>) [ Next Page Item Attribute ](</erpnext/item-attribute>)
+[ Previous Page Serial and Batch ](../../../serial-and-batch.md) [ Next Page Item Attribute ](../../../item-attribute.md)
 
 Last updated 2 hours ago 
 

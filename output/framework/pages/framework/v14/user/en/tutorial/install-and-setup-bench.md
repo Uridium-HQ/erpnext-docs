@@ -1,12 +1,12 @@
 # Install and Setup Bench
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/125k6a8vaj>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/125k6a8vaj)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Install and Setup Bench 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/125k6a8vaj>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/125k6a8vaj)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,7 +14,7 @@ Bench is the command line tool to manage Frappe apps and sites.
 
 ##Installation
 
-If you haven't installed Bench, follow the [Installation](</framework/v14/user/en/installation>) guide. After installation, you should be able to run commands that start with `bench`.
+If you haven't installed Bench, follow the [Installation](../installation.md) guide. After installation, you should be able to run commands that start with `bench`.
 
 Run the following command to test your installation:
 [code] 
@@ -163,9 +163,9 @@ Make sure not to close the terminal where `bench start` is running. To run bench
 
 Good job on following the tutorial so far!
 
-Next: [Create an App](</framework/v14/user/en/tutorial/create-an-app>)
+Next: [Create an App](create-an-app.md)
 
-[ Previous Page Frappe Framework Tutorial  ](</framework/v14/user/en/tutorial>) [ Next Page Create an App ](</framework/v14/user/en/tutorial/create-an-app>)
+[ Previous Page Frappe Framework Tutorial  ](../tutorial.md) [ Next Page Create an App ](create-an-app.md)
 
 Last updated 2 months ago 
 

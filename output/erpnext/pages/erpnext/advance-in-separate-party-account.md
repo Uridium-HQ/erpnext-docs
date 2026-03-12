@@ -1,12 +1,12 @@
 # Advance In Separate Party Account
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sfe4tfqii>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sfe4tfqii)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Advance In Separate Party Account
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sfe4tfqii>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sfe4tfqii)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -49,7 +49,7 @@ Once a Sales Order or Purchase Order is submitted, you will find an option to cr
 
 * * *
 
-Allocation happens in the similar fashion on the Normal Advance Payments. Refer [Advance Allocation](<https://docs.erpnext.com/docs/user/manual/en/advance-payment-entry#2-2-allocating-advance-payment-in-invoice>)
+Allocation happens in the similar fashion on the Normal Advance Payments. Refer [Advance Allocation](https://docs.erpnext.com/docs/user/manual/en/advance-payment-entry)
 
 ### 
 
@@ -59,11 +59,11 @@ Currently, this type of Advance booking is only supported for Customer and Suppl
 
 ### Related
 
-  1. [Normal Advance Payment](<https://docs.erpnext.com/docs/user/manual/en/advance-payment-entry>)
+  1. [Normal Advance Payment](https://docs.erpnext.com/docs/user/manual/en/advance-payment-entry)
 
 
 
-[ Previous Page Common Party Accounting ](</erpnext/common_party_accounting>) [ Next Page Stock Transfer with GST ](</erpnext/stock-transfer-with-gst>)
+[ Previous Page Common Party Accounting ](common_party_accounting.md) [ Next Page Stock Transfer with GST ](https://docs.frappe.io/erpnext/stock-transfer-with-gst)
 
 Last updated 1 week ago 
 

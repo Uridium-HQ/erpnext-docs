@@ -1,12 +1,12 @@
 # Running Background Jobs
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12823nd1qd>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12823nd1qd)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Running Background Jobs 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12823nd1qd>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12823nd1qd)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -52,7 +52,7 @@ You will see logs in your terminal.
 
 Note: default worker does not auto restart, so you will have to kill bench and start again after you make changes.
 
-[ Previous Page How To Improve A Standard Control  ](</framework/v14/user/en/guides/app-development/how-to-improve-a-standard-control>) [ Next Page Adding Custom Button To Form  ](</framework/v14/user/en/guides/app-development/adding-custom-button-to-form>)
+[ Previous Page How To Improve A Standard Control  ](how-to-improve-a-standard-control.md) [ Next Page Adding Custom Button To Form  ](adding-custom-button-to-form.md)
 
 Last updated 2 months ago 
 

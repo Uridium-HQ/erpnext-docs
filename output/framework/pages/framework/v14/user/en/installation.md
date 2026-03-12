@@ -1,16 +1,16 @@
 # Installation
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/125oc13nr4>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/125oc13nr4)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Installation
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/125oc13nr4>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/125oc13nr4)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-> These steps assume you want to install Bench in developer mode. If you want install in production mode, follow the [latest recommended installation methods](<https://github.com/frappe/bench#installation>).
+> These steps assume you want to install Bench in developer mode. If you want install in production mode, follow the [latest recommended installation methods](https://github.com/frappe/bench).
 
 ## System Requirements
 
@@ -21,7 +21,7 @@ This guide assumes you are using a personal computer, VPS or a bare-metal server
 
 
 
-> Learn more about the architecture [here](</framework/v14/user/en/basics/architecture>).
+> Learn more about the architecture [here](basics/architecture.md).
 
 ## Pre-requisites
 [code] 
@@ -47,7 +47,7 @@ Install command line version of Xcode tools.
     
 [/code]
 
-Install [Homebrew](<https://brew.sh/>). It makes it easy to install packages on macOS.
+Install [Homebrew](https://brew.sh/). It makes it easy to install packages on macOS.
 [code] 
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
     
@@ -183,7 +183,7 @@ Now, just restart the mysql service and you are good to go.
 
 **Install Node**
 
-We recommend installing node using [nvm](<https://github.com/creationix/nvm>)
+We recommend installing node using [nvm](https://github.com/creationix/nvm)
 [code] 
     curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
     
@@ -256,7 +256,7 @@ After the frappe-bench folder is created, change your directory to it and run th
 
 Congratulations, you have installed bench on to your system.
 
-[ Previous Page Prerequisites  ](</framework/v14/user/en/prerequisites>) [ Next Page Frappe Framework Tutorial  ](</framework/v14/user/en/tutorial>)
+[ Previous Page Prerequisites  ](prerequisites.md) [ Next Page Frappe Framework Tutorial  ](tutorial.md)
 
 Last updated 2 months ago 
 

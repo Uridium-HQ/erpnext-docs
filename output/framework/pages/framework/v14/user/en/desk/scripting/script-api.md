@@ -1,12 +1,12 @@
 # Script API
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12o2j2f4h9>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12o2j2f4h9)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Script API 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12o2j2f4h9>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12o2j2f4h9)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -298,13 +298,13 @@ Example: `frappe.make_put_request('https://example.com', headers={'Auth': 'Beare
 
 #### frappe.sendmail
 
-Send an email. [See docs](<https://frappeframework.com/docs/v14/user/en/api/utils#frappesendmail>)
+Send an email. [See docs](https://frappeframework.com/docs/v14/user/en/api/utils)
 
 Example: `frappe.sendmail(recipients=['test@example.com'], sender='sender@example.com', subject='My Subject', message='Hello
 
 ')`
 
-[ Previous Page Server Script ](</framework/v14/user/en/desk/scripting/server-script>) [ Next Page Discussions ](</framework/v14/user/en/discussions>)
+[ Previous Page Server Script ](server-script.md) [ Next Page Discussions ](../../discussions.md)
 
 Last updated 2 months ago 
 

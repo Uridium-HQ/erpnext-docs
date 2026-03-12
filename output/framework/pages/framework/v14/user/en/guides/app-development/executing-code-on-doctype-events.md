@@ -1,12 +1,12 @@
 # Executing Code On Doctype Events
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12889ds734>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12889ds734)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Executing Code On Doctype Events 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12889ds734>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12889ds734)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -40,7 +40,7 @@ In this module, you can add standard methods to the class that are called when a
 
 
 
-[ Previous Page Custom Action in Link Field ](</framework/v14/user/en/guides/app-development/custom_action_link_field>) [ Next Page How To Improve A Standard Control  ](</framework/v14/user/en/guides/app-development/how-to-improve-a-standard-control>)
+[ Previous Page Custom Action in Link Field ](custom_action_link_field.md) [ Next Page How To Improve A Standard Control  ](how-to-improve-a-standard-control.md)
 
 Last updated 2 months ago 
 

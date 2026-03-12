@@ -1,12 +1,12 @@
 # Manufacturing Settings
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rvs2mk97q>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rvs2mk97q)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Manufacturing Settings
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rvs2mk97q>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rvs2mk97q)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -16,7 +16,7 @@ Manufacturing settings in ERPNext configure production workflows, manage bill of
 
 ## **Raw Materials Consumption**
 
-![Screenshot 2024-08-29 at 3.28.09 PM](/files/Screenshot%202024-08-29%20at%203.28.09%20PM.png)
+![Screenshot 2024-08-29 at 3.28.09 PM](https://docs.frappe.io/assets/5a8b7798d74e.png)
 
 ### 1\. Allow Continuous Material Consumption
 
@@ -32,21 +32,21 @@ The method selected here will be chosen for backflushing raw materials : 1. Mate
 
 Note: This feature will be available from the version V15
 
-![](/files/validate_component_and_qty_as_per_bom.png)
+![](../../../../../assets/702f3d7440fb.png)
 
 If "Backflush Raw Materials Based On" as BOM, then users can validate component quantity according to BOM. To do that they have to enable "Validate Components Quantities Per BOM" checkbox in the "Manufacturing Settings".
 
 If user has changed the quantity in the "Material Transfer for Manufacture" or "Manufacture" stock entry, then system will throw the below error
 
-![component-qty-validation](/files/component-qty-validation.png)
+![component-qty-validation](https://docs.frappe.io/assets/bec92d47f2a0.png)
 
 If user has removed the item in the "Material Transfer for Manufacture" or "Manufacture" stock entry, then system will throw the below error
 
-![](/files/Screenshot%202025-01-02%20at%2012.54.40%20PM.png)
+![](../../../../../assets/41d7a4761bcd.png)
 
 ### 4\. Get Raw Materials Cost from Consumption Entry
 
-![](/files/Screenshot%202025-01-02%20at%201.28.32%20PM.png)
+![](../../../../../assets/dfa99c428cbc.png)
 
 If the 'Allow Continuous Material Consumption' is enabled then user can see the option 'Get Raw Materials Cost from Consumption Entry'.
 
@@ -56,7 +56,7 @@ The 'Get Raw Materials Cost from Consumption Entry', determines whether the cost
 
 Capacity planning is the process in which an organisation decides whether or not to accept the new orders based on the resources and existing work orders.
 
-![Screenshot 2024-08-29 at 3.30.52 PM](/files/Screenshot%202024-08-29%20at%203.30.52%20PM.png)
+![Screenshot 2024-08-29 at 3.30.52 PM](https://docs.frappe.io/assets/029c8f4948f6.png)
 
 ### 1\. Disable Capacity Planning
 
@@ -80,7 +80,7 @@ This specifies the time span that should be kept between two operations in minut
 
 ## Default Warehouses for Production
 
-![Screenshot 2024-08-29 at 3.32.55 PM](/files/Screenshot%202024-08-29%20at%203.32.55%20PM.png)
+![Screenshot 2024-08-29 at 3.32.55 PM](https://docs.frappe.io/assets/cc2ebc76f247.png)
 
 ### 1\. Default Work In Progress Warehouse
 
@@ -96,7 +96,7 @@ This Warehouse will be auto-updated in the 'Scrap Warehouse' field of Work Order
 
 ## Over Production for Sales and Work Order
 
-![Screenshot 2024-08-29 at 3.36.10 PM](/files/Screenshot%202024-08-29%20at%203.36.10%20PM.png)
+![Screenshot 2024-08-29 at 3.36.10 PM](https://docs.frappe.io/assets/a51e231088ef.png)
 
 ### 1\. Overproduction Percentage For Sales Order
 
@@ -108,7 +108,7 @@ It defines the allowable percentage by which the actual production quantity can 
 
 ## Job Card
 
-![Screenshot 2024-08-29 at 3.38.32 PM](/files/Screenshot%202024-08-29%20at%203.38.32%20PM.png)
+![Screenshot 2024-08-29 at 3.38.32 PM](https://docs.frappe.io/assets/b27f38deafe4.png)
 
 ### 1\. Add Corrective Operation Cost in Finished Good Valuation
 
@@ -122,7 +122,7 @@ This is particularly useful in cases where the transferred raw materials are dam
 
 ## Other Settings
 
-![Screenshot 2024-08-29 at 3.39.41 PM](/files/Screenshot%202024-08-29%20at%203.39.41%20PM.png)
+![Screenshot 2024-08-29 at 3.39.41 PM](https://docs.frappe.io/assets/2d4365cea00c.png)
 
 ### 1\. Update BOM Cost Automatically
 
@@ -140,9 +140,9 @@ If checked, system will automatically create the serial numbers / batches for fi
 
 If enabled, the system will allow users to edit the raw materials and their quantities in the Work Order. The system will not reset the quantities as per the BOM, if the user has changed them in the work order materials table.
 
-![Screenshot 2025 11 07 at 3.25.52 PM](/files/Screenshot%202025-11-07%20at%203.25.52%20PM.png)
+![Screenshot 2025 11 07 at 3.25.52 PM](https://docs.frappe.io/assets/029bd770149f.png)
 
-[ Previous Page Production Scrap Management  ](</erpnext/scrap-management>) [ Next Page Introduction ](</erpnext/quality-management>)
+[ Previous Page Production Scrap Management  ](../../../scrap-management.md) [ Next Page Introduction ](https://docs.frappe.io/erpnext/quality-management)
 
 Last updated 2 weeks ago 
 

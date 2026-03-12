@@ -1,12 +1,12 @@
 # Frappe Ajax Call
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tpb14cfta>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tpb14cfta)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Frappe Ajax Call 
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tpb14cfta>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tpb14cfta)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -111,7 +111,7 @@ In Frappe Framework, you can manage ajax calls via frappe.call. The frappe.call 
 
 > **Note** : any server side method that should be accessed via `frappe.call()` needs to be whitelisted, by using the decorator `@frappe.whitelist()`.
 
-[ Previous Page Frappe Apps ](</framework/user/en/guides/basics/apps>) [ Next Page How to Enable Backup Encryption  ](</framework/user/en/guides/basics/how-to-enable-backup-encryption>)
+[ Previous Page Frappe Apps ](apps.md) [ Next Page How to Enable Backup Encryption  ](https://docs.frappe.io/framework/user/en/guides/basics/how-to-enable-backup-encryption)
 
 Last updated 3 weeks ago 
 

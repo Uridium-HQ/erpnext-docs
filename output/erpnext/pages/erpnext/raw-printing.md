@@ -1,12 +1,12 @@
 # Raw Printing
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rb7eetjbt>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rb7eetjbt)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Raw Printing 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rb7eetjbt>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rb7eetjbt)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,13 +20,13 @@ Many thermal printers need these raw commands sent to them in order to perform f
 
 ### 1.1 Installing QZ Tray application on the client computer
 
-Download and install the QZ Tray application on the computer to which your thermal printer is connected. This application can be found at its [official site](<https://qz.io/download/>). Currently, Windows, macOS, and Linux are supported by QZ Tray. During the installation you will be prompted to install Java if not already installed, please install Java to complete the installation.
+Download and install the QZ Tray application on the computer to which your thermal printer is connected. This application can be found at its [official site](https://qz.io/download/). Currently, Windows, macOS, and Linux are supported by QZ Tray. During the installation you will be prompted to install Java if not already installed, please install Java to complete the installation.
 
-Further instructions on installing the QZ Tray Application can be [here](<https://qz.io/wiki/using-qz-tray>).
+Further instructions on installing the QZ Tray Application can be [here](https://qz.io/wiki/using-qz-tray).
 
 ### 1.2 Create Raw Commands Print Format
 
-To be able to send raw commands to a printer you need to first create a print format in raw commands. Jinja Templating Language is used in raw commands just like in the [HTML custom print format](</erpnext/print-format>).
+To be able to send raw commands to a printer you need to first create a print format in raw commands. Jinja Templating Language is used in raw commands just like in the [HTML custom print format](print-format.md).
 
 To create a new print format for Raw Printing:
 
@@ -39,7 +39,7 @@ To create a new print format for Raw Printing:
 
 
 
-![Raw Commands Print Format](/files/raw-command-print-format.png)
+![Raw Commands Print Format](https://docs.frappe.io/assets/0303c547da84.png)
 
 Currently, any string-based printer languages can be used in the `Raw Commands` field in the print format. Writing raw commands requires knowledge of the printer's native language provided by the printer manufacturer. Please refer to the developer manual provided by the printer manufacturer on how to write their native commands.
 
@@ -66,24 +66,24 @@ To print a raw command print format from the Document print view:
   3. Please allow the connection prompt from the QZ Tray for the actions that you initiated (Keyboard Shortcut: Alt + A).
 
 
-  * ![QZ Tray Prompt](/files/qz-tray-prompt.png)
+  * ![QZ Tray Prompt](https://docs.frappe.io/assets/c9b0278a7b66.png)
 
 
   4. You may be asked to select the "print format - printer mapping".
 
 
   * This mapping is used to send the print commands to the appropriate printer.
-  * The printer needs to be installed on your computer to be able to map it to a print format. ![print format - printer mapping](/files/printer-settings.png)
+  * The printer needs to be installed on your computer to be able to map it to a print format. ![print format - printer mapping](https://docs.frappe.io/assets/906f6e6842f7.png)
   * This mapping is stored locally on the same computer and will have to be set on each client machine.
   * You can also edit this by clicking on the **Printer Settings** button.
 
 
 
-![Raw Printing from Print View](/files/raw-printing-from-print-view.gif)
+![Raw Printing from Print View](https://docs.frappe.io/assets/1758f8e6c242.gif)
 
 ### 2.2 Calling Raw Print functions from a client script
 
-It is often a requirement that a print command has to be issued on a certain event (like submit, save, amend, etc.). It is possible to write a [client script](</erpnext/client-scripts>) to do this for you.
+It is often a requirement that a print command has to be issued on a certain event (like submit, save, amend, etc.). It is possible to write a [client script](https://docs.frappe.io/erpnext/client-scripts) to do this for you.
 
 Following are the relevant Raw Print functions:
 
@@ -140,17 +140,17 @@ Usage example:
 
 
 
-You can also directly access the functions provided by the `qz-tray.js` library via the `qz` object. [Click here for qz-tray.js library documentation](<https://qz.io/api/>). Note: The `qz` object is initialized only after calling the `frappe.ui.form.qz_connect` for the first time. In case you require the `qz` object before that you can use the `frappe.ui.form.qz_init`.
+You can also directly access the functions provided by the `qz-tray.js` library via the `qz` object. [Click here for qz-tray.js library documentation](https://qz.io/api/). Note: The `qz` object is initialized only after calling the `frappe.ui.form.qz_connect` for the first time. In case you require the `qz` object before that you can use the `frappe.ui.form.qz_init`.
 
 ### 3\. Related Topics
 
-  1. [Print Settings](</erpnext/print-settings>)
-  2. [Print Format](</erpnext/print-format>)
-  3. [Print Style](</erpnext/print-style>)
+  1. [Print Settings](print-settings.md)
+  2. [Print Format](print-format.md)
+  3. [Print Style](print-style.md)
 
 
 
-[ Previous Page Cheque Print Template ](</erpnext/cheque-print-template>) [ Next Page Customize Print Format ](</erpnext/records-print-format>)
+[ Previous Page Cheque Print Template ](cheque-print-template.md) [ Next Page Customize Print Format ](https://docs.frappe.io/erpnext/records-print-format)
 
 Last updated 1 week ago 
 

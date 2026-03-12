@@ -1,12 +1,12 @@
 # Setting up LDAP
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12u83pkh6p>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12u83pkh6p)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Setting up LDAP 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12u83pkh6p>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12u83pkh6p)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -74,7 +74,7 @@ This section is the searh paths for each of the LDAP Directory objects. Any LDAP
 
 
 
-You can use complex LDAP search filters here as long as they contain the login name placeholder `{0}` and are enclosed in braces `()`. This is placed inside the search filter where you would like to match the login name. Any filter the [ldap3 python module](<https://ldap3.readthedocs.io/en/latest/searches.html#the-ldap-filter>) and that your LDAP directory supports should work. examples include:
+You can use complex LDAP search filters here as long as they contain the login name placeholder `{0}` and are enclosed in braces `()`. This is placed inside the search filter where you would like to match the login name. Any filter the [ldap3 python module](https://ldap3.readthedocs.io/en/latest/searches.html) and that your LDAP directory supports should work. examples include:
 
 `(uid={0})`
 
@@ -191,13 +191,13 @@ No | LDAP Group | Role
 
 After setting up and enabling LDAP, on the login screen, the system enables **Login Via LDAP** option.
 
-![Log into frappe](/files/login_via_ldap.png) _Figure 1. Frappe app login screen when LDAP has been configured and enabled._
+![Log into frappe](https://docs.frappe.io/assets/5c511d4a15e5.png) _Figure 1. Frappe app login screen when LDAP has been configured and enabled._
 
 ## 3\. Troubleshooting
 
 > ToDo: is this section needed?
 
-[ Previous Page Google Drive  ](</framework/v14/user/en/integration/google_drive>) [ Next Page Video Tutorials for Frappe Framework  ](</framework/v14/user/en/videos>)
+[ Previous Page Google Drive  ](google_drive.md) [ Next Page Video Tutorials for Frappe Framework  ](../videos.md)
 
 Last updated 2 months ago 
 

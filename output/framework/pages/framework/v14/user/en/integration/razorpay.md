@@ -1,12 +1,12 @@
 # RazorPay
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12ubagq0fd>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12ubagq0fd)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # RazorPay 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12ubagq0fd>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12ubagq0fd)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -92,9 +92,9 @@ A successful creation of the Order returns the `order_id` that is stored against
 
 Once the API method is called, The transaction details are saved in integration request. If successful the `authorize_payment` controller is called, which checks the payment status from razorpay API using the Payment ID. Once authorized, the integration request is marked as Completed, following this the payment success hook of the reference_doctype is called.
 
-You can read more about Razorpay custom checkout in their [documentation](<https://razorpay.com/docs/payment-gateway/web-integration/custom/>)
+You can read more about Razorpay custom checkout in their [documentation](https://razorpay.com/docs/payment-gateway/web-integration/custom/)
 
-[ Previous Page Query Builder  ](</framework/v14/user/en/api/query-builder>) [ Next Page Google Drive  ](</framework/v14/user/en/integration/google_drive>)
+[ Previous Page Query Builder  ](../api/query-builder.md) [ Next Page Google Drive  ](google_drive.md)
 
 Last updated 2 months ago 
 

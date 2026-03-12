@@ -1,18 +1,18 @@
 # Form Tours
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12sknde9jj>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12sknde9jj)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Form Tours 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12sknde9jj>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12sknde9jj)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 Frappe provides an easy way to generate form tutorials for your complex doctype with very little configuration.
 
-![Form Tour](/files/form-tour-display.png)
+![Form Tour](https://docs.frappe.io/assets/084a398abd53.png)
 
 ## Creating a Form Tour
 
@@ -25,7 +25,7 @@ To create a Form Tour, type "new form tour" in awesomebar and hit enter.
 
 
 
-![Custom Field Form Tour](/files/custom-field-form-tour.png) _A Tour to explain creation of Custom Fields_
+![Custom Field Form Tour](https://docs.frappe.io/assets/ea36ca6af085.png) _A Tour to explain creation of Custom Fields_
 
 ## Configuration Options
 
@@ -67,7 +67,7 @@ Once you are done describing the Form & its fields, you are now ready to trigger
     
 [/code]
 
-[ Previous Page Logging ](</framework/v14/user/en/api/logging>) [ Next Page Realtime (socket.io) ](</framework/v14/user/en/api/realtime>)
+[ Previous Page Logging ](api/logging.md) [ Next Page Realtime (socket.io) ](api/realtime.md)
 
 Last updated 2 months ago 
 

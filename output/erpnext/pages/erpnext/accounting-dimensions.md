@@ -1,12 +1,12 @@
 # Accounting Dimensions
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rnun7fv8a>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rnun7fv8a)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Accounting Dimensions 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rnun7fv8a>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rnun7fv8a)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -32,7 +32,7 @@ To access the Accounting Dimension list, go to:
 
 
 
-![Creating Accounting Dimension](/files/accounting-dimension.png)
+![Creating Accounting Dimension](https://docs.frappe.io/assets/1e1c137f66b4.png)
 
 ## 2\. Features
 
@@ -42,13 +42,13 @@ As you create the dimension, custom fields will be created using a background jo
 
 To tag a transaction with a dimension you can select the specific dimension in Accounting Dimensions section as shown in the screenshot below.
 
-![Accounting Dimension in Sales Invoice](/files/accounting-dimension-in-invoice.png)
+![Accounting Dimension in Sales Invoice](https://docs.frappe.io/assets/2592b61c9863.png)
 
 ### 2.2 Filtering Reports based on dimensions
 
 You can also filter various financial reports like Profit and Loss Statement, Balance Sheet, General Ledger based on these dimensions.
 
-![Accounting Dimension in Reports](/files/report-dimensions.png)
+![Accounting Dimension in Reports](https://docs.frappe.io/assets/ae9bc4139861.png)
 
 ### 2.3 Making accounting dimensions mandatory for "Profit and Loss" and "Balance Sheet" Accounts
 
@@ -58,23 +58,23 @@ The Balance Sheet accounts are Application of Funds (Assets) and Sources of Fund
 
 By selecting the check boxes 'Mandatory for Profit and Loss Account' or 'Mandatory for Balance Sheet' you can configure your dimensions to be mandatory for 'Profit and Loss' and 'Balance Sheet Accounts'.
 
-![Accounting Dimension Mandatory in Transaction](/files/dimension-mandatory.png)
+![Accounting Dimension Mandatory in Transaction](https://docs.frappe.io/assets/292680633c45.png)
 
 ### 2.4 Disabling accounting dimensions when no longer required
 
 You can also disable the dimensions if you don't require them anymore. The old transactions having accounting dimensions will remain intact.
 
-![Disable Accounting Dimension](/files/dimension-disable.png)
+![Disable Accounting Dimension](https://docs.frappe.io/assets/674abd812862.png)
 
 ### Related Topics
 
-  1. [Cost Center](</erpnext/cost-center>)
-  2. [Budgeting](</erpnext/budget>)
-  3. [Accounting Reports](</erpnext/accounting-reports>)
+  1. [Cost Center](cost-center.md)
+  2. [Budgeting](budget.md)
+  3. [Accounting Reports](accounting-reports.md)
 
 
 
-[ Previous Page Cost Center Allocation ](</erpnext/cost_center_allocation>) [ Next Page Shareholder Management ](</erpnext/shareholder-management>)
+[ Previous Page Cost Center Allocation ](cost_center_allocation.md) [ Next Page Shareholder Management ](shareholder-management.md)
 
 Last updated 2 weeks ago 
 

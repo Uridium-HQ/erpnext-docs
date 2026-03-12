@@ -1,12 +1,12 @@
 # Maintenance Schedule
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s5strvlfm>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s5strvlfm)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Maintenance Schedule 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s5strvlfm>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s5strvlfm)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,12 +20,12 @@ To create a new Maintenance Schedule go to:
 
 A Maintenance Schedule is usually created from a Sales Order of type 'Maintenance'.
 
-![SO Maintenance Schedule](/files/so-maintenance-schedule.png)
+![SO Maintenance Schedule](https://docs.frappe.io/assets/ab93610612b0.png)
 
 ## 1\. Prerequisites
 
-  * [Customer](</erpnext/customer>)
-  * [Item](</erpnext/item>)
+  * [Customer](customer.md)
+  * [Item](item.md)
 
 
 
@@ -43,7 +43,7 @@ A Maintenance Schedule is usually created from a Sales Order of type 'Maintenanc
 
 
 
-![Maintenance Schedule](/files/maintenance-schedule-1.png)
+![Maintenance Schedule](https://docs.frappe.io/assets/69807d8fe15e.png)
 
 The **Generate Schedule** button will generate a separate row for each maintenance activity. Each Item in a Maintenance Schedule is allocated to a Sales Person.
 
@@ -51,14 +51,14 @@ When the document is Submitted Calendar events are created for the Sales Person 
 
 ## 3\. Related Topics
 
-  1. [Serial Number](</erpnext/serial-no>)
-  2. [Warranty Claim](</erpnext/warranty-claim>)
-  3. [Maintenance Visit](</erpnext/maintenance-visit>)
-  4. [Sales Order](</erpnext/sales-order>)
+  1. [Serial Number](serial-no.md)
+  2. [Warranty Claim](https://docs.frappe.io/erpnext/warranty-claim)
+  3. [Maintenance Visit](https://docs.frappe.io/erpnext/maintenance-visit)
+  4. [Sales Order](sales-order.md)
 
 
 
-[ Previous Page Maintenance Visit ](</erpnext/maintenance-visit>) [ Next Page Automating Issue Assignments in ERPNext ](</erpnext/automating-issue-assignments-to-support-team-in-erpnext>)
+[ Previous Page Maintenance Visit ](https://docs.frappe.io/erpnext/maintenance-visit) [ Next Page Automating Issue Assignments in ERPNext ](automating-issue-assignments-to-support-team-in-erpnext.md)
 
 Last updated 2 weeks ago 
 

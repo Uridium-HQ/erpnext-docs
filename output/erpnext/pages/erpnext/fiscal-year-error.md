@@ -1,12 +1,12 @@
 # Fixing Fiscal Year Error
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0skkor8308>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0skkor8308)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Fixing Fiscal Year Error
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0skkor8308>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0skkor8308)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -22,25 +22,25 @@ Only User with System Manager's Role Assigned has permission to create new Fisca
 
 `Accounting > Accounting Masters > Fiscal Year`
 
-Read [Fiscal Year](</erpnext/fiscal-year>) to learn more.
+Read [Fiscal Year](fiscal-year.md) to learn more.
 
 #### Set Fiscal Year as Default
 
 After Fiscal Year is saved, you will find option to set that Fiscal year as Default.
 
-![Set Fiscal Year as Default](/files/set-fiscal-year-as-default.png)
+![Set Fiscal Year as Default](https://docs.frappe.io/assets/6a9f21400ab1.png)
 
 Default Fiscal Year will be updated in the Global Default setting as well. You can manually update Default Fiscal Year from:
 
 `Settings > Core > Global Default`
 
-![Current Fiscal Year Setting in Global Defaults](/files/current-fiscal-year-in-global-defaults.png)
+![Current Fiscal Year Setting in Global Defaults](https://docs.frappe.io/assets/b17ec02728b2.png)
 
 Save Global Default, and Reload your ERPNext account. Then, default Fiscal Year will be auto-updated in your transactions.
 
 Note: In transactions, you can manually select required Fiscal Year, from More Info section.
 
-[ Previous Page Purchase Invoice - Account Type Error  ](</erpnext/purchase-invoice-account-type-error>) [ Next Page Round off Account Validation Message ](</erpnext/round-off-account-validation>)
+[ Previous Page Purchase Invoice - Account Type Error  ](purchase-invoice-account-type-error.md) [ Next Page Round off Account Validation Message ](round-off-account-validation.md)
 
 Last updated 1 week ago 
 

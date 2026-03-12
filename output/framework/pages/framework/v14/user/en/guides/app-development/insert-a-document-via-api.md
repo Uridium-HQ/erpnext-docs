@@ -1,12 +1,12 @@
 # Insert A Document Via Api
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/1298i9k0oq>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/1298i9k0oq)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Insert A Document Via Api 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/1298i9k0oq>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/1298i9k0oq)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -42,7 +42,7 @@ class MyType(Document): def on_update(self): todo = frappe.get_doc({"doctype":"T
 
 sales_order = frappe.get_doc({ "doctype": "Sales Order", "company": "_Test Company", "customer": "_Test Customer", "delivery_date": "2013-02-23", "sales_order_details": [ { "item_code": "_Test Item Home Desktop 100", "qty": 10.0, "rate": 100.0, "warehouse": "_Test Warehouse - _TC" } ] }) sales_order.insert()
 
-[ Previous Page Custom Module Icon  ](</framework/v14/user/en/guides/app-development/custom-module-icon>) [ Next Page How To Create Custom Fields During App Installation  ](</framework/v14/user/en/guides/app-development/how-to-create-custom-fields-during-app-installation>)
+[ Previous Page Custom Module Icon  ](custom-module-icon.md) [ Next Page How To Create Custom Fields During App Installation  ](how-to-create-custom-fields-during-app-installation.md)
 
 Last updated 2 months ago 
 

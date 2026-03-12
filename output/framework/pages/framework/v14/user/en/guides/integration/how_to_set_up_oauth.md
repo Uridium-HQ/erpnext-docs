@@ -1,16 +1,16 @@
 # How to setup OAuth 2?
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12fll6h301>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12fll6h301)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # How to setup OAuth 2? 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12fll6h301>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12fll6h301)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-[OAuth 2.0](<https://tools.ietf.org/html/rfc6749>) provider based on [oauthlib](<https://github.com/oauthlib/oauthlib>) is built into frappe. Third party apps can now access resources of users based on Frappe Role and User permission system. To setup an app to access
+[OAuth 2.0](https://tools.ietf.org/html/rfc6749) provider based on [oauthlib](https://github.com/oauthlib/oauthlib) is built into frappe. Third party apps can now access resources of users based on Frappe Role and User permission system. To setup an app to access
 
 ## OAuth 2 defines four roles
 
@@ -38,7 +38,7 @@ Go to
 
 > Setup > Integrations > OAuth Provider Settings
 
-![](/files/oauth_provider_settings.png)
+![](../../../../../../../assets/e1aea36dcf3e.png)
 
 ### Add Primary Server
 
@@ -52,7 +52,7 @@ As a System Manager go to
 
 > Setup > Integrations > OAuth Client
 
-![](/files/oauth2_client_app.png)
+![](../../../../../../../assets/afb5c013103e.png)
 
 To add a client fill in the following details
 
@@ -70,7 +70,7 @@ To add a client fill in the following details
 
 Please refer to the API documentation to learn how to use OAuth 2 in you application.
 
-[ Previous Page Google Calendar Integration  ](</framework/v14/user/en/guides/integration/google_calendar>) [ Next Page Token based authentication  ](</framework/v14/user/en/guides/integration/how_to_set_up_token_based_auth>)
+[ Previous Page Google Calendar Integration  ](google_calendar.md) [ Next Page Token based authentication  ](how_to_set_up_token_based_auth.md)
 
 Last updated 2 months ago 
 

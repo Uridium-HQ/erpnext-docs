@@ -1,12 +1,12 @@
 # How to Enable Backup Encryption
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/127hu0jhkp>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/127hu0jhkp)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # How to Enable Backup Encryption 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/127hu0jhkp>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/127hu0jhkp)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,7 +14,7 @@ Files created during the backup process can be encrypted using an **Auto-generat
 
 ## System Requirements
 
-For MacOS, ensure that [gnupg](<https://formulae.brew.sh/formula/gnupg>) is installed in the system. Use the following command to install gnupg:
+For MacOS, ensure that [gnupg](https://formulae.brew.sh/formula/gnupg) is installed in the system. Use the following command to install gnupg:
 [code] 
     brew install gnupg
     
@@ -31,7 +31,7 @@ Most Linux distributions already have GnuPG installed, and the current version w
 
 
 
-![Encrypt Backup option\(Enabled\)](/files/encrypt-backup.png)
+![Encrypt Backup option\(Enabled\)](https://docs.frappe.io/assets/e0822295b9ce.png)
 
 The system uses an auto-generated key supplied by the **Site config**. If no such key is found, **a new key is generated**. Any Administrator can later look it from the `https://{site}/app/backups` page.
 
@@ -48,7 +48,7 @@ It encrypts the public and private files as well as the partial backup files.
 
 
 
-![Encrypt Backup option\(Enabled\)](/files/backup-page.png)
+![Encrypt Backup option\(Enabled\)](https://docs.frappe.io/files/backup-page.png)
 
 ## Backup Encryption Key
 
@@ -59,7 +59,7 @@ It encrypts the public and private files as well as the partial backup files.
 
 
 
-![Encrypt Backup option\(Enabled\)](/files/backup-encryption-key.png)
+![Encrypt Backup option\(Enabled\)](https://docs.frappe.io/assets/5bf2c857809f.png)
 
 Copy the key to restore the encrypted backup files.
 
@@ -89,7 +89,7 @@ Copy the key to restore the encrypted backup files.
     
 [/code]
 
-[ Previous Page Frappe Ajax Call  ](</framework/v14/user/en/guides/basics/frappe_ajax_call>) [ Next Page Sites  ](</framework/v14/user/en/guides/basics/sites>)
+[ Previous Page Frappe Ajax Call  ](frappe_ajax_call.md) [ Next Page Sites  ](sites.md)
 
 Last updated 2 months ago 
 

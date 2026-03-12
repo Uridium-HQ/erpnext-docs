@@ -1,12 +1,12 @@
 # Types of DocType
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/126in75ab9>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/126in75ab9)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Types of DocType 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/126in75ab9>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/126in75ab9)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -26,7 +26,7 @@ Let's create another doctype: **Library Membership**. It will have the following
 
 It will have **Is Submittable** enabled. It will have Naming set as **LMS.#####** and restricted to **Librarian** role. Also, the Title Field should be set to `full_name` in the View Settings section.
 
-![Library Membership DocType](/files/library-membership-doctype.gif)
+![Library Membership DocType](https://docs.frappe.io/assets/991db5337678.gif)
 
 The Link field **Library Member** is similar to a Foreign Key column in other frameworks. It will let you link the value to a record in another DocType. In this case, it links to a record of Library Member DocType.
 
@@ -74,7 +74,7 @@ We wrote our logic in the `before_submit` method which will run before we submit
 
 Now, try creating a Library Membership with an overlapping period and you should see an error when you submit the document.
 
-![Library Membership Validation](/files/library-membership-validation.png)
+![Library Membership Validation](https://docs.frappe.io/assets/2a901e3a04a4.png)
 
 ## Library Transaction
 
@@ -91,7 +91,7 @@ This doctype will be called **Library Transaction** and will have the following 
 
 This doctype will also be a Submittable doctype.
 
-![Library Transaction Doctype](/files/library-transaction-doctype.gif)
+![Library Transaction Doctype](https://docs.frappe.io/assets/2ab90ee8dec1.gif)
 
 ### Validation for Transaction
 
@@ -162,7 +162,7 @@ Let's create the last doctype for our app: **Library Settings**. It will have th
 
 Since we don't need to have multiple records for these settings, we will enable **Is Single** for this doctype.
 
-![Library Settings Doctype](/files/library-settings-doctype.gif)
+![Library Settings Doctype](https://docs.frappe.io/assets/5190cd560b44.gif)
 
 After creating the doctype, click on **Go to Library Settings** , to go to the form and set the values for **Loan Period** and **Maximum Number of Issued Articles**.
 
@@ -274,9 +274,9 @@ With that, we have covered the basics of doctype creation and types of doctype. 
 
 Good job making it this far. Let's keep going.
 
-Next: [Form Scripts](</framework/v14/user/en/tutorial/form-scripts>)
+Next: [Form Scripts](form-scripts.md)
 
-[ Previous Page Controller Methods  ](</framework/v14/user/en/tutorial/controller-methods>) [ Next Page Form Scripts  ](</framework/v14/user/en/tutorial/form-scripts>)
+[ Previous Page Controller Methods  ](controller-methods.md) [ Next Page Form Scripts  ](form-scripts.md)
 
 Last updated 2 months ago 
 

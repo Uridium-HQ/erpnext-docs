@@ -1,22 +1,22 @@
 # Amending Sales Order after Submit
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0so1vfvcrk>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0so1vfvcrk)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Amending Sales Order after Submit 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0so1vfvcrk>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0so1vfvcrk)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 Rate and Qty in Sales Order can now be amended after Submit using the `Update Items` button.
 
-![Update Items](/files/so-update-items.png)
+![Update Items](https://docs.frappe.io/assets/0662feaa84d6.png)
 
 To Update Rate and Qty in a Submitted Sales Order, click on the `Update Items` button. A dialog will pop up to let you make the change.
 
-![Update Items](/files/so-update-items-rate-and-qty.gif)
+![Update Items](https://docs.frappe.io/assets/ea942ddca8bd.gif)
 
 Please Note the following validations and usecases:
 
@@ -26,7 +26,7 @@ Please Note the following validations and usecases:
 
 
 
-[ Previous Page Applying a Discount  ](</erpnext/applying-discount>) [ Next Page Close Sales Order  ](</erpnext/close-sales-order>)
+[ Previous Page Applying a Discount  ](applying-discount.md) [ Next Page Close Sales Order  ](close-sales-order.md)
 
 Last updated 1 week ago 
 

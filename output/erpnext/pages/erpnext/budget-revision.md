@@ -1,12 +1,12 @@
 # Budget Revision
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/dpdbrrj79t>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/dpdbrrj79t)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Budget Revision
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/dpdbrrj79t>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/dpdbrrj79t)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -29,13 +29,13 @@ Instead of editing a submitted Budget, revisions help maintain:
 
 
 
-![](/files/Screenshot%202026-01-08%20at%205.55.24%E2%80%AFPM.png)
+![](../../assets/145b0ac59150.png)
 
   * A confirmation message is shown: click Yes to continue.
 
 
 
-![](/files/Screenshot%202026-01-08%20at%205.56.38%E2%80%AFPM.png)
+![](../../assets/517a1019b15a.png)
 
   * A new Budget draft is created automatically.
   * Update the Budget Amount and modify the Budget Distribution as required.
@@ -58,7 +58,7 @@ Use a Budget Revision when:
 
 
 
-[ Previous Page Budget ](</erpnext/budget>) [ Next Page Budget Variance Report ](</erpnext/budget-variance-report>)
+[ Previous Page Budget ](budget.md) [ Next Page Budget Variance Report ](https://docs.frappe.io/erpnext/budget-variance-report)
 
 Last updated 2 weeks ago 
 

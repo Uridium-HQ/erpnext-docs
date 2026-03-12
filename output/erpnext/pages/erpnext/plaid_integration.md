@@ -1,16 +1,16 @@
 # Plaid Integration
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s6bu7upjg>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s6bu7upjg)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Plaid Integration 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s6bu7upjg>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s6bu7upjg)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-ERPNext offers the possibility to synchronize your bank accounts through a service called [Plaid](<https://plaid.com/>). Please check [the Plaid FAQ](<https://support-my.plaid.com/hc/en-us>) to see if your country is supported.
+ERPNext offers the possibility to synchronize your bank accounts through a service called [Plaid](https://plaid.com/). Please check [the Plaid FAQ](https://support-my.plaid.com/hc/en-us) to see if your country is supported.
 
 If your instance is connected to Plaid, you are able to synchronize your bank account transactions without having to manually import a CSV or XLSX file.
 
@@ -28,7 +28,7 @@ In order to give ERPNext access to Plaid, you need to add the following three pa
 
 In order to activate Plaid on an instance, click on the button "Enable" in the Plaid Settings DocType.
 
-![Enable Plaid](/files/plaid_enable.gif)
+![Enable Plaid](https://docs.frappe.io/assets/7c08b92ae818.gif)
 
 Once activated, you can create a new account directly from the Bank Reconciliation dashboard.
 
@@ -36,13 +36,13 @@ Once activated, you can create a new account directly from the Bank Reconciliati
 
 In order to link one of your existing bank accounts to ERPNext, click on "Link a new bank account" and follow the steps proposed by Plaid.
 
-![Link your bank account](/files/new_account_creation.gif)
+![Link your bank account](https://docs.frappe.io/assets/945bd375e5d6.gif)
 
 ## Bank synchronization
 
 In order to synchronize a bank account with ERPNext, select an account and click on the "Action" button to select "Synchronize this account".
 
-![Synchronize your bank account](/files/plaid_synchronization.gif)
+![Synchronize your bank account](https://docs.frappe.io/assets/1e56eed9f33f.gif)
 
 The synchronization is based on the "Last integration date" available in the "Bank Account" doctype.
 
@@ -52,7 +52,7 @@ If, for any reason, you want to redo a synchronization, you can change this date
 
 You can allow plaid to synchronize your bank account with ERPNex every hour by selecting "Synchronize all accounts every hour" in Plaid Settings.
 
-[ Previous Page Upload Backups to Amazon S3 ](</erpnext/aws_s3>) [ Next Page Shopify Integration ](</erpnext/shopify_integration>)
+[ Previous Page Upload Backups to Amazon S3 ](https://docs.frappe.io/erpnext/aws_s3) [ Next Page Shopify Integration ](https://docs.frappe.io/erpnext/shopify_integration)
 
 Last updated 2 weeks ago 
 

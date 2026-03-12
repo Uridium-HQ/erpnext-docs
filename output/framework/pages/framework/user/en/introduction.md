@@ -1,12 +1,12 @@
 # Introduction
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0th2qmce9m>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0th2qmce9m)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Introduction
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0th2qmce9m>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0th2qmce9m)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,7 +14,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 Frappe, pronounced _fra-pay_ , is a full stack, **batteries** -included, web framework written in Python and Javascript with MariaDB as the database. It is the framework which powers ERPNext, is pretty generic and can be used to build database driven apps.
 
-![](/files/hero-image.png)
+![](../../../../assets/afaae257e1b3.png)
 
 ## Why Frappe?
 
@@ -37,14 +37,14 @@ Before you can use Frappe, you need to install it. We have a complete installati
 
 ## Learning and community
 
-  1. [Frappe School](<https://school.frappe.io>) \- Learn Frappe Framework and ERPNext from the various courses by the maintainers or from the community.
-  2. [GitHub](<https://github.com/frappe/frappe>) \- Explore the source code, contribute, and collaborate with the Frappe community.
-  3. [Discussion Forum](<https://discuss.frappe.io>) \- Hang out with our growing community on our forum, ask questions, help others and be a part of the community.
-  4. [buildwithhussain.com](<https://buildwithhussain.com>) \- Watch Frappe Framework being used in the wild to build world-class web apps.
+  1. [Frappe School](https://school.frappe.io/) \- Learn Frappe Framework and ERPNext from the various courses by the maintainers or from the community.
+  2. [GitHub](https://github.com/frappe/frappe) \- Explore the source code, contribute, and collaborate with the Frappe community.
+  3. [Discussion Forum](https://discuss.frappe.io/) \- Hang out with our growing community on our forum, ask questions, help others and be a part of the community.
+  4. [buildwithhussain.com](https://buildwithhussain.com/) \- Watch Frappe Framework being used in the wild to build world-class web apps.
 
 
 
-[ Next Page Prerequisites ](</framework/user/en/prerequisites>)
+[ Next Page Prerequisites ](prerequisites.md)
 
 Last updated 3 hours ago 
 

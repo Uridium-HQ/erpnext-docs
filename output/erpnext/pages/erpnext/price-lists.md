@@ -1,18 +1,18 @@
 # Price Lists
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ru3k2eo8k>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ru3k2eo8k)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Price Lists
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ru3k2eo8k>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ru3k2eo8k)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 **A Price List is a collection of Item Prices either Selling, Buying, or both.**
 
-ERPNext lets you maintain multiple Selling and Buying [Item Prices](</erpnext/item-price>) using Price Lists.
+ERPNext lets you maintain multiple Selling and Buying [Item Prices](item-price.md) using Price Lists.
 
 Price Lists can be used in scenarios where you have different prices for different zones (based on the shipping costs), for different currencies, etc. An Item can have multiple prices based on customer, currency, region, shipping cost, etc, which can be stored as different rate plans.
 
@@ -22,7 +22,7 @@ To access a Price List go to:
 
 > Home > Selling/Buying/Stock > Items and Pricing > Price List
 
-![](/files/pricelist.png)
+![](../../assets/206aae1ade44.png)
 
   1. How to use a Price List
 
@@ -47,11 +47,11 @@ Now, if you tick this checkbox and make a transaction with a Box of Tomatoes, th
 
 ### Related Topics
 
-  1. [Item Price](</erpnext/item-price>)
+  1. [Item Price](item-price.md)
 
 
 
-[ Previous Page Pricing ](</erpnext/pricing>) [ Next Page Item Price ](</erpnext/item-price>)
+[ Previous Page Pricing ](pricing.md) [ Next Page Item Price ](item-price.md)
 
 Last updated 1 week ago 
 

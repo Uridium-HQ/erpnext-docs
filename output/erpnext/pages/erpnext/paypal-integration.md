@@ -1,12 +1,12 @@
 # Setting up PayPal
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s7f8688s2>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s7f8688s2)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Setting up PayPal 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s7f8688s2>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s7f8688s2)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,17 +20,17 @@ To setup PayPal , `Explore > Integrations > PayPal Settings`
 
 To enable PayPal payment service, you need to configure parameters like API Username, API Password and Signature.
 
-![PayPal Settings](/files/paypal_settings.png)
+![PayPal Settings](https://docs.frappe.io/assets/967f47987934.png)
 
 You also can set test payment environment, by settings `Use Sandbox`
 
 On enabling service, the system will create Payment Gateway record and Account head in chart of accounts having account type as Bank.
 
-![PayPal COA](/files/paypal_coa.png)
+![PayPal COA](https://docs.frappe.io/assets/454a8b0c1117.png)
 
 Also it will create Payment Gateway Account entry. Payment Gateway Account is configuration hub from this you can set account head from existing COA, default Payment Request email body template.
 
-![Payment Gateway Account](/files/payment_gateway_account_paypal.png)
+![Payment Gateway Account](https://docs.frappe.io/assets/39df8d49024b.png)
 
 After enabling service and configuring Payment Gateway Account your system is able to accept online payments.
 
@@ -40,11 +40,11 @@ After enabling service and configuring Payment Gateway Account your system is ab
 
 #### Paypal Sanbox API Signature
 
-  * Login to paypal developer account, [PayPal Developer Account](<https://developer.paypal.com/>)
+  * Login to paypal developer account, [PayPal Developer Account](https://developer.paypal.com/)
 
-  * From **Accounts** tab. create a new business account. ![Payment Request](/files/setup-sanbox-1.png)
+  * From **Accounts** tab. create a new business account. ![Payment Request](https://docs.frappe.io/assets/ca5ccf7e52a8.png)
 
-  * From this account profile you will get your sandbox api credentials ![Payment Request](/files/sanbox-credentials.png)
+  * From this account profile you will get your sandbox api credentials ![Payment Request](https://docs.frappe.io/assets/9532aa33b0ac.png)
 
 
 
@@ -53,16 +53,16 @@ After enabling service and configuring Payment Gateway Account your system is ab
 
 #### PayPal Account API Signature
 
-  * Login to PayPal Account and go to profile ![Payment Request](/files/api-step-1.png)
+  * Login to PayPal Account and go to profile ![Payment Request](https://docs.frappe.io/assets/fef7bd73450b.png)
 
-  * From **My Selling Tools** go to **api Access** ![Payment Request](/files/api-step-2.png)
+  * From **My Selling Tools** go to **api Access** ![Payment Request](https://docs.frappe.io/assets/eed11ff8258a.png)
 
-  * On API Access Page, choose option 2 to generate API credentials ![Payment Request](/files/api-step-3.png)
-
-
+  * On API Access Page, choose option 2 to generate API credentials ![Payment Request](https://docs.frappe.io/assets/315968e54b25.png)
 
 
-[ Previous Page ERPNext Shipping ](</erpnext/erpnext_shipping>) [ Next Page RazorPay Integration  ](</erpnext/razorpay-integration>)
+
+
+[ Previous Page ERPNext Shipping ](erpnext_shipping.md) [ Next Page RazorPay Integration  ](https://docs.frappe.io/erpnext/razorpay-integration)
 
 Last updated 2 weeks ago 
 

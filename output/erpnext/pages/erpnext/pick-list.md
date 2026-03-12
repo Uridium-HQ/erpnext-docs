@@ -1,12 +1,12 @@
 # Pick List
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0runp6p0q9>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0runp6p0q9)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Pick List
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0runp6p0q9>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0runp6p0q9)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -26,8 +26,8 @@ To access Pick List, go to:
 
 Before creating and using a Pick List, it is advised that you create the following first:
 
-  * [Stock Item](</erpnext/item>)
-  * [Warehouse](</erpnext/warehouse>)
+  * [Stock Item](item.md)
+  * [Warehouse](warehouse.md)
 
 
   2. How to create Pick List
@@ -36,7 +36,7 @@ Before creating and using a Pick List, it is advised that you create the followi
 
 * * *
 
-  1. Go to the Pick List list, click on New. ![Unsaved Pick List](/files/pick-list-unsaved-doc.png)
+  1. Go to the Pick List list, click on New. ![Unsaved Pick List](https://docs.frappe.io/assets/fd7a1660be6d.png)
 
   2. Set the Company.
 
@@ -51,23 +51,23 @@ Before creating and using a Pick List, it is advised that you create the followi
 
   6. **Get Item Locations:** Once items to be picked is finalized you can click on the **Get Item Locations** button to get Warehouse selection for each item. Since Warehouse will be automatically fetched if you get an Item from any reference document, this button can be useful to manually add additional Items or change the quantity of existing Items in the Item Locations table.
 
-  7. **Item Locations:** This will have the information of the item location (Warehouse), Serial Number for serialized items and batch no for batched items. ![Item Locations](/files/pick-list-item-locations.png)
+  7. **Item Locations:** This will have the information of the item location (Warehouse), Serial Number for serialized items and batch no for batched items. ![Item Locations](https://docs.frappe.io/assets/bb61cc5e0de1.png)
 
 
 
 
-If Serial Numbers are involved, the Item row will look like this: ![Item Location Detail](/files/pick-list-item-location-detail.png) 8\. Save and Submit. ![Submitted Pick List](/files/pick-list-submitted-doc.png)
+If Serial Numbers are involved, the Item row will look like this: ![Item Location Detail](https://docs.frappe.io/assets/0118845faa29.png) 8\. Save and Submit. ![Submitted Pick List](https://docs.frappe.io/assets/3021c9202199.png)
 
 ### 2.1 Create Pick List from a Sales Order
 
-  1. Go to a [Sales Order](</erpnext/sales-order>).
+  1. Go to a [Sales Order](sales-order.md).
   2. Click on the **Create** button on the top right of the form and then click the **Pick List** option.
   3. Once you click Pick List, all the data required for Pick List will be fetched from the Sales Order.
   4. Alternatively, you can create a new Pick List and click on "Get Items". This would show a popup of all pending Sales Orders.
 
 
 
-![](/files/PL-GetItems.png)
+![](../../assets/27bdc45afa3b.png)
 
   1. You should be able to see the Item Locations Table with the Warehouse selected for each item.
   2. Save this document and it can be used for stock picking by the person performing this activity.
@@ -79,9 +79,9 @@ If Serial Numbers are involved, the Item row will look like this: ![Item Locatio
 
 ### 2.2 Create Pick List from a Work Order
 
-  1. Go to a [Work Order](</erpnext/work-order>).
+  1. Go to a [Work Order](work-order.md).
   2. Click **Create Pick List** button.
-  3. You'll see the dialog box asking for the quantity of Finished Goods Item. This is required to calculate the number of raw material items required to manufacture the entered quantity of Finished Goods Item. ![Dialog For qty](/files/pick-list-dialog-for-qty.png)
+  3. You'll see the dialog box asking for the quantity of Finished Goods Item. This is required to calculate the number of raw material items required to manufacture the entered quantity of Finished Goods Item. ![Dialog For qty](https://docs.frappe.io/assets/1dbd101b3259.png)
   4. You should be able to see the Item locations table with the Warehouse selected for each raw material item.
   5. Save this document and then this document can be forwarded to the person who is picking the stock.
   6. Submit the document once the stock picking is done and the picked item is updated in the document accordingly.
@@ -92,7 +92,7 @@ If Serial Numbers are involved, the Item row will look like this: ![Item Locatio
 
 ### 2.3 Create Pick List from Material Request
 
-  1. Go to a [Material Request](</erpnext/material-request>).
+  1. Go to a [Material Request](material-request.md).
   2. Click on **Create** button and then click **Pick List** option.
   3. You should be able to see the Item Locations table with the Warehouse selected for each item in Material Request.
   4. Save this document and then this document can be forwarded to the person picking the stock.
@@ -130,7 +130,7 @@ Pick list supports barcode scanning, introducing two check boxes. **Scan Mode** 
 
 In the pick list, if a user manually selects batches, the system overrides the changes upon saving the pick list. To solve this issue added a checkbox 'Pick Manually' in the pick list. If this checkbox is enabled, the system will not override the user's changes in the pick list.
 
-![pick_manual](/files/pick_manual.gif)
+![pick_manual](https://docs.frappe.io/assets/6c8404e8d0a2.gif)
 
   5. Related Topics
 
@@ -138,13 +138,13 @@ In the pick list, if a user manually selects batches, the system overrides the c
 
 * * *
 
-  1. [Sales Order](</erpnext/sales-order>)
-  2. [Work Order](</erpnext/work-order>)
-  3. [Material Request](</erpnext/material-request>)
+  1. [Sales Order](sales-order.md)
+  2. [Work Order](work-order.md)
+  3. [Material Request](material-request.md)
 
 
 
-[ Previous Page Installation Note  ](</erpnext/installation-note>) [ Next Page Putaway Rule  ](</erpnext/putaway-rule>)
+[ Previous Page Installation Note  ](installation-note.md) [ Next Page Putaway Rule  ](putaway-rule.md)
 
 Last updated 1 week ago 
 

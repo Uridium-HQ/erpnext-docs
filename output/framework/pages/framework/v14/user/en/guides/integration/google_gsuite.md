@@ -1,12 +1,12 @@
 # Google GSuite
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12e532ivoq>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12e532ivoq)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Google GSuite 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12e532ivoq>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12e532ivoq)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -101,7 +101,7 @@ For example: in this folder url `https://drive.google.com/drive/u/0/folders/0Bxm
 
 
 
-[ Previous Page Import Large Csv File  ](</framework/v14/user/en/guides/data/import-large-csv-file>) [ Next Page Token based authentication  ](</framework/v14/user/en/guides/integration/how_to_setup_token_based_auth>)
+[ Previous Page Import Large Csv File  ](../data/import-large-csv-file.md) [ Next Page Token based authentication  ](how_to_setup_token_based_auth.md)
 
 Last updated 2 months ago 
 

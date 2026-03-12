@@ -1,12 +1,12 @@
 # Role Based Permissions
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rdjc0sncf>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rdjc0sncf)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Role Based Permissions
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rdjc0sncf>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rdjc0sncf)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -24,7 +24,7 @@ Once roles are assigned to a user, their access can be limited to specific docum
 
 To start using the Role Permission Manager, go to: > Home > Users and Permissions > Role Permissions Manager
 
-![Manage Read, Write, Create, Submit, Amend access using the Role Permissions Manager](/files/setting-up-permissions-leave-application.png)
+![Manage Read, Write, Create, Submit, Amend access using the Role Permissions Manager](https://docs.frappe.io/assets/f053c4e3496c.png)
 
 Permissions are applied on a combination of:
 
@@ -44,7 +44,7 @@ Examples of Document Types are Sales Invoice, Leave Application, Stock Entry, et
 
 
 
-Permission "Level" connects fields with level X to a permission rule with level X. To know more click [here](</erpnext/changing-the-properties-of-a-field-based-on-role>).
+Permission "Level" connects fields with level X to a permission rule with level X. To know more click [here](changing-the-properties-of-a-field-based-on-role.md).
 
   * **Document Stages:** Permissions are applied on each stage of the document like Creation, Saving, Submission, Cancellation, and Amendment. A role can be permitted to Print, Email, Import or Export data, access Reports, or define User Permissions.
   * **User Permissions:** Using User Permissions in ERPNext a user can be restricted to access only specific Documents for that Document Type. Eg: Only one Territory from all Territories. User Permissions defined for other Document Types also get applied if they are related to the current Document Type through Link Fields.
@@ -53,7 +53,7 @@ Permission "Level" connects fields with level X to a permission rule with level 
 
 For example, a Customer is a link field in a Sales Order or Quotation. In the Role Permissions Manager, User Permissions can be set using the 'Set User Permissions' button.
 
-To set User Permissions based on documents/fields go to: > Home > Users and Permissions > Permissions > [User Permissions](</erpnext/user-permissions>)
+To set User Permissions based on documents/fields go to: > Home > Users and Permissions > Permissions > [User Permissions](user-permissions.md)
 
   * **Add a New Rule** : In the Role Permissions Manager, to add a new rule, click on the **Add a New Rule** button and a pop-up box will ask you to select a Role and a Permission Level. Once you select this and click on 'Add', this will add a new row to your rules table.
 
@@ -70,7 +70,7 @@ Leave Application is a good example that encompasses all areas of a Permission S
 
 
 
-![Giving Read, Write and Create Permissions to Employee for Leave Application](/files/setting-up-permissions-employee-role.png)
+![Giving Read, Write and Create Permissions to Employee for Leave Application](https://docs.frappe.io/assets/5b3c0a3e6112.png)
 
   * An *
 
@@ -78,7 +78,7 @@ Leave Application is a good example that encompasses all areas of a Permission S
 
 *Employee** should only be able to access his/her Leave Application. Hence, User Permissions record should be created for each User-Employee combination.
 
-![Limiting access to Leave Applications for a user with Employee Role via User Permissions Manager](/files/setting-up-permissions-employee-user-permissions.png)
+![Limiting access to Leave Applications for a user with Employee Role via User Permissions Manager](https://docs.frappe.io/assets/90ee5c3c60ee.png)
 
   * If you want an *
 
@@ -86,39 +86,39 @@ Leave Application is a good example that encompasses all areas of a Permission S
 
 *Employee** to only select a document in another document and not have read access to that document as a whole, then grant only Select perm to the role, Employee.
 
-![Limiting access to Leave Applications for a user with Employee Role via User Permissions Manager](/files/setting-up-select-permissions-employee.png)
+![Limiting access to Leave Applications for a user with Employee Role via User Permissions Manager](https://docs.frappe.io/assets/23498d02a1be.png)
 
   *     * 
 
 
 *HR Manager** should be able to see all Leave Applications. Create a Permission Rule for HR Manager at Level 0, with Read permissions. Apply User Permissions should be disabled.
 
-![Giving Submit and Cancel permissions to HR Manager for Leave Applications. 'Apply User Permissions' is unchecked to give full access.](/files/setting-up-permissions-hr-manager-role.png)
+![Giving Submit and Cancel permissions to HR Manager for Leave Applications. 'Apply User Permissions' is unchecked to give full access.](https://docs.frappe.io/assets/f9192e360d6f.png)
 
   *     * 
 
 
 *Leave Approver** should be able to see and update Leave Applications of employees under him/her. Leave Approver is given Read and Write access at Level 0. Relevant Employee Documents should be enlisted in the User Permissions of Leave Approvers. (This effort is reduced for Leave Approvers mentioned in Employee Documents, by programmatically creating User Permission records).
 
-![Giving Read, Write and Submit permissions to Leave Approver for Leave Applications.'Apply User Permissions' is checked to limit access based on Employee.](/files/setting-up-permissions-leave-approver-role.png)
+![Giving Read, Write and Submit permissions to Leave Approver for Leave Applications.'Apply User Permissions' is checked to limit access based on Employee.](https://docs.frappe.io/assets/b9dbd320660c.png)
 
   * It should be Approved/Rejected only by HR User or Leave Approver. The Status field of a Leave Application is set at Level 1. HR User and Leave Approver are given Read and Write permissions for Level 0, while everyone else (All) are given Read permission for Level 1.
 
 
 
-![Limiting read access for a set of fields to certain Roles](/files/setting-up-permissions-level-1.png) *
+![Limiting read access for a set of fields to certain Roles](https://docs.frappe.io/assets/e8418c9b2e29.png) *
 
 **HR User** should be able to delegate Leave Applications to his/her subordinates. HR User is given the right to Set User Permissions. A User with HR User role would be able to define User Permissions on Leave Application for other users.
 
-![Let HR User delegate access to Leave Applications by checking 'Set User Permissions'. This will allow HR User to access User Permissions Manager for 'Leave Application'](/files/setting-up-permissions-hr-user-role.png)
+![Let HR User delegate access to Leave Applications by checking 'Set User Permissions'. This will allow HR User to access User Permissions Manager for 'Leave Application'](https://docs.frappe.io/assets/969508e22e48.png)
 
-In case you have correctly assigned the roles but still you're getting errors when accessing documents, refer [this page](</erpnext/report-permission-error>).
+In case you have correctly assigned the roles but still you're getting errors when accessing documents, refer [this page](report-permission-error.md).
 
 ### 3\. Permission Type
 
 In the Role Permission Manager, multiple permissions can be enabled for each Role. Below are the details of the available permission options and their usage.
 
-![Screenshot 2025 12 19 at 5.15.56 PM](/files/Screenshot%202025-12-19%20at%205.15.56%E2%80%AFPM.png)
+![Screenshot 2025 12 19 at 5.15.56 PM](https://docs.frappe.io/assets/58f27547ce8f.png)
 
 Permission | Description | Example  
 ---|---|---  
@@ -138,7 +138,7 @@ Share | Allows sharing document access with other users. | The user can share do
 |  |   
 Mask (Data Masking) | In ERPNext Version 16, Data Masking allows configuration of specific fields to display masked or hidden values based on the user's roles and permissions, without restricting field visibility. | Ensures sensitive information remains protected while keeping the user interface consistent and informative.  
   
-[ Previous Page Disable Any User ](</erpnext/how-to-disable-users-in-the-erpnext-system>) [ Next Page Role and Role Profile  ](</erpnext/role-and-role-profile>)
+[ Previous Page Disable Any User ](how-to-disable-users-in-the-erpnext-system.md) [ Next Page Role and Role Profile  ](role-and-role-profile.md)
 
 Last updated 2 weeks ago 
 

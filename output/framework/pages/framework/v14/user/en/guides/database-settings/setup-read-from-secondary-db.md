@@ -1,12 +1,12 @@
 # Setup read operations from slave/secondary mysql system
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12gtmqjpel>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12gtmqjpel)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Setup read operations from slave/secondary mysql system 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12gtmqjpel>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12gtmqjpel)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -18,7 +18,7 @@ Now, in frappe, you can split read and write activities between master and repli
 
 ## Steps to setup readonly environment
 
-  1. **Pre-requisites** : You should have setup for [MariaDB Master-Slave](<https://mariadb.com/kb/en/library/setting-up-replication/>) or [Cluster](<https://mariadb.com/kb/en/library/getting-started-with-mariadb-galera-cluster/>) environment.
+  1. **Pre-requisites** : You should have setup for [MariaDB Master-Slave](https://mariadb.com/kb/en/library/setting-up-replication/) or [Cluster](https://mariadb.com/kb/en/library/getting-started-with-mariadb-galera-cluster/) environment.
 
   2. **Configurations for read-only replica** :
 
@@ -40,11 +40,11 @@ In your site_config.json, add following keys to enable read from replica / secon
 
 **Note** : If you have enabled MariaDB master-replica environment, then DB name and DB password are same on both.
 
-  3. [Grant access permissions](<https://dev.mysql.com/doc/refman/8.0/en/grant.html>) for master host on slave / secondary system.
+  3. [Grant access permissions](https://dev.mysql.com/doc/refman/8.0/en/grant.html) for master host on slave / secondary system.
 
 
 
-[ Previous Page Manipulating DocTypes  ](</framework/v14/user/en/guides/integration/rest_api/manipulating_documents>) [ Next Page Postgres Database Setup ](</framework/v14/user/en/guides/database-settings/postgres-database-setup>)
+[ Previous Page Manipulating DocTypes  ](../integration/rest_api/manipulating_documents.md) [ Next Page Postgres Database Setup ](postgres-database-setup.md)
 
 Last updated 2 months ago 
 

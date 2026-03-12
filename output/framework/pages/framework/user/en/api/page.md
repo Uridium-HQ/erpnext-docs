@@ -1,12 +1,12 @@
 # Page API
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tnhu23nqp>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tnhu23nqp)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Page API
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tnhu23nqp>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tnhu23nqp)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -26,7 +26,7 @@ Creates a new Page and attaches it to parent.
     
 [/code]
 
-![New Page](/files/new-page.png) _New Page_
+![New Page](https://docs.frappe.io/assets/90efcc16e8a6.png) _New Page_
 
 ## Page methods
 
@@ -42,7 +42,7 @@ Set the page title along with the document title. The document title is shown in
     
 [/code]
 
-![Page Title](/files/page-set-title.png) _Page Title_
+![Page Title](https://docs.frappe.io/assets/590d5dcf6286.png) _Page Title_
 
 ## page.set_title_sub
 
@@ -54,7 +54,7 @@ Set the secondary title of the page. It is shown on the right side of the page h
     
 [/code]
 
-![Page Subtitle](/files/page-set-title-sub.png) _Page Subtitle_
+![Page Subtitle](https://docs.frappe.io/assets/5347d8bfa25a.png) _Page Subtitle_
 
 ## page.set_indicator
 
@@ -66,7 +66,7 @@ Set the indicator label and color.
     
 [/code]
 
-![Page Indicator](/files/page-set-indicator.png) _Page Indicator_
+![Page Indicator](https://docs.frappe.io/assets/3f251dadfa3b.png) _Page Indicator_
 
 ## page.clear_indicator
 
@@ -88,7 +88,7 @@ Set the primary action button label and handler. The third argument is the icon 
     
 [/code]
 
-![Page Primary Action](/files/page-primary-action.png) _Page Primary Action_
+![Page Primary Action](https://docs.frappe.io/assets/b14f09e3f71c.png) _Page Primary Action_
 
 ## page.clear_primary_action
 
@@ -110,7 +110,7 @@ Set the secondary action button label and handler. The third argument is the ico
     
 [/code]
 
-![Page Secondary Action](/files/page-secondary-action.png) _Page Secondary Action_
+![Page Secondary Action](https://docs.frappe.io/assets/a7cc8ec81903.png) _Page Secondary Action_
 
 ## page.clear_secondary_action
 
@@ -136,7 +136,7 @@ Add menu items in the Menu dropdown.
     
 [/code]
 
-![Page Menu Dropdown](/files/page-menu-dropdown.png) _Page Menu Dropdown_
+![Page Menu Dropdown](https://docs.frappe.io/assets/0eda3c66cef2.png) _Page Menu Dropdown_
 
 ## page.clear_menu
 
@@ -159,7 +159,7 @@ Add menu items in the Actions dropdown.
     
 [/code]
 
-![Page Actions Dropdown](/files/page-actions-dropdown.png) _Page Actions Dropdown_
+![Page Actions Dropdown](https://docs.frappe.io/assets/8b7b58e26b10.png) _Page Actions Dropdown_
 
 ## page.clear_actions_menu
 
@@ -182,7 +182,7 @@ Add buttons in the inner toolbar.
     
 [/code]
 
-![Page Inner Button](/files/page-inner-button.png) _Page Inner Button_
+![Page Inner Button](https://docs.frappe.io/assets/d0afd5b2b10e.png) _Page Inner Button_
 [code] 
     // add a dropdown button in a group
     page.add_inner_button('New Post', () => new_post(), 'Make')
@@ -191,7 +191,7 @@ Add buttons in the inner toolbar.
     
 [/code]
 
-![Page Inner Button Group](/files/page-inner-button-group.png) _Page Inner Button Group_
+![Page Inner Button Group](https://docs.frappe.io/assets/afbcfd582e33.png) _Page Inner Button Group_
 
 ### page.change_custom _button_ type
 
@@ -253,7 +253,7 @@ Add a form control in the page form toolbar.
     
 [/code]
 
-![Page Form Toolbar](/files/page-add-field.png) _Page Form Toolbar_
+![Page Form Toolbar](https://docs.frappe.io/assets/0ee0334beab0.png) _Page Form Toolbar_
 
 ## page.get_form_values
 
@@ -276,7 +276,7 @@ Clear all fields from the page form toolbar.
     
 [/code]
 
-[ Previous Page List ](</framework/user/en/api/list>) [ Next Page Tree  ](</framework/user/en/api/tree>)
+[ Previous Page List ](list.md) [ Next Page Tree  ](tree.md)
 
 Last updated 3 weeks ago 
 

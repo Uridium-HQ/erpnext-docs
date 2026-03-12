@@ -1,12 +1,12 @@
 # Notification
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rcvk6q5id>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rcvk6q5id)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Notification
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rcvk6q5id>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rcvk6q5id)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -41,7 +41,7 @@ To set up a Notification:
      3. Days Before/Days After: Trigger this alert a few days before or after the **Reference Date.** To set the days, set **Days Before or After**. This can be useful in reminding you of upcoming due dates or reminding you to follow up on certain leads of quotations.
      4. Value Change: When a particular value in the selected type changes.
      5. Method: Sends notification when a specific method is triggered. Eg: before_insert.
-     6. Custom: Send a notification to an [Email Account](</erpnext/email-account>) selected.
+     6. Custom: Send a notification to an [Email Account](email-account.md) selected.
   2. Select the Document Type you want to watch changes on. From Version 16, You can also select child Document Types if Send Alert On is set to _Days Before_ or _Days After_.
 
   3. Set additional Conditions if required.
@@ -57,15 +57,15 @@ To set up a Notification:
 
 ### 1.1 Setting a Subject
 
-You can retrieve the data for a particular field by using `doc.[field_name]`. To use it in your subject/message, you have to surround it with `{% raw %}{{ }}{% endraw %}`. These are called [Jinja](<http://jinja.pocoo.org/>) tags. For example, to get the name of a document, you use `{% raw %}{{ doc.name }}{% endraw %}`. The following example sends an email on saving a Task with the Subject, "TASK#### has been created"
+You can retrieve the data for a particular field by using `doc.[field_name]`. To use it in your subject/message, you have to surround it with `{% raw %}{{ }}{% endraw %}`. These are called [Jinja](http://jinja.pocoo.org/) tags. For example, to get the name of a document, you use `{% raw %}{{ doc.name }}{% endraw %}`. The following example sends an email on saving a Task with the Subject, "TASK#### has been created"
 
-![Setting Subject](/files/email-alert-subject.png)
+![Setting Subject](https://docs.frappe.io/assets/d6ac3a2f5351.png)
 
 ### 1.2 Setting Conditions
 
 Notifications allow you to set conditions according to the field data in your documents. For example, if you want to receive an Email if a Lead has been saved as "Interested" as it's status, you put `doc.status == "Interested"` in the conditions textbox. You can also set more complex conditions by combining them with the operator **and** or **or**.
 
-![Setting Condition](/files/notification%20screenshotb9a4a2.jpg)
+![Setting Condition](https://docs.frappe.io/assets/02f456024750.jpg)
 
 The above example will send a Notification when a Task is saved with the status "Open" and the "Expected End Date" for the Task is the date on or before the date on which it was saved on.
 
@@ -102,12 +102,12 @@ Sometimes to make sure that the Notification is not sent multiple times, you can
 
 Then you can use that as a condition in the **Condition** rules to ensure emails are not sent multiple times
 
-![Setting Property in Notification](/files/email-alert-subject.png)
+![Setting Property in Notification](https://docs.frappe.io/assets/d6ac3a2f5351.png)
 
 ### 1.5 Example
 
-  1. Defining the Criteria ![Defining Criteria](/files/email-alert-1.png)
-  2. Setting the Recipients and Message ![Set Message](/files/email-alert-2.png)
+  1. Defining the Criteria ![Defining Criteria](https://docs.frappe.io/assets/db2c49ddfc23.png)
+  2. Setting the Recipients and Message ![Set Message](https://docs.frappe.io/assets/c0a4a293b6d8.png)
 
 
 
@@ -128,9 +128,9 @@ A Slack webhook URL is a URL pointing directly to a Slack channel.
 To generate webhook URLs, you need to create a new Slack App:
 
   1. Go to https://api.slack.com/slack-apps.
-  2. Click on "Create a Slack App". ![Set Message](/files/slack_notification_1.png)
-  3. Give your App a name and choose the right workspace. Once your app is created, go to the "Incoming Webhooks" section and add a new Webhook to Workspace. ![Set Message](/files/slack_notification_2.png)
-  4. Copy the created link, go back to ERPNext and use it to create a new Slack Webhook URL in Integrations > Slack Webhook URL. ![Set Message](/files/slack_notification_3.png)
+  2. Click on "Create a Slack App". ![Set Message](https://docs.frappe.io/assets/2aa2bb59a7e9.png)
+  3. Give your App a name and choose the right workspace. Once your app is created, go to the "Incoming Webhooks" section and add a new Webhook to Workspace. ![Set Message](https://docs.frappe.io/assets/7ddf561ae1f0.png)
+  4. Copy the created link, go back to ERPNext and use it to create a new Slack Webhook URL in Integrations > Slack Webhook URL. ![Set Message](https://docs.frappe.io/assets/145bdb45b787.png)
   5. Select Slack and your Slack channel in the channel and Slack channel fields within your notification
 
 
@@ -139,7 +139,7 @@ To generate webhook URLs, you need to create a new Slack App:
 
 Unlike Email messages, Slack doesn't allow HTML formatting.
 
-Instead, you can use markdown formatting: [Slack Documentation](<https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages>)
+Instead, you can use markdown formatting: [Slack Documentation](https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages)
 
 Example: {% raw %} _Order Overdue_
 [code] 
@@ -160,7 +160,7 @@ Example: {% raw %} _Order Overdue_
     
 [/code]
 
-![Set Message](/files/slack_notification_4.png)
+![Set Message](https://docs.frappe.io/assets/0e1a61155e7c.png)
 
 * * *
 
@@ -174,19 +174,19 @@ In **Version 12** we introduced System notifications for **Assignments** , **men
 
 In **Version 13** we have introduced an additional channel to send alerts - **System Notifications** :
 
-![Notifications Dropdown](/files/system-notifications-channel.png)
+![Notifications Dropdown](https://docs.frappe.io/assets/69f43153fd99.png)
 
 Choosing this channel will send a system notification when a notification is triggered, instead of an Email or a Slack notification.
 
-![Notifications Dropdown](/files/system-notification.png)
+![Notifications Dropdown](https://docs.frappe.io/assets/234f349d8534.png)
 
 Clicking on the notification routes to the **Notification Log** document which contains the configured subject, message as well as the attached file, if Attach Print is set:
 
-![Notifications Dropdown](/files/notification-log.png)
+![Notifications Dropdown](https://docs.frappe.io/assets/d39038d8ad52.png)
 
 If Email/Slack alerts and System Notifications both are required, the main channel can be set as Email or Slack and this option can be checked:
 
-![Notifications Dropdown](/files/send-system-notification.png)
+![Notifications Dropdown](https://docs.frappe.io/assets/e5f08b9fcbd6.png)
 
   4. WhatsApp
 
@@ -194,19 +194,19 @@ If Email/Slack alerts and System Notifications both are required, the main chann
 
 * * *
 
-In **Version 13** we have introduced an additional channel to send alerts - **WhatsApp** : ![Notifications WhatsApp Channel](/files/twilio-channel.png)
+In **Version 13** we have introduced an additional channel to send alerts - **WhatsApp** : ![Notifications WhatsApp Channel](https://docs.frappe.io/assets/b446d778cacf.png)
 
 If you prefer to have your notifications sent to a WhatsApp number, you can also choose the option "WhatsApp" in the channel options and select the appropriate Twilio Number. Twilio Numbers can be added to Twilio settings in Frappe. WhatsApp messages can only be sent to numbers which have country codes in them.
 
-![Twilio Settings](/files/twilio-settings.png)
+![Twilio Settings](https://docs.frappe.io/assets/4e3b3244fc25.png)
 
 ### 4.1 Twilio Settings
 
-In order to configure Twilio settings, you need to first obtain Twilio credentials from your Twilio Account's account settings. You can only add those phone numbers that have been activated in your Twilio Account with WhatsApp access. ![Twilio Credentials](/files/twilio-credentials.png)
+In order to configure Twilio settings, you need to first obtain Twilio credentials from your Twilio Account's account settings. You can only add those phone numbers that have been activated in your Twilio Account with WhatsApp access. ![Twilio Credentials](https://docs.frappe.io/assets/d9ca8e340a0b.png)
 
 ### 4.2 Message Format
 
-WhatsApp allows their users to only send those message templates that are pre-approved by them to your customers. Failure to do so might result in restrictions on you Twilio account. ![Pre Approved Message Template](/files/twilio-pre-approved-message.png)
+WhatsApp allows their users to only send those message templates that are pre-approved by them to your customers. Failure to do so might result in restrictions on you Twilio account. ![Pre Approved Message Template](https://docs.frappe.io/assets/c6aa5c06c3ce.png)
 
   5. SMS
 
@@ -214,14 +214,14 @@ WhatsApp allows their users to only send those message templates that are pre-ap
 
 * * *
 
-In **Version 13** we have introduced an additional channel to send alerts - **SMS** : ![SMS Channel](/files/sms-notification-channel.png)
+In **Version 13** we have introduced an additional channel to send alerts - **SMS** : ![SMS Channel](https://docs.frappe.io/assets/7b4a03988bf4.png)
 
-In order to use this channel, you would need to complete the configuration of [SMS Settings](</erpnext/sms-setting>).
+In order to use this channel, you would need to complete the configuration of [SMS Settings](https://docs.frappe.io/erpnext/sms-setting).
 
 ### 6\. Related Topics
 
-  1. [SMS Settings](</erpnext/sms-setting>)
-  2. [Document Follow](</erpnext/document-follow>)
+  1. [SMS Settings](https://docs.frappe.io/erpnext/sms-setting)
+  2. [Document Follow](document-follow.md)
 
 
 
@@ -240,7 +240,7 @@ To set up one-off reminder on document:
 
 
 
-[ Previous Page Auto Email Reports ](</erpnext/auto-email-reports>) [ Next Page Document Follow  ](</erpnext/document-follow>)
+[ Previous Page Auto Email Reports ](auto-email-reports.md) [ Next Page Document Follow  ](document-follow.md)
 
 Last updated 1 week ago 
 

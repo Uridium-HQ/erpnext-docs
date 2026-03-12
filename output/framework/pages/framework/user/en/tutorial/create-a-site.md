@@ -1,12 +1,12 @@
 # Create a Site
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0thvu2ao96>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0thvu2ao96)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Create a Site
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0thvu2ao96>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0thvu2ao96)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -89,7 +89,7 @@ This will map `library.localhost` to `localhost`. Bench has a convenient command
 
 This will ask for your root password and will add an entry to your `/etc/hosts` file.
 
-![Site Login Page](/files/site-login-page.png)
+![Site Login Page](https://docs.frappe.io/assets/ddf69e1c0d2f.png)
 
 Great, now you can access your site at `http://library.localhost:8000`. Congratulations for making it this far.
 
@@ -121,7 +121,7 @@ To create DocTypes in our app, we must log in to Desk. Go to http://library.loca
 
 Enter Administrator as the user and password that you set while creating the site.
 
-![Setup Wizard](/files/setup-wizard.png)
+![Setup Wizard](https://docs.frappe.io/assets/3c0885225d03.png)
 
 After successful login, you will see the setup wizard. This is a one-time setup wizard used to set up localization details for your site. Go ahead, select your language, and complete the wizard.
 
@@ -129,7 +129,7 @@ Good job making it this far!
 
 You should see the Desk that looks something like this:
 
-![Desk](/files/desk.png)
+![Desk](https://docs.frappe.io/assets/716070b0661e.png)
 
 ## Site commands
 
@@ -210,7 +210,7 @@ You can see a list of all site commands by running the following command:
 
 Next: Create a DocType
 
-[ Previous Page Create an App ](</framework/user/en/tutorial/create-an-app>) [ Next Page Create a DocType ](</framework/user/en/tutorial/create-a-doctype>)
+[ Previous Page Create an App ](create-an-app.md) [ Next Page Create a DocType ](create-a-doctype.md)
 
 Last updated 3 weeks ago 
 

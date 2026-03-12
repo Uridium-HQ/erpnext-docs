@@ -1,18 +1,18 @@
 # Country
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rl83h5o36>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rl83h5o36)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Country
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rl83h5o36>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rl83h5o36)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 **A Country list can be maintained in the system and an appropriate country can be tagged to different entities and transactions as per the need.**
 
-![Screenshot 2024-08-28 at 2.44.03 PM](/files/Screenshot%202024-08-28%20at%202.44.03%20PM.png)
+![Screenshot 2024-08-28 at 2.44.03 PM](https://docs.frappe.io/assets/73cda39410a9.png)
 
 ## **How to add a Country?**
 
@@ -26,9 +26,9 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 
 
-![Screenshot 2023-12-29 at 4.18.27 PM](/files/Screenshot%202023-12-29%20at%204.18.27%20PM.png)
+![Screenshot 2023-12-29 at 4.18.27 PM](https://docs.frappe.io/assets/f36cec276d35.png)
 
-[ Previous Page Company ](</erpnext/company-setup>) [ Next Page System Settings ](</erpnext/system-settings>)
+[ Previous Page Company ](company-setup.md) [ Next Page System Settings ](system-settings.md)
 
 Last updated 2 weeks ago 
 

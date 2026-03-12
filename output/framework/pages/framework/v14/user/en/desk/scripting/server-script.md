@@ -1,12 +1,12 @@
 # Server Script
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12oish797u>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12oish797u)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Server Script
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12oish797u>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12oish797u)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,7 +20,7 @@ A Server Script lets you dynamically define a Python Script that is executed on 
 
 To create a Server Script
 
-  1. If your site is being hosted on [erpnext.com](<https://erpnext.com/>), contact support to activate Server Script. In case of self-hosted accounts, set `server_script_enabled` as true in site_config.json of your site.
+  1. If your site is being hosted on [erpnext.com](https://erpnext.com/), contact support to activate Server Script. In case of self-hosted accounts, set `server_script_enabled` as true in site_config.json of your site.
 
   2. To add/edit Server Script, ensure your role is System Manager.
 
@@ -80,7 +80,7 @@ API server scripts also support IP-based rate limiting which you can enable by c
 
 Frappe Framework uses the RestrictedPython library to restrict access to methods available for server scripts. Only the safe methods, listed below are available in server scripts.
 
-For allowed methods, see [Script API](</framework/v14/user/en/desk/scripting/script-api>)
+For allowed methods, see [Script API](script-api.md)
 
 ### 2.4 Using Server Scripts as libraries
 
@@ -90,7 +90,7 @@ You can use a server script as an internal method by setting `frappe.flags` valu
 
 You can diff two versions of server scripts using "Compare Versions" button.
 
-![Server script diff](/files/server-script-diff.png)
+![Server script diff](https://docs.frappe.io/assets/ec616856949a.png)
 
   3. Examples
 
@@ -166,7 +166,7 @@ Script 2:
     
 [/code]
 
-[ Previous Page System Console  ](</framework/v14/user/en/desk/scripting/system-console>) [ Next Page Script API  ](</framework/v14/user/en/desk/scripting/script-api>)
+[ Previous Page System Console  ](system-console.md) [ Next Page Script API  ](script-api.md)
 
 Last updated 2 months ago 
 

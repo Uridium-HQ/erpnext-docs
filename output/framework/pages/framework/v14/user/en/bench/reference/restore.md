@@ -1,12 +1,12 @@
 # bench restore
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/131ds7n4l3>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/131ds7n4l3)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # bench restore 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/131ds7n4l3>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/131ds7n4l3)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -32,7 +32,7 @@ The specified database backup file may have the `sql.gz` or `sql` extension. For
 
 
 
-> To learn more about relative and absolute paths, on Wikipedia click [here](<https://en.wikipedia.org/wiki/Path_\(computing>)#Absolute_and_relative_paths).
+> To learn more about relative and absolute paths, on Wikipedia click [here](https://en.wikipedia.org/wiki/Path_\(computing)#Absolute_and_relative_paths).
 
 ## Options
 
@@ -101,7 +101,7 @@ The specified database backup file may have the `sql.gz` or `sql` extension. For
     
 [/code]
 
-[ Previous Page bench set-config  ](</framework/v14/user/en/bench/reference/set-config>) [ Next Page bench partial-restore  ](</framework/v14/user/en/bench/reference/partial-restore>)
+[ Previous Page bench set-config  ](set-config.md) [ Next Page bench partial-restore  ](partial-restore.md)
 
 Last updated 2 months ago 
 

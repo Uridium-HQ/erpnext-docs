@@ -1,12 +1,12 @@
 # Payment Ledger
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rmort68sa>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rmort68sa)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Payment Ledger
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rmort68sa>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rmort68sa)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,7 +14,7 @@ A Separate Ledger that only records transactions on **Receivable** and **Payable
 
 #### **Ex:**
 
-A Sales Invoice of ₹1000 and a Payment Entry against that invoice will look like below. ![Screenshot 2022 05 18 at 11.13.28 AM](/files/Screenshot%202022-05-18%20at%2011.13.28%20AM.png)
+A Sales Invoice of ₹1000 and a Payment Entry against that invoice will look like below. ![Screenshot 2022 05 18 at 11.13.28 AM](https://docs.frappe.io/assets/02c2175694a0.png)
 
 ### Usage
 
@@ -24,9 +24,9 @@ Accounts Receivable, Account Receivable Summary, Account Payable and Account Pay
 
 #### Tools
 
-[Payment Reconciliation](<https://docs.erpnext.com/docs/user/manual/en/payment-reconciliation>) and its extension [Semi-Auto Payment Reconciliation](<https://docs.erpnext.com/docs/user/manual/en/semi-auto-payment-reconciliation>) tools uses Payment Ledger to calculate outstanding Invoices. Reconciliation process only updates Payment Ledger.
+[Payment Reconciliation](https://docs.erpnext.com/docs/user/manual/en/payment-reconciliation) and its extension [Semi-Auto Payment Reconciliation](https://docs.erpnext.com/docs/user/manual/en/semi-auto-payment-reconciliation) tools uses Payment Ledger to calculate outstanding Invoices. Reconciliation process only updates Payment Ledger.
 
-[ Previous Page General Ledger ](</erpnext/general-ledger>) [ Next Page Accounts Receivable and Payable ](</erpnext/accounts-receivable-and-payable>)
+[ Previous Page General Ledger ](general-ledger.md) [ Next Page Accounts Receivable and Payable ](https://docs.frappe.io/erpnext/accounts-receivable-and-payable)
 
 Last updated 2 weeks ago 
 

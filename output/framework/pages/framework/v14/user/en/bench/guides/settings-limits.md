@@ -1,12 +1,12 @@
 # Setting Limits for your Site
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/1337g1q250>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/1337g1q250)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Setting Limits for your Site 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/1337g1q250>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/1337g1q250)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -40,9 +40,9 @@ bench --site site1.local set-limit users 5
 
 You can check your usage by opening the "Usage Info" page from the toolbar / AwesomeBar. A limit will only show up on the page if it has been set.
 
-![Doctype Saved](/files/usage_info.png)
+![Doctype Saved](https://docs.frappe.io/assets/dfc58bd9146d.png)
 
-[ Previous Page Using Let's Encrypt to setup HTTPS  ](</framework/v14/user/en/bench/guides/lets-encrypt-ssl-setup>) [ Next Page Setup Multitenancy  ](</framework/v14/user/en/bench/guides/setup-multitenancy>)
+[ Previous Page Using Let's Encrypt to setup HTTPS  ](lets-encrypt-ssl-setup.md) [ Next Page Setup Multitenancy  ](setup-multitenancy.md)
 
 Last updated 2 months ago 
 

@@ -1,12 +1,12 @@
 # Opening Balance in Accounts
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rmcrbi0ic>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rmcrbi0ic)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Opening Balance in Accounts 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rmcrbi0ic>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rmcrbi0ic)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -37,7 +37,7 @@ We recommend that you start using ERPNext for accounting from a new financial ye
 
 
 
-If you were using another accounting software before, you should **close** financial statements in that software first. The closing balance of the accounts should be updated as an opening balance in the ERPNext. Before starting to update opening balance, ensure that your [Chart of Accounts](</erpnext/chart-of-accounts>) has all the Accounts required.
+If you were using another accounting software before, you should **close** financial statements in that software first. The closing balance of the accounts should be updated as an opening balance in the ERPNext. Before starting to update opening balance, ensure that your [Chart of Accounts](chart-of-accounts.md) has all the Accounts required.
 
 Opening entries can be created using the Opening Invoice Creation Tool in ERPNext.
 
@@ -51,13 +51,13 @@ To import all the existing fixed assets first create the asset record and then c
 
 **Step 1. Create Asset Records**
 
-> To know about Assets in detail, [visit this page](</erpnext/asset>).
+> To know about Assets in detail, [visit this page](asset.md).
 
 Create Asset record for each asset that your company owns which is not fully depreciated.
 
 To create a new Asset:
 
-  1. Create an [Item](</erpnext/item>) with 'Is fixed Asset' enabled.
+  1. Create an [Item](item.md) with 'Is fixed Asset' enabled.
   2. Go to **Assets > Assets > New**.
   3. Enter Asset Name.
   4. Enter Item Code.
@@ -69,7 +69,7 @@ To create a new Asset:
 
 
 
-![Opening Stock Balance](/files/asset-opening-balance.png)
+![Opening Stock Balance](https://docs.frappe.io/assets/33a373df7230.png)
 
 **Step 2. Create Journal Entry to Update the Ledgers**
 
@@ -85,17 +85,17 @@ To create a new Journal Entry:
 
 
 
-![Journal Entry Fixed Asset Opening](/files/journal-entry-fixed-asset.png)
+![Journal Entry Fixed Asset Opening](https://docs.frappe.io/assets/983e6c91d674.png)
 
 ### 2.2 Update Stock Assets
 
-Read [Opening Stock](</erpnext/opening-stock>) to understand how to set this up
+Read [Opening Stock](opening-stock.md) to understand how to set this up
 
 ### 2.3 Update Accounts Receivable
 
 **Accounts Receivables is the balance amount your Customer owes you towards the Sales Invoices you have already sent to them.**
 
-You can import the accounts receivables details using the [Opening Invoice Creation Tool](</erpnext/opening-invoice-creation-tool>).
+You can import the accounts receivables details using the [Opening Invoice Creation Tool](opening-invoice-creation-tool.md).
 
 After importing, Sales Invoices will be created. You can post Payment Entry against these invoices as and when you receive payment from your customer.
 
@@ -113,9 +113,9 @@ To import details of current assets:
 
 
 
-> To know about Journal Enter in detail, [visit this page](</erpnext/journal-entry>).
+> To know about Journal Enter in detail, [visit this page](journal-entry.md).
 
-![Opening Balance Current Assets](/files/opening-balance-current-assets.png)
+![Opening Balance Current Assets](https://docs.frappe.io/assets/eb5638acf54e.png)
 
 ## 3\. Opening Balance of Liabilities
 
@@ -133,7 +133,7 @@ To import details of capital accounts:
 
 
 
-![Opening Entry Capital Accounts](/files/opening-balance-capital-accounts.png)
+![Opening Entry Capital Accounts](https://docs.frappe.io/assets/fdc02ec378b9.png)
 
 ### 3.2 Update Current Liabilities
 
@@ -149,13 +149,13 @@ To import details of current liabilities:
 
 
 
-![Opening Balance Current Liabilities](/files/opening-balance-current-liabilities.png)
+![Opening Balance Current Liabilities](https://docs.frappe.io/assets/f92df98ddde6.png)
 
 ### 3.3 Update Accounts Payable
 
 **Accounts Payables is the balance amount you owe your Suppliers towards the invoices they have already sent you.**
 
-You can import the accounts payables details using the [Opening Invoice Creation Tool](</erpnext/opening-invoice-creation-tool>).
+You can import the accounts payables details using the [Opening Invoice Creation Tool](opening-invoice-creation-tool.md).
 
 After importing, Purchase Invoices will be created. You can post Payment Entry against these invoices as and when you make the payment.
 
@@ -163,7 +163,7 @@ After importing, Purchase Invoices will be created. You can post Payment Entry a
 
 Once all assets and liabilities have been imported, the balance of **Temporary Opening** ledger should be zero.
 
-[ Previous Page Opening Invoice Creation Tool  ](</erpnext/opening-invoice-creation-tool>) [ Next Page Setting Up Taxes  ](</erpnext/setting-up-taxes>)
+[ Previous Page Opening Invoice Creation Tool  ](opening-invoice-creation-tool.md) [ Next Page Setting Up Taxes  ](setting-up-taxes.md)
 
 Last updated 1 week ago 
 

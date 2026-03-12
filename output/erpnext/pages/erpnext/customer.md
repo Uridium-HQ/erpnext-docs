@@ -1,12 +1,12 @@
 # Customer
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0re86f2ek4>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0re86f2ek4)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Customer
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0re86f2ek4>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0re86f2ek4)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -32,7 +32,7 @@ To access the Customer list, go to:
 
 
 
-![](/files/customer8865ec.png)
+![](../../assets/f5b3495f5842.png)
 
 You can disallow sales orders and sales invoices against a customer by clicking on 'Disabled'.
 
@@ -46,7 +46,7 @@ You can also upload customer details via the Data Import Tool.
 
 General flow of transactions for a customer is as following:
 
-![Sales Flowchart](/files/customer-to%20selling-flowchart.jpeg)
+![Sales Flowchart](https://docs.frappe.io/assets/bb6420dfb831.jpeg)
 
 > Note: Customers are separate from Contacts and Addresses. A Customer can have multiple Contacts and Addresses.
 
@@ -58,7 +58,7 @@ Contacts and Addresses are stored separately so that you can attach multiple Con
 
 If the "Delivery Note Required" or "Sales Order Required" option is configured as "Yes" in Selling Settings, it can be overridden for a particular customer by enabling the "Allow Sales Invoice Creation Without Sales Order" or "Allow Sales Invoice Creation Without Delivery Note" in the Customer Master.
 
-![](/files/customer_setting.png)
+![](../../assets/914487561648.png)
 
 ### 2.3 Set Tax Withholding Category
 
@@ -113,7 +113,7 @@ You can set how a unique id should be generated each the customer in Selling Set
 
 
 
-![](/files/imagee7ed6f.png)
+![](../../assets/df57b0c3fb3c.png)
 
 You can set the default customer group, territory and price list in Selling Settings.
 
@@ -129,7 +129,7 @@ You can customize the Customer DocType using Customize Form tool.
 
 
 
-[ Previous Page Selling Essentials ](</erpnext/selling-essentials>) [ Next Page Customer Group  ](</erpnext/customer-group>)
+[ Previous Page Selling Essentials ](selling-essentials.md) [ Next Page Customer Group  ](customer-group.md)
 
 Last updated 2 weeks ago 
 

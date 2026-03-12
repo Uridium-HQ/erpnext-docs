@@ -1,12 +1,12 @@
 # Project Views
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s2ga4p2h0>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s2ga4p2h0)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Project Views 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s2ga4p2h0>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s2ga4p2h0)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -18,7 +18,7 @@ Apart from the generic list and report views for projects and tasks, ERPNext als
 
 A Gantt Chart shows how tasks are linked to each other and shows their execution sequence, based on start and end dates set in the tasks along with any dependencies, if available.
 
-![](/files/image6344a3.png) _Gantt Chart View_
+![](../../assets/680dc30d0de4.png) _Gantt Chart View_
 
 You can update the range of the chart by selecting one of Quarter Day, Half Day, Day, Week, or Month.
 
@@ -30,7 +30,7 @@ If you want to further customize the chart and make it more colorful, read this 
 
 Kanban in Japanese means "billboard" or "signboard" as the task management method traces its origin back to Toyota's lean manufacturing process. In a typical kanban board setup, you have a board or wall which is divided into section which represent different stages of execution or realization. Tasks go up on the board as sticky notes or Post Its and move through the board updating its current stage in the process.
 
-![](/files/image8704a3.png) _Kanban View_
+![](../../assets/3e2fd301e6cd.png) _Kanban View_
 
 ERPNext renders the Kanban view for tasks based on its status. You can update the status of a task by moving the representative card from one column to the next. You can also assign colors to these columns for visual reference.
 
@@ -40,9 +40,9 @@ Read customizing Kanban board to learn more.
 
 Like the Gantt chart, the calendar view also shows the task and the planned number of days it'll take to complete. However, this one shows the task spread across your regular calendar.
 
-![](/files/image5e941a.png) *Calendar view *
+![](../../assets/58dcc2f5c38c.png) *Calendar view *
 
-[ Previous Page Tasks  ](</erpnext/tasks>) [ Next Page Project Update ](</erpnext/project-update>)
+[ Previous Page Tasks  ](tasks.md) [ Next Page Project Update ](https://docs.frappe.io/erpnext/project-update)
 
 Last updated 2 weeks ago 
 

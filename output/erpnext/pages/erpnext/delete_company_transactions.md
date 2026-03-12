@@ -1,12 +1,12 @@
 # Delete Company Transactions
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0re5pn3rvm>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0re5pn3rvm)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Delete Company Transactions
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0re5pn3rvm>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0re5pn3rvm)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -29,7 +29,7 @@ If you really want to wipe out the transactions, then follow these steps. Howeve
 
 
 
-![](/files/imageaf22f8.png)
+![](../../assets/8a52fcd55b9e.png)
 
 The **Summary** table displays the names of the DocTypes whose records were deleted as well as the number of records that were deleted.
 
@@ -44,11 +44,11 @@ The **Summary** table displays the names of the DocTypes whose records were dele
 
 
 
-![](/files/imagef7bec2.png)
+![](../../assets/b7bade179e7b.png)
 
 This will submit a record in the Transaction Deletion Record DocType.
 
-[ Previous Page Bulk Rename ](</erpnext/bulk-rename>) [ Next Page Personal Data Download  ](</erpnext/personal-data-download>)
+[ Previous Page Bulk Rename ](bulk-rename.md) [ Next Page Personal Data Download  ](https://docs.frappe.io/erpnext/personal-data-download)
 
 Last updated 2 hours ago 
 

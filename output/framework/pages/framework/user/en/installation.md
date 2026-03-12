@@ -1,12 +1,12 @@
 # Installation
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0thr1unhvc>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0thr1unhvc)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Installation
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0thr1unhvc>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0thr1unhvc)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -186,7 +186,7 @@ Create your first bench.
 
 Congratulations, you have installed bench onto your system.
 
-[ Previous Page Prerequisites ](</framework/user/en/prerequisites>) [ Next Page Install and Setup Bench ](</framework/user/en/tutorial/install-and-setup-bench>)
+[ Previous Page Prerequisites ](prerequisites.md) [ Next Page Install and Setup Bench ](tutorial/install-and-setup-bench.md)
 
 Last updated 3 weeks ago 
 

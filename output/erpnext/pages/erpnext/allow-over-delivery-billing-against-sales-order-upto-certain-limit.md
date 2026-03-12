@@ -1,12 +1,12 @@
 # Allow Over Delivery/Billing
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sh9uilotb>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sh9uilotb)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Allow Over Delivery/Billing 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sh9uilotb>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sh9uilotb)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,7 +14,7 @@ When creating a Delivery Note, system validates if item's qty is same as in the 
 
 Considering the case fo sales, if you want to be able to deliver more items than mentioned in the Sales Order, you should update "Allow over delivery or receipt upto this percent" in the Item master.
 
-![Itemised Limit Percentage](/files/limit-1.png)
+![Itemised Limit Percentage](https://docs.frappe.io/assets/40d7fb111a08.png)
 
 When creating an invoice, item's rate is also validated based on the preceding transaction like Sales Order. This also applies when creating Purchase Receipt or Purchaes Invoice from Purchase Order. Updating "Allow over delivery or receipt upto this percent" will be affective in all sales and purchase transactions.
 
@@ -28,9 +28,9 @@ Update global value for "Allow over delivery or receipt upto this percent" from 
 
 
 
-![](/files/TGPrUJY.png)
+![](../../assets/44203d0d74b0.png)
 
-[ Previous Page Linking stock warehouse and accounts ](</erpnext/warehouse-ledger-link>) [ Next Page Item Codification  ](</erpnext/item-codification>)
+[ Previous Page Linking stock warehouse and accounts ](warehouse-ledger-link.md) [ Next Page Item Codification  ](item-codification.md)
 
 Last updated 1 week ago 
 

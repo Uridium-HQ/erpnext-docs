@@ -1,12 +1,12 @@
 # Manufacturing in ERPNext
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rvb6q9217>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rvb6q9217)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Manufacturing in ERPNext
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rvb6q9217>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rvb6q9217)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -25,7 +25,7 @@ The Manufacturing module in ERPNext is designed to streamline and optimise the p
 
 The Manufacturing module in ERPNext helps improve productivity, reduce costs, and enhance overall production efficiency by providing a unified platform for managing all aspects of the manufacturing process.
 
-[ Previous Page Loyalty points redemption in POS ](</erpnext/loyalty-points-redemption-in-pos>) [ Next Page Manufacturing Dashboard  ](</erpnext/manufacturing-dashboard>)
+[ Previous Page Loyalty points redemption in POS ](loyalty-points-redemption-in-pos.md) [ Next Page Manufacturing Dashboard  ](manufacturing-dashboard.md)
 
 Last updated 2 weeks ago 
 

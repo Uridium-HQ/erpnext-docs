@@ -1,12 +1,12 @@
 # bench partial-restore
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/131224rtbu>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/131224rtbu)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # bench partial-restore 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/131224rtbu>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/131224rtbu)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -28,7 +28,7 @@ The `partial-restore` command may be used to restore sites using partial backups
 
 
 
-> To learn more about relative and absolute paths, on Wikipedia click [here](<https://en.wikipedia.org/wiki/Path_\(computing>)#Absolute_and_relative_paths).
+> To learn more about relative and absolute paths, on Wikipedia click [here](https://en.wikipedia.org/wiki/Path_\(computing)#Absolute_and_relative_paths).
 
 ## Flags
 
@@ -46,7 +46,7 @@ The `partial-restore` command may be used to restore sites using partial backups
     
 [/code]
 
-[ Previous Page bench restore  ](</framework/v14/user/en/bench/reference/restore>) [ Next Page bench version  ](</framework/v14/user/en/bench/reference/bench-version>)
+[ Previous Page bench restore  ](restore.md) [ Next Page bench version  ](bench-version.md)
 
 Last updated 2 months ago 
 

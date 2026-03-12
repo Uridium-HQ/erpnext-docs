@@ -1,12 +1,12 @@
 # Zenoti Integration
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s7tacntft>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s7tacntft)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Zenoti Integration
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s7tacntft>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s7tacntft)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -18,13 +18,13 @@ While creating these records if Customer, Supplier or Item is missing in ERPNext
 
 ### How to Setup?
 
-Zenoti Integration is available through _Ecommerce Integrations_ on [Frappe Cloud Marketplace](<https://frappecloud.com/marketplace/apps/ecommerce_integrations>).
+Zenoti Integration is available through _Ecommerce Integrations_ on [Frappe Cloud Marketplace](https://frappecloud.com/marketplace/apps/ecommerce_integrations).
 
 ### App Installation
 
-  * If you are hosting your ERPNext site on Frappe Cloud, you can quickly install the app by going to your site Dashboard. The app is available in [Frappe Cloud Marketplace](<https://frappecloud.com/marketplace/apps/ecommerce_integrations>).
+  * If you are hosting your ERPNext site on Frappe Cloud, you can quickly install the app by going to your site Dashboard. The app is available in [Frappe Cloud Marketplace](https://frappecloud.com/marketplace/apps/ecommerce_integrations).
   * If your site is hosted by Frappe, please raise a support ticket to get the app installed on your site.
-  * If you are self hosting ERPNext you can install the app using Frappe bench. Refer [bench documentation](<https://frappeframework.com/docs/user/en/bench/frappe-commands#app-installation>) for installing Frappe Apps. `bench get-app ecommerce_integrations --branch main`
+  * If you are self hosting ERPNext you can install the app using Frappe bench. Refer [bench documentation](https://frappeframework.com/docs/user/en/bench/frappe-commands) for installing Frappe Apps. `bench get-app ecommerce_integrations --branch main`
 
 
 
@@ -46,7 +46,7 @@ The repository for app is hosted on GitHub: <http://github.com/frappe/ecommerce_
 
 > To access Zenoti Settings, go to: Awesome search bar > Zenoti Settings.
 
-![Zenoti setting page](/files/Zenoti%20Settings%20Screen.png)
+![Zenoti setting page](https://docs.frappe.io/assets/1d37d80eb65c.png)
 
   1. **Last Sync:** Date and time of when the invoices were synced last.
   2. **API Key:** API Key from Zenoti. If you do not have an API Key, you can easily generate one by going to Admin > Setup > API section.
@@ -117,7 +117,7 @@ Each Gift/Prepaid card will be treated as Items. Gift/Prepaid Cards will be trea
 
 At the end of the day, stock will be synced via Stock Reconciliation.
 
-[ Previous Page Unicommerce Integration ](</erpnext/unicommerce_integration>) [ Next Page ERPNext Shipping ](</erpnext/erpnext_shipping>)
+[ Previous Page Unicommerce Integration ](https://docs.frappe.io/erpnext/unicommerce_integration) [ Next Page ERPNext Shipping ](erpnext_shipping.md)
 
 Last updated 2 weeks ago 
 

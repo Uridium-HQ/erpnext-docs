@@ -1,12 +1,12 @@
 # Token based authentication
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12frnkasl4>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12frnkasl4)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Token based authentication 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12frnkasl4>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12frnkasl4)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -50,7 +50,7 @@ Check `Guides / Integrations / Rest Api / Token Based Authentication` to see how
 
 
 
-[ Previous Page How to setup OAuth 2?  ](</framework/v14/user/en/guides/integration/how_to_set_up_oauth>) [ Next Page Using Frappe as OAuth Service ](</framework/v14/user/en/using_frappe_as_oauth_service>)
+[ Previous Page How to setup OAuth 2?  ](how_to_set_up_oauth.md) [ Next Page Using Frappe as OAuth Service ](../../using_frappe_as_oauth_service.md)
 
 Last updated 2 months ago 
 

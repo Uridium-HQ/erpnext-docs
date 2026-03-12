@@ -1,12 +1,12 @@
 # Integration Categories
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s6v860ckf>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s6v860ckf)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Integration Categories
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s6v860ckf>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s6v860ckf)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -16,72 +16,72 @@ These integrations span across e-commerce platforms, payment gateways, shipping 
 
 To integrate ERPNext with other applications that aren't listed here, you can use Frappe's REST API. Visit this link to learn more about it:
 
-[Frappe Rest API](<https://frappeframework.com/docs/user/en/guides/integration/rest_api>)
+[Frappe Rest API](https://frappeframework.com/docs/user/en/guides/integration/rest_api)
 
 ### Authentication Integrations
 
-  * [Setting up LDAP](</erpnext/user/manual/en/ldap-integration>)
-  * [Setting up Fairlogin](</erpnext/user/manual/en/fairlogin-integration>)
+  * [Setting up LDAP](user/manual/en/ldap-integration.md)
+  * [Setting up Fairlogin](user/manual/en/fairlogin-integration.md)
 
 
 
 ### Backup Integrations
 
-  * [Setting up Dropbox Backups](</erpnext/user/manual/en/dropbox-backup>)
-  * [Google Drive Integration](</erpnext/user/manual/en/google_drive>)
-  * [Upload Backups to Amazon S3](</erpnext/user/manual/en/aws_s3>)
+  * [Setting up Dropbox Backups](user/manual/en/dropbox-backup.md)
+  * [Google Drive Integration](user/manual/en/google_drive.md)
+  * [Upload Backups to Amazon S3](https://docs.frappe.io/erpnext/user/manual/en/aws_s3)
 
 
 
 ### Bank Integrations
 
-  * [Plaid Integration](</erpnext/user/manual/en/plaid_integration>)
+  * [Plaid Integration](https://docs.frappe.io/erpnext/user/manual/en/plaid_integration)
 
 
 
 ### E-commerce Integrations
 
-  * [Shopify Integration](</erpnext/user/manual/en/shopify_integration>)
-  * [WooCommerce Integration](</erpnext/user/manual/en/woocommerce_integration>)
-  * [Amazon SP-API Integration](</erpnext/user/manual/en/amazon_integration>)
-  * [Unicommerce Integration](</erpnext/user/manual/en/unicommerce_integration>)
-  * [Zenoti Integration](</erpnext/user/manual/en/zenoti_integration>)
+  * [Shopify Integration](https://docs.frappe.io/erpnext/user/manual/en/shopify_integration)
+  * [WooCommerce Integration](https://docs.frappe.io/erpnext/user/manual/en/woocommerce_integration)
+  * [Amazon SP-API Integration](https://docs.frappe.io/erpnext/user/manual/en/amazon_integration)
+  * [Unicommerce Integration](https://docs.frappe.io/erpnext/user/manual/en/unicommerce_integration)
+  * [Zenoti Integration](https://docs.frappe.io/erpnext/user/manual/en/zenoti_integration)
 
 
 
 ### Shipping Integrations
 
-  * [ERPNext Shipping](</erpnext/user/manual/en/erpnext_shipping>)
+  * [ERPNext Shipping](https://docs.frappe.io/erpnext/user/manual/en/erpnext_shipping)
 
 
 
 ### Payment Integrations
 
-  * [RazorPay Integration](</erpnext/user/manual/en/razorpay-integration>)
-  * [GoCardless Integration](</erpnext/user/manual/en/gocardless-integration>)
-  * [Stripe Integration](</erpnext/user/manual/en/stripe-integration>)
-  * [Braintree Integration](</erpnext/user/manual/en/braintree-integration>)
-  * [Paytm Integration](</erpnext/user/manual/en/paytm-integration>)
-  * [M-pesa Integration](</erpnext/user/manual/en/mpesa-integration>)
+  * [RazorPay Integration](https://docs.frappe.io/erpnext/user/manual/en/razorpay-integration)
+  * [GoCardless Integration](https://docs.frappe.io/erpnext/user/manual/en/gocardless-integration)
+  * [Stripe Integration](https://docs.frappe.io/erpnext/user/manual/en/stripe-integration)
+  * [Braintree Integration](https://docs.frappe.io/erpnext/user/manual/en/braintree-integration)
+  * [Paytm Integration](https://docs.frappe.io/erpnext/user/manual/en/paytm-integration)
+  * [M-pesa Integration](https://docs.frappe.io/erpnext/user/manual/en/mpesa-integration)
 
 
 
 ### Telephony Integrations
 
-  * [Exotel Integrations](</erpnext/user/manual/en/exotel_integration>)
+  * [Exotel Integrations](https://docs.frappe.io/erpnext/user/manual/en/exotel_integration)
 
 
 
 ### Google Integrations
 
-  * [Google Settings](</erpnext/user/manual/en/google_settings>)
-  * [Google Calendar Integration](</erpnext/user/manual/en/google_calendar>)
-  * [Google Contact Integration](</erpnext/user/manual/en/google_contacts>)
-  * [Google Maps Integration](</erpnext/user/manual/en/google_maps>)
+  * [Google Settings](https://docs.frappe.io/erpnext/user/manual/en/google_settings)
+  * [Google Calendar Integration](https://docs.frappe.io/erpnext/user/manual/en/google_calendar)
+  * [Google Contact Integration](https://docs.frappe.io/erpnext/user/manual/en/google_contacts)
+  * [Google Maps Integration](https://docs.frappe.io/erpnext/user/manual/en/google_maps)
 
 
 
-[ Previous Page Milestone Tracking  ](</erpnext/milestone-tracker>) [ Next Page Google Settings ](</erpnext/google_settings>)
+[ Previous Page Milestone Tracking  ](https://docs.frappe.io/erpnext/milestone-tracker) [ Next Page Google Settings ](google_settings.md)
 
 Last updated 2 weeks ago 
 

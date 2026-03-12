@@ -1,12 +1,12 @@
 # Dynamic Link Fields
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0t8ia765ua>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0t8ia765ua)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Dynamic Link Fields 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0t8ia765ua>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0t8ia765ua)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -22,7 +22,7 @@ Below are the steps to insert Custom Dynamic Field. For instance, we will insert
 
 First, we will create a link field that will be linked to the DocType.
 
-![Custom Link Field](/files/customize-dynamic-link-1.gif)
+![Custom Link Field](https://docs.frappe.io/assets/7a1da50a6d05.gif)
 
 By **DocType** mentioned in the Option field, we mean parent DocType. So, just like Quotation is one DocType, which has multiple Quotation under it. Same way, DocType is also a DocType which has Sales Order, Purchase Order and other doctypes created as DocType records.
 
@@ -44,23 +44,23 @@ By **DocType** mentioned in the Option field, we mean parent DocType. So, just l
 
 So linking this field with parent DocType will list all the DocType records.
 
-![journal Voucher Link Field](/files/customize-dynamic-link.png)
+![journal Voucher Link Field](https://docs.frappe.io/assets/63ad39910d2c.png)
 
 #### Step 2: Insert Dynamic Link Field
 
 This custom field's type will be "Dynamic Link". In the Option field, the name of the Doctype link field will be mentioned.
 
-![Custom Dynamic Field](/files/customize-dynamic-link-2.gif)
+![Custom Dynamic Field](https://docs.frappe.io/assets/046099c47372.gif)
 
 This field will allow selecting document id, based on the value selected in the Doctype link field. For example, if we select Sales Order in the prior field, the Dynamic Link field will list all the Sales Orders ids.
 
-![Custom Dynamic Field](/files/customize-dynamic-link-3.gif)
+![Custom Dynamic Field](https://docs.frappe.io/assets/e28410432475.gif)
 
 **Customizing options in the Doctype Link field**
 
 By default, the DocType link field will provide all the forms/docTypes for selection. If you wish this field to show certain specific docTypes in the search result, you will need to write Custom Script for it.
 
-[ Previous Page Table MultiSelect Field ](</erpnext/table-multiselect-field>) [ Next Page Signature Field ](</erpnext/electronic-signature>)
+[ Previous Page Table MultiSelect Field ](table-multiselect-field.md) [ Next Page Signature Field ](https://docs.frappe.io/erpnext/electronic-signature)
 
 Last updated 1 week ago 
 

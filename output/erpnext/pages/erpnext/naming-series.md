@@ -1,12 +1,12 @@
 # Naming Series
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/8jpgmu2bth>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/8jpgmu2bth)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Naming Series 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/8jpgmu2bth>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/8jpgmu2bth)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -30,7 +30,7 @@ You can define or select the Naming Series pattern from:
 
   1. Select the transaction for which you want to make the series. The system will update the current series in the text box.
 
-  2. Edit the series as required with unique prefixes for each series. The first prefix will be the default prefix. Each new prefix Naming Series must be added on a new line. The newly added naming series will be available in the document. ![Multiple naming series](/files/multiple-naming-series.gif)
+  2. Edit the series as required with unique prefixes for each series. The first prefix will be the default prefix. Each new prefix Naming Series must be added on a new line. The newly added naming series will be available in the document. ![Multiple naming series](https://docs.frappe.io/assets/43b82a2454b5.gif)
 
   3. If you want the user to explicitly select a series instead of the default one, check the “User must always select” checkbox. There will be no default naming series if this is ticked.
 
@@ -51,7 +51,7 @@ Alternatively it is also possible to manually embed the fiscal year in the namin
 
 As you can see, in the following screenshot of a Sales Invoice, the year 2019 is listed:
 
-![Fiscal year in Naming Series](/files/year-naming-series.png)
+![Fiscal year in Naming Series](https://docs.frappe.io/assets/65644bb60ae4.png)
 
 ## 3\. Updating the current value for existing Naming Series
 
@@ -66,7 +66,7 @@ You can change the starting/current sequence number of an existing series.
 
 For example, if the current Sales Order series number is at 16, and you want to restart or set it as 50, enter 0 or 50 depending on your case. Any new Sales Order created will start from the new sequence number.
 
-To know more about this, [visit this article](</erpnext/naming-series-current-value>).
+To know more about this, [visit this article](naming-series-current-value.md).
 
 > Tip: You could have a separate series for each type of Customer or for each of your retail outlets.
 
@@ -80,7 +80,7 @@ A custom field "Vendor ID" is created under Document: Supplier. Then under Namin
 
 ## 5\. Video
 
-[ Previous Page DocType  ](</erpnext/doctype>) [ Next Page Document Naming Settings ](</erpnext/document-naming-settings>)
+[ Previous Page DocType  ](doctype.md) [ Next Page Document Naming Settings ](document-naming-settings.md)
 
 Last updated 1 week ago 
 

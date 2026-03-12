@@ -1,12 +1,12 @@
 # Debit Note
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rmmel0gj9>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rmmel0gj9)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Debit Note 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rmmel0gj9>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rmmel0gj9)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,24 +20,24 @@ A Debit is for your record of the debit against the Items your return.
 
 The user can make a Debit Note against the Purchase Invoice or they can directly make Debit Note from the Purchase Invoice without reference.
 
-  1. Go to the respective Purchase Invoice and click on **Create > Return / Debit Note**. ![Debit Note from Invoice](/files/debit-note-from-purchase-invoice.png)
+  1. Go to the respective Purchase Invoice and click on **Create > Return / Debit Note**. ![Debit Note from Invoice](https://docs.frappe.io/assets/d5387dcd5c8c.png)
   2. The Supplier and Item details will be fetched as set in the Purchase Invoice.
   3. If you had paid partially or fully, make a Payment Entry against the original Purchase Invoice.
   4. Save and Submit.
 
 
 
-![Debit Note](/files/debit-note.png)
+![Debit Note](https://docs.frappe.io/assets/49cd7d0a243e.png)
 
-The other steps are similar to a [Purchase Invoice](</erpnext/purchase-invoice>).
+The other steps are similar to a [Purchase Invoice](../../../purchase-invoice.md).
 
 ### 1.1 How does Debit Note affect ledger
 
 The Debit Note will reverse the impact of the purchase invoice.
 
-![Debit Note Ledger](/files/debit-note-ledger.png)
+![Debit Note Ledger](https://docs.frappe.io/assets/8db23c738f61.png)
 
-Refer the [Purchase Invoice](</erpnext/purchase-invoice>) page for any other details.
+Refer the [Purchase Invoice](../../../purchase-invoice.md) page for any other details.
 
 ### 1.2 No payment was made against Sales Invoice
 
@@ -49,16 +49,16 @@ From Supplier Blue Mills, you had purchased Cotton worth Rs 2400 + taxes and at 
 
 Debit Note with payment entry in ERPNext for above example is as below:
 
-![Creating Debit Note](/files/creating-debit-note.gif)
+![Creating Debit Note](https://docs.frappe.io/assets/ac793b7f52c1.gif)
 
 ### 3\. Related Topics
 
-  1. [Payment Entry](</erpnext/payment-entry>)
-  2. [Credit Note](</erpnext/credit-note>)
+  1. [Payment Entry](../../../payment-entry.md)
+  2. [Credit Note](../../../credit-note.md)
 
 
 
-[ Previous Page Purchase Invoice ](</erpnext/purchase-invoice>) [ Next Page Banking ](</erpnext/banking-in-erpnext>)
+[ Previous Page Purchase Invoice ](../../../purchase-invoice.md) [ Next Page Banking ](../../../banking-in-erpnext.md)
 
 Last updated 2 weeks ago 
 

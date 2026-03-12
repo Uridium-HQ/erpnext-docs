@@ -1,18 +1,18 @@
 # OAuth 2
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0u06ushhl8>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0u06ushhl8)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # OAuth 2 
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0u06ushhl8>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0u06ushhl8)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-Use the header `Authorization: Bearer <access_token>` to perform authenticated requests. You can receive a [bearer token](<https://tools.ietf.org/html/rfc6750>) by combining the following two requests.
+Use the header `Authorization: Bearer <access_token>` to perform authenticated requests. You can receive a [bearer token](https://tools.ietf.org/html/rfc6750) by combining the following two requests.
 
-> Here is an amazing introduction to OAuth: [OAuth 2.0 and OpenID Connect (in plain English)](<https://www.youtube.com/watch?v=996OiexHze0>)
+> Here is an amazing introduction to OAuth: [OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0)
 
 ## GET /api/method/frappe.integrations.oauth2.authorize
 
@@ -30,7 +30,7 @@ ID of your OAuth2 application
 
 
 
-Arbitrary value used by your client application to maintain state between the request and callback. The authorization server includes this value when redirecting the user-agent back to the client. The parameter should be used for preventing [cross-site request forgery](<https://tools.ietf.org/html/rfc6749#section-10.12>).
+Arbitrary value used by your client application to maintain state between the request and callback. The authorization server includes this value when redirecting the user-agent back to the client. The parameter should be used for preventing [cross-site request forgery](https://tools.ietf.org/html/rfc6749).
 
   * response_type (string)
 
@@ -376,10 +376,10 @@ OR
 
 Please check `Guides / Integration / How To Set Up Oauth` to see how to create a new OAuth 2 client.
 
-  * [Content-Type Header](<https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type>),
-  * [Authorization Header](<https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Authorization>),
-  * [OAuth 2 Specification](<https://tools.ietf.org/html/rfc6749>),
-  * [Bearer token](<https://tools.ietf.org/html/rfc6750>).
+  * [Content-Type Header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type),
+  * [Authorization Header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Authorization),
+  * [OAuth 2 Specification](https://tools.ietf.org/html/rfc6749),
+  * [Bearer token](https://tools.ietf.org/html/rfc6750).
 
 
 
@@ -392,7 +392,7 @@ Authors:
 
 </access_token>
 
-[ Previous Page Token Based Authentication ](</framework/user/en/guides/integration/rest_api/token_based_authentication>) [ Next Page Listing documents  ](</framework/user/en/guides/integration/rest_api/listing_documents>)
+[ Previous Page Token Based Authentication ](token_based_authentication.md) [ Next Page Listing documents  ](https://docs.frappe.io/framework/user/en/guides/integration/rest_api/listing_documents)
 
 Last updated 3 weeks ago 
 

@@ -1,12 +1,12 @@
 # Desk
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/135tmfpsrf>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/135tmfpsrf)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Desk
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/135tmfpsrf>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/135tmfpsrf)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -17,9 +17,9 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 
 
-![Frappe List View](../../../../../../assets/1b6dbb0a74c2.gif)
+![Frappe List View](https://docs.frappe.io/assets/1b6dbb0a74c2.gif)
 
-[ Previous Page UI Testing  ](</framework/v14/user/en/ui-testing>) [ Next Page Debugging  ](</framework/v14/user/en/debugging>)
+[ Previous Page UI Testing  ](../ui-testing.md) [ Next Page Debugging  ](../debugging.md)
 
 Last updated 2 months ago 
 

@@ -1,12 +1,12 @@
 # Fiscal Year
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ro4mttgle>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ro4mttgle)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Fiscal Year 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ro4mttgle>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ro4mttgle)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -28,7 +28,7 @@ To access the Fiscal Year list, go to:
 
   1. Go to the Fiscal Year list.
   2. To set the Fiscal Year as default, click on the **Set as Default** button.
-  3. In case you have multiple companies sharing the same Fiscal Year, you can add it as shown in the following screenshot: ![Fiscal Year](/files/fiscal-year.png)
+  3. In case you have multiple companies sharing the same Fiscal Year, you can add it as shown in the following screenshot: ![Fiscal Year](https://docs.frappe.io/assets/0b0a3cdba9e0.png)
 
 
 
@@ -38,7 +38,7 @@ Note -
 
 2.Three days prior to the end of the current Fiscal Year, system checks if new Fiscal Year for the incoming year is already created. If not, then system auto-creates new Fiscal Year.
 
-[ Previous Page Taxes ](</erpnext/taxes>) [ Next Page Opening Invoice Creation Tool  ](</erpnext/opening-invoice-creation-tool>)
+[ Previous Page Taxes ](taxes.md) [ Next Page Opening Invoice Creation Tool  ](opening-invoice-creation-tool.md)
 
 Last updated 2 weeks ago 
 

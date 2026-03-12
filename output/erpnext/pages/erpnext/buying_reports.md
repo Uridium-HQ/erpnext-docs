@@ -1,12 +1,12 @@
 # Buying Reports
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rgaivc7sj>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rgaivc7sj)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Buying Reports
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rgaivc7sj>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rgaivc7sj)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -85,7 +85,7 @@ In other reports section, the following reports can be accessed:
 
 
 
-[ Previous Page Customer Portal ](</erpnext/customer-portal>) [ Next Page Procurement Tracker Report  ](</erpnext/procurement-tracker-report>)
+[ Previous Page Customer Portal ](https://docs.frappe.io/erpnext/customer-portal) [ Next Page Procurement Tracker Report  ](procurement-tracker-report.md)
 
 Last updated 2 weeks ago 
 

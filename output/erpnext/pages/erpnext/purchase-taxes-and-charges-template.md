@@ -1,12 +1,12 @@
 # Purchase Taxes and Charges Template
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rpcqd7ng3>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rpcqd7ng3)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Purchase Taxes and Charges Template 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rpcqd7ng3>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rpcqd7ng3)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -33,7 +33,7 @@ Before creating a new template, note that templates are already created for many
   7. On Previous Row Total: Same as above but applied on the total bill and not just the amount of an item.
   8. Select an account head which has pre set tax rates or create your own.
   9. Selecting default will apply this template by default for new Purchase transactions.
-  10. Save. ![Purchase taxes](/files/purchase-taxes.png)
+  10. Save. ![Purchase taxes](https://docs.frappe.io/assets/618e6a0cdecc.png)
 
 
 
@@ -43,11 +43,11 @@ Is Inter State: For India. On selection of a customer in Sales Invoice or Delive
 
 ### 2.1 Purchase Taxes and Charges table
 
-  * **Consider Tax or Charge for** : Total - for the total of all items. Valuation - for each item. Valuation and total - apply tax/charge to both. [Check out this article](<https://docs.erpnext.com/docs/v13/user/manual/en/accounts/articles/difference-in-total-and-valuation-in-tax-and-charges>) to know the difference.
+  * **Consider Tax or Charge for** : Total - for the total of all items. Valuation - for each item. Valuation and total - apply tax/charge to both. [Check out this article](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/articles/difference-in-total-and-valuation-in-tax-and-charges) to know the difference.
 
   * **Add or Deduct:** Whether you want to add or deduct the tax from the item.
 
-  * **Reference Row #** : If tax is based on "Previous Row Total" you can select the row number which will be taken as a base for this calculation (default is the previous row). ![Purchase taxes table](/files/purchase-taxes-table.png)
+  * **Reference Row #** : If tax is based on "Previous Row Total" you can select the row number which will be taken as a base for this calculation (default is the previous row). ![Purchase taxes table](https://docs.frappe.io/assets/29ae059b426a.png)
 
   * **Is this Tax included in Basic Rate?** : If checked, the tax amount will be considered as already included in the Print Rate / Print Amount.
 
@@ -66,12 +66,12 @@ Is Inter State: For India. On selection of a customer in Sales Invoice or Delive
 
 ### 3\. Related Topics
 
-  1. [Purchase Order](</erpnext/purchase-order>)
-  2. [Buying Settings](</erpnext/buying-settings>)
+  1. [Purchase Order](purchase-order.md)
+  2. [Buying Settings](buying-settings.md)
 
 
 
-[ Previous Page Types in Tax Template ](</erpnext/types-in-tax-template>) [ Next Page Sales Taxes and Charges Template  ](</erpnext/sales-taxes-and-charges-template>)
+[ Previous Page Types in Tax Template ](types-in-tax-template.md) [ Next Page Sales Taxes and Charges Template  ](sales-taxes-and-charges-template.md)
 
 Last updated 2 weeks ago 
 

@@ -1,12 +1,12 @@
 # Purchase Order
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rgssb27pp>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rgssb27pp)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Purchase Order
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rgssb27pp>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rgssb27pp)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -16,7 +16,7 @@ It is similar to a Sales Order but instead of sending it to an external party, y
 
 > Home > Buying > Purchasing > Purchase Order
 
-![Buying Flow](/files/buying_flow_po.png)
+![Buying Flow](https://docs.frappe.io/assets/910d22e596d5.png)
 
   1. Prerequisites
 
@@ -26,8 +26,8 @@ It is similar to a Sales Order but instead of sending it to an external party, y
 
 Before creating and using a Purchase Order, it is advised that you create the following first:
 
-  * [Supplier](</erpnext/supplier>)
-  * [Item](</erpnext/item>)
+  * [Supplier](supplier.md)
+  * [Item](item.md)
 
 
   1. How to create a Purchase Order
@@ -47,7 +47,7 @@ A Purchase Order can be automatically created from a Material Request or Supplie
 
 
 
-![](/files/Screenshot%202026-01-19%20at%2012.13.45%20PM.png)
+![](../../assets/cf9ecf6c9d28.png)
 
 ### 2.1 Setting Warehouses
 
@@ -57,18 +57,18 @@ A Purchase Order can be automatically created from a Material Request or Supplie
 
 ### 2.2 Fetching Items from Open Material Requests
 
-Items can be fetched into the Purchase Order automatically from open [Material Requests](</erpnext/material-request>). For this to work, the following steps need to be done:
+Items can be fetched into the Purchase Order automatically from open [Material Requests](material-request.md). For this to work, the following steps need to be done:
 
   1. Select a Supplier in the Purchase Order.
-  2. Set default Supplier in the Item form under [Item Defaults](</erpnext/item#39-item-defaults>).
-  3. A [Material Request](</erpnext/material-request>) needs to be present of type 'Purchase'.
+  2. Set default Supplier in the Item form under [Item Defaults](item.md).
+  3. A [Material Request](material-request.md) needs to be present of type 'Purchase'.
   4. Click on the **Get Items from open Material Requests** button below the Supplier name. Now a dialog will appear with Material Requests containing Items for which the default Supplier is the same as the one selected in the Purchase Order. On selecting the Material Requests and clicking on **Get Items** , the Items will be fetched from the Material Requests.
 
 
 
 > **Note:** The **Get Items from Open Material Requests** button is visible as long as the Items table is empty.
 
-![](/files/Screenshot%202026-01-19%20at%2012.20.15%20PM.png)
+![](../../assets/5282c76dd49a.png)
 
   1. Features
 
@@ -95,15 +95,15 @@ For India:
 
 You can set the currency in which the purchase order is to be stored. If you set a Pricing List, then the item prices will be fetched from that list. Ticking on Ignore Pricing Rule will ignore the Pricing Rules set in Accounts > Pricing Rule.
 
-Read about [Price Lists](</erpnext/price-lists>) and [Multi-Currency Transactions](</erpnext/accounts/articles/managing-transactions-in-multiple-currencies>) to know more.
+Read about [Price Lists](price-lists.md) and [Multi-Currency Transactions](accounts/articles/managing-transactions-in-multiple-currencies.md) to know more.
 
 ### 3.3 Subcontracting or 'Supply Raw Materials'
 
-Setting 'Supply Raw Materials' option is useful for subcontracting where you provide the raw materials for manufacturing an item. To know more, visit the [Subcontracting page](</erpnext/subcontracting>).
+Setting 'Supply Raw Materials' option is useful for subcontracting where you provide the raw materials for manufacturing an item. To know more, visit the [Subcontracting page](subcontracting.md).
 
 ### 3.4 The Items table
 
-  * **Scan Barcode** : You can add Items in the Items table by scanning their barcodes if you have a barcode scanner. Read documentation for [tracking items using barcode](</erpnext/track-items-using-barcode>) to know more.
+  * **Scan Barcode** : You can add Items in the Items table by scanning their barcodes if you have a barcode scanner. Read documentation for [tracking items using barcode](track-items-using-barcode.md) to know more.
   * **Quantity and Rate** : When you select the Item code, its name, description, and UOM will be fetched. The 'UOM Conversion Factor' is set to 1 by default, you can change it depending on the UOM received from the seller, more in the next section.
 
 
@@ -111,7 +111,7 @@ Setting 'Supply Raw Materials' option is useful for subcontracting where you pro
 'Price List Rate' will be fetched if a Standard Buying rate is set. 'Last Purchase Rate' shows the rate of the item from your last Purchase Order. Rate is fetched if set in the item master. You can attach an Item Tax Template to apply a specific tax rate to the item.
 
   * **Item weights** will be fetched if set in the Item master else enter manually.
-  * **Warehouse** : The warehouse where the items will be delivered, will be auto filled if 'Set Target Warehouse' was set in the Purchase Order. Via Blanket Order, a Blanket Order can be linked, to know more [click here](</erpnext/blanket-order>). A 'Project' can be linked to track progress. A 'BOM' or Bill of Materials can also be linked to track progress.
+  * **Warehouse** : The warehouse where the items will be delivered, will be auto filled if 'Set Target Warehouse' was set in the Purchase Order. Via Blanket Order, a Blanket Order can be linked, to know more [click here](blanket-order.md). A 'Project' can be linked to track progress. A 'BOM' or Bill of Materials can also be linked to track progress.
   * 'Qty as per Stock UOM' will show the current stock as per the UOM set in the Item master. 'Received Qty' will be updated when the items are billed.
   * **Accounting Details** : This section is auto filled for a Purchase Order. 'Expense Account' is the account against which the PO is billed, and Cost Center is the CC against which the PO is charged.
 
@@ -133,32 +133,32 @@ For example, if you have bought your raw material in large quantities with UOM -
 
 
 
-![Purchase Order - UOM](/files/purchase-order-uom.png)
+![Purchase Order - UOM](https://docs.frappe.io/assets/dd06914f7544.png)
 
   1. Mention the UOM conversion factor. For example, (1); If one box has 1 kilo.
   2. Notice that the stock quantity will be updated accordingly.
 
 
 
-![Purchase Order - UOM](/files/po-stock-uom.png)
+![Purchase Order - UOM](https://docs.frappe.io/assets/1fcc5e9a7455.png)
 
 ### 3.6 Taxes and Charges
 
 If your Supplier is going to charge you additional taxes or charge like a shipping or insurance charge, you can add it here. It will help you to accurately track your costs. Also, if some of these charges add to the value of the product you will have to mention them in the Taxes table.
 
-Visit the [Purchase Taxes and Charges Template](</erpnext/purchase-taxes-and-charges-template>) page to know more about taxes.
+Visit the [Purchase Taxes and Charges Template](purchase-taxes-and-charges-template.md) page to know more about taxes.
 
 The total taxes and charges will be displayed below the table.
 
-To add taxes automatically via a Tax Category, visit [this page](</erpnext/tax-category>).
+To add taxes automatically via a Tax Category, visit [this page](tax-category.md).
 
 Make sure to mark all your taxes in the Taxes and Charges table correctly for an accurate valuation.
 
 #### Shipping Rule
 
-A Shipping Rule helps set the cost of shipping an Item. The cost will usually increase with the distance of shipping. To know more, visit the [Shipping Rule](</erpnext/shipping-rule>) page.
+A Shipping Rule helps set the cost of shipping an Item. The cost will usually increase with the distance of shipping. To know more, visit the [Shipping Rule](shipping-rule.md) page.
 
-![Purchase Order Taxes](/files/po-taxes.png)
+![Purchase Order Taxes](https://docs.frappe.io/assets/a52150500763.png)
 
 For example, you buy Items worth X and sell them for 1.3X. So, your Customer pays 1.3 times the tax you pay your Supplier. Since you have already paid tax to your Supplier for X, what you owe your government is only the tax on 0.3X.
 
@@ -168,29 +168,29 @@ This is very easy to track in ERPNext since each tax head is also an Account. Id
 
 Other than recording discount per item, you can add a discount to the whole purchase order in this section. This discount could be based on the Grand Total i.e., post-tax/charges or Net total i.e., pre-tax/charges. The additional discount can be applied as a percentage or an amount.
 
-Read [Applying Discount](</erpnext/applying-discount>) for more details.
+Read [Applying Discount](applying-discount.md) for more details.
 
 ### 3.8 Payment Terms
 
 Sometimes payment is not done all at once. Depending on the agreement, half of the payment may be made before shipment and the other half after receiving the goods/services. You can add a Payment Terms template or add the terms manually in this section.
 
-Read [Payment Terms](</erpnext/payment-terms>) to know more.
+Read [Payment Terms](payment-terms.md) to know more.
 
 ### 3.9 Terms and Conditions
 
-In Sales/Purchase transactions there might be certain Terms and Conditions based on which the Supplier provides goods or services to the Customer. You can apply the Terms and Conditions to transactions to transactions and they will appear when printing the document. To know about Terms and Conditions, [click here](</erpnext/terms-and-conditions>)
+In Sales/Purchase transactions there might be certain Terms and Conditions based on which the Supplier provides goods or services to the Customer. You can apply the Terms and Conditions to transactions to transactions and they will appear when printing the document. To know about Terms and Conditions, [click here](terms-and-conditions.md)
 
 ### 3.10 Print Settings
 
 #### Letterhead
 
-You can print your request for quotation / purchase order on your company's letterhead. Know more [here](</erpnext/letter-head>).
+You can print your request for quotation / purchase order on your company's letterhead. Know more [here](letter-head.md).
 
 'Group same items' will group the same items added multiple times in the items table. This can be seen when your print.
 
 #### Print Headings
 
-Titles of your documents can be changed. Know more [here](</erpnext/print-headings>).
+Titles of your documents can be changed. Know more [here](print-headings.md).
 
 The seller's Additional Discount, Payment Terms, Terms and Conditions can be recorded in your Purchase Order.
 
@@ -205,25 +205,25 @@ Once you “Submit” your Purchase Order, you can trigger actions these actions
   * You can Add, Update, Delete items in the Purchase Order by clicking on the **Update Items** button. However, you cannot delete items which has already been received.
   * Status: Once submitted, you can hold a Purchase Order or Close it.
   * Create: From a submitted Purchase Order, you can create the following:
-    * [Purchase Receipt](</erpnext/purchase-receipt>) \- A receipt indicating you've received the items.
-    * [Purchase Invoice](</erpnext/purchase-invoice>) \- An invoice/bill for the purchase order.
-    * [Payment Entry](</erpnext/payment-entry>) \- A payment entry indicates that payment has been made against a purchase order.
-    * [Journal Entry](</erpnext/journal-entry>) \- A Journal Entry is recorded in the general ledger.
+    * [Purchase Receipt](purchase-receipt.md) \- A receipt indicating you've received the items.
+    * [Purchase Invoice](purchase-invoice.md) \- An invoice/bill for the purchase order.
+    * [Payment Entry](payment-entry.md) \- A payment entry indicates that payment has been made against a purchase order.
+    * [Journal Entry](journal-entry.md) \- A Journal Entry is recorded in the general ledger.
 
 
 
-![](/files/Screenshot%202026-01-19%20at%2012.22.53%20PM.png)
+![](../../assets/91b92f83d3cb.png)
 
 ### 4\. Related Topics
 
-  1. [Request For Quotation](</erpnext/request-for-quotation>)
-  2. [Purchase Taxes and Charges Template](</erpnext/purchase-taxes-and-charges-template>)
-  3. [Purchasing In Different Unit](</erpnext/purchasing-in-different-unit>)
-  4. [Amending Purchase Order After Submit](</erpnext/amending-purchase-order-after-submit>)
+  1. [Request For Quotation](request-for-quotation.md)
+  2. [Purchase Taxes and Charges Template](purchase-taxes-and-charges-template.md)
+  3. [Purchasing In Different Unit](purchasing-in-different-unit.md)
+  4. [Amending Purchase Order After Submit](amending-purchase-order-after-submit.md)
 
 
 
-[ Previous Page Supplier Quotation  ](</erpnext/supplier-quotation>) [ Next Page Create Supplier Quotation through Supplier Portal ](</erpnext/how-to-create-a-supplier-quotation-through-the-supplier-portal>)
+[ Previous Page Supplier Quotation  ](supplier-quotation.md) [ Next Page Create Supplier Quotation through Supplier Portal ](how-to-create-a-supplier-quotation-through-the-supplier-portal.md)
 
 Last updated 2 weeks ago 
 

@@ -1,18 +1,18 @@
 # Web Form
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12pnkj75rp>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12pnkj75rp)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Web Form
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12pnkj75rp>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12pnkj75rp)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 Frappe provides an easy way to generate forms for your website with very little configuration. These forms may be public (anyone can fill them up) or can be configured to require login.
 
-![Web Form](/files/v-14-webform-conference-register.png)
+![Web Form](https://docs.frappe.io/assets/3196f9899505.png)
 
 ## Creating a Web Form
 
@@ -26,9 +26,9 @@ To create a Web Form, type "new web form" in awesomebar and hit enter.
 
 
 
-![Create Web Form](/files/v-14-webform.png) ![Web Form Fields](/files/v-14-webform-fields.png)
+![Create Web Form](https://docs.frappe.io/assets/bfbb22115f3d.png) ![Web Form Fields](https://docs.frappe.io/assets/5d373f41113a.png)
 
-[Customize Web Form →](</framework/v14/user/en/web-form/customization>)
+[Customize Web Form →](web-form/customization.md)
 
 ## Standard Web Forms
 
@@ -36,7 +36,7 @@ If you check the "Is Standard" checkbox, a new folder will be created in the `mo
 
 > `Is Standard` field will only be visible when you are in developer mode.
 
-[ Previous Page Blog Post  ](</framework/v14/user/en/blog-post>) [ Next Page Settings ](</framework/v14/user/en/web-form/settings>)
+[ Previous Page Blog Post  ](blog-post.md) [ Next Page Settings ](web-form/settings.md)
 
 Last updated 2 months ago 
 

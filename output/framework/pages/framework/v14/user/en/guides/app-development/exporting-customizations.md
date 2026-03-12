@@ -1,12 +1,12 @@
 # Exporting Customizations to your App
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12a45822dp>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12a45822dp)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Exporting Customizations to your App 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12a45822dp>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12a45822dp)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,17 +14,17 @@ A common use case is to extend a DocType via Custom Fields and Property Setters 
 
 You will see a button for **Export Customizations**
 
-![](/files/export-custom-1.png)
+![](../../../../../../../assets/6df2ee66a046.png)
 
 Here you can select the module and whether you want these particular customizations to be synced after every update.
 
 The customizations will be exported to a new folder `custom` in the module folder of your app. The customizations will be saved by the name of the DocType
 
-![](/files/export-custom-2.png)
+![](../../../../../../../assets/a01626975197.png)
 
 When you do `bench update` or `bench migrate` these customizations will be synced to the app.
 
-[ Previous Page Adding Social Login Provider  ](</framework/v14/user/en/guides/app-development/adding-social-login-provider>) [ Next Page Caching ](</framework/v14/user/en/guides/caching>)
+[ Previous Page Adding Social Login Provider  ](adding-social-login-provider.md) [ Next Page Caching ](../caching.md)
 
 Last updated 2 months ago 
 

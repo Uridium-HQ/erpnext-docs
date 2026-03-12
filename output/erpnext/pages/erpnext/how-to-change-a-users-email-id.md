@@ -1,12 +1,12 @@
 # Change existing user's email ID
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0scfm5t0b7>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0scfm5t0b7)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Change existing user's email ID
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0scfm5t0b7>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0scfm5t0b7)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -18,9 +18,9 @@ To change a User's Email Id, follow the steps:
 
 _Refer to the GIF here illustrating the same:_
 
-![](/files/7yWI427.gif)
+![](../../assets/85f9abc1bdac.gif)
 
-[ Previous Page Setup Two Factor Authentication  ](</erpnext/setup-two-factor-authentication>) [ Next Page Difference Between System User and Website User ](</erpnext/difference-between-system-user-and-website-user>)
+[ Previous Page Setup Two Factor Authentication  ](https://docs.frappe.io/erpnext/setup-two-factor-authentication) [ Next Page Difference Between System User and Website User ](difference-between-system-user-and-website-user.md)
 
 Last updated 1 week ago 
 

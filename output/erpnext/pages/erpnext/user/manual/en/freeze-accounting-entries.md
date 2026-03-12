@@ -1,12 +1,12 @@
 # Freeze Accounting Entries
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sgl88ti3i>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sgl88ti3i)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Freeze Accounting Entries 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sgl88ti3i>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sgl88ti3i)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -26,17 +26,17 @@ To freeze accounting entries upto a certain date, follow below given steps:
 
 
 
-![Books Closed Through](/files/books-closed-through.png)
+![Books Closed Through](https://docs.frappe.io/assets/362e12c5cc5f.png)
 
 Now, the system will not allow to make any accounting entries before set date. If at all someone tries creating entries, system will show error message as below.
 
-![Frozen Date Error](/files/error-message-in-transaction.png)
+![Frozen Date Error](https://docs.frappe.io/assets/cac6d100f2a3.png)
 
 You can still allow user with certain role to create/edit entries within accounts frozen date. You can set that Role in the Account Settings itself.
 
-![Role Allowed To Close Books](/files/role-allowed-to-close-books.png)
+![Role Allowed To Close Books](https://docs.frappe.io/assets/2619ad06c1da.png)
 
-[ Previous Page Freeze an Account ](</erpnext/freeze-account>) [ Next Page Common Receivable Account  ](</erpnext/common-receivable-account>)
+[ Previous Page Freeze an Account ](https://docs.frappe.io/erpnext/freeze-account) [ Next Page Common Receivable Account  ](https://docs.frappe.io/erpnext/common-receivable-account)
 
 Last updated 1 week ago 
 

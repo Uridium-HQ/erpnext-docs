@@ -1,12 +1,12 @@
 # Deferred Revenue/Expense Report
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ro23f15n3>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ro23f15n3)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Deferred Revenue/Expense Report
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ro23f15n3>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ro23f15n3)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -16,13 +16,13 @@ Report can calculate the actual and expected/upcoming posting for a deferred ite
 
 ### Deferred Revenue
 
-![](/files/def_revenue.png)
+![](../../../../../assets/7f736e55d9d9.png)
 
 ### Deferred Expense
 
-![](/files/def_expense.png)
+![](../../../../../assets/26194b55e1e8.png)
 
-[ Previous Page Financial Report Template ](</erpnext/financial-report-template>) [ Next Page Payment Terms Status Report ](</erpnext/payment_terms_status_report>)
+[ Previous Page Financial Report Template ](https://docs.frappe.io/erpnext/financial-report-template) [ Next Page Payment Terms Status Report ](https://docs.frappe.io/erpnext/payment_terms_status_report)
 
 Last updated 2 weeks ago 
 

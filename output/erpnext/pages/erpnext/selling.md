@@ -1,12 +1,12 @@
 # Introduction to Selling Module
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rh6alef7h>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rh6alef7h)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Introduction to Selling Module
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rh6alef7h>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rh6alef7h)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -41,7 +41,7 @@ The Selling module helps businesses efficiently manage their sales processes, im
 
 
 
-[ Previous Page Procurement Cycle Overview ](</erpnext/procurement-cycle-overview>) [ Next Page Selling Essentials ](</erpnext/selling-essentials>)
+[ Previous Page Procurement Cycle Overview ](procurement-cycle-overview.md) [ Next Page Selling Essentials ](selling-essentials.md)
 
 Last updated 2 weeks ago 
 

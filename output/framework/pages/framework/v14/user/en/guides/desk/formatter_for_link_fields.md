@@ -1,12 +1,12 @@
 # Formatter For Link Fields
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12hkmlg709>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12hkmlg709)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Formatter For Link Fields 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12hkmlg709>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12hkmlg709)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -23,7 +23,7 @@ Notes:
 
 
 
-[ Previous Page Desk Customization  ](</framework/v14/user/en/guides/desk>) [ Next Page Making Charts  ](</framework/v14/user/en/guides/desk/making_charts>)
+[ Previous Page Desk Customization  ](../desk.md) [ Next Page Making Charts  ](making_charts.md)
 
 Last updated 2 months ago 
 

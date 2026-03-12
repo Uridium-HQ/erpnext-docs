@@ -1,12 +1,12 @@
 # Item Codification
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0shl95jqfh>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0shl95jqfh)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Item Codification 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0shl95jqfh>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0shl95jqfh)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -76,14 +76,14 @@ We believe if you do this small investment, it will help you rationalize things 
 
 #### 6\. Related Topics
 
-  1. [Item Group](</erpnext/item-group>)
-  2. [Item Attribute](</erpnext/item-attribute>)
-  3. [Item Price](</erpnext/item-price>)
-  4. [Item Variants](</erpnext/item-variants>)
+  1. [Item Group](item-group.md)
+  2. [Item Attribute](item-attribute.md)
+  3. [Item Price](item-price.md)
+  4. [Item Variants](item-variants.md)
 
 
 
-[ Previous Page Allow Over Delivery/Billing  ](</erpnext/allow-over-delivery-billing-against-sales-order-upto-certain-limit>) [ Next Page Track Items Using Barcode  ](</erpnext/track-items-using-barcode>)
+[ Previous Page Allow Over Delivery/Billing  ](allow-over-delivery-billing-against-sales-order-upto-certain-limit.md) [ Next Page Track Items Using Barcode  ](track-items-using-barcode.md)
 
 Last updated 1 week ago 
 

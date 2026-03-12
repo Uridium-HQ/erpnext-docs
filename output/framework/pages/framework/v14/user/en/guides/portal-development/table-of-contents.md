@@ -1,12 +1,12 @@
 # Table of Contents
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12d9nj58pl>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12d9nj58pl)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Table of Contents 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12d9nj58pl>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12d9nj58pl)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -28,7 +28,7 @@ Hello paragraph
 
 {next}
 
-[ Previous Page Adding Pages  ](</framework/v14/user/en/guides/portal-development/adding-pages>) [ Next Page Dynamic Pages  ](</framework/v14/user/en/guides/portal-development/context>)
+[ Previous Page Adding Pages  ](adding-pages.md) [ Next Page Dynamic Pages  ](context.md)
 
 Last updated 2 months ago 
 

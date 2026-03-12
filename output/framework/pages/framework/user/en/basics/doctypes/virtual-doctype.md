@@ -1,12 +1,12 @@
 # Virtual DocTypes
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tk70uh05g>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tk70uh05g)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Virtual DocTypes
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tk70uh05g>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tk70uh05g)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,7 +20,7 @@ Note: `frappe.db.*` calls work only with site's database connection. You'll need
 
 To create a Virtual DocType, just select the Virtual DocType checkbox while creating the DocType:
 
-![Virtual DocType](/files/virtual_doctype.png)
+![Virtual DocType](https://docs.frappe.io/assets/a417eb44f1f0.png)
 
 #### Creating a Custom Controller
 
@@ -97,19 +97,19 @@ As an example, the following controller code uses a JSON file as the DocType dat
     
 [/code]
 
-You can read about the interface requriements and explanation in the [interface file](<https://github.com/frappe/frappe/blob/develop/frappe/model/virtual_doctype.py>). To integrate other datasources with the Virtual DocType, you will need to add controller methods defining the database access.
+You can read about the interface requriements and explanation in the [interface file](https://github.com/frappe/frappe/blob/develop/frappe/model/virtual_doctype.py). To integrate other datasources with the Virtual DocType, you will need to add controller methods defining the database access.
 
 #### Outcome
 
 The frontend for Virtual DocTypes remain unchanged
 
-![Virtual DocType Form](/files/virtual_doctype_form.png)
+![Virtual DocType Form](https://docs.frappe.io/assets/4cf8fd4d9425.png)
 
 All the /api/resource methods defined by the framework are compatible with Virtual DocTypes.
 
 > Added in Version 13
 
-[ Previous Page Single DocType  ](</framework/user/en/basics/doctypes/single-doctype>) [ Next Page Actions and Links ](</framework/user/en/basics/doctypes/actions-and-links>)
+[ Previous Page Single DocType  ](single-doctype.md) [ Next Page Actions and Links ](actions-and-links.md)
 
 Last updated 3 weeks ago 
 

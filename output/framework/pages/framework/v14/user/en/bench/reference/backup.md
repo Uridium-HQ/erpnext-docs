@@ -1,12 +1,12 @@
 # bench backup
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/130hbi0qaq>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/130hbi0qaq)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # bench backup 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/130hbi0qaq>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/130hbi0qaq)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -113,7 +113,7 @@ In case a current site is set, simply running `bench backup` command will backup
     
 [/code]
 
-[ Previous Page bench migrate  ](</framework/v14/user/en/bench/reference/migrate>) [ Next Page bench reinstall  ](</framework/v14/user/en/bench/reference/reinstall>)
+[ Previous Page bench migrate  ](migrate.md) [ Next Page bench reinstall  ](reinstall.md)
 
 Last updated 2 months ago 
 

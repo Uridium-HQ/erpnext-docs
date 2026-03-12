@@ -1,12 +1,12 @@
 # Rules
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rq4fqi2p1>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rq4fqi2p1)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Rules
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rq4fqi2p1>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rq4fqi2p1)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -16,12 +16,12 @@ Shipping rules allow businesses to define various parameters for calculating shi
 
 On the other hand, pricing rules in ERPNext empower businesses to create dynamic pricing strategies based on specific conditions or criteria. This includes setting discounts, promotions, bulk pricing, or special pricing for different customer segments, items, or sales channels.
 
-  * [Shipping Rule](</erpnext/user/manual/en/setup-shipping-rule>)
-  * [Pricing Rule](</erpnext/user/manual/en/pricing-rule>)
+  * [Shipping Rule](https://docs.frappe.io/erpnext/user/manual/en/setup-shipping-rule)
+  * [Pricing Rule](https://docs.frappe.io/erpnext/user/manual/en/pricing-rule)
 
 
 
-[ Previous Page Landed cost Voucher ](</erpnext/landed-cost-voucher>) [ Next Page Projected Quantity  ](</erpnext/projected-quantity>)
+[ Previous Page Landed cost Voucher ](landed-cost-voucher.md) [ Next Page Projected Quantity  ](projected-quantity.md)
 
 Last updated 2 weeks ago 
 

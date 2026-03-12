@@ -1,12 +1,12 @@
 # Email Template
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rbgkq55rt>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rbgkq55rt)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Email Template 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rbgkq55rt>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rbgkq55rt)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -26,7 +26,7 @@ To access the Email Template list, go to:
 
 
 
-![Email Template](/files/email-template-example.png)
+![Email Template](https://docs.frappe.io/assets/7ac315087172.png)
 
 **DocType Associated:** (optional) The DocType associated with this template.
 
@@ -34,11 +34,11 @@ To access the Email Template list, go to:
 
 You can use this Email Template in the Emails that are sent from ERPNext in the "CC, BCC & Email Template" field of the email section of the document. ERPNext will fetch the subject and response as per the template selected.
 
-You can set a Default Email Template for each document type via [Customize Form](</erpnext/customize-form>).
+You can set a Default Email Template for each document type via [Customize Form](customize-form.md).
 
 ### 1.2 How to get fieldnames
 
-The fieldnames you can use in your email template are the fields in the document from which you are sending the email. You can find out the fields of any documents via [Customize Form](</erpnext/customize-form>) and selecting the document type (e.g. Sales Order)
+The fieldnames you can use in your email template are the fields in the document from which you are sending the email. You can find out the fields of any documents via [Customize Form](customize-form.md) and selecting the document type (e.g. Sales Order)
 
 ### 1.3 Using HTML to build the template
 
@@ -46,16 +46,16 @@ There's a `Use HTML` check that you can toggle to switch from the text editor to
 
 ### 1.4 Templating
 
-Templates are compiled using the Jinja. To learn more about Jinja, [visit this page](<https://jinja.palletsprojects.com/en/2.10.x/>).
+Templates are compiled using the Jinja. To learn more about Jinja, [visit this page](https://jinja.palletsprojects.com/en/2.10.x/).
 
 ## 2\. Related Topics
 
-  1. [Email Account](</erpnext/email-account>)
-  2. [Email Inbox](</erpnext/email-inbox>)
+  1. [Email Account](email-account.md)
+  2. [Email Inbox](email-inbox.md)
 
 
 
-[ Previous Page Email Account ](</erpnext/email-account>) [ Next Page Email Digest  ](</erpnext/email-digest>)
+[ Previous Page Email Account ](email-account.md) [ Next Page Email Digest  ](email-digest.md)
 
 Last updated 1 week ago 
 

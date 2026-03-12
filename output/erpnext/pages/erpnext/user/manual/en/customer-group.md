@@ -1,12 +1,12 @@
 # Customer Group
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rhqu9kjge>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rhqu9kjge)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Customer Group 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rhqu9kjge>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rhqu9kjge)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -23,13 +23,13 @@ You can define a price a list which will be automatically applied to all custome
   3. Click on 'Add Child'.
   4. Enter 'Customer Group Name'.
   5. Tick 'Group Node' if you would like to add sub customer groups under this.
-  6. Click on 'Create New'. ![](/files/image2877b8.png)
+  6. Click on 'Create New'. ![](../../../../../assets/68eaa0eaf2e7.png)
 
 
 
 > Tip: If you think all this is too much effort, you can leave it at “Default Customer Group”. But all this effort, will pay off when you start getting reports. An example of a sample report is given below:
 
-![Sales Analytics Customer Group](/files/sales-analytics-customer-group.gif)
+![Sales Analytics Customer Group](https://docs.frappe.io/assets/9e818a9f2cb7.gif)
 
 ### Features
 
@@ -51,7 +51,7 @@ If you need a separate receivable account for a customer, you can add the same i
 
 
 
-[ Previous Page Customer ](</erpnext/customer>) [ Next Page Territory  ](</erpnext/territory>)
+[ Previous Page Customer ](../../../customer.md) [ Next Page Territory  ](../../../territory.md)
 
 Last updated 2 weeks ago 
 

@@ -1,12 +1,12 @@
 # Prerequisites
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/124gu277ai>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/124gu277ai)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Prerequisites 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/124gu277ai>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/124gu277ai)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -18,8 +18,8 @@ Frappe uses Python 3 for server-side programming. It is highly recommended to le
 
 Resources:
 
-  1. [Codecademy Tutorial for Python](<https://www.codecademy.com/learn/learn-python-3>)
-  2. [Official Python Tutorial](<https://docs.python.org/3/tutorial/index.html>)
+  1. [Codecademy Tutorial for Python](https://www.codecademy.com/learn/learn-python-3)
+  2. [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 
 
 
@@ -29,9 +29,9 @@ To create database-driven apps with Frappe, you must understand the basics of da
 
 Resources:
 
-  1. [Codecademy Tutorial for SQL](<https://www.codecademy.com/learn/learn-sql>)
-  2. [A basic MySQL tutorial by DigitalOcean](<https://www.digitalocean.com/community/tutorials/how-to-perform-basic-queries-in-mysql-and-mariadb-on-a-cloud-server>)
-  3. [Getting started with MariaDB](<https://mariadb.com/kb/en/mariadb/documentation/getting-started/>)
+  1. [Codecademy Tutorial for SQL](https://www.codecademy.com/learn/learn-sql)
+  2. [A basic MySQL tutorial by DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-perform-basic-queries-in-mysql-and-mariadb-on-a-cloud-server)
+  3. [Getting started with MariaDB](https://mariadb.com/kb/en/mariadb/documentation/getting-started/)
 
 
 
@@ -41,8 +41,8 @@ If you want to build user interfaces using Frappe Framework, you will need to le
 
 Resources:
 
-  1. [Codecademy Tutorial for HTML/CSS](<https://www.codecademy.com/learn/learn-html-css>)
-  2. [Getting started with Bootstrap](<https://getbootstrap.com/getting-started/>)
+  1. [Codecademy Tutorial for HTML/CSS](https://www.codecademy.com/learn/learn-html-css)
+  2. [Getting started with Bootstrap](https://getbootstrap.com/getting-started/)
 
 
 
@@ -52,9 +52,9 @@ To customize forms and create interactive user interfaces, you will have to lear
 
 Resources:
 
-  1. [The Modern JavaScript Tutorial](<https://javascript.info/>)
-  2. [Codecademy Tutorial for JavaScript](<https://www.codecademy.com/learn/learn-javascript>)
-  3. [Codecademy Tutorial for jQuery](<https://www.codecademy.com/learn/jquery>)
+  1. [The Modern JavaScript Tutorial](https://javascript.info/)
+  2. [Codecademy Tutorial for JavaScript](https://www.codecademy.com/learn/learn-javascript)
+  3. [Codecademy Tutorial for jQuery](https://www.codecademy.com/learn/jquery)
 
 
 
@@ -64,7 +64,7 @@ For building Web Views and Print Templates, you will have to learn the Jinja Tem
 
 Resources:
 
-  1. [Jinja Documentation](<https://jinja.palletsprojects.com/en/2.11.x/>)
+  1. [Jinja Documentation](https://jinja.palletsprojects.com/en/2.11.x/)
 
 
 
@@ -74,16 +74,16 @@ Learn how to contribute to an open source project using Git and GitHub, two grea
 
 Resources:
 
-  1. [Basic Git Tutorial](<https://try.github.io/>)
-  2. [How to contribute to Open Source](<https://opensource.guide/how-to-contribute/>)
+  1. [Basic Git Tutorial](https://try.github.io/)
+  2. [How to contribute to Open Source](https://opensource.guide/how-to-contribute/)
 
 
 
 If you are comfortable with the basics of these tools, you are ready to build an app with Frappe Framework.
 
-Next: [Create a Bench](</framework/v14/user/en/tutorial/install-and-setup-bench>)
+Next: [Create a Bench](tutorial/install-and-setup-bench.md)
 
-[ Previous Page Introduction ](</framework/v14/user/en/introduction>) [ Next Page Installation ](</framework/v14/user/en/installation>)
+[ Previous Page Introduction ](introduction.md) [ Next Page Installation ](installation.md)
 
 Last updated 2 months ago 
 

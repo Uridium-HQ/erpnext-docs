@@ -1,12 +1,12 @@
 # Opportunity Type
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rfpccuh61>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rfpccuh61)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Opportunity Type
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rfpccuh61>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rfpccuh61)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -26,13 +26,13 @@ To access the Opportunity Type, go to:
 
 
 
-![Screenshot 2023-12-28 at 11.14.56 AM](/files/Screenshot%202023-12-28%20at%2011.14.56%20AM.png)
+![Screenshot 2023-12-28 at 11.14.56 AM](https://docs.frappe.io/assets/c26c75fa37bf.png)
 
 The system allows you to maintain a list of different Opportunity Types.
 
-![Screenshot 2023-12-28 at 11.15.46 AM](/files/Screenshot%202023-12-28%20at%2011.15.46%20AM.png)
+![Screenshot 2023-12-28 at 11.15.46 AM](https://docs.frappe.io/assets/34db6eda8e66.png)
 
-[ Previous Page Lead Source ](</erpnext/lead_source>) [ Next Page Campaign  ](</erpnext/campaign>)
+[ Previous Page Lead Source ](https://docs.frappe.io/erpnext/lead_source) [ Next Page Campaign  ](campaign.md)
 
 Last updated 2 weeks ago 
 

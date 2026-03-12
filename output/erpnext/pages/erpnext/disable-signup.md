@@ -1,18 +1,18 @@
 # Disable Signup on ERPNext Website
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0secjol4c0>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0secjol4c0)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Disable Signup on ERPNext Website 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0secjol4c0>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0secjol4c0)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 ERPNext has portal feature available which allows third parties like Customers and Suppliers sign, place new orders and track updates on the previous orders.
 
-![Website signup](/files/website-signup.png)
+![Website signup](https://docs.frappe.io/assets/136dfaac5665.png)
 
 To allow new Customer and Supplier to Signup, the login page of your ERPNext account has Signup link avaiable. However, if you wish to disbale this feature, you can achieve it by following the steps given below.
 
@@ -31,13 +31,13 @@ To allow new Customer and Supplier to Signup, the login page of your ERPNext acc
 
 
 
-![Disable signup](/files/disable-signup.png)
+![Disable signup](https://docs.frappe.io/assets/e27ed8700ce6.png)
 
   4. Save Website Settings.
 
 
 
-[ Previous Page Portal Login ](</erpnext/portal-login>) [ Next Page Website Home Page ](</erpnext/website-home-page>)
+[ Previous Page Portal Login ](https://docs.frappe.io/erpnext/portal-login) [ Next Page Website Home Page ](website-home-page.md)
 
 Last updated 2 weeks ago 
 

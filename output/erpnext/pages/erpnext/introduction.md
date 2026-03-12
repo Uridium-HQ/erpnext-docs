@@ -1,12 +1,12 @@
 # Introduction
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0r8crc72l2>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0r8crc72l2)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Introduction
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0r8crc72l2>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0r8crc72l2)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -16,7 +16,7 @@ ERPNext is business management software that helps companies stay on top of thei
 
 Most ERPs are clunky, expensive, and a headache to customize. ERPNext is different. It is open-source, cloud-ready, and built to be flexible. You get the power of an enterprise system without the usual complications.
 
-![ERPNext](/files/erpnext-hero-image.png)
+![ERPNext](https://docs.frappe.io/assets/baf441869daf.png)
 
 ## Why ERPNext?
 
@@ -57,25 +57,25 @@ And a lot more.
 
 ## **Under the Hood**
 
-  * [Frappe Framework](<https://github.com/frappe/frappe>): A full-stack web application framework written in Python and Javascript. The framework provides a robust foundation for building web applications, including a database abstraction layer, user authentication, and a REST API.
-  * [Frappe UI](<https://github.com/frappe/frappe-ui>): A Vue-based UI library, to provide a modern user interface. The Frappe UI library provides a variety of components that can be used to build single-page applications on top of the Frappe Framework.
+  * [Frappe Framework](https://github.com/frappe/frappe): A full-stack web application framework written in Python and Javascript. The framework provides a robust foundation for building web applications, including a database abstraction layer, user authentication, and a REST API.
+  * [Frappe UI](https://github.com/frappe/frappe-ui): A Vue-based UI library, to provide a modern user interface. The Frappe UI library provides a variety of components that can be used to build single-page applications on top of the Frappe Framework.
 
 
 
 ## Installation
 
-To install/setup the app, follow the [guidelines here](<https://github.com/frappe/erpnext/#production-setup>).
+To install/setup the app, follow the [guidelines here](https://github.com/frappe/erpnext/).
 
 ## Learning and community
 
-  1. [Frappe School](<https://frappe.school/>) \- Learn Frappe Framework and ERPNext from various courses by the maintainers or from the community.
-  2. [Documentation](<https://docs.frappe.io/erpnext>) \- Extensive documentation for ERPNext.
-  3. [User Forum](<https://discuss.frappe.io/c/erpnext/6>) \- Engage with the community of ERPNext users and service providers.
-  4. [Telegram Group](<https://t.me/erpnext_public>) \- Get instant help from the community of users.
+  1. [Frappe School](https://frappe.school/) \- Learn Frappe Framework and ERPNext from various courses by the maintainers or from the community.
+  2. [Documentation](https://docs.frappe.io/erpnext) \- Extensive documentation for ERPNext.
+  3. [User Forum](https://discuss.frappe.io/c/erpnext/6) \- Engage with the community of ERPNext users and service providers.
+  4. [Telegram Group](https://t.me/erpnext_public) \- Get instant help from the community of users.
 
 
 
-[ Next Page Why should businesses use an ERP? ](</erpnext/why-ERP>)
+[ Next Page Why should businesses use an ERP? ](why-ERP.md)
 
 Last updated 2 hours ago 
 

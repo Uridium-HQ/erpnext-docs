@@ -1,12 +1,12 @@
 # Bench - Extending the CLI
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12vgn6d1lo>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12vgn6d1lo)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Bench - Extending the CLI 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12vgn6d1lo>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12vgn6d1lo)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -53,7 +53,7 @@ and with the context of the current bench, this command maybe executed simply as
     
 [/code]
 
-[ Previous Page Frappe Commands ](</framework/v14/user/en/bench/frappe-commands>) [ Next Page Commands Reference  ](</framework/v14/user/en/bench/reference>)
+[ Previous Page Frappe Commands ](frappe-commands.md) [ Next Page Commands Reference  ](reference.md)
 
 Last updated 2 months ago 
 

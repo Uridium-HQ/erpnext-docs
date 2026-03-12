@@ -1,12 +1,12 @@
 # Delivery Note Negative Stock Error
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rstmtcq7t>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rstmtcq7t)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Delivery Note Negative Stock Error 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rstmtcq7t>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rstmtcq7t)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -16,7 +16,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 If this is the case, you should edit the Posting Date and Time of a Delivery Note, and ensure that it is after the Posting Date and Time of item's receipt entry.
 
-[ Previous Page Serial Number Naming ](</erpnext/serial-no-naming>) [ Next Page Maintain Stock field Frozen in the Item master  ](</erpnext/maintain-stock-field-frozen-in-item-master>)
+[ Previous Page Serial Number Naming ](serial-no-naming.md) [ Next Page Maintain Stock field Frozen in the Item master  ](https://docs.frappe.io/erpnext/maintain-stock-field-frozen-in-item-master)
 
 Last updated 2 weeks ago 
 

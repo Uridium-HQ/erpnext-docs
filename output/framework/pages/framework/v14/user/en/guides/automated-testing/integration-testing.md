@@ -1,16 +1,16 @@
 # UI Integration Testing
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12hugcj09q>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12hugcj09q)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # UI Integration Testing 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12hugcj09q>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12hugcj09q)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-You can write integration tests using [Cypress](<https://cypress.io>). It is a NodeJS based full-stack testing framework which doesn't rely on Selenium.
+You can write integration tests using [Cypress](https://cypress.io/). It is a NodeJS based full-stack testing framework which doesn't rely on Selenium.
 
 To write integration tests, create a `.js` file in the `cypress/integration` directory.
 
@@ -48,9 +48,9 @@ Cypress uses any chromium based browser installed on your system to run tests. E
 
 This will open the Cypress Electron shell where you can run any test manually or run all of the tests.
 
-![](/files/running-cypress-tests.gif)
+![](../../../../../../../assets/339c1e53cd40.gif)
 
-[ Previous Page Unit Testing  ](</framework/v14/user/en/guides/automated-testing/unit-testing>) [ Next Page UI Testing with Frappe API  ](</framework/v14/user/en/guides/automated-testing/qunit-testing>)
+[ Previous Page Unit Testing  ](unit-testing.md) [ Next Page UI Testing with Frappe API  ](qunit-testing.md)
 
 Last updated 2 months ago 
 

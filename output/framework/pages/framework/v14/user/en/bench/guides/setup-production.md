@@ -1,18 +1,18 @@
 # Setup Production
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/1332ammb2m>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/1332ammb2m)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Setup Production 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/1332ammb2m>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/1332ammb2m)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 > **WARNING:** We DO NOT recommend installing on bare metal servers. Recommend way of setting up production sites is using docker images. You can find instructions here: <https://github.com/frappe/frappe?tab=readme-ov-file#self-hosting>
 
-You can setup the bench for production use by configuring two programs, Supervisor and nginx. If you want to revert your Production Setup to Development Setup refer to [these commands](<https://github.com/frappe/bench/wiki/Stopping-Production-and-starting-Development>)
+You can setup the bench for production use by configuring two programs, Supervisor and nginx. If you want to revert your Production Setup to Development Setup refer to [these commands](https://github.com/frappe/bench/wiki/Stopping-Production-and-starting-Development)
 
 #### Easy Production Setup
 
@@ -61,7 +61,7 @@ eg,
 
 Note: When you restart nginx after the configuration change, it might fail if you have another configuration with server block as default for port 80 (in most cases for the nginx welcome page). You will have to disable this config. Most probable places for it to exist are `/etc/nginx/conf.d/default.conf` and `/etc/nginx/conf.d/default`. In the latest nginx installs, the file is in `/etc/nginx/sites-available/default`
 
-[ Previous Page Setup Multitenancy  ](</framework/v14/user/en/bench/guides/setup-multitenancy>) [ Next Page Background Services  ](</framework/v14/user/en/bench/resources/background-services>)
+[ Previous Page Setup Multitenancy  ](setup-multitenancy.md) [ Next Page Background Services  ](../resources/background-services.md)
 
 Last updated 2 months ago 
 

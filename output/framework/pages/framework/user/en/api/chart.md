@@ -1,16 +1,16 @@
 # Chart API
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tovalgcea>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tovalgcea)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Chart API 
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tovalgcea>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tovalgcea)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-Frappe provides easy-to-use and fully configurable SVG charts. You can learn about them in the Frappe Chart's [documentation](<https://frappe.io/charts>).
+Frappe provides easy-to-use and fully configurable SVG charts. You can learn about them in the Frappe Chart's [documentation](https://frappe.io/charts).
 
 ## frappe.ui.RealtimeChart
 
@@ -43,7 +43,7 @@ Creates a new RealtimeChart instance that adds real-time data update functionali
 
 Here is the sample client code to render a chart over the specified socket event.
 
-The following python code can be executed as a cron job using [Hook](<https://frappeframework.com/docs/v14/user/en/python-api/hooks>) functionality.
+The following python code can be executed as a cron job using [Hook](https://frappeframework.com/docs/v14/user/en/python-api/hooks) functionality.
 [code] 
     data = {
      'label': 1,
@@ -57,7 +57,7 @@ The `label` key specifies the label to be appended in the Chart. The `points` ke
 
 This would produce a Chart like
 
-![RealtimeChart](/files/realtime-chart.png)
+![RealtimeChart](https://docs.frappe.io/assets/68db90190cd7.png)
 
 ### frappe.ui.RealtimeChart.start_updating
 
@@ -69,7 +69,7 @@ Start listening to the specified socket event and update the RealtimeChart accor
     
 [/code]
 
-![RealtimeChart](/files/realtime-chart-demo.gif) _frappe.ui.RealtimeChart.start_updating_
+![RealtimeChart](https://docs.frappe.io/assets/7b2a1202c69d.gif) _frappe.ui.RealtimeChart.start_updating_
 
 ### frappe.ui.RealtimeChart.stop_updating
 
@@ -91,7 +91,7 @@ Manually updates RealtimeChart by appending the label and associated data to the
     
 [/code]
 
-[ Previous Page Dialog API ](</framework/user/en/api/dialog>) [ Next Page Scanner API  ](</framework/user/en/api/scanner>)
+[ Previous Page Dialog API ](dialog.md) [ Next Page Scanner API  ](scanner.md)
 
 Last updated 3 weeks ago 
 

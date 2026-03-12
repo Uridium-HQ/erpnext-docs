@@ -1,12 +1,12 @@
 # Payment Terms
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0roio87fk9>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0roio87fk9)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Payment Terms 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0roio87fk9>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0roio87fk9)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -30,7 +30,7 @@ To access Payment Term go to:
 
 > Home > Accounting > Accounting Masters > Payment Term
 
-![Payment Terms](/files/payment-terms.png)
+![Payment Terms](https://docs.frappe.io/assets/ef7fc88ba768.png)
 
 ## 1\. How to create a Payment Term
 
@@ -71,7 +71,7 @@ You can set up a discounted payment terms such that if payment is done within th
 
 
 
-![Payment Terms with Discount](/files/payment-terms-with-discount.png)
+![Payment Terms with Discount](https://docs.frappe.io/assets/14608fbb5cd3.png)
 
 You can now link the Payment Terms with an Invoice and on creating the payment against such invoice, the discount will be applied automatically.
 
@@ -87,18 +87,18 @@ For ease of use, you can also set a Payment Terms Template and simply reselect i
 
 Once you have composed the Payment Terms Template, you can use them in sales and purchase transactions. Based on the value defined for Payment Terms and transaction value, the payment schedule will be defined, with a Due Date for each payment slab.
 
-![Payment Schedule](/files/payment-term-in-invoice.png)
+![Payment Schedule](https://docs.frappe.io/assets/f1b2baaa749c.png)
 
-Note: The Payment Schedule can be shown in the Print View using the [Print Format Builder](</erpnext/print-format-builder>).
+Note: The Payment Schedule can be shown in the Print View using the [Print Format Builder](print-format-builder.md).
 
 ### 2\. Related Topics
 
-  1. [Sales Invoice](</erpnext/sales-invoice>)
-  2. [Purchase Invoice](</erpnext/purchase-invoice>)
+  1. [Sales Invoice](sales-invoice.md)
+  2. [Purchase Invoice](purchase-invoice.md)
 
 
 
-[ Previous Page Payment Ledger ](</erpnext/accounting/features/payments/payment-ledger>) [ Next Page Payment Terms Template ](</erpnext/payment-terms-template>)
+[ Previous Page Payment Ledger ](https://docs.frappe.io/erpnext/accounting/features/payments/payment-ledger) [ Next Page Payment Terms Template ](payment-terms-template.md)
 
 Last updated 2 weeks ago 
 

@@ -1,12 +1,12 @@
 # Accounts Settings
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rcd7fiuvj>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rcd7fiuvj)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Accounts Settings
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rcd7fiuvj>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rcd7fiuvj)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,7 +14,7 @@ ERPNext allows you to configure some aspects of Accounting as per your business 
 
 ## Transactions Settings
 
-![Screenshot 2024-06-03 at 11.08.05 AM](/files/Screenshot%202024-06-03%20at%2011.08.05%20AM.png)
+![Screenshot 2024-06-03 at 11.08.05 AM](https://docs.frappe.io/assets/53919fa61594.png)
 
 ### 1\. Over Billing Allowance (%)
 
@@ -60,7 +60,7 @@ Enabling this will allow the deletion of linked General Ledger and Stock Ledger 
 
 ### 7\. Book Asset Depreciation Entry Automatically
 
-When checked, an automatic entry for an asset depreciation will be created based on the first date set. For example, yearly depreciation for an item will be scheduled for the next 3/4 years based on the Number of Depreciations Booked set in the Asset master. For more details, visit the [Asset Depreciation](</erpnext/asset-depreciation>) page.
+When checked, an automatic entry for an asset depreciation will be created based on the first date set. For example, yearly depreciation for an item will be scheduled for the next 3/4 years based on the Number of Depreciations Booked set in the Asset master. For more details, visit the [Asset Depreciation](asset-depreciation.md) page.
 
 ### 8\. Unlink Advance Payment on Cancellation of Order
 
@@ -68,7 +68,7 @@ Similar to the previous option, this unlinks any advance payments made against P
 
 ### 9\. Enable Common Party Accounting
 
-If checked, an adjustment Journal Entry will be posted automatically on creation of Sales/Purchase Invoices against common Customer & Supplier. For more details, visit [Common Party Accounting](</erpnext/common_party_accounting>)
+If checked, an adjustment Journal Entry will be posted automatically on creation of Sales/Purchase Invoices against common Customer & Supplier. For more details, visit [Common Party Accounting](common_party_accounting.md)
 
 ### 10\. Allow multi-currency invoices against single party account
 
@@ -84,23 +84,23 @@ If checked, Discount Accounts can be added in the Items table of Sales Invoices,
 
 ## Tax Settings
 
-![Screenshot 2024-06-03 at 11.12.55 AM](/files/Screenshot%202024-06-03%20at%2011.12.55%20AM.png)
+![Screenshot 2024-06-03 at 11.12.55 AM](https://docs.frappe.io/assets/50c58bbf108b.png)
 
 ### 1\. Determine Address Tax Category From
 
-[Tax category](</erpnext/tax-category>) can be set on Addresses. An address can be Shipping or Billing address. Set which addres to select when applying Tax Category.
+[Tax category](tax-category.md) can be set on Addresses. An address can be Shipping or Billing address. Set which addres to select when applying Tax Category.
 
 ### 2\. Automatically Add Taxes and Charges from Item Tax Template
 
-Enabling this will populate the Taxes table in transactions if an [Item Tax Template](</erpnext/item-tax-template>) is set for an Item and that Item is selected in the transaction.
+Enabling this will populate the Taxes table in transactions if an [Item Tax Template](item-tax-template.md) is set for an Item and that Item is selected in the transaction.
 
 ### 3\. Book Tax Loss on Early Payment Discount
 
-Enabling this will split the Payment Entry discount deductions into Income Loss and Tax Loss if the document against the Payment Entry has an [Early Payment Discount](</erpnext/payment-terms#11-setting-up-discount-on-early-payments>) set.
+Enabling this will split the Payment Entry discount deductions into Income Loss and Tax Loss if the document against the Payment Entry has an [Early Payment Discount](payment-terms.md) set.
 
 ## Period Closing Settings
 
-![Screenshot 2024-06-03 at 11.14.36 AM](/files/Screenshot%202024-06-03%20at%2011.14.36%20AM.png)
+![Screenshot 2024-06-03 at 11.14.36 AM](https://docs.frappe.io/assets/bf6bcfe0d52e.png)
 
 ### 1\. Accounts Frozen Till Date
 
@@ -116,7 +116,7 @@ This role is allowed to submit transactions that exceed credit limit.
 
 ## Deferred Accounting Settings
 
-![Screenshot 2024-06-03 at 11.16.37 AM](/files/Screenshot%202024-06-03%20at%2011.16.37%20AM.png)
+![Screenshot 2024-06-03 at 11.16.37 AM](https://docs.frappe.io/assets/ddcf91ab0a9b.png)
 
 ### 1\. Book Deferred Entries Based On
 
@@ -124,7 +124,7 @@ Deferred revenue amount can be booked based on two criteria. The default option 
 
 ### 2\. Automatically Process Deferred Accounting Entry
 
-This setting is enabled by default. In case you don't want the deferred accounting entries to be posted automatically you can disable this setting. If this setting is disabled deferred accounting will have to be processed manually using [Process Deferred Accounting](</erpnext/process-deferred-accounting>)
+This setting is enabled by default. In case you don't want the deferred accounting entries to be posted automatically you can disable this setting. If this setting is disabled deferred accounting will have to be processed manually using [Process Deferred Accounting](process-deferred-accounting.md)
 
 ### 3\. Book Deferred Entries Via Journal Entry
 
@@ -132,7 +132,7 @@ By default Ledger Entries are posted directly to book deferred revenue against a
 
 ## Print Settings
 
-![Screenshot 2024-06-03 at 11.19.05 AM](/files/Screenshot%202024-06-03%20at%2011.19.05%20AM.png)
+![Screenshot 2024-06-03 at 11.19.05 AM](https://docs.frappe.io/assets/2dbe86eeac21.png)
 
 ### 1\. Show Inclusive Tax In Print
 
@@ -144,11 +144,11 @@ It allows you to display tax details in a tabular format on printed documents su
 
 ### 3\. Show Payment Schedule in Print
 
-The Payment Schedule table is visible on using [Payment Terms](</erpnext/payment-terms>). Enabling this will show this table in print view.
+The Payment Schedule table is visible on using [Payment Terms](payment-terms.md). Enabling this will show this table in print view.
 
 ## Currency Exchange Settings
 
-![Screenshot 2024-06-03 at 11.22.56 AM](/files/Screenshot%202024-06-03%20at%2011.22.56%20AM.png)
+![Screenshot 2024-06-03 at 11.22.56 AM](https://docs.frappe.io/assets/b7fdf22e25a8.png)
 
 ### 1\. Allow Stale Exchange Rates
 
@@ -172,13 +172,13 @@ If stale rates are disabled, the order of fetching is:
 
 ## Report Settings
 
-![Screenshot 2024-06-03 at 11.23.29 AM](/files/Screenshot%202024-06-03%20at%2011.23.29%20AM.png)
+![Screenshot 2024-06-03 at 11.23.29 AM](https://docs.frappe.io/assets/836e68e34f78.png)
 
 ### 1\. Use Custom Cash Flow Format
 
-You may choose to use Custom Cash Flow Formats to customize what the Cash Flow report looks like. To know more, [visit here.](</erpnext/user/manual/en/customise-cash-flow-report>)
+You may choose to use Custom Cash Flow Formats to customize what the Cash Flow report looks like. To know more, [visit here.](user/manual/en/customise-cash-flow-report.md)
 
-[ Previous Page Process Statement Of Accounts  ](</erpnext/process-statement-of-accounts>) [ Next Page Subscription Settings  ](</erpnext/subscription-settings>)
+[ Previous Page Process Statement Of Accounts  ](process-statement-of-accounts.md) [ Next Page Subscription Settings  ](subscription-settings.md)
 
 Last updated 2 weeks ago 
 

@@ -1,22 +1,22 @@
 # Bank
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/fgha60j12c>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/fgha60j12c)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Bank 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/fgha60j12c>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/fgha60j12c)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-In ERPNext, saving different banks lets you upload an excel sheet and map the transactions to the ledger. The transactions are created as Bank Transactions. These can then be used for reference and reports. This is done using [Bank Reconciliation](</erpnext/bank-reconciliation>).
+In ERPNext, saving different banks lets you upload an excel sheet and map the transactions to the ledger. The transactions are created as Bank Transactions. These can then be used for reference and reports. This is done using [Bank Reconciliation](bank-reconciliation.md).
 
 To access Bank, go to:
 
 > Home > Accounting > Bank Statement > Bank
 
-![Bank](/files/bank.png)
+![Bank](https://docs.frappe.io/assets/77c38b569cc8.png)
 
 ## 1\. How to create a Bank
 
@@ -29,15 +29,15 @@ Creating a Bank is simple, go to the Bank list, click on New, and enter a name.
 
 
 
-On setting this up, [Bank Reconciliation](</erpnext/bank-reconciliation>) can be done smoothly.
+On setting this up, [Bank Reconciliation](bank-reconciliation.md) can be done smoothly.
 
 ## 2\. Related Topics
 
-  1. [Bank Account](</erpnext/bank-account>)
+  1. [Bank Account](bank-account.md)
 
 
 
-[ Previous Page Banking ](</erpnext/banking-in-erpnext>) [ Next Page Bank Account ](</erpnext/bank-account>)
+[ Previous Page Banking ](banking-in-erpnext.md) [ Next Page Bank Account ](bank-account.md)
 
 Last updated 2 weeks ago 
 

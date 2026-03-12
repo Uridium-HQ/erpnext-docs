@@ -1,12 +1,12 @@
 # Auto Creation of Material Request
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rtjolmc1p>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rtjolmc1p)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Auto Creation of Material Request
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rtjolmc1p>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rtjolmc1p)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,17 +14,17 @@ To prevent stockouts, you can track item's reorder level. When stock level goes 
 
 In ERPNext, you can update item's Reorder Level and Reorder Qty in the Item master. If same item has different reorder level, you can also update warehouse-wise reorder level and reorder qty.
 
-![reorder level](/files/reorder-request-1.png)
+![reorder level](https://docs.frappe.io/assets/5c8e20603f38.png)
 
 With reorder level, you can also define what should be the next action. Either new purchase or transfer from another warehouse. Based on setting in Item master, purpose will be updated in the Material Request as well.
 
-![reorder level next action](/files/reorder-request-2.png)
+![reorder level next action](https://docs.frappe.io/assets/55794eb9e5be.png)
 
 When item's stock reaches reorder level, Material Request is auto-created automatically. You can enable this feature from:
 
 `Stock > Setup > Stock Settings`
 
-![active auto-material request](/files/reorder-request-3.png)
+![active auto-material request](https://docs.frappe.io/assets/a24ea9ef52c1.png)
 
 A separate Material Request will be created for each item. User with Purchase Manager's role will receive email alert about these Material Requests.
 
@@ -32,13 +32,13 @@ If auto creation of Material Request is failed, User with Purchase Manager role 
 
 **An error occurred for certain Items while creating Material Requests based on Re-order level.** **Date 01-04-2016 not in any Fiscal Year.**
 
-One of the reason of error could be Fiscal Year as well. Click [here](</erpnext/fiscal-year-error.html>) to learn more about it.
+One of the reason of error could be Fiscal Year as well. Click [here](fiscal-year-error.md) to learn more about it.
 
 ### Note:
 
 The system creates a material request by comparing the projected quantity of the group warehouse with the reorder level. If the group warehouse is not set, then the system compares the projected quantity of the Request for Warehouse with the reorder level. If the projected qty is more than the reorder level then system doesn’t add that item in the material request.
 
-[ Previous Page Retaining Sample Stock  ](</erpnext/retain-sample-stock>) [ Next Page Item Alternative  ](</erpnext/item-alternative>)
+[ Previous Page Retaining Sample Stock  ](retain-sample-stock.md) [ Next Page Item Alternative  ](item-alternative.md)
 
 Last updated 2 weeks ago 
 

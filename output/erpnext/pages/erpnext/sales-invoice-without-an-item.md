@@ -1,12 +1,12 @@
 # Sales Invoice without an Item
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sfmjladgq>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sfmjladgq)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Sales Invoice without an Item
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sfmjladgq>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sfmjladgq)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -18,11 +18,11 @@ There are cases where the user needs to create sales invoices without an item co
 
 Before creating and using a Sales Invoice, it is advised to create the following first:
 
-  * [Item](<https://docs.erpnext.com/docs/v13/user/manual/en/stock/item>)
-  * [Customer](<https://docs.erpnext.com/docs/v13/user/manual/en/CRM/customer>)
+  * [Item](https://docs.erpnext.com/docs/v13/user/manual/en/stock/item)
+  * [Customer](https://docs.erpnext.com/docs/v13/user/manual/en/CRM/customer)
   * Optional:
-    * [Sales Order](<https://docs.erpnext.com/docs/v13/user/manual/en/selling/sales-order>)
-    * [Delivery Note](<https://docs.erpnext.com/docs/v13/user/manual/en/stock/delivery-note>)
+    * [Sales Order](https://docs.erpnext.com/docs/v13/user/manual/en/selling/sales-order)
+    * [Delivery Note](https://docs.erpnext.com/docs/v13/user/manual/en/stock/delivery-note)
 
 
 
@@ -41,7 +41,7 @@ Before creating and using a Sales Invoice, it is advised to create the following
 
 
 
-![](/files/ezgif.com-crop \(7\).gif)
+![](https://docs.frappe.io/files/ezgif.com-crop \(7\).gif)
 
   7. Save and Submit.
 
@@ -49,9 +49,9 @@ Before creating and using a Sales Invoice, it is advised to create the following
 
 Similarly, you can create a Credit Note without an item using this method. An additional step would be to enable “Is Return” and to enter the quantity in negative.
 
-All the other features related to [Sales Invoices](<https://docs.erpnext.com/docs/user/manual/en/sales-invoice>) remain the same
+All the other features related to [Sales Invoices](https://docs.erpnext.com/docs/user/manual/en/sales-invoice) remain the same
 
-[ Previous Page Sales Reports ](</erpnext/sales-analytics>) [ Next Page Sales Person Target Allocation  ](</erpnext/sales-person-target-allocation>)
+[ Previous Page Sales Reports ](https://docs.frappe.io/erpnext/sales-analytics) [ Next Page Sales Person Target Allocation  ](sales-person-target-allocation.md)
 
 Last updated 2 weeks ago 
 

@@ -1,12 +1,12 @@
 # Depreciation Methods
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s34spmsp7>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s34spmsp7)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Depreciation Methods
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s34spmsp7>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s34spmsp7)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -16,7 +16,7 @@ The system automatically generates a depreciation schedule based on the Deprecia
 
 > **Note:** To generate a depreciation schedule automatically, ensure that **‘Calculate Depreciation’** is enabled while creating the asset.
 
-![](/files/Screenshot%202026-01-11%20at%2011.34.38%E2%80%AFPM.png)
+![](../../assets/ec480531b6c6.png)
 
 ## 1\. Depreciation Methods in ERPNext
 
@@ -39,7 +39,7 @@ If an asset costs 1,000 and its salvage value is 500 after 5 years, depreciation
 
 
 
-![](/files/Screenshot%202024-10-17%20at%201.52.17%E2%80%AFAM.png)
+![](../../assets/20e35f56da23.png)
 
 ### 1.2 Double Declining Balance
 
@@ -51,7 +51,7 @@ If an asset costs 1,000 and its salvage value is 500 after 5 years, depreciation
 **Example:**  
 If an asset costs 100,000 and its salvage value is 11,000 after 8 years, depreciation in early years will be higher than in later years.
 
-![](/files/Screenshot%202024-10-17%20at%201.54.17%E2%80%AFAM.png)
+![](../../assets/41bdbf7dba91.png)
 
 ### 1.3 Written Down Value (WDV)
 
@@ -63,7 +63,7 @@ If an asset costs 100,000 and its salvage value is 11,000 after 8 years, depreci
 **Example:**  
 If an asset costs 1,000 with a depreciation rate of 40% over 5 years, each year the depreciation is **40% of the remaining value**.
 
-![](/files/Screenshot%202024-10-17%20at%201.41.48%E2%80%AFAM.png)
+![](../../assets/0cd6b79b7e31.png)
 
 ### 1.4 Manual
 
@@ -104,16 +104,16 @@ When depreciation is posted:
 
 
 
-![](/files/Screenshot%202026-01-11%20at%2011.41.58%E2%80%AFPM.png)
+![](../../assets/876e3757b590.png)
 
 ## 5\. Related Topics
 
-  1. **[Asset Shift Allocation](<https://docs.frappe.io/erpnext/user/manual/en/asset-shift-allocation>)**
-  2. **[Asset Maintenance](<https://docs.frappe.io/erpnext/user/manual/en/asset-maintenance>)**
+  1. **[Asset Shift Allocation](https://docs.frappe.io/erpnext/user/manual/en/asset-shift-allocation.md)**
+  2. **[Asset Maintenance](https://docs.frappe.io/erpnext/user/manual/en/asset-maintenance.md)**
 
 
 
-[ Previous Page Depreciation ](</erpnext/asset-depreciation>) [ Next Page Daily Depreciation Calculation ](</erpnext/daily-depreciation>)
+[ Previous Page Depreciation ](asset-depreciation.md) [ Next Page Daily Depreciation Calculation ](daily-depreciation.md)
 
 Last updated 2 weeks ago 
 

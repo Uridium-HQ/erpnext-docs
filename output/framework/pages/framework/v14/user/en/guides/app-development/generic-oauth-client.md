@@ -1,16 +1,16 @@
 # Prerequisites
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12a3vt5mfk>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12a3vt5mfk)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Prerequisites 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12a3vt5mfk>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12a3vt5mfk)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-  * [Connected App](</framework/v14/user/en/guides/app-development/connected-app>)
+  * [Connected App](connected-app.md)
 
 
 
@@ -51,7 +51,7 @@ Now you can retrieve any allowed resource from the target platform:
 
 If the access token is expired, the session will automatically try to refresh it.
 
-[ Previous Page Single Type Doctype  ](</framework/v14/user/en/guides/app-development/single-type-doctype>) [ Next Page Adding Social Login Provider  ](</framework/v14/user/en/guides/app-development/adding-social-login-provider>)
+[ Previous Page Single Type Doctype  ](single-type-doctype.md) [ Next Page Adding Social Login Provider  ](adding-social-login-provider.md)
 
 Last updated 2 months ago 
 

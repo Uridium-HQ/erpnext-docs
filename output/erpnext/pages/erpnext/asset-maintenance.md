@@ -1,12 +1,12 @@
 # Asset Maintenance
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s36ideihg>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s36ideihg)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Asset Maintenance
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s36ideihg>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s36ideihg)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -22,12 +22,12 @@ To access the Asset Maintenance list, go to:
 
 * * *
 
-  * Create an [asset](</erpnext/asset>)
-  * Create an [Asset Maintenance Team](</erpnext/asset-maintenance-team>).
+  * Create an [asset](asset.md)
+  * Create an [Asset Maintenance Team](asset-maintenance-team.md).
 
 
 
-![](/files/Screenshot%202026-01-09%20at%205.41.00%E2%80%AFPM.png)
+![](../../assets/f4241d2830f4.png)
 
 ## **2\. How to create an Asset Category**
 
@@ -81,9 +81,9 @@ When a maintenance task is assigned to a user:
 
 
 
-![](/files/Screenshot%202026-01-09%20at%205.47.59%E2%80%AFPM.png)
+![](../../assets/6e2d9e3a9fa6.png)
 
-[ Previous Page Asset Shift Allocation ](</erpnext/asset-shift-allocation>) [ Next Page Asset Maintenance Team  ](</erpnext/asset-maintenance-team>)
+[ Previous Page Asset Shift Allocation ](asset-shift-allocation.md) [ Next Page Asset Maintenance Team  ](asset-maintenance-team.md)
 
 Last updated 1 week ago 
 

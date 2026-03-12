@@ -1,12 +1,12 @@
 # Getting Information From Another Document In Print Format
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12bjlsth83>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12bjlsth83)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Getting Information From Another Document In Print Format
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12bjlsth83>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12bjlsth83)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -18,7 +18,7 @@ In a print format, you can get data from another document. For example, if you h
     
 [/code]
 
-[ Previous Page How To Enable Social Logins  ](</framework/v14/user/en/guides/deployment/how-to-enable-social-logins>) [ Next Page Where Do I Find Standard Print Formats  ](</framework/v14/user/en/guides/reports-and-printing/where-do-i-find-standard-print-formats>)
+[ Previous Page How To Enable Social Logins  ](../deployment/how-to-enable-social-logins.md) [ Next Page Where Do I Find Standard Print Formats  ](where-do-i-find-standard-print-formats.md)
 
 Last updated 2 months ago 
 

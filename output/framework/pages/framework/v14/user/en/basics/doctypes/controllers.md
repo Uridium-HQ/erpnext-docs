@@ -1,12 +1,12 @@
 # Controllers
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12l51t8ija>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12l51t8ija)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Controllers
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12l51t8ija>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12l51t8ija)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -104,7 +104,7 @@ You can also override the pre-defined document methods to add your own behaviour
     
 [/code]
 
-There are a lot of methods provided by default on the `doc` object. You can find the complete [list here](</framework/v14/user/en/api/document#document-methods>).
+There are a lot of methods provided by default on the `doc` object. You can find the complete [list here](../../api/document.md).
 
 #### 1\. Create a document
 
@@ -232,7 +232,7 @@ Learn more about type annotations:
 
 
 
-[ Previous Page Naming  ](</framework/v14/user/en/basics/doctypes/naming>) [ Next Page Form & View Settings ](</framework/v14/user/en/basics/doctypes/form_&_view_settings>)
+[ Previous Page Naming  ](naming.md) [ Next Page Form & View Settings ](form_-_view_settings.md)
 
 Last updated 2 months ago 
 

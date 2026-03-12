@@ -1,12 +1,12 @@
 # Setting up LDAP
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s6bu3sfdh>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s6bu3sfdh)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Setting up LDAP 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s6bu3sfdh>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s6bu3sfdh)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -130,7 +130,7 @@ In the LDAP Settings area, there are two dropdowns.
 
 
 
-[ Previous Page Google Settings ](</erpnext/google_settings>) [ Next Page Google Calendar Integration  ](</erpnext/google_calendar>)
+[ Previous Page Google Settings ](../../../google_settings.md) [ Next Page Google Calendar Integration  ](https://docs.frappe.io/erpnext/google_calendar)
 
 Last updated 2 weeks ago 
 

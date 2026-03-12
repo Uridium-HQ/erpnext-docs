@@ -1,12 +1,12 @@
 # Audit Trail
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tjov2htms>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tjov2htms)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Audit Trail
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tjov2htms>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tjov2htms)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -29,21 +29,21 @@ A tool for viewing the changes made to a submittable doctype across multiple ame
 
 Values for the fields changed across the different versions.
 
-![Screenshot 2023-12-03 at 5.32.42 PM](/files/Screenshot%202023-12-03%20at%205.32.42%E2%80%AFPM.png)
+![Screenshot 2023-12-03 at 5.32.42 PM](https://docs.frappe.io/assets/691340104d6c.png)
 
 **Rows Updated**
 
 Values for the child table fields changed across the different versions.
 
-![Screenshot 2023-12-03 at 5.32.57 PM](/files/Screenshot%202023-12-03%20at%205.32.57%E2%80%AFPM.png)
+![Screenshot 2023-12-03 at 5.32.57 PM](https://docs.frappe.io/assets/8e93d618eaef.png)
 
 **Rows Added / Rows Removed**
 
 Rows added or removed for every child table across the different versions.
 
-![Screenshot 2023-12-03 at 5.33.08 PM](/files/Screenshot%202023-12-03%20at%205.33.08%E2%80%AFPM.png)
+![Screenshot 2023-12-03 at 5.33.08 PM](https://docs.frappe.io/assets/1e1cb30d04db.png)
 
-[ Previous Page Configuration ](</framework/user/en/basics/site_config>) [ Next Page Docstatus ](</framework/user/en/basics/doctypes/frameworktatus>)
+[ Previous Page Configuration ](https://docs.frappe.io/framework/user/en/basics/site_config) [ Next Page Docstatus ](basics/doctypes/frameworktatus.md)
 
 Last updated 3 weeks ago 
 

@@ -1,12 +1,12 @@
 # Global Defaults
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0r9iqhsfth>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0r9iqhsfth)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Global Defaults
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0r9iqhsfth>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0r9iqhsfth)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,7 +20,7 @@ To access Global Defaults,
 
 > Home > Settings > Global Defaults
 
-![](/files/ERPNext_Global_Settingsf91aac.png)
+![](../../assets/0bf8bee69364.png)
 
 The fields which can be set as Global Defaults are as follows. Except currency, no other field is mandatory.
 
@@ -34,15 +34,15 @@ The fields which can be set as Global Defaults are as follows. Except currency, 
 
 
 
-The Default Distance Unit is used to calculate the total distance in [Delivery Trips](</erpnext/delivery-trip>).
+The Default Distance Unit is used to calculate the total distance in [Delivery Trips](delivery-trip.md).
 
 ### Related Topics
 
-  1. [System Settings](</erpnext/system-settings>)
+  1. [System Settings](system-settings.md)
 
 
 
-[ Previous Page System Settings ](</erpnext/system-settings>) [ Next Page Session Defaults ](</erpnext/session-defaults>)
+[ Previous Page System Settings ](system-settings.md) [ Next Page Session Defaults ](session-defaults.md)
 
 Last updated 1 week ago 
 

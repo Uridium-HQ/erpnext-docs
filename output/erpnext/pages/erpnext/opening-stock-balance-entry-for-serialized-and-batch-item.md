@@ -1,16 +1,16 @@
 # Opening Stock Balance Entry for Serialized and Batch Item
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sji4etb6d>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sji4etb6d)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Opening Stock Balance Entry for Serialized and Batch Item 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sji4etb6d>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sji4etb6d)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-Items for which Serial No. and Batch No. is maintained, opening stock balance entry for them is update via Stock Entry. [Click here to learn how serialized inventory is managed in ERPNext](</erpnext/serial-no.html>).
+Items for which Serial No. and Batch No. is maintained, opening stock balance entry for them is update via Stock Entry. [Click here to learn how serialized inventory is managed in ERPNext](serial-no.md).
 
 **Question:** Why Opening Balance entry for the Serialized and Batch Item cannot be updated via Stock Reconciliation?
 
@@ -44,13 +44,13 @@ Select Items for which opening balance is to be updated.
 
 For the serialized item, update quantity as many Serial Nos are their.
 
-For the serialized item, mention Serial Nos. equivalent to it's Qty. Or if Serial Nos. are configured to be created based on Prefix, then no need to mention Serial Nos. manually. Click [here](</erpnext/serial-no-naming.html>) to learn more about Serial No. naming.
+For the serialized item, mention Serial Nos. equivalent to it's Qty. Or if Serial Nos. are configured to be created based on Prefix, then no need to mention Serial Nos. manually. Click [here](serial-no-naming.md) to learn more about Serial No. naming.
 
 For a batch item, provide Batch ID in which opening balance will be updated. Keep batch master ready, and updated it for the Batch Item. To create new Batch, go to:
 
 `Stock > Setup > Batch > New`
 
-[Click here to learn how Batchwise inventory is managed in ERPNext.](</erpnext/managing-batch-wise-inventory.html>)
+[Click here to learn how Batchwise inventory is managed in ERPNext.](managing-batch-wise-inventory.md)
 
 #### Step 7: Update Item Valuation Rate
 
@@ -60,13 +60,13 @@ Update valuation rate, which will be per unit value of item. If different units 
 
 As per perpetual inventory valuation system, accounting entry is created for every stock transaction. Double entry accounting system requires Total Debit matching with Total Credit in an entry. On the submission of Stock Entry, system debits Warehouse account by total value of items. To balance the same, we use Temporary Opening account as a Difference Account.
 
-![Difference Account](/files/difference-account-1.png)
+![Difference Account](https://docs.frappe.io/assets/53c19fe6d585.png)
 
 #### Step 9: Save and Submit Stock Entry
 
 On submission of Stock Entry, stock ledger posting will be posted, and opening balance will be updated for the items on a given Posting Date.
 
-[ Previous Page Purpose of Stock Received but not Billed  ](</erpnext/stock-received-but-not-billed>) [ Next Page Stock Entry Purpose  ](</erpnext/stock-entry-purpose>)
+[ Previous Page Purpose of Stock Received but not Billed  ](stock-received-but-not-billed.md) [ Next Page Stock Entry Purpose  ](stock-entry-purpose.md)
 
 Last updated 1 week ago 
 

@@ -1,12 +1,12 @@
 # Custom Translations in Print Formats
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rb9uf0vqk>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rb9uf0vqk)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Custom Translations in Print Formats
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rb9uf0vqk>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rb9uf0vqk)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -18,7 +18,7 @@ For example, if you have customers from Germany and France who want quotations i
 
 In the Customer master, select the default Language. Say, the default language for the Customer is **Spanish**.
 
-![Set Customer Language](/files/set-customer-language.png)
+![Set Customer Language](https://docs.frappe.io/assets/4dc8913d0891.png)
 
 Same way, you can also set default language in the Supplier master.
 
@@ -28,7 +28,7 @@ In the Print Preview of a transaction, values will be translated into the party'
 
 Customer Quotation print preview in customer's default language.
 
-![Invoice in Customer Language](/files/invoice-in-customer-language.png)
+![Invoice in Customer Language](https://docs.frappe.io/assets/d833742348e9.png)
 
 Supplier Quotation print preview in supplier's default language.
 
@@ -36,7 +36,7 @@ Supplier Quotation print preview in supplier's default language.
 
 User has the option to select an alternate language on print view.
 
-![Select Language in Invoice](/files/select-language-in-invoice.png)
+![Select Language in Invoice](https://docs.frappe.io/assets/0b3c5d0641e2.png)
 
 ## 2\. Custom Translation
 
@@ -44,21 +44,21 @@ Users can set their custom translations using Custom Translations form. For exam
 
 > Home > Customization > Other > Custom Translations > New
 
-![Translation](/files/translation.png)
+![Translation](https://docs.frappe.io/assets/35797596bcd4.png)
 
 The translation is applied when the user selects the language as Spanish on supplier Quotation's print preview. Note that no translation is applied for the second item's description since it wasn't created in the Translation list.
 
-![Translation in Transaction](/files/translation-in-transaction.png)
+![Translation in Transaction](https://docs.frappe.io/assets/2a069d174733.png)
 
 ### 3\. Related Topics
 
-  1. [Address Template](</erpnext/address-template>)
-  2. [Quotation](</erpnext/quotation>)
-  3. [Sales Order](</erpnext/sales-order>)
+  1. [Address Template](address-template.md)
+  2. [Quotation](quotation.md)
+  3. [Sales Order](sales-order.md)
 
 
 
-[ Previous Page Customize Print Format ](</erpnext/records-print-format>) [ Next Page Add/Remove Fields from Print Format ](</erpnext/add-remove-fields-from-print-format>)
+[ Previous Page Customize Print Format ](https://docs.frappe.io/erpnext/records-print-format) [ Next Page Add/Remove Fields from Print Format ](https://docs.frappe.io/erpnext/add-remove-fields-from-print-format)
 
 Last updated 1 week ago 
 

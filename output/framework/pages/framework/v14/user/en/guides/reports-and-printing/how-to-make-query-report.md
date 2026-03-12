@@ -1,12 +1,12 @@
 # How To Make Query Report
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12ces2a7oc>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12ces2a7oc)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # How To Make Query Report 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12ces2a7oc>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12ces2a7oc)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -18,7 +18,7 @@ To create a new Query Report:
 
 ### 1\. Create a new Report
 
-![Query Report](/files/query-report.png)
+![Query Report](https://docs.frappe.io/assets/a3e267a9d91e.png)
 
   1. Set type as "Query Report"
   2. Set the reference DocType - Users that have access to the reference DocType will have access to the report
@@ -39,11 +39,11 @@ SELECT `tabProduction Order`.name as "Production Order:Link/Production Order:200
 
 ### 3\. Check the Report
 
-![Query Report](/files/query-report-out.png)
+![Query Report](https://docs.frappe.io/assets/cf8d1d7f9e21.png)
 
 ### 4\. Advanced (adding filters)
 
-If you are making a standard report, you can add filters in your query report just like [script reports](<https://frappe.io/docs/v14/user/en/guides/reports-and-printing/how-to-make-script-reports>) by adding a `.js` file in your query report folder. To include filters in your query, use `%(filter_key)s` where your filter value will be shown.
+If you are making a standard report, you can add filters in your query report just like [script reports](https://frappe.io/docs/v14/user/en/guides/reports-and-printing/how-to-make-script-reports) by adding a `.js` file in your query report folder. To include filters in your query, use `%(filter_key)s` where your filter value will be shown.
 
 For example
 
@@ -55,7 +55,7 @@ SELECT ... FROM ... WHERE item_code = %(item_code)s ORDER BY ...
 
 If you are developing a standard report for an app, make sure to set "Is Standard" as "Yes"
 
-[ Previous Page Where Do I Find Standard Print Formats  ](</framework/v14/user/en/guides/reports-and-printing/where-do-i-find-standard-print-formats>) [ Next Page Report Print Formats  ](</framework/v14/user/en/guides/reports-and-printing/print-format-for-reports>)
+[ Previous Page Where Do I Find Standard Print Formats  ](where-do-i-find-standard-print-formats.md) [ Next Page Report Print Formats  ](print-format-for-reports.md)
 
 Last updated 2 months ago 
 

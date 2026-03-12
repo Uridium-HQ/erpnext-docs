@@ -1,12 +1,12 @@
 # Asset Location
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s45sddavu>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s45sddavu)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Asset Location 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s45sddavu>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s45sddavu)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -18,9 +18,9 @@ You can also add Latitude and Longitude of the location. When an asset is moved 
 
 Map of the location is also shown:
 
-![](/files/Screenshot%202026-01-12%20at%2012.05.56%E2%80%AFAM.png) _Asset Location_
+![](../../assets/17f84bec743c.png) _Asset Location_
 
-[ Previous Page Asset Category ](</erpnext/asset-category>) [ Next Page Purchasing an Asset ](</erpnext/purchasing-an-asset>)
+[ Previous Page Asset Category ](asset-category.md) [ Next Page Purchasing an Asset ](purchasing-an-asset.md)
 
 Last updated 2 weeks ago 
 

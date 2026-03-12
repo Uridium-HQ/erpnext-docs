@@ -1,26 +1,26 @@
 # Sales Persons in the Sales Transactions
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0spi82pdfb>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0spi82pdfb)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Sales Persons in the Sales Transactions 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0spi82pdfb>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0spi82pdfb)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-In ERPNext, Sales Person master is maintained in [tree structure](</erpnext/managing-tree-structure-masters.html>). Sales Person is selectable in all the sales transactions.
+In ERPNext, Sales Person master is maintained in [tree structure](managing-tree-structure-masters.md). Sales Person is selectable in all the sales transactions.
 
 Sales Persons can be updated in the Customer master as well. On selection of Customer in the transactions, Sales Persons as updated in the Customer will fetch into sales transaction.
 
-![Sales Person Customer](/files/sales-person-in-customer.png)
+![Sales Person Customer](https://docs.frappe.io/assets/ae4a0ca6ecf4.png)
 
 ####Sales Person Contribution
 
 If more than one sales persons are working together on an order, then contribution (%) should be set for each Sales Person.
 
-![Sales Person Order](/files/sales-person-in-sales-order.png)
+![Sales Person Order](https://docs.frappe.io/assets/3fc0c46a4af4.png)
 
 On saving transaction, based on the Net Total and Contriution (%), `Contribution to Net Total` will be calculated for each Sales Person.
 
@@ -34,7 +34,7 @@ Check Sales Person's Transaction report from:
 
 This report can be generated based on Sales Order, Delivery Note and Sales Invoice. It will give you total amount of sale made by an employe.
 
-![Sales Person Report](/files/sales-person-wise-transaction-summary-report.png)
+![Sales Person Report](https://docs.frappe.io/assets/c0f08347c983.png)
 
 ####Sales Person wise Commission
 
@@ -42,7 +42,7 @@ ERPNext only provide total amount of sale made by a Sales Person. If you offer c
 
 `Accounts > Standard Reports > Sales Partners Commission`
 
-[ Previous Page Incoterm and Named Place ](</erpnext/incoterm-and-named-place>) [ Next Page Sales Return Management  ](</erpnext/sales-return-use-cases>)
+[ Previous Page Incoterm and Named Place ](incoterm-and-named-place.md) [ Next Page Sales Return Management  ](sales-return-use-cases.md)
 
 Last updated 1 week ago 
 

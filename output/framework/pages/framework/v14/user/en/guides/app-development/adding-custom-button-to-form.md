@@ -1,12 +1,12 @@
 # Adding Custom Button To Form
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/128mmc3gfh>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/128mmc3gfh)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Adding Custom Button To Form 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/128mmc3gfh>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/128mmc3gfh)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -26,9 +26,9 @@ frappe.ui.form.on('User', { refresh: function(frm) { ... frm.add_custom_button(_
 
 You should be seeing a button on user form as shown below,
 
-![Custom Button](/files/add_custom_button.png)
+![Custom Button](https://docs.frappe.io/assets/5b58d6e47056.png)
 
-[ Previous Page Running Background Jobs  ](</framework/v14/user/en/guides/app-development/running-background-jobs>) [ Next Page Trigger Event On Deletion Of Grid Row  ](</framework/v14/user/en/guides/app-development/trigger-event-on-deletion-of-grid-row>)
+[ Previous Page Running Background Jobs  ](running-background-jobs.md) [ Next Page Trigger Event On Deletion Of Grid Row  ](trigger-event-on-deletion-of-grid-row.md)
 
 Last updated 2 months ago 
 

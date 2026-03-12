@@ -1,12 +1,12 @@
 # Managing Multi-level BOM
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s1o5l3874>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s1o5l3874)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Managing Multi-level BOM
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s1o5l3874>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s1o5l3874)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,13 +14,13 @@ Consider a scenario where your manufacturing process involves producing sub-asse
 
 First of all, you need to have BOMs for the sub-assemblies, then these BOMs should be linked to the BOM of the final finished product. In the following screenshot, you can see that the BOM for Brush Bristles (subassembly) is linked to the BOM of the Shaving Brush (final product). This is seen in the Materials table in the Bill of Materials master.
 
-![Multi-level BOM](/files/multi-bom.png)
+![Multi-level BOM](https://docs.frappe.io/assets/4be2c0f20e90.png)
 
 The 'Materials' table will only show the sub-assemblies while the 'Materials Required (Exploded)' table will show all the raw materials required to manufacture the final product.
 
-BOM materials table where sub-assembly is shown: ![Multi-level BOM](/files/bom-materials.png)
+BOM materials table where sub-assembly is shown: ![Multi-level BOM](https://docs.frappe.io/assets/d3e4b481c9e0.png)
 
-In the exploded view only the raw materials are shown: ![Multi-level BOM](/files/bom-materials-exploded.png)
+In the exploded view only the raw materials are shown: ![Multi-level BOM](https://docs.frappe.io/assets/782b7c6d7a66.png)
 
 To use multi-level BOM in a Work Order, enable the 'Use Multi-Level BOM' checkbox. This is enabled by default. If you want to plan materials for sub-assemblies of the Item you're manufacturing leave this enabled. If you plan and manufacture the sub-assemblies separately disable this checkbox.
 
@@ -51,7 +51,7 @@ If we need to exchange Item C for a new item (Item D) then we must update create
 
 BOM-PC-002 must be created referencing HDD-001 with BOM-HDD-002 to make this update.
 
-[ Previous Page BOM Costing in different Currency  ](</erpnext/bom-costing-in-different-currency>) [ Next Page Raw material valuation ](</erpnext/valuation-based-on-field-in-bom>)
+[ Previous Page BOM Costing in different Currency  ](bom-costing-in-different-currency.md) [ Next Page Raw material valuation ](valuation-based-on-field-in-bom.md)
 
 Last updated 2 weeks ago 
 

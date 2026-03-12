@@ -1,12 +1,12 @@
 # Timesheet
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s2qrpg62h>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s2qrpg62h)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Timesheet 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s2qrpg62h>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s2qrpg62h)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,7 +20,7 @@ To access Timesheet, go to,
 
 > Home > Projects > Time Tracking > Timesheet
 
-![](/files/Screenshot%202026-01-09%20at%2012.53.27%E2%80%AFPM.png)
+![](../../assets/671a8d02a5a0.png)
 
 ## How to create a Timesheet
 
@@ -42,7 +42,7 @@ To access Timesheet, go to,
 
   1. Go to the Task for which you want to create a new Timesheet.
   2. Go to 'Timesheet' under the Activity section on the Dashboard. The plus icon '+' here would re-direct you to the Timesheet creation page.
-  3. Follow the steps to create a Time Sheet. ![](/files/timesheet_creation.gif)
+  3. Follow the steps to create a Time Sheet. ![](../../assets/936744e33467.gif)
 
 
 
@@ -60,14 +60,14 @@ A Timer can be used to record the actual time taken by an employee to finish a p
 
 
 
-![](/files/timer.gif)
+![](../../assets/8e4266ce1f6b.gif)
 
   * Once you have completed the Task, click on Complete. A new entry will be created in the Timesheet, and the time will get recorded as a Time Sheet in the Time Sheets Table in the Timesheet.
   * If the time exceeds the 'Expected Hrs', an alert box appears.
 
 
 
-![](/files/Screenshot%202026-01-09%20at%202.53.01%E2%80%AFPM1c3f85.png)
+![](../../assets/e6f4253abf1b.png)
 
 ## Additional Options while creating the Timesheet
 
@@ -85,7 +85,7 @@ The Time Sheet when expanded, allows you to enter the following details to it:
 
 
 
-![](/files/Screenshot%202026-01-09%20at%2012.55.09%E2%80%AFPM.png)
+![](../../assets/3cc5b8875261.png)
 
 ## Timesheet Configurations
 
@@ -100,7 +100,7 @@ The Time Sheet when expanded, allows you to enter the following details to it:
 
 
 
-![](/files/Screenshot%202026-01-09%20at%2012.56.23%E2%80%AFPM.png)
+![](../../assets/e520c17cead6.png)
 
 ## After Saving the Time Sheet
 
@@ -111,7 +111,7 @@ Once a Timesheet is saved and submitted, the details like Billing Rate and Costi
 
 
 
-[ Previous Page Time Tracking ](</erpnext/time-tracking>) [ Next Page Time Based Payout ](</erpnext/time-based-payout>)
+[ Previous Page Time Tracking ](https://docs.frappe.io/erpnext/time-tracking) [ Next Page Time Based Payout ](https://docs.frappe.io/erpnext/time-based-payout)
 
 Last updated 2 weeks ago 
 

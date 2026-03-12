@@ -1,12 +1,12 @@
 # SQLite Search
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tn7fqqi5t>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tn7fqqi5t)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # SQLite Search
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tn7fqqi5t>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tn7fqqi5t)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -729,7 +729,7 @@ Check if the search index exists.
 
 Use the `@SQLiteSearch.scoring_function` decorator to mark a function as a scoring function.
 
-[ Previous Page frappe.qb.get_query ](</framework/get_query>) [ Next Page Developer API  ](</framework/user/en/api>)
+[ Previous Page frappe.qb.get_query ](https://docs.frappe.io/framework/get_query) [ Next Page Developer API  ](user/en/api.md)
 
 Last updated 3 weeks ago 
 

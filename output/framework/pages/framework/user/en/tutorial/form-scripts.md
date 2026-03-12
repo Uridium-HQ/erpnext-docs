@@ -1,12 +1,12 @@
 # Form Scripts
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0ti10pet49>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0ti10pet49)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Form Scripts
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0ti10pet49>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0ti10pet49)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -37,13 +37,13 @@ We can make this process easier. Write the following code in **library_member.js
 
 Now, refresh your page and go to the Library Member form. You should see two buttons on the top right. Click on them to try them out. They will automatically set the Library Member in each of those documents making the process easier.
 
-![Library Member Form Actions](/files/library-member-form-actions.png)
+![Library Member Form Actions](https://docs.frappe.io/assets/b0f2a96c07b6.png)
 
-We have only scratched the surface here. You can do a lot more with Form Scripts. Learn more about the API at [Form Scripts API](</framework/v14/user/en/api/form>).
+We have only scratched the surface here. You can do a lot more with Form Scripts. Learn more about the API at [Form Scripts API](../../../v14/user/en/api/form.md).
 
-Next: [Portal Pages](</framework/v14/user/en/tutorial/portal-pages>)
+Next: [Portal Pages](../../../v14/user/en/tutorial/portal-pages.md)
 
-[ Previous Page Types of DocType  ](</framework/user/en/tutorial/types-of-doctype>) [ Next Page What's Next? ](</framework/user/en/tutorial/whats-next>)
+[ Previous Page Types of DocType  ](types-of-doctype.md) [ Next Page What's Next? ](whats-next.md)
 
 Last updated 3 weeks ago 
 

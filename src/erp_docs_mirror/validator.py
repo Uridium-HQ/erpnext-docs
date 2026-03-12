@@ -18,14 +18,15 @@ class Validator:
             text = md_path.read_text(encoding="utf-8")
             for match in LINK_RE.finditer(text):
                 target = match.group(1).strip()
-                if target.startswith(("http://", "https://", "mailto:", "tel:", "#")):
+                unwrapped = target[1:-1].strip() if len(target) >= 2 and target.startswith("<") and target.endswith(">") else target
+                if unwrapped.startswith(("http://", "https://", "mailto:", "tel:", "#")):
                     continue
-                target_base = target.split("#", 1)[0]
+                target_base = unwrapped.split("#", 1)[0]
                 resolved = (md_path.parent / target_base).resolve()
                 if not resolved.exists():
                     problems.append({
                         "file": md_path.relative_to(self.output_root).as_posix(),
-                        "target": target,
+                        "target": unwrapped,
                     })
         return {"ok": not problems, "problems": problems, "count": len(problems)}
 

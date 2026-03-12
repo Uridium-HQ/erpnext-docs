@@ -1,12 +1,12 @@
 # Translations
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12753i0phh>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12753i0phh)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Translations 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12753i0phh>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12753i0phh)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -58,7 +58,7 @@ The underscore `_` method will replace the strings based on the available transl
 
 ### 4\. Improving Translations:
 
-For updating translations, please go to the to [the translation portal](<https://translate.erpnext.com>).
+For updating translations, please go to the to [the translation portal](https://translate.erpnext.com/).
 
 If you want to do it directly via code:
 
@@ -68,7 +68,7 @@ To improve an existing translation, just edit the master translation files in th
 
 **NOTE**
 
-You can read more about contributing to translations [here](</framework/v14/user/en/guides/basics/contribute_translations>)
+You can read more about contributing to translations [here](contribute_translations.md)
 
 * * *
 
@@ -84,7 +84,7 @@ $ bench get-untranslated [lang] [path]
 
 **Step 2: Translate**
 
-Create another file with updated translations (in the same order as the source file). For this you can use the [Google Translator Toolkit](<https://translate.google.com>) or [Bing Translator](<http://www.bing.com/translator/>).
+Create another file with updated translations (in the same order as the source file). For this you can use the [Google Translator Toolkit](https://translate.google.com/) or [Bing Translator](http://www.bing.com/translator/).
 
 **Step 3: Import your translations**
 
@@ -98,7 +98,7 @@ Add your language in `apps/languages.txt` and also `frappe/data/languages.txt` (
 
 A new file will be added to the `translations` folder in each app. You need to add that file and push to your repo. Then send us a pull-request.
 
-[ Previous Page Sites  ](</framework/v14/user/en/guides/basics/sites>) [ Next Page Custom Action in Link Field ](</framework/v14/user/en/guides/app-development/custom_action_link_field>)
+[ Previous Page Sites  ](sites.md) [ Next Page Custom Action in Link Field ](../app-development/custom_action_link_field.md)
 
 Last updated 2 months ago 
 

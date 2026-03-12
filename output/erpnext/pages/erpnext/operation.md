@@ -1,12 +1,12 @@
 # Operation
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s0djogpmf>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s0djogpmf)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Operation 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s0djogpmf>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s0djogpmf)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,13 +14,13 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 The Operation master stores a single manufacturing operation, its description and the Default Workstation for the Operation.
 
-![](/files/CleanShot%202026-02-19%20at%2012.45.22@2x.png)
+![](../../assets/88cbbc05471b.png)
 
 * * *
 
 ## Prerequisites
 
-Before creating and using an Operation, it is advised that you create a [Workstation](<https://docs.frappe.io/erpnext/user/manual/en/workstation>) first.
+Before creating and using an Operation, it is advised that you create a [Workstation](https://docs.frappe.io/erpnext/user/manual/en/workstation.md) first.
 
 * * *
 
@@ -39,9 +39,9 @@ Before creating and using an Operation, it is advised that you create a [Worksta
 
 Once saved, the following can be created against an Operation:
 
-![](/files/CleanShot%202026-02-19%20at%2012.17.04@2x.png)
+![](../../assets/cdfc591df253.png)
 
-[ Previous Page Workstation Type ](</erpnext/workstation_type>) [ Next Page Workstation ](</erpnext/workstation>)
+[ Previous Page Workstation Type ](workstation_type.md) [ Next Page Workstation ](workstation.md)
 
 Last updated 2 weeks ago 
 

@@ -1,16 +1,16 @@
 # FullTextSearch API
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tme85foc5>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tme85foc5)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # FullTextSearch API
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tme85foc5>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tme85foc5)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-Frappe Wrapper for [Whoosh](<https://pypi.org/project/Whoosh/>)
+Frappe Wrapper for [Whoosh](https://pypi.org/project/Whoosh/)
 
 ### `update_index_by_name(self, doc_name)`
 
@@ -67,7 +67,7 @@ Returns:
 
 
 
-[ Previous Page REST API ](</framework/user/en/api/rest>) [ Next Page Dialog API ](</framework/user/en/api/py-dialog>)
+[ Previous Page REST API ](rest.md) [ Next Page Dialog API ](py-dialog.md)
 
 Last updated 3 weeks ago 
 

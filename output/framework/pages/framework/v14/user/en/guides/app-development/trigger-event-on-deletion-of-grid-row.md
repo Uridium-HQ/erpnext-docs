@@ -1,12 +1,12 @@
 # Trigger Event On Deletion Of Grid Row
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/128tag9a16>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/128tag9a16)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Trigger Event On Deletion Of Grid Row 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/128tag9a16>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/128tag9a16)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -62,7 +62,7 @@ Handlers are:
 
 
 
-[ Previous Page Adding Custom Button To Form  ](</framework/v14/user/en/guides/app-development/adding-custom-button-to-form>) [ Next Page Dialogs Types  ](</framework/v14/user/en/guides/app-development/dialogs-types>)
+[ Previous Page Adding Custom Button To Form  ](adding-custom-button-to-form.md) [ Next Page Dialogs Types  ](dialogs-types.md)
 
 Last updated 2 months ago 
 

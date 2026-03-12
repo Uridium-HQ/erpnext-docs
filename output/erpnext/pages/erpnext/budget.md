@@ -1,12 +1,12 @@
 # Budget
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/covr52k8t6>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/covr52k8t6)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Budget
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/covr52k8t6>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/covr52k8t6)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -48,7 +48,7 @@ Before creating and using Budgets, ensure the following are set up:
 
 > A single Budget applies to one account and one dimension, and can span multiple fiscal years.
 
-![](/files/Screenshot%202026-01-08%20at%202.28.50%E2%80%AFPM.png)
+![](../../assets/9e82c61d039a.png)
 
 * * *
 
@@ -73,7 +73,7 @@ On budget there is a checkbox `Distribute Equally`, when this checkbox is enable
 
 When Distribute Equally is disabled, budget distribution rows are still generated automatically based on the selected distribution frequency but Start Date and End Date are not editable and you can manually adjust: Amount or Percentage.
 
-![](/files/Screenshot%202026-01-08%20at%203.11.14%E2%80%AFPM.png)
+![](../../assets/4171ce5354b2.png)
 
 * * *
 
@@ -89,7 +89,7 @@ Control actions can be triggered when:
 
 You can set a control action in the Budget based on Material Requests, Purchase Orders, or on actual expenses. Further, you can set a control action for annual or monthly budgets.
 
-![](/files/Screenshot%202026-01-08%20at%203.28.27%E2%80%AFPM.png)
+![](../../assets/40ef0e1148bd.png)
 
 There are three types of control actions.
 
@@ -103,7 +103,7 @@ You can set separate actions for monthly and annual budgets. If you exceed the b
 
 Note that a similar warning will be triggered for any type of transactions set in the budget for the particular Account heads.
 
-![](/files/Screenshot%202026-01-08%20at%203.33.37%E2%80%AFPM.png)
+![](../../assets/3a337a512cd3.png)
 
 * * *
 
@@ -115,7 +115,7 @@ This setting allows selected users to bypass budget restrictions even when the b
 
 
 
-![](/files/Screenshot%202026-01-08%20at%205.19.51%E2%80%AFPM.png)
+![](../../assets/cac4c15df7ea.png)
 
 * * *
 
@@ -134,7 +134,7 @@ Related Topics
 
 
 
-[ Previous Page Share Reports  ](</erpnext/share-reports>) [ Next Page Budget Revision ](</erpnext/budget-revision>)
+[ Previous Page Share Reports  ](share-reports.md) [ Next Page Budget Revision ](budget-revision.md)
 
 Last updated 2 weeks ago 
 

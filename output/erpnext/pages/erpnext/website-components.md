@@ -1,12 +1,12 @@
 # Website Components
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s8qp015kf>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s8qp015kf)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Website Components
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s8qp015kf>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s8qp015kf)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -16,14 +16,14 @@ Web forms in ERPNext allow businesses to gather customer data efficiently throug
 
 By leveraging these website components in ERPNext, businesses can create interactive, user-friendly web experiences that drive engagement and support their digital marketing strategies.
 
-  * [Web Page](</erpnext/user/manual/en/web-page>)
-  * [Web Page Builder](</erpnext/user/manual/en/web-page-builder>)
-  * [Web Form](</erpnext/user/manual/en/web-form>)
-  * [Website Route Meta](</erpnext/user/manual/en/website-route-meta>)
+  * [Web Page](user/manual/en/web-page.md)
+  * [Web Page Builder](user/manual/en/web-page-builder.md)
+  * [Web Form](user/manual/en/web-form.md)
+  * [Website Route Meta](user/manual/en/website-route-meta.md)
 
 
 
-[ Previous Page Homepage  ](</erpnext/homepage>) [ Next Page Web Page ](</erpnext/web-page>)
+[ Previous Page Homepage  ](homepage.md) [ Next Page Web Page ](web-page.md)
 
 Last updated 2 weeks ago 
 

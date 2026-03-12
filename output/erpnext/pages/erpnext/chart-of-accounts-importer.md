@@ -1,12 +1,12 @@
 # Chart Of Accounts Importer
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rd24a9k0d>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rd24a9k0d)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Chart Of Accounts Importer 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rd24a9k0d>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rd24a9k0d)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -25,35 +25,35 @@ To access, go to:
 ## 1\. How to import Chart Of Accounts
 
   1. Select the Company for which you want to import the Chart of Accounts.
-  2. Click on "Download Template" button to download the template. Select file type in which you want to download the template. Select the template type and click on "Download". "Sample Template" contains pre-filled sample data so that you get an idea of how to fill the template. You can edit the data in "Sample Template" itself or download "Blank Template" for a fresh template. [COA Import](</files/coa-template-download.png>)
+  2. Click on "Download Template" button to download the template. Select file type in which you want to download the template. Select the template type and click on "Download". "Sample Template" contains pre-filled sample data so that you get an idea of how to fill the template. You can edit the data in "Sample Template" itself or download "Blank Template" for a fresh template. [COA Import](https://docs.frappe.io/files/coa-template-download.png)
 
 
 
-![COA Import](/files/coa-blank-template.png)
+![COA Import](https://docs.frappe.io/assets/af81f1798dee.png)
 
-  1. Once you download the template, fill in the details in the template as shown in the sample template below. Please make sure to make accounts for account types "Cost of Goods Sold", "Depreciation", "Fixed Asset", "Payable", "Receivable", "Stock Adjustment". Root types for these accounts must be one of Asset, Liability, Income, Expense, and Equity. o know more about "Account Types" and "Root Types" click here [click here](</erpnext/chart-of-accounts>)
+  1. Once you download the template, fill in the details in the template as shown in the sample template below. Please make sure to make accounts for account types "Cost of Goods Sold", "Depreciation", "Fixed Asset", "Payable", "Receivable", "Stock Adjustment". Root types for these accounts must be one of Asset, Liability, Income, Expense, and Equity. o know more about "Account Types" and "Root Types" click here [click here](chart-of-accounts.md)
 
 
 
-![COA Import](/files/coa-sample-template.png)
+![COA Import](https://docs.frappe.io/assets/3ca4f87c99fb.png)
 
 Click on "Attach" to upload the template.
 
-[COA Import](</files/coa-attach.png>)
+[COA Import](https://docs.frappe.io/files/coa-attach.png)
 
 Once you upload the template you'll be able to see the preview of the Chart of Accounts in the Chart Preview section.
 
-[COA Import](</files/coa-preview.png>)
+[COA Import](https://docs.frappe.io/files/coa-preview.png)
 
 If everything seems correct in the preview, click on "Import" in the top right corner and the accounts will be created.
 
-[COA Import](</files/coa-start-import.png>)
+[COA Import](https://docs.frappe.io/files/coa-start-import.png)
 
 To verify the created accounts you can go to Chart of Accounts and see the newly created accounts for that company.
 
-[COA Import](</files/coa-import.png>)
+[COA Import](https://docs.frappe.io/files/coa-import.png)
 
-[ Previous Page Data Import ](</erpnext/data-import>) [ Next Page Data Export ](</erpnext/data-export>)
+[ Previous Page Data Import ](data-import.md) [ Next Page Data Export ](data-export.md)
 
 Last updated 2 weeks ago 
 

@@ -1,12 +1,12 @@
 # Activity Cost
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s2qb2b72n>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s2qb2b72n)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Activity Cost 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s2qb2b72n>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s2qb2b72n)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,7 +14,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 The system pulls this rate while making Timesheets. It is used to determine the Project Cost.
 
-![](/files/imagee5e591.png)
+![](../../assets/fad462b95861.png)
 
 To access Activity Cost, go to,
 
@@ -31,9 +31,9 @@ To access Activity Cost, go to,
 
 Alternatively, an Activity Cost can also be created via the Activity List.
 
-![](/files/imagef472d6.png)
+![](../../assets/7218cf590077.png)
 
-[ Previous Page Activity Type ](</erpnext/activity-type>) [ Next Page Project  ](</erpnext/project>)
+[ Previous Page Activity Type ](https://docs.frappe.io/erpnext/activity-type) [ Next Page Project  ](project.md)
 
 Last updated 2 weeks ago 
 

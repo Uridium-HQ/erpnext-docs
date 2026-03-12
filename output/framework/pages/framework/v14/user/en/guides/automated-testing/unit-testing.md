@@ -1,12 +1,12 @@
 # Unit Testing
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12hsb1k3j6>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12hsb1k3j6)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Unit Testing 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12hsb1k3j6>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12hsb1k3j6)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -155,7 +155,7 @@ bench --site school.erpnext.local run-tests --doctype "Student Group" --skip-tes
 `FrappeTestCase` is Frappe Framework specific TestCase class extended from `unittest.TestCase`. Inherting this class in your tests ensures:
 
   1. `frappe.local.flags` and other most used local proxies are reset after test case runs.
-  2. database - a new [database transaction](<https://frappeframework.com/docs/v14/user/en/api/database#database-transaction-model>) is started before testcase begins and rolled back after tests are finished.
+  2. database - a new [database transaction](https://frappeframework.com/docs/v14/user/en/api/database) is started before testcase begins and rolled back after tests are finished.
 
 
 
@@ -193,7 +193,7 @@ It’s designed for the CI Jenkins, but will work for anything else that underst
 
 
 
-[ Previous Page Automated Testing  ](</framework/v14/user/en/guides/automated-testing>) [ Next Page UI Integration Testing  ](</framework/v14/user/en/guides/automated-testing/integration-testing>)
+[ Previous Page Automated Testing  ](../automated-testing.md) [ Next Page UI Integration Testing  ](integration-testing.md)
 
 Last updated 2 months ago 
 

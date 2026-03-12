@@ -1,12 +1,12 @@
 # Controller Methods
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12627vlont>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12627vlont)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Controller Methods 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12627vlont>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12627vlont)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -22,7 +22,7 @@ Let's create our second doctype: **Library Member**. It will have the following 
 
 
 
-![](/files/TqEJOjO.gif)
+![](../../../../../../assets/388575e7b920.gif)
 
 After you have created the doctype, go to Library Member list, clear the cache from **Settings > Reload** and create a new Library Member.
 
@@ -54,13 +54,13 @@ If the above snippet doesn't work for you , make sure server side scripts are en
 
 * * *
 
-We wrote the logic in the `before_save` method which runs every time a document is saved. This is one of the many hooks provided by the `Document` class. You can learn more about all the available hooks at [Controller](</framework/v14/user/en/basics/doctypes/controllers>) docs.
+We wrote the logic in the `before_save` method which runs every time a document is saved. This is one of the many hooks provided by the `Document` class. You can learn more about all the available hooks at [Controller](../basics/doctypes/controllers.md) docs.
 
 Now, go back and create another Library Member and see the Full Name show up after save.
 
-Next: [Types of DocType](</framework/v14/user/en/tutorial/types-of-doctype>)
+Next: [Types of DocType](types-of-doctype.md)
 
-[ Previous Page DocType Features  ](</framework/v14/user/en/tutorial/doctype-features>) [ Next Page Types of DocType  ](</framework/v14/user/en/tutorial/types-of-doctype>)
+[ Previous Page DocType Features  ](doctype-features.md) [ Next Page Types of DocType  ](types-of-doctype.md)
 
 Last updated 2 months ago 
 

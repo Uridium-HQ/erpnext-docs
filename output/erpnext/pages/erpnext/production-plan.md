@@ -1,12 +1,12 @@
 # Production Plan
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0t596u9fv6>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0t596u9fv6)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Production Plan
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0t596u9fv6>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0t596u9fv6)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -26,11 +26,11 @@ To access the Production Plan list, go to:
 
 Before creating and using a Production Plan, it is advised that you create the following first:
 
-  * [Item](</erpnext/item>)
-  * [Material Request](</erpnext/material-request>)
-  * [Sales Order](</erpnext/sales-order>)
-  * [Bill Of Materials](</erpnext/bill-of-materials>)
-  * [Routing](</erpnext/routing>)
+  * [Item](item.md)
+  * [Material Request](material-request.md)
+  * [Sales Order](sales-order.md)
+  * [Bill Of Materials](bill-of-materials.md)
+  * [Routing](routing.md)
 
 
   2. How to Create a Production Plan
@@ -44,7 +44,7 @@ As mentioned earlier, a Production Plan can be used for planning the manufacture
 The common steps are:
 
   1. Go to the Production Plan list, click on New.
-  2. Select whether to get items from a [Sales Order](</erpnext/sales-order>) or a [Material Request](</erpnext/material-request>).
+  2. Select whether to get items from a [Sales Order](sales-order.md) or a [Material Request](material-request.md).
 
 
 
@@ -56,9 +56,9 @@ A Production Plan can also be created manually where you can select the Items to
 
 
 
-![Production Plan fetch items](/files/pp_fetch_from.png) 2\. Click on Get Sales Orders to fetch sales orders based on the above filters.
+![Production Plan fetch items](https://docs.frappe.io/assets/0cf4140bc1ef.png) 2\. Click on Get Sales Orders to fetch sales orders based on the above filters.
 
-![Sales Order Filters](/files/sales_order_filter.png) 3\. Click on 'Get Items for Work Order' to fetch the items from the above Sales Orders. Items only for which a BOM is present will be fetched. ![Get items for Production Plan](/files/get_items_wo.png) 4\. On expanding a row in the Items to Manufacture table, you'll see an option to 'Include Exploded Items'. Ticking this includes raw materials of the sub-assembly items in the production process. 5\. If "Consolidate Items" is ticked and saved, items with the same BOM are combined into a single item with the combined total planned quantity. ![Get items Combined for Production Plan](/files/get_items_combined_wo.png)
+![Sales Order Filters](https://docs.frappe.io/assets/e878508d9604.png) 3\. Click on 'Get Items for Work Order' to fetch the items from the above Sales Orders. Items only for which a BOM is present will be fetched. ![Get items for Production Plan](https://docs.frappe.io/assets/fd9e3eac3738.png) 4\. On expanding a row in the Items to Manufacture table, you'll see an option to 'Include Exploded Items'. Ticking this includes raw materials of the sub-assembly items in the production process. 5\. If "Consolidate Items" is ticked and saved, items with the same BOM are combined into a single item with the combined total planned quantity. ![Get items Combined for Production Plan](https://docs.frappe.io/assets/88ea059b2087.png)
 
 ### 2.2 Production Against Material Requests
 
@@ -66,37 +66,37 @@ A Production Plan can also be created manually where you can select the Items to
 
 
 
-![Material Request Filters](/files/material_request_filter.png) 2\. Click on 'Get Material Request' to fetch material requests based on the above filters.
+![Material Request Filters](https://docs.frappe.io/assets/dfdbd43bdd65.png) 2\. Click on 'Get Material Request' to fetch material requests based on the above filters.
 
-![Material Requests](/files/material_requests.png) 3\. Click on Get Items for Work Order to fetch the items from the above material requests.
+![Material Requests](https://docs.frappe.io/assets/8161deaa73e7.png) 3\. Click on Get Items for Work Order to fetch the items from the above material requests.
 
-![Material Request Item](/files/material_request_items.png)
+![Material Request Item](https://docs.frappe.io/assets/9bcfa60bbfbf.png)
 
 ### 2.3 Fetching Sub Assembly Items
 
-Clicking on 'Get Sub Assembly Items' will fetch Sub Assembly Items from the BOM of the Finished Good Items, in the table above. ![Get Sub Assembly Items](/files/get-subassembly-items.png)
+Clicking on 'Get Sub Assembly Items' will fetch Sub Assembly Items from the BOM of the Finished Good Items, in the table above. ![Get Sub Assembly Items](https://docs.frappe.io/assets/2f6b40306790.png)
 
 #### 2.3.1 Sub Assembly Items
 
 User will get option to make In House (Work Order) / Sub-contract Purchase Order / Material Request for Purchase against the Sub-assembly items using Manufacturing Type.
 
-![](/files/Screenshot%202025-04-08%20at%204.43.43%20PM.png)
+![](../../assets/b687564436f6.png)
 
 If user wants to make Material Request for their Sub-assembly items as well their Final Raw Materials then they have to select the Manufacturing Type as "Material Request" for Sub-assembly items and then they have to click on the button "Get Items for Purchase Only" to fetch Sub-assembly items in the Material Request Plan Item table.
 
-![](/files/Screenshot%202025-04-08%20at%204.44.08%20PM.png)
+![](../../assets/389dd1357d6b.png)
 
 #### 2.3.2 Combining Sub Assembly Items
 
 If there are Finished Goods that share the same Sub Assembly Item, the Sub Assembly Items can be combined. The criteria for combination would be to have the same Item, Warehouse, BOM and Manufacturing Type.
 
-![Combine Sub Assemby Items](/files/consolidate-subassembly-items.png)
+![Combine Sub Assemby Items](https://docs.frappe.io/assets/9c52a449df72.png)
 
 In this way a common Work Order can be made to bulk create Sub Assemblies for various Finished Goods.
 
 #### 2.3.3 Skip Available Sub Assembly Items or Skip Available Raw Materials
 
-![](/files/Screenshot%202025-04-08%20at%204.24.08%20PM.png)
+![](../../assets/94a7bf018155.png)
 
 If users enable the checkbox 'Skip Available Sub-Assembly Items' or 'Skip Available Raw Materials', the system will consider the Projected Qty which is available in the bin to calculate the required quantity for sub-assembly items or raw materials. To understand this, consider the following case.
 
@@ -112,12 +112,12 @@ To produce 1 qty of Item A, 1 qty of Item B (sub-assembly) is required, and to p
 
   * If Skip Available Sub Assembly Items enabled, while calculating the required qty for Item B
 
-    * Reqd Qty = Required Qty (as per BOM) - [Projected Qty](<https://docs.frappe.io/erpnext/user/manual/en/projected-quantity>) (in BIN)
+    * Reqd Qty = Required Qty (as per BOM) - [Projected Qty](https://docs.frappe.io/erpnext/user/manual/en/projected-quantity.md) (in BIN)
     * Reqd Qty = 100 - 40
     * **Reqd Qty = 60**
   * If Skip Available Raw Materials enabled, while calculating the required qty for Item C
 
-    * Reqd Qty = Required Qty (as per BOM) - [Projected Qty](<https://docs.frappe.io/erpnext/user/manual/en/projected-quantity>) (in BIN)
+    * Reqd Qty = Required Qty (as per BOM) - [Projected Qty](https://docs.frappe.io/erpnext/user/manual/en/projected-quantity.md) (in BIN)
     * Reqd Qty = 100 - 60
     * **Reqd Qty = 40**
 
@@ -127,15 +127,15 @@ To produce 1 qty of Item A, 1 qty of Item B (sub-assembly) is required, and to p
 
 Clicking on the 'Get Items for Purchase Only' button will fetch the required raw material Items in the Material Request Plan table. For example, to manufacture 200 plastic canes, you need 100 raw plastic Nos but have only 20 in your Warehouse, then clicking this button will add a row with 80 in the Required Quantity column (make sure Skip Available Raw Materials is enabled).
 
-![](/files/Screenshot%202025-04-08%20at%204.36.30%20PM.png)
+![](../../assets/c3d8fc676f43.png)
 
 If partial materials are available in a different warehouse and you want to perform a material transfer and create a purchase entry for the remaining quantity, use the "Get Items for Purchase / Transfer" button. Here, you need to specify the warehouse from which the transfer should be made. If you select the parent warehouse, the system will check stock availability in its child warehouses and suggest transferring materials from those child warehouses.
 
-![](/files/Screenshot%202025-04-08%20at%204.42.00%20PM.png)
+![](../../assets/efa240d5bfb9.png)
 
 Use the following checkboxes to perform certain actions:
 
-  * **Include Non Stock Items** : To include non-stock items in the material request planning. i.e. Items for which 'Maintain Stock' checkbox is unticked. Refer the [Item page](</erpnext/item#12-options-when-creating-an-item>) for more details.
+  * **Include Non Stock Items** : To include non-stock items in the material request planning. i.e. Items for which 'Maintain Stock' checkbox is unticked. Refer the [Item page](item.md) for more details.
 
   * **Include Subcontracted Items** : To add subcontracted Item's raw materials if include exploded items is disabled.
 
@@ -154,17 +154,17 @@ Use the following checkboxes to perform certain actions:
 
 #### 2.4.1 Download Material Request Plan
 
-![](/files/Screenshot%202025-04-08%20at%204.43.08%20PM.png)
+![](../../assets/6cdca4c90aa3.png)
 
 On click of "Download Material Request Plan" button the User will get the Excel sheet with the raw materials that are needed to complete this Production Plan. User can select the Warehouse to check the available quantity in the respective Warehouse. On click of "Download Material Request Plan" a popup will open to select warehouses. If user wants to Run plan for multiple warehouses then they can select those warehouses in the Popup to download the plan in the excel sheet format. Excel sheet will look similar to:
 
-![Material Request Plan](/files/material_request_excel.png)
+![Material Request Plan](https://docs.frappe.io/assets/338c790d5fe1.png)
 
 ### 2.5 After Submitting
 
 Once the Production Plan is submitted, the User gets an option to make Work Orders for the production items and Material Requests for the raw materials. Users can also set the Status as **Closed** in the Production Plan.
 
-![](/files/Screenshot%202025-04-08%20at%204.49.56%20PM.png)
+![](../../assets/55db3ba57f5b.png)
 
 #### 2.5.1 Closing a Production Plan
 
@@ -177,7 +177,7 @@ There could be occurrences where a Production Plan is partially complete and is 
 
 In cases like these, Users can set the Production Plan status to **Closed** , so that no new Work Orders or Material Requests are created against it.
 
-![Closing a Production Plan](/files/production_plan_status.gif)
+![Closing a Production Plan](https://docs.frappe.io/assets/8f4c9388300a.gif)
 
 The same can be **Re-opened**.
 
@@ -187,7 +187,7 @@ User will get option to make Work Order / Sub-contract Purchase Order / Material
 
 If user wants to make Work Order for sub-assembly items then select the Manufacturing Type as In House and submit it. After Submit you have to click on the button Create -> Work Order / Subcontract PO
 
-![](/files/Screenshot%202025-04-08%20at%204.44.08%20PM.png)
+![](../../assets/389dd1357d6b.png)
 
   3. Related Topics
 
@@ -195,12 +195,12 @@ If user wants to make Work Order for sub-assembly items then select the Manufact
 
 * * *
 
-  1. [Work Order](</erpnext/work-order>)
-  2. [Job Card](</erpnext/job-card>)
+  1. [Work Order](work-order.md)
+  2. [Job Card](job-card.md)
 
 
 
-[ Previous Page Multi-level BOM Creator ](</erpnext/bom-creator>) [ Next Page Work Order ](</erpnext/work-order>)
+[ Previous Page Multi-level BOM Creator ](bom-creator.md) [ Next Page Work Order ](work-order.md)
 
 Last updated 2 weeks ago 
 

@@ -1,12 +1,12 @@
 # bench migrate
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/130rmmpdhn>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/130rmmpdhn)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # bench migrate 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/130rmmpdhn>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/130rmmpdhn)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -68,7 +68,7 @@ This operation also updates the `touched_tables.json` file for the respective fi
 
 > Note: Skipping failing patches is not recommended for production use
 
-[ Previous Page bench drop-site  ](</framework/v14/user/en/bench/reference/drop-site>) [ Next Page bench backup  ](</framework/v14/user/en/bench/reference/backup>)
+[ Previous Page bench drop-site  ](drop-site.md) [ Next Page bench backup  ](backup.md)
 
 Last updated 2 months ago 
 

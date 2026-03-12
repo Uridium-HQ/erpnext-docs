@@ -1,12 +1,12 @@
 # Address Template
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0raacogdrk>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0raacogdrk)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Address Template 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0raacogdrk>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0raacogdrk)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -38,18 +38,18 @@ The Address Template checks the 'Country' field in the Address master to apply d
 
 
 
-![Screenshot 2024-05-23 at 4.29.42 PM](/files/Screenshot%202024-05-23%20at%204.29.42%20PM.png)
+![Screenshot 2024-05-23 at 4.29.42 PM](https://docs.frappe.io/assets/d155a31eaec4.png)
 
-Note: The template engine is based on HTML and the [Jinja](<https://jinja.palletsprojects.com/>) system. All the fields (including Custom Fields) will be available for creating the template.
+Note: The template engine is based on HTML and the [Jinja](https://jinja.palletsprojects.com/) system. All the fields (including Custom Fields) will be available for creating the template.
 
 ### 2\. Related Topics
 
-  1. [Terms and Conditions Template](</erpnext/terms-and-conditions>)
-  2. [Cheque Print Template](</erpnext/cheque-print-template>)
+  1. [Terms and Conditions Template](terms-and-conditions.md)
+  2. [Cheque Print Template](cheque-print-template.md)
 
 
 
-[ Previous Page Address  ](</erpnext/address>) [ Next Page Terms And Conditions  ](</erpnext/terms-and-conditions>)
+[ Previous Page Address  ](address.md) [ Next Page Terms And Conditions  ](terms-and-conditions.md)
 
 Last updated 1 week ago 
 

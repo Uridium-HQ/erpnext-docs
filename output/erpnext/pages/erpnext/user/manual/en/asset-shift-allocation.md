@@ -1,12 +1,12 @@
 # Asset Shift Allocation
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s497eiki5>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s497eiki5)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Asset Shift Allocation
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s497eiki5>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s497eiki5)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -32,7 +32,7 @@ Before creating an Asset Shift Allocation, ensure:
 
 
 
-![](/files/WXQYhRA.png)
+![](../../../../../assets/5c213140a6dc.png)
 
 ## 2\. How to Create an Asset Shift Allocation
 
@@ -51,7 +51,7 @@ Only after reviewing and confirming the updated schedule should you click **Subm
 
 > Note: Asset Shift Allocation is a transaction and must be **submitted** to apply changes.
 
-![](/files/00creuc.png)
+![](../../../../../assets/5f292c29d601.png)
 
 ## 3\. What Happens Automatically?
 
@@ -71,7 +71,7 @@ When you save:
 
 
 
-![](/files/HZDN3lo.png)
+![](../../../../../assets/952fb2af04ec.png)
 
 This ensures:
 
@@ -94,7 +94,7 @@ After reviewing the recalculated schedule:
 
 
 
-![](/files/RgfAzrs.png)
+![](../../../../../assets/94a6d321d0bd.png)
 
 ## 5\. Key Features
 
@@ -116,12 +116,12 @@ You can modify shifts for specific rows without manually recalculating the entir
 
 * * *
 
-  * [Asset](</erpnext/asset>)
-  * [Depreciation Methods](</erpnext/asset-depreciation>)
+  * [Asset](../../../asset.md)
+  * [Depreciation Methods](../../../asset-depreciation.md)
 
 
 
-[ Previous Page Daily Depreciation Calculation ](</erpnext/daily-depreciation>) [ Next Page Asset Maintenance ](</erpnext/asset-maintenance>)
+[ Previous Page Daily Depreciation Calculation ](../../../daily-depreciation.md) [ Next Page Asset Maintenance ](../../../asset-maintenance.md)
 
 Last updated 1 week ago 
 

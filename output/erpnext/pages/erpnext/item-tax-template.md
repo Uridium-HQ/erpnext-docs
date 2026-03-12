@@ -1,18 +1,18 @@
 # Item Tax Template
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ro69t55rr>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ro69t55rr)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Item Tax Template 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ro69t55rr>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ro69t55rr)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 **Item Tax Template is useful for item wise taxation.**
 
-If some of your Items have tax rates different from the standard tax rate assigned in the Taxes and Charges table, then you can create an Item Tax Template and assign it to an [Item](</erpnext/item>) or [Item Group](</erpnext/item-group>). The rate assigned in the Item Tax Template will get preference over the standard tax rate assigned in the Taxes and Charges table.
+If some of your Items have tax rates different from the standard tax rate assigned in the Taxes and Charges table, then you can create an Item Tax Template and assign it to an [Item](item.md) or [Item Group](item-group.md). The rate assigned in the Item Tax Template will get preference over the standard tax rate assigned in the Taxes and Charges table.
 
 For example, if tax GST 18% is added in the Taxes and Charges table in Sales Order, then it will be applied on all the items in that Sales Order. However, if you need to have different tax rate applied on some of the items, the steps are given below
 
@@ -20,14 +20,14 @@ To access the Item Tax Template list, go to
 
 > Home > Accounting > Taxes > Item Tax Template
 
-Let's assume that we are creating a Sales Order. We have the [Sales Taxes and Charges Template](</erpnext/sales-taxes-and-charges-template>) master for GST 9%. Out of all the Sales Items, on one Item, only 5% GST will be applied, while another item is exempted from tax (non taxable). You need to select the Account Head of the tax and set its overriding rate.
+Let's assume that we are creating a Sales Order. We have the [Sales Taxes and Charges Template](sales-taxes-and-charges-template.md) master for GST 9%. Out of all the Sales Items, on one Item, only 5% GST will be applied, while another item is exempted from tax (non taxable). You need to select the Account Head of the tax and set its overriding rate.
 
 ## 1\. Prerequisites
 
 Before creating and using an Item Tax Template, it is advised to create the following first:
 
-  1. [Item](</erpnext/item>)
-  2. Enable 'Automatically add Taxes and Charges from Item Tax Template' in [Account Settings](</erpnext/accounts-settings>)
+  1. [Item](item.md)
+  2. Enable 'Automatically add Taxes and Charges from Item Tax Template' in [Account Settings](accounts-settings.md)
 
 
 
@@ -42,19 +42,19 @@ Before creating and using an Item Tax Template, it is advised to create the foll
 
 Now the Item Tax Template is ready to be assigned to an Item. To do this, go the Item, Item Tax section and select an Item Tax Template:
 
-![Item Tax In Item](/files/item-tax-in-item.png)
+![Item Tax In Item](https://docs.frappe.io/assets/cb400c7a7252.png)
 
-> Note: It is advised to not use the Sales/Purchase Template selected here in [Tax Rule](</erpnext/tax-rule>), it may cause interference. If you want to use same tax rates for Tax Rule and Item Tax Template, use a different name for the Sales/Purchase Tax Templates.
+> Note: It is advised to not use the Sales/Purchase Template selected here in [Tax Rule](tax-rule.md), it may cause interference. If you want to use same tax rates for Tax Rule and Item Tax Template, use a different name for the Sales/Purchase Tax Templates.
 
 ### 2.1 Mention Tax Applicable in the Item master
 
 Tax templates are preset with values. For items which have a different tax rate than the others, you need to change it in the Item master. Go to the tax table in the Item, add a row, select the tax type and change the rate. Now, this new rate will over ride the template when creating an order/invoice. For example, in the below screenshot you can see that the tax rate is set as 5 and that's the rate which will be applied in transactions.
 
-![Item-wise Tax](/files/item-wise-tax.png)
+![Item-wise Tax](https://docs.frappe.io/assets/f4568beb0d72.png)
 
 For the Item which is exempted from tax entirely, mention 0% as tax rate in the Item master.
 
-![Tax Exempted Item](/files/tax-exempted-item.png)
+![Tax Exempted Item](https://docs.frappe.io/assets/52d45f89808f.png)
 
 > Note: For Item Tax Template to work, you need to ensure that the tax types (accounts) set in Item Tax Template (with changed tax rates) are present in the Sales Taxes and Charges Template.
 
@@ -66,25 +66,25 @@ In sales transactions like Quotation, Sales Order, and Sales Invoice the taxes o
 
 For example, in the following screenshot, you can see that taxes are calculated at 3% even though the rate as per Sales Taxes and Charges Template is 6.25%.
 
-![Tax Calculation](/files/tax-calculation.png)
+![Tax Calculation](https://docs.frappe.io/assets/4bd3001efac9.png)
 
 ### 2.3 Item Tax Template for each Items
 
 You can also manually select a different Item Tax Template for each Item in a transaction:
 
-![Slect Item Tax Template](/files/select-item-tax-template.png)
+![Slect Item Tax Template](https://docs.frappe.io/assets/ad372b0b1f96.png)
 
 ### 2.4 Item wise tax on an Item Group
 
 You can assign the Item Tax Template to an Item Group by modifying the Item Tax table in the Item Tax section within the Item Group document.
 
-![Item Tax Template in Item Group](/files/item-tax-template-in-item-group.png)
+![Item Tax Template in Item Group](https://docs.frappe.io/assets/793c64e481e1.png)
 
 Item Tax Template applied on an Item Group will apply to all Items in that group unless an individual Item in the Item Group has its own Item Tax Template assigned to it.
 
 ### 2.5 Validity of Item Taxes
 
-![Item Tax in Item Group](/files/item-tax-in-item.png)
+![Item Tax in Item Group](https://docs.frappe.io/assets/cb400c7a7252.png)
 
 You can also assign validity to tax templates as shown in the image above.
 
@@ -111,13 +111,13 @@ You can also assign validity to tax templates as shown in the image above.
 
 ### 3\. Related Topics
 
-  1. [Tax Rule](</erpnext/tax-rule>)
-  2. [Sales Invoice](</erpnext/sales-invoice>)
-  3. [Purchase Invoice](</erpnext/purchase-invoice>)
+  1. [Tax Rule](tax-rule.md)
+  2. [Sales Invoice](sales-invoice.md)
+  3. [Purchase Invoice](purchase-invoice.md)
 
 
 
-[ Previous Page Tax Rule  ](</erpnext/tax-rule>) [ Next Page Types in Tax Template ](</erpnext/types-in-tax-template>)
+[ Previous Page Tax Rule  ](tax-rule.md) [ Next Page Types in Tax Template ](types-in-tax-template.md)
 
 Last updated 2 weeks ago 
 

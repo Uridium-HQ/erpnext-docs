@@ -1,12 +1,12 @@
 # Reports
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12mgvip94u>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12mgvip94u)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Reports 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12mgvip94u>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12mgvip94u)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,9 +14,9 @@ Frappe framework is best suited for business applications and reporting is an im
 
 Let's discuss each type and how to build them using Frappe.
 
-  1. [Report Builder](</framework/v14/user/en/desk/reports/report-builder>): Simple reports that are built from the Desk user interface.
-  2. [Query Report](</framework/v14/user/en/desk/reports/query-report>): Write Reports using SQL query
-  3. [Script Report](</framework/v14/user/en/desk/reports/script-report>): Write Reports using scripts
+  1. [Report Builder](reports/report-builder.md): Simple reports that are built from the Desk user interface.
+  2. [Query Report](reports/query-report.md): Write Reports using SQL query
+  3. [Script Report](reports/script-report.md): Write Reports using scripts
 
 
 
@@ -24,9 +24,9 @@ Let's discuss each type and how to build them using Frappe.
 
 For both Query Reports and Script Reports the same UI view is used to render them. So, both of them benefit from the UI features like Print, PDF, Export to Excel/CSV, Auto Email Report, etc.
 
-![Query Report Features](/files/query-report-view.png) _Query Report Features_
+![Query Report Features](https://docs.frappe.io/assets/180ccc7041b7.png) _Query Report Features_
 
-[ Previous Page Desk  ](</framework/v14/user/en/desk>) [ Next Page Printing  ](</framework/v14/user/en/desk/printing>)
+[ Previous Page Desk  ](../desk.md) [ Next Page Printing  ](printing.md)
 
 Last updated 2 months ago 
 

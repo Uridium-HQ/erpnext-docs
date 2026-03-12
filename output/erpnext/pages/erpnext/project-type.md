@@ -1,12 +1,12 @@
 # Project Type
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s2baeactu>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s2baeactu)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Project Type 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s2baeactu>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s2baeactu)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,7 +14,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 Internal Projects, External Projects could be examples of Project types and are already created in the system. You can choose to add more Project Types. This comes handy when you are reviewing the Projects, and you want to filter the information based on Project Types.
 
-![](/files/imagec36751.png)
+![](../../assets/cc49e04376e8.png)
 
 To access Project Type, go to:
 
@@ -30,12 +30,12 @@ To access Project Type, go to:
 
 ## Related Topics
 
-  1. [Project](<https://docs.frappe.io/erpnext/user/manual/en/project>)
-  2. [Project Template](<https://docs.frappe.io/erpnext/user/manual/en/project-template>)
+  1. [Project](https://docs.frappe.io/erpnext/user/manual/en/project)
+  2. [Project Template](https://docs.frappe.io/erpnext/user/manual/en/project-template)
 
 
 
-[ Previous Page Project Settings ](</erpnext/projects/project-settings>) [ Next Page Project Template  ](</erpnext/project-template>)
+[ Previous Page Project Settings ](https://docs.frappe.io/erpnext/projects/project-settings) [ Next Page Project Template  ](project-template.md)
 
 Last updated 2 weeks ago 
 

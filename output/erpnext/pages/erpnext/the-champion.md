@@ -1,12 +1,12 @@
 # The Project Champion
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0r9qg1irr7>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0r9qg1irr7)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # The Project Champion
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0r9qg1irr7>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0r9qg1irr7)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -28,7 +28,7 @@ These are some of the key benefits of having a Project Champion assigned for eac
 
 
 
-[ Previous Page Open Source ](</erpnext/open-source>) [ Next Page Concepts and Terms ](</erpnext/concepts-and-terms>)
+[ Previous Page Open Source ](open-source.md) [ Next Page Concepts and Terms ](concepts-and-terms.md)
 
 Last updated 2 weeks ago 
 

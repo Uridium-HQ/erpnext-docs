@@ -1,16 +1,16 @@
 # Manufacturing Dashboard
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rvptcn3j9>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rvptcn3j9)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Manufacturing Dashboard 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rvptcn3j9>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rvptcn3j9)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-![](/files/image077385.png)
+![](../../assets/d4ff5b6a6b31.png)
 
 * * *
 
@@ -18,7 +18,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 In ERPNext, Number Cards are a type of widget or visual component that displays key metrics or numerical data in a dashboard. They are typically used to show quick, high-level insights that help users keep track of important business performance indicators or operational statistics.
 
-![](/files/CleanShot%202026-02-19%20at%2011.41.16@2x.png)
+![](../../assets/09a0a7ed3da4.png)
 
   1. **Monthly Total Work Order** :- You will get the total count of Work Orders which are in Open, In Progress, and Completed state. The Work Orders created one month before the current date will be displayed in the number card.
   2. **Monthly Completed Work Order** :- The user will get the total count of Work Orders which are in the Completed state. The Work Orders created one month before the current date will be displayed in the number card.
@@ -33,7 +33,7 @@ In ERPNext, Number Cards are a type of widget or visual component that displays 
 
 You can see some predefined graph reports in the dashboard when you open the Manufacturing module. These reports are fully customizable, you can choose what to show or hide and also configure the metrics on which the reports are shown.
 
-![](/files/CleanShot%202026-02-19%20at%2011.52.51@2x.png)
+![](../../assets/4053224f1946.png)
 
 ### Produced Quantity
 
@@ -45,7 +45,7 @@ The chart will give information about the total number of operations completed i
 
 * * *
 
-![](/files/image31eb3a.png)
+![](../../assets/c22b3469a08c.png)
 
 ### Work Order Analysis
 
@@ -65,7 +65,7 @@ The chart will give information about the total number of minutes a machine was 
 
 * * *
 
-![](/files/image60f6db.png)
+![](../../assets/b928bbb0b211.png)
 
 ### Work Order Quantity Analysis
 
@@ -75,7 +75,7 @@ The chart will give information about the total number of quantities that are Pe
 
 The chart will give information about the total number of Job Cards which are in the Pending and Completed states every month for the last year.
 
-[ Previous Page Manufacturing in ERPNext ](</erpnext/manufacturing>) [ Next Page Bill Of Materials ](</erpnext/bill-of-materials>)
+[ Previous Page Manufacturing in ERPNext ](manufacturing.md) [ Next Page Bill Of Materials ](bill-of-materials.md)
 
 Last updated 2 weeks ago 
 

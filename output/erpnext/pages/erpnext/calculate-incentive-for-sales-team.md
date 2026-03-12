@@ -1,12 +1,12 @@
 # Calculate Incentive For Sales Team
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rhjcr8oka>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rhjcr8oka)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Calculate Incentive For Sales Team 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rhjcr8oka>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rhjcr8oka)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -22,7 +22,7 @@ cur_frm.cscript.custom_validate = function(doc) { // calculate incentives for ea
 
 doc.total_incentive = total_incentive; }
 
-[ Previous Page Sales Person  ](</erpnext/sales-person>) [ Next Page Promotional Scheme  ](</erpnext/promotional-scheme>)
+[ Previous Page Sales Person  ](sales-person.md) [ Next Page Promotional Scheme  ](promotional-scheme.md)
 
 Last updated 2 weeks ago 
 

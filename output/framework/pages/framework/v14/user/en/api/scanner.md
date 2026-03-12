@@ -1,16 +1,16 @@
 # Scanner API
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12rjfd90ta>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12rjfd90ta)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Scanner API 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12rjfd90ta>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12rjfd90ta)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-Frappe uses the open-source library [Html5-QRCode](<https://github.com/mebjas/html5-qrcode>) to provide a flexible way to handle inputs like Barcodes, QRCodes, etc. using the device camera.
+Frappe uses the open-source library [Html5-QRCode](https://github.com/mebjas/html5-qrcode) to provide a flexible way to handle inputs like Barcodes, QRCodes, etc. using the device camera.
 
 ## frappe.ui.Scanner
 [code] 
@@ -55,7 +55,7 @@ The below code can be used to continously scan and handle the scanned input.
 
 To stop the scanning, you can either close the dialog or use `scanner.stop_scan();`
 
-[ Previous Page Chart API  ](</framework/v14/user/en/api/chart>) [ Next Page Server Calls (AJAX)  ](</framework/v14/user/en/api/server-calls>)
+[ Previous Page Chart API  ](chart.md) [ Next Page Server Calls (AJAX)  ](server-calls.md)
 
 Last updated 2 months ago 
 

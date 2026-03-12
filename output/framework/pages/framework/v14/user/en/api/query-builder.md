@@ -1,12 +1,12 @@
 # Query Builder
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12udio8s24>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12udio8s24)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Query Builder 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12udio8s24>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12udio8s24)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -98,7 +98,7 @@ Some noteworthy things
 
 
 
-You can read more about the other functions at the [Pypika](<https://github.com/kayak/pypika>) repo.
+You can read more about the other functions at the [Pypika](https://github.com/kayak/pypika) repo.
 
 ### frappe.qb.Doctype(name\\_of\\_table)
 
@@ -192,7 +192,7 @@ This module provides standard functions you might need while building queries, l
 
 ### Joins and Sub-queries
 
-You can check [pypika documentation](<https://pypika.readthedocs.io/en/latest/2_tutorial.html#joining-tables-and-subqueries>) to join tables and add subqueries. Instead of `Table`, use `frappe.qb.DocType`
+You can check [pypika documentation](https://pypika.readthedocs.io/en/latest/2_tutorial.html) to join tables and add subqueries. Instead of `Table`, use `frappe.qb.DocType`
 
 Example:
 [code] 
@@ -261,7 +261,7 @@ Here we define a column user with the value "john."
 
 ### Special functions
 
-One such function is [Match Against](<https://mariadb.com/kb/en/match-against/>). It's different because it has a chained against argument. To implement something like this you need to inherit from PyPika's `DistinctOptionFunction` class.
+One such function is [Match Against](https://mariadb.com/kb/en/match-against/). It's different because it has a chained against argument. To implement something like this you need to inherit from PyPika's `DistinctOptionFunction` class.
 
 The current MATCH class looks something like
 [code] 
@@ -325,7 +325,7 @@ For example the the mapping for GroupConat looks like this
     
 [/code]
 
-[ Previous Page Dialog API  ](</framework/v14/user/en/api/py-dialog>) [ Next Page RazorPay  ](</framework/v14/user/en/integration/razorpay>)
+[ Previous Page Dialog API  ](py-dialog.md) [ Next Page RazorPay  ](../integration/razorpay.md)
 
 Last updated 2 months ago 
 

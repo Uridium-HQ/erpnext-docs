@@ -1,16 +1,16 @@
 # Realtime (socket.io)
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tl02mh0pe>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tl02mh0pe)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Realtime (socket.io)
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tl02mh0pe>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tl02mh0pe)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-Frappe ships with an API for realtime events based on [socket.io](<https://socket.io/>). Since socket.io needs a Node server to run, we run a Node process in parallel to the main web server.
+Frappe ships with an API for realtime events based on [socket.io](https://socket.io/). Since socket.io needs a Node server to run, we run a Node process in parallel to the main web server.
 
 ## Client APIs (JavaScript)
 
@@ -50,7 +50,7 @@ You can use this method to show a progress bar in a dialog:
     
 [/code]
 
-![frappe publish realtime](/files/frappe-publish-realtime.png)
+![frappe publish realtime](https://docs.frappe.io/assets/f1336f0d91fa.png)
 
 ## Custom Event Handlers
 
@@ -76,7 +76,7 @@ You can trigger this event using client side code `frappe.realtime.emit("hello_c
 
 ## Custom Client
 
-You can write a custom client to connect to [socket.io](<http://socket.io>) server if you're developing a SPA or a mobile app that doesn't use Desk interface. You can refer to official [socket.io](<http://socket.io>) documentation for building your custom client: <<https://socket.io/docs/v4/client-initialization/>>
+You can write a custom client to connect to [socket.io](http://socket.io/) server if you're developing a SPA or a mobile app that doesn't use Desk interface. You can refer to official [socket.io](http://socket.io/) documentation for building your custom client: <<https://socket.io/docs/v4/client-initialization/>>
 
 Here are some examples of custom clients:
 
@@ -87,7 +87,7 @@ Here are some examples of custom clients:
 
 ### Authorization in custom clients
 
-There are two ways to authenticate a connection with [socket.io](<http://socket.io>) server:
+There are two ways to authenticate a connection with [socket.io](http://socket.io/) server:
 
   * Cookies - if your custom client is in a browser-like environment then your connection will automatically send cookies and socketio server will be able to authenticate using the cookies.
   * Authorization header: if cookies are not available in your environment like mobile apps then you can use Authorization headers just like API requests. Refer REST API authentication documentation to understand this: <<https://frappeframework.com/docs/user/en/api/rest#authentication>> and <<https://socket.io/docs/v4/client-options/#extraheaders>>
@@ -96,8 +96,8 @@ There are two ways to authenticate a connection with [socket.io](<http://socket.
 
 ### Implementation Notes
 
-  * Realtime server uses [socket.io](<http://socket.io>) server. The server is written in node.js and can be found in `/realtime` directory.
-  * Realtime client is wrapper around [socket.io](<http://socket.io>) client library and can be found in `public/js/frappe/socketio_client.js`.
+  * Realtime server uses [socket.io](http://socket.io/) server. The server is written in node.js and can be found in `/realtime` directory.
+  * Realtime client is wrapper around [socket.io](http://socket.io/) client library and can be found in `public/js/frappe/socketio_client.js`.
   * Python processes publish events to node server using Redis pub-sub channel. Realtime server subscribes to the Redis channel and publishes it to all subscribed clients.
   * Realtime server is multi-tenant, all site-related traffic is namespaced by sitename. Namespaces are dynamically created using `/{sitename}` format where sitename is name of site's folder in sites directory or `frappe.local.site`.
   * Realtime server uses main Frappe web server to authenticate connections. SID cookie or authorization header are passed to client and realtime server uses it to ensure that the connection is from a valid user and can subscribe to certain DocType or documents based on permissions.
@@ -110,7 +110,7 @@ There are two ways to authenticate a connection with [socket.io](<http://socket.
 
 
 
-[ Previous Page Permission Types ](</framework/permission-types>) [ Next Page Background Jobs ](</framework/user/en/api/background_jobs>)
+[ Previous Page Permission Types ](https://docs.frappe.io/framework/permission-types) [ Next Page Background Jobs ](background_jobs.md)
 
 Last updated 17 hours ago 
 

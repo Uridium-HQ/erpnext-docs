@@ -1,12 +1,12 @@
 # Ordering
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12cg0pos2t>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12cg0pos2t)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Ordering 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12cg0pos2t>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12cg0pos2t)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -16,7 +16,7 @@ For example for this folder the `index.txt` looks like:
 
 adding-pages ordering contents context building
 
-[ Previous Page Pages  ](</framework/v14/user/en/guides/portal-development>) [ Next Page Adding Pages  ](</framework/v14/user/en/guides/portal-development/adding-pages>)
+[ Previous Page Pages  ](../portal-development.md) [ Next Page Adding Pages  ](adding-pages.md)
 
 Last updated 2 months ago 
 

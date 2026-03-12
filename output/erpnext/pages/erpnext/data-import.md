@@ -1,12 +1,12 @@
 # Data Import
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/5nqn8sg6pr>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/5nqn8sg6pr)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Data Import
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/5nqn8sg6pr>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/5nqn8sg6pr)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -28,7 +28,7 @@ Before starting the import process, make sure that all required data is prepared
 
 The Data Import Tool in ERPNext allows users to upload bulk records into the system using a predefined template. This document outlines the step-by-step process for importing new records.
 
-![](../../assets/ef8deb606127.png)
+![](https://docs.frappe.io/assets/ef8deb606127.png)
 
   1. Navigate to Data Import
   2. Select the Document Type and the Import Type as _Insert New Records_.
@@ -40,7 +40,7 @@ The Data Import Tool in ERPNext allows users to upload bulk records into the sys
 
 We have an option to download the template to insert the records/update the records
 
-  1. Clicking on Download Template opens a dialog box ![](/files/export%20data.png) _Download Template Dialog box_
+  1. Clicking on Download Template opens a dialog box ![](../../assets/72239811fd66.png) _Download Template Dialog box_
 
 
 
@@ -62,9 +62,9 @@ We have an option to download the template to insert the records/update the reco
 
 Once the data has been added to the downloaded template, the following steps are followed:
 
-  1. After updating your template file, go back to the Data Import form and attach the file by clicking on the **Attach** button. ![](/files/imagef9ce89.png) _Attaching file for import_
-  2. Select the template file and click on **Upload** , after the upload is successful, click on **Start Import**. There are various ways to import the data; you can refer [here](<https://docs.frappe.io/erpnext/data-import#ways-to-import-data>)
-  3. Once the Sheet is uploaded, the system validates the sheet and gives the result on screen before importing the data ![](/files/image799c07.png)
+  1. After updating your template file, go back to the Data Import form and attach the file by clicking on the **Attach** button. ![](../../assets/eee76eab0aa4.png) _Attaching file for import_
+  2. Select the template file and click on **Upload** , after the upload is successful, click on **Start Import**. There are various ways to import the data; you can refer [here](https://docs.frappe.io/erpnext/data-import.md)
+  3. Once the Sheet is uploaded, the system validates the sheet and gives the result on screen before importing the data ![](../../assets/08ccd12449f4.png)
   4. If there are any errors in your template, they will be shown in the Warnings section. The warnings will be categorized by Row or Column with their number so that you can easily track them down in the template and resolve them. You must resolve all the warnings before you can import the data.
   5. After you have resolved the warnings, click on **Start Import** again to import the data. On successful import of the data, you'll see a log of each record that was created in the Import Log section.
 
@@ -76,7 +76,7 @@ Once the data has been added to the downloaded template, the following steps are
 
 In case we try to add a record with a duplicate name, it will throw an error like this
 
-![](/files/imagebff69b.png) _Duplicate Name Error_
+![](../../assets/c785a016d2fb.png) _Duplicate Name Error_
 
 ### Mapping of missed columns
 
@@ -94,7 +94,7 @@ When you export a document with child tables, for e.g., each child row will appe
 
 * * *
 
-![](/files/imagedf8b35.png) _Child records importing_
+![](../../assets/7df15bf92a72.png) _Child records importing_
 
 ## Updating Records
 
@@ -102,19 +102,19 @@ Let's say you want to update Customer data in bulk in your system. The first ste
 
   1. We start by downloading the template. While doing this, since we want to update, we can use filters to extract the exact records and import them back for updating.
   2. First, we select the document type and the import type as **Update Existing Records,** and Save
-  3. When we try to download the template, we can apply filters, something like this ![](/files/image0baff8.png)
+  3. When we try to download the template, we can apply filters, something like this ![](../../assets/5a65830f83c6.png)
   4. We click on **Export.**
   5. Now, based on the template, the existing records look like this:
 
 
 
-![](/files/image7a4518.png)
+![](../../assets/e9f09c459f01.png)
 
   6. Now, change the values in your template and save the file as Excel or CSV.
 
 
 
-![](/files/imageebf859.png)
+![](../../assets/46528776b3d4.png)
 
 ## Ways to Import Data
 
@@ -129,9 +129,9 @@ You can import data directly from Google Sheets by following these steps:
 
 
 
-![](/files/imaged49cb3.png) _Google sheet Data File_
+![](../../assets/8e1f71be6fc2.png) _Google sheet Data File_
 
-![](/files/imagebbb644.png) _Post Import using google sheets_
+![](../../assets/25e3b421b63c.png) _Post Import using google sheets_
 
 ### Import from the file system
 
@@ -139,10 +139,10 @@ You can import data directly from Google Sheets by following these steps:
 
 
   * Attach File
-  * Import Using Google Sheets ![](/files/imageb8e55f.png)
+  * Import Using Google Sheets ![](../../assets/b9ce4f111416.png)
 
 
-  2. After clicking **Attach** , you will see multiple upload options: ![](/files/imageb4e113.png)
+  2. After clicking **Attach** , you will see multiple upload options: ![](../../assets/dc2db06ee2ca.png)
   3. Available Upload Options
 
 
@@ -184,7 +184,7 @@ If you are using Microsoft Excel and using non-English characters, make sure to 
 
 For older versions of Excel, there is no clear way of saving as UTF-8. So save your file as CSV, then open it in Notepad, then save as “UTF-8”. (Or upgrade your Excel!)
 
-[ Previous Page Introduction ](</erpnext/data-management/introduction>) [ Next Page Chart Of Accounts Importer  ](</erpnext/chart-of-accounts-importer>)
+[ Previous Page Introduction ](data-management/introduction.md) [ Next Page Chart Of Accounts Importer  ](chart-of-accounts-importer.md)
 
 Last updated 1 week ago 
 

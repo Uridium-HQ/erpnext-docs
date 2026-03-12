@@ -1,12 +1,12 @@
 # Settings
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12pcl5cpoc>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12pcl5cpoc)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Settings
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12pcl5cpoc>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12pcl5cpoc)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -26,7 +26,7 @@ If you only want responses from logged in user just enable the `login_required` 
 
 It is used to enable users to give multiple responses which they can see in Webform List View.
 
-> Enabling it will also enable [show_list](</framework/v14/user/en/web-form/settings#show-list>) checkbox in List Setting section
+> Enabling it will also enable [show_list](settings.md) checkbox in List Setting section
 
 ### Allow Editing After Submit
 
@@ -66,27 +66,27 @@ It will allow submission of forms even if mandatory fields are not populated.
 
 ## List Settings
 
-![Web Form](/files/v-14-web-form-list-settings.png)
+![Web Form](https://docs.frappe.io/assets/7a315ed2ff8d.png)
 
 ### Show List
 
-It will enable `List View` where you can see all the submitted forms. You can only open the form that you own. ![Web Form](/files/v-14-web-form-list-view.png)
+It will enable `List View` where you can see all the submitted forms. You can only open the form that you own. ![Web Form](https://docs.frappe.io/assets/3a2016a3368d.png)
 
 > If `apply_document_permissions` is enabled you can open other forms.
 
 ### Title & List Columns
 
-You can change the title of the list and also can add/remove/arrange list view columns ![Web Form](/files/v-14-web-form-update-title-list-columns.png) ![Web Form](/files/v-14-web-form-updated-list-view.png)
+You can change the title of the list and also can add/remove/arrange list view columns ![Web Form](https://docs.frappe.io/assets/13c69696ca1c.png) ![Web Form](https://docs.frappe.io/assets/9443a6bc4540.png)
 
 ## Sidebar Settings
 
-![Web Form](/files/v-14-web-form-show-sidebar.png)
+![Web Form](https://docs.frappe.io/assets/d927739822b4.png)
 
 ### Show Sidebar
 
-Show webform with sidebar. Select or create a website sidebar where you can add link to current webform and other related webforms or webpages. ![Web Form](/files/v-14-web-form-with-sidebar.png)
+Show webform with sidebar. Select or create a website sidebar where you can add link to current webform and other related webforms or webpages. ![Web Form](https://docs.frappe.io/assets/3af2dddcb74f.png)
 
-[ Previous Page Web Form ](</framework/v14/user/en/web-form>) [ Next Page Customization ](</framework/v14/user/en/web-form/customization>)
+[ Previous Page Web Form ](../web-form.md) [ Next Page Customization ](customization.md)
 
 Last updated 2 months ago 
 

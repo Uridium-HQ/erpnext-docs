@@ -1,12 +1,12 @@
 # Difference Between System User and Website User
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0scrqt7t87>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0scrqt7t87)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Difference Between System User and Website User
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0scrqt7t87>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0scrqt7t87)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -33,7 +33,7 @@ It provides access to company-wide data and reports | It provides access to only
 They can view, create, edit, and delete records | They can mostly view and create records relevant to them  
 They have full data entry capabilities across all modules | They have limited to data entry relevant to their role  
   
-[ Previous Page Change existing user's email ID ](</erpnext/how-to-change-a-users-email-id>) [ Next Page Setting Up Email Signature in ERPNext ](</erpnext/setting-up-email-signature-in-erpnext>)
+[ Previous Page Change existing user's email ID ](how-to-change-a-users-email-id.md) [ Next Page Setting Up Email Signature in ERPNext ](setting-up-email-signature-in-erpnext.md)
 
 Last updated 1 week ago 
 

@@ -1,12 +1,12 @@
 # Geolocation Field
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0t7vlq0ddj>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0t7vlq0ddj)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Geolocation Field
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0t7vlq0ddj>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0t7vlq0ddj)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -24,9 +24,9 @@ Here are a few key points about the Geolocation field in ERPNext:
 
 
 
-![geolocation field](/files/geolocation-field.gif)
+![geolocation field](https://docs.frappe.io/assets/c570b9ac3d40.gif)
 
-[ Previous Page Field Types ](</erpnext/field-types>) [ Next Page Table MultiSelect Field ](</erpnext/table-multiselect-field>)
+[ Previous Page Field Types ](field-types.md) [ Next Page Table MultiSelect Field ](table-multiselect-field.md)
 
 Last updated 1 week ago 
 

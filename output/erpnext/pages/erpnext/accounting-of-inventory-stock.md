@@ -1,16 +1,16 @@
 # Accounting Of Inventory Stock
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rs7ahdge3>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rs7ahdge3)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Accounting Of Inventory Stock
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rs7ahdge3>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rs7ahdge3)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-The value of available inventory is treated as a Current Asset in the company's [Chart of Accounts](</erpnext/chart-of-accounts>). To prepare a Balance Sheet, you should make the accounting entries for those assets. There are generally two different methods of  
+The value of available inventory is treated as a Current Asset in the company's [Chart of Accounts](chart-of-accounts.md). To prepare a Balance Sheet, you should make the accounting entries for those assets. There are generally two different methods of  
 accounting for inventory.
 
 ## Auto/Perpetual Inventory
@@ -19,7 +19,7 @@ accounting for inventory.
 
 In this process, for each stock transaction, the system posts relevant  
 accounting entries to sync stock balance and accounting balance. This is the  
-default setting in ERPNext for new accounts. By default, Perpetual Inventory is enabled in the [Company](</erpnext/company-setup#23-stock-settings>).
+default setting in ERPNext for new accounts. By default, Perpetual Inventory is enabled in the [Company](company-setup.md).
 
 When you buy and receive items, those items are booked as the company’s assets  
 (stock-in-hand). When you sell and deliver those items, an  
@@ -29,7 +29,7 @@ the value as per Stock Ledger always remains the same with the relevant account
 balance. This improves the accuracy of the Balance Sheet and the Profit and Loss  
 statement.
 
-Read [Perpetual Inventory documentation](</erpnext/perpetual-inventory>)  
+Read [Perpetual Inventory documentation](perpetual-inventory.md)  
 to check accounting entries for a particular stock transaction.
 
 ### Advantages of Perpetual Inventory
@@ -69,9 +69,9 @@ is passed.
 This complete process is called **Periodic Inventory**.
 
 If you are an existing user using Periodic Inventory and want to use Perpetual  
-Inventory, you need to follow [a few steps](</erpnext/migrate-to-perpetual-inventory>) to migrate.
+Inventory, you need to follow [a few steps](migrate-to-perpetual-inventory.md) to migrate.
 
-[ Previous Page Stock Settings ](</erpnext/stock-settings>) [ Next Page Perpetual Inventory  ](</erpnext/perpetual-inventory>)
+[ Previous Page Stock Settings ](stock-settings.md) [ Next Page Perpetual Inventory  ](perpetual-inventory.md)
 
 Last updated 2 weeks ago 
 

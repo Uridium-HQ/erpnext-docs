@@ -1,12 +1,12 @@
 # List
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12q17o5p66>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12q17o5p66)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # List 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12q17o5p66>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12q17o5p66)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -22,7 +22,7 @@ The List view is packed with features. Some of them are:
 
 
 
-![List View](/files/list-view.png) _List View_
+![List View](https://docs.frappe.io/assets/2aa0cce35352.png) _List View_
 
 ## Standard List JS
 
@@ -98,13 +98,13 @@ To create a new Client Script, go to
 
 **Home > Customization > Client Script > New**
 
-![New Client Script](/files/client-script-list.png) _New Client Script for List_
+![New Client Script](https://docs.frappe.io/assets/06a48dd86e9b.png) _New Client Script for List_
 
 The above customization will result in a list view that looks like this:
 
-![List View Customized](/files/list-view-customized.png) _List View Customized_
+![List View Customized](https://docs.frappe.io/assets/d12c5c0349f7.png) _List View Customized_
 
-[ Previous Page Controls  ](</framework/v14/user/en/api/controls>) [ Next Page Page API  ](</framework/v14/user/en/api/page>)
+[ Previous Page Controls  ](controls.md) [ Next Page Page API  ](page.md)
 
 Last updated 2 months ago 
 

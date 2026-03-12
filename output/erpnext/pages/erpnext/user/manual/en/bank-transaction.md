@@ -1,12 +1,12 @@
 # Bank Transaction
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rq5i41c92>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rq5i41c92)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Bank Transaction
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rq5i41c92>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rq5i41c92)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -16,8 +16,8 @@ The **Bank Transaction** form shows bank transactions imported into ERPNext, typ
 
 Before using **Bank Transaction** , it is advised that you create the following first:
 
-  1. **[Bank](</erpnext/user/manual/en/bank>)**
-  2. **[Bank Account](</erpnext/user/manual/en/bank-account>)**
+  1. **[Bank](bank.md)**
+  2. **[Bank Account](bank-account.md)**
 
 
 
@@ -25,13 +25,13 @@ Before using **Bank Transaction** , it is advised that you create the following 
 
 A **Bank Transaction** is typically not created manually. It can be imported or created using:
 
-  1. **[Bank Statement Import](</erpnext/user/manual/en/bank-reconciliation#321-bank-statement-import>)** — import from CSV or XLSX files
-  2. **[Data Import](</erpnext/user/manual/en/data-import>)** — standard data import tool
+  1. **[Bank Statement Import](bank-reconciliation.md)** — import from CSV or XLSX files
+  2. **[Data Import](https://docs.frappe.io/erpnext/user/manual/en/data-import)** — standard data import tool
   3. Bank integration apps (e.g., Plaid or other third-party integrations)
 
 
 
-Once imported, **Bank Transactions** can be reconciled with vouchers using the **[Bank Reconciliation Tool](</erpnext/user/manual/en/bank-reconciliation>)**.
+Once imported, **Bank Transactions** can be reconciled with vouchers using the **[Bank Reconciliation Tool](bank-reconciliation.md)**.
 
 ## 3\. Fields
 
@@ -112,7 +112,7 @@ These fields handle bank fees that may be included in or excluded from the trans
 
 > **Note:** Excluded fees adjust the transaction amount: they reduce _Deposit_ or increase _Withdrawal_.
 
-[ Previous Page UnReconcile ](</erpnext/unreconciliation>) [ Next Page Include Tax or Charge in Valuation or Total? ](</erpnext/difference-in-total-and-valuation-in-tax-and-charges>)
+[ Previous Page UnReconcile ](https://docs.frappe.io/erpnext/unreconciliation) [ Next Page Include Tax or Charge in Valuation or Total? ](../../../difference-in-total-and-valuation-in-tax-and-charges.md)
 
 Last updated 2 weeks ago 
 

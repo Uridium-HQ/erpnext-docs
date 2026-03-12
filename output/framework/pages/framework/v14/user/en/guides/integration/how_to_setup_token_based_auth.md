@@ -1,12 +1,12 @@
 # Token based authentication
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12e330c8ba>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12e330c8ba)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Token based authentication 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12e330c8ba>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12e330c8ba)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -50,7 +50,7 @@ Check `Guides / Integrations / Rest Api / Token Based Authentication` to see how
 
 
 
-[ Previous Page Google GSuite  ](</framework/v14/user/en/guides/integration/google_gsuite>) [ Next Page OpenID Connect and Frappe social login  ](</framework/v14/user/en/guides/integration/openid_connect_and_frappe_social_login>)
+[ Previous Page Google GSuite  ](google_gsuite.md) [ Next Page OpenID Connect and Frappe social login  ](openid_connect_and_frappe_social_login.md)
 
 Last updated 2 months ago 
 

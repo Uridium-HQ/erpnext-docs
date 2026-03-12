@@ -1,37 +1,37 @@
 # Bank Account
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rnqv7j63q>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rnqv7j63q)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Bank Account
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rnqv7j63q>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rnqv7j63q)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 In ERPNext, Bank Accounts can be created for a Company as well as other parties like Customers, Suppliers etc. Doing this lets you record all the bank transactions correctly for accounting accuracy.
 
-You can add Bank Accounts in ERPNext for Company. Supplier, Customer, or any other party with whom transactions are carried out. Then the Bank Account can be chosen in [Payment Entries](</erpnext/payment-entry>) as a [Mode of Payment](</erpnext/mode-of-payment>).
+You can add Bank Accounts in ERPNext for Company. Supplier, Customer, or any other party with whom transactions are carried out. Then the Bank Account can be chosen in [Payment Entries](payment-entry.md) as a [Mode of Payment](mode-of-payment.md).
 
 To access Bank Account, go to:
 
 > Home > Accounting > Bank Statement > Bank Account
 
-![Bank Account](/files/bank-account.png)
+![Bank Account](https://docs.frappe.io/assets/3f80028951b4.png)
 
 ## 1\. Prerequisites
 
 Before creating and using Bank Account, it is advised to create the following first:
 
-  * [Bank](</erpnext/bank>)
+  * [Bank](bank.md)
 
 
 
 ## 2\. How to create a Bank Account
 
   1. Enter an Account Name.
-  2. Link the General Ledger account set in 'Bank Accounts' in the [Chart of Accounts](</erpnext/chart-of-accounts>).
+  2. Link the General Ledger account set in 'Bank Accounts' in the [Chart of Accounts](chart-of-accounts.md).
   3. Select a Bank.
   4. Save.
 
@@ -75,9 +75,9 @@ For reference, the following details about a Bank Account can be stored in ERPNe
 
 ### 3.4 Integration Details
 
-**Last Integration Date** : If your bank supports [Plaid Integration](</erpnext/plaid_integration>), setting a date here will synchronize on the set date. This will create Bank Transactions entries.
+**Last Integration Date** : If your bank supports [Plaid Integration](plaid_integration.md), setting a date here will synchronize on the set date. This will create Bank Transactions entries.
 
-[ Previous Page Bank  ](</erpnext/bank>) [ Next Page Invoice Discounting  ](</erpnext/invoice_discounting>)
+[ Previous Page Bank  ](bank.md) [ Next Page Invoice Discounting  ](invoice_discounting.md)
 
 Last updated 2 weeks ago 
 

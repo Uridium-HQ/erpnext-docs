@@ -1,12 +1,12 @@
 # Guides
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/127tv8gfru>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/127tv8gfru)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Guides
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/127tv8gfru>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/127tv8gfru)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,20 +14,20 @@ Frappe is a full-stack "batteries included" framework. It has libraries and APIs
 
 In this section we will try and cover the most commonly used API on client and server side that will be useful for app development.
 
-  1. [Basics](</framework/v14/user/en/guides/basics/apps>)
-  2. [App Development](</framework/v14/user/en/guides/app-development/custom_action_link_field>)
-  3. [Deployment](</framework/v14/user/en/guides/deployment/packages>)
-  4. [Reports and Printing](</framework/v14/user/en/guides/reports-and-printing/getting-information-from-another-document-in-print-format>)
-  5. [Portal Development](</framework/v14/user/en/guides/portal-development/>)
-  6. [Data](</framework/v14/user/en/guides/data/using-data-migration-tool>)
-  7. [Integration](</framework/v14/user/en/guides/integration/google_gsuite>)
-  8. [Database Settings](</framework/v14/user/en/guides/database-settings/setup-read-from-secondary-db>)
-  9. [Automated Testing](</framework/v14/user/en/guides/automated-testing>)
-  10. [Desk](</framework/v14/user/en/guides/desk>)
+  1. [Basics](guides/basics/apps.md)
+  2. [App Development](guides/app-development/custom_action_link_field.md)
+  3. [Deployment](guides/deployment/packages.md)
+  4. [Reports and Printing](guides/reports-and-printing/getting-information-from-another-document-in-print-format.md)
+  5. [Portal Development](guides/portal-development.md)
+  6. [Data](guides/data/using-data-migration-tool.md)
+  7. [Integration](guides/integration/google_gsuite.md)
+  8. [Database Settings](guides/database-settings/setup-read-from-secondary-db.md)
+  9. [Automated Testing](guides/automated-testing.md)
+  10. [Desk](guides/desk.md)
 
 
 
-[ Previous Page What's Next?  ](</framework/v14/user/en/tutorial/whats-next>) [ Next Page Frappe Apps  ](</framework/v14/user/en/guides/basics/apps>)
+[ Previous Page What's Next?  ](tutorial/whats-next.md) [ Next Page Frappe Apps  ](guides/basics/apps.md)
 
 Last updated 2 months ago 
 

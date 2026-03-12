@@ -1,12 +1,12 @@
 # Material Request
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ruhbf3ll1>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ruhbf3ll1)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Material Request
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ruhbf3ll1>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ruhbf3ll1)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -19,11 +19,11 @@ A Material Request can have the following purposes:
   * **Material Issue** : If the material being requested is to be Issued for some purpose like manufacturing.
   * **Manufacture:** If the material being requested is to be produced.
   * **Subcontracting:** If the material being requested is to be subcontracted to a vendor.
-  * **Customer Provided** : If the material being requested is to be provided by Customer. To know more about this, visit the [Customer Provided Item](</erpnext/customer-provided-items>) page.
+  * **Customer Provided** : If the material being requested is to be provided by Customer. To know more about this, visit the [Customer Provided Item](customer-provided-items.md) page.
 
 
 
-![Material Request](/files/material-request-flowchart.png)
+![Material Request](https://docs.frappe.io/assets/0f789b4c73c8.png)
 
 To access the Material Request list, go to:
 
@@ -42,21 +42,21 @@ To access the Material Request list, go to:
 
 
 
-![Screenshot 2024-07-09 at 2.36.44 PM](/files/Screenshot%202024-07-09%20at%202.36.44%20PM.png) 5\. Select the Item and set the quantity. 6\. Select the Warehouse for which Items are required. 7\. You can change the Required By date for individual Items in this table. 8\. Save and Submit.
+![Screenshot 2024-07-09 at 2.36.44 PM](https://docs.frappe.io/assets/ddcb2d9d3dcf.png) 5\. Select the Item and set the quantity. 6\. Select the Warehouse for which Items are required. 7\. You can change the Required By date for individual Items in this table. 8\. Save and Submit.
 
-![Screenshot 2024-07-09 at 2.40.52 PM](/files/Screenshot%202024-07-09%20at%202.40.52%20PM.png)
+![Screenshot 2024-07-09 at 2.40.52 PM](https://docs.frappe.io/assets/90894d85bb4d.png)
 
 ### 1.1 Alternate ways of creating a Material Request
 
 A Material Request can be generated automatically:
 
-  * From a [Sales Order](</erpnext/sales-order>). While creating MR, user can choose to ignore or include Projected Quantity. Accordingly, Sales Order Items are fetched to MR.
+  * From a [Sales Order](sales-order.md). While creating MR, user can choose to ignore or include Projected Quantity. Accordingly, Sales Order Items are fetched to MR.
   * When the Projected Quantity of an Item in Stores (Warehouses) reaches a particular level.
-  * From your a [Production Plan](</erpnext/production-plan>) to plan your manufacturing activities.
+  * From your a [Production Plan](production-plan.md) to plan your manufacturing activities.
 
 
 
-If your Items are inventory items, you must also mention the Warehouse where you expect these Items to be delivered. This helps to keep track of the [Projected Quantity](</erpnext/projected-quantity>) for this Item.
+If your Items are inventory items, you must also mention the Warehouse where you expect these Items to be delivered. This helps to keep track of the [Projected Quantity](projected-quantity.md) for this Item.
 
 > Info: Material Request is not mandatory. It is ideal if you have centralized buying so that you can collect this information from various departments.
 
@@ -84,9 +84,9 @@ These are the statuses a Material Request can be in:
 
 ### 2.1 Items table
 
-  * **Barcode** : You can track Items using [barcodes](</erpnext/track-items-using-barcode>).
+  * **Barcode** : You can track Items using [barcodes](track-items-using-barcode.md).
   * The Item Code, name, description, Image, and Manufacturer will be fetched from the Item master.
-  * **Scan Barcode** : You can add Items in the Items table by scanning their barcodes if you have a barcode scanner. Read documentation for [tracking items using barcode](</erpnext/track-items-using-barcode>) to know more.
+  * **Scan Barcode** : You can add Items in the Items table by scanning their barcodes if you have a barcode scanner. Read documentation for [tracking items using barcode](track-items-using-barcode.md) to know more.
   * The UoM, Conversion Factor, and Amount will be fetched. You change the Warehouse for which the material is being requested.
   * Accounting details like Expense Account and Accounting Dimensions can be set for the Items.
   * Page Break will create a page break just before this item when printing.
@@ -107,31 +107,31 @@ In the 'Job Card' and 'Work Order' fields, it sets a reference from where the Ma
 
 #### Letterhead
 
-You can print your Material Request on your company's letterhead. Read [Letter head documentation](</erpnext/letter-head>) to learn more.
+You can print your Material Request on your company's letterhead. Read [Letter head documentation](letter-head.md) to learn more.
 
 #### Print Headings
 
-Material Request headings can also be changed when printing the document. You can do this by selecting a **Print Heading**. To create new Print Headings go to: Home > Settings > Printing > Print Heading. Know more [here](</erpnext/print-headings>).
+Material Request headings can also be changed when printing the document. You can do this by selecting a **Print Heading**. To create new Print Headings go to: Home > Settings > Printing > Print Heading. Know more [here](print-headings.md).
 
 ### 2.5 Terms and Conditions
 
-In Sales/Purchase transactions there might be certain Terms and Conditions based on which the Supplier provides goods or services to the Customer. You can apply the Terms and Conditions to transactions to transactions and they will appear when printing the document. To know about Terms and Conditions, [click here](</erpnext/terms-and-conditions>)
+In Sales/Purchase transactions there might be certain Terms and Conditions based on which the Supplier provides goods or services to the Customer. You can apply the Terms and Conditions to transactions to transactions and they will appear when printing the document. To know about Terms and Conditions, [click here](terms-and-conditions.md)
 
 ### 2.6 After Submitting
 
 You can create the following documents:
 
-  * [Request For Quotation](</erpnext/request-for-quotation>)
-  * [Purchase Order](</erpnext/purchase-order>)
-  * [Supplier Quotation](</erpnext/supplier-quotation>)
+  * [Request For Quotation](request-for-quotation.md)
+  * [Purchase Order](purchase-order.md)
+  * [Supplier Quotation](supplier-quotation.md)
 
 
 
-![Screenshot 2024-07-09 at 2.38.58 PM](/files/Screenshot%202024-07-09%20at%202.38.58%20PM.png)
+![Screenshot 2024-07-09 at 2.38.58 PM](https://docs.frappe.io/assets/b5ce3c6be230.png)
 
 ### 2.7 Automatically generate Material Requests
 
-Material Requests can be generated automatically by enabling the setting in [Stock Settings](</erpnext/stock-settings#9-automatic-material-request>) and setting the level in the [Item form](</erpnext/item#34-automatic-reordering>). When the stock level dips below a certain quantity, setting a reorder will automatically create material requests for the Item.
+Material Requests can be generated automatically by enabling the setting in [Stock Settings](stock-settings.md) and setting the level in the [Item form](item.md). When the stock level dips below a certain quantity, setting a reorder will automatically create material requests for the Item.
 
 ### Note:
 
@@ -139,7 +139,7 @@ Material Request Purpose "Subcontracting" is newly added and only present in the
 
 A subcontracted Material Request enables the user to create a Subcontracted Purchase Order directly from the Material Request itself after submission.
 
-[ Previous Page Purchase Transactions ](</erpnext/purchase-transactions>) [ Next Page Purchase Return  ](</erpnext/purchase-return>)
+[ Previous Page Purchase Transactions ](purchase-transactions.md) [ Next Page Purchase Return  ](purchase-return.md)
 
 Last updated 2 weeks ago 
 

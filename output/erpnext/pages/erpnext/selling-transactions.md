@@ -1,12 +1,12 @@
 # Selling Transactions
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rhnrm0quu>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rhnrm0quu)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Selling Transactions
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rhnrm0quu>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rhnrm0quu)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,18 +14,18 @@ Selling transactions in ERPNext encompass a series of actions involved in the sa
 
 Throughout these transactions, ERPNext facilitates seamless communication with customers, tracks sales activity, updates inventory levels in real-time, and integrates with accounting modules to ensure accurate financial records.
 
-  * [Quotation](</erpnext/user/manual/en/quotation>)
-  * [Sales Order](</erpnext/user/manual/en/sales-order>)
-  * [Sales Invoice](</erpnext/user/manual/en/sales-invoice>)
-  * [Credit Note](</erpnext/user/manual/en/credit-note>)
-  * [Blanket Order](</erpnext/user/manual/en/blanket-order>)
-  * [Drop Shipping](</erpnext/user/manual/en/drop-shipping-in-erpnext>)
-  * [Sales return](</erpnext/user/manual/en/sales-return>)
-  * [Delivery Note](</erpnext/user/manual/en/delivery-note>)
+  * [Quotation](user/manual/en/quotation.md)
+  * [Sales Order](user/manual/en/sales-order.md)
+  * [Sales Invoice](user/manual/en/sales-invoice.md)
+  * [Credit Note](user/manual/en/credit-note.md)
+  * [Blanket Order](user/manual/en/blanket-order.md)
+  * [Drop Shipping](user/manual/en/drop-shipping-in-erpnext.md)
+  * [Sales return](user/manual/en/sales-return.md)
+  * [Delivery Note](user/manual/en/delivery-note.md)
 
 
 
-[ Previous Page Selling Settings ](</erpnext/selling-settings>) [ Next Page Quotation  ](</erpnext/quotation>)
+[ Previous Page Selling Settings ](selling-settings.md) [ Next Page Quotation  ](quotation.md)
 
 Last updated 2 weeks ago 
 

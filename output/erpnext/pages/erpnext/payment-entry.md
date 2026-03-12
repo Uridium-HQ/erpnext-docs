@@ -1,12 +1,12 @@
 # Payment Entry
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rnrot519o>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rnrot519o)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Payment Entry
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rnrot519o>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rnrot519o)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -32,9 +32,9 @@ In ERPNext, there are two options through which User can capture the payment:
 
 Here are diagrams to understand the flow:
 
-In Sales: ![Payment Sales](/files/pe-sales.png)
+In Sales: ![Payment Sales](https://docs.frappe.io/assets/875a9752e28f.png)
 
-In Purchase: ![Payment Purchase](/files/pe-purchase.png)
+In Purchase: ![Payment Purchase](https://docs.frappe.io/assets/6c95f67e10e4.png)
 
 To access the Payment Entry list, go to:
 
@@ -48,26 +48,26 @@ To access the Payment Entry list, go to:
 
 A Payment Entry can also be created directly then linked to an order/invoice later. Before creating and using Payment Entry, it is advised to create the following first:
 
-  1. [Customer](</erpnext/customer>)
-  2. [Supplier](</erpnext/supplier>)
-  3. [Bank Account](</erpnext/bank-account>)
+  1. [Customer](customer.md)
+  2. [Supplier](supplier.md)
+  3. [Bank Account](bank-account.md)
 
 
 
 If you're following the Sales/Purchase Cycle, you'd need the following:
 
-  1. [Sales Order](</erpnext/sales-order>) (Advance Payment)
-  2. [Purchase Order](</erpnext/purchase-order>) (Advance Payment)
-  3. [Sales Invoice](</erpnext/sales-invoice>)
-  4. [Purchase Invoice](</erpnext/purchase-invoice>)
+  1. [Sales Order](sales-order.md) (Advance Payment)
+  2. [Purchase Order](purchase-order.md) (Advance Payment)
+  3. [Sales Invoice](sales-invoice.md)
+  4. [Purchase Invoice](purchase-invoice.md)
 
 
 
 Set up:
 
-  1. [Chart Of Accounts](</erpnext/chart-of-accounts>)
+  1. [Chart Of Accounts](chart-of-accounts.md)
 
-  2. [Company](</erpnext/company-setup>) (for default accounts)
+  2. [Company](company-setup.md) (for default accounts)
 
   3. How to create a Payment Entry
 
@@ -78,20 +78,20 @@ Set up:
 
 On submitting a document against which Payment Entry can be made, you will find the Payment option under the **Create** button.
 
-![Payment Entry from Sales Invoice](/files/payment-entry-button-in-sales-invoice.png)
+![Payment Entry from Sales Invoice](https://docs.frappe.io/assets/71df14b3b09a.png)
 
   1. Change the posting date.
   2. The Payment Type will be set based on the transaction you're coming from. The types are 'Receive', 'Pay', and 'Internal Transfer'.
   3. The Party Type, Party, Party Name will be fetched automatically.
-  4. The Account Paid To and Account Paid From will be fetched as set in the [Company form](</erpnext/company-setup>).
+  4. The Account Paid To and Account Paid From will be fetched as set in the [Company form](company-setup.md).
   5. The Amount Paid will be fetched from the Invoice.
-  6. Save and Submit. ![Payment Entry from SO](/files/payment-entry-from-invoice.gif)
+  6. Save and Submit. ![Payment Entry from SO](https://docs.frappe.io/assets/ba4f32a131f5.gif)
 
 
 
 ### 2.1 Creating a Payment Manually
 
-A Payment Entry created manually will have no order/invoice linked to it. Payments made this will be recorded in the Customer's/Supplier's account and can be reconciled later using the [Payment Reconciliation Tool](</erpnext/payment-reconciliation>).
+A Payment Entry created manually will have no order/invoice linked to it. Payments made this will be recorded in the Customer's/Supplier's account and can be reconciled later using the [Payment Reconciliation Tool](payment-reconciliation.md).
 
   1. Go to the Payment Entry list and click on New.
 
@@ -114,29 +114,29 @@ A Payment Entry created manually will have no order/invoice linked to it. Paymen
 
 **Mode of Payment** : Entering this helps classify Payment Entries based on the payment mode used. Modes of Payment can be Bank, Cash, Wire Transfer, etc.
 
-> **Tip** : In the [Mode of Payment](</erpnext/mode-of-payment>) master, default Account can be set. This default payment Account will be fetched into Payment Entries.
+> **Tip** : In the [Mode of Payment](mode-of-payment.md) master, default Account can be set. This default payment Account will be fetched into Payment Entries.
 
 ### 3.2 Payment From/To
 
-![Payment Party](/files/payment-from-to.png)
+![Payment Party](https://docs.frappe.io/assets/8f8aa994085a.png)
 
   * **Party Type** : Whether Customer, Supplier, Employee, Shareholder, Student, or NGO Member.
   * **Party** : The specific party for which the Payment Entry is made.
   * **Party Name** : The name of the party, this is fetched automatically.
-  * **Company Bank Account** : Your Company's [Bank Account](</erpnext/bank-account>).
-  * **Party Bank Account** : The Party's [Bank Account](</erpnext/bank-account>).
+  * **Company Bank Account** : Your Company's [Bank Account](bank-account.md).
+  * **Party Bank Account** : The Party's [Bank Account](bank-account.md).
   * **Contact** : If the Party is an organization, a Contact person can be stored here.
 
 
 
 ### 3.3 Accounts
 
-![Payment Accounts](/files/payment-accounts.png)
+![Payment Accounts](https://docs.frappe.io/assets/12034c82f7cf.png)
 
   * **Party Balance** : The overall amount receivable or payable from Customer or Supplier from Invoices set in the current Payment Entry. Paid amounts will be positive and if advance payments are made, they will be negative.
-  * **Account Paid From** : The [Account](</erpnext/chart-of-accounts>) from which the amount will be deducted when Payment is submitted.
-  * **Account Paid To** : The [CoA account](</erpnext/chart-of-accounts>) from which the amount will be added when Payment Entry is submitted.
-  * **Account Currency** : The Currencies of these accounts will be fetched as set in the [Account](</erpnext/chart-of-accounts>) and cannot be edited here. To know about more about transactions in multiple currencies, [visit this page](</erpnext/multi-currency-accounting>).
+  * **Account Paid From** : The [Account](chart-of-accounts.md) from which the amount will be deducted when Payment is submitted.
+  * **Account Paid To** : The [CoA account](chart-of-accounts.md) from which the amount will be added when Payment Entry is submitted.
+  * **Account Currency** : The Currencies of these accounts will be fetched as set in the [Account](chart-of-accounts.md) and cannot be edited here. To know about more about transactions in multiple currencies, [visit this page](multi-currency-accounting.md).
   * **Account Balance** : The total amount balance from all the invoices of the selected accounts.
 
 
@@ -168,11 +168,11 @@ If creating Payment Entry for a Customer, the Payment Amount will be allocated a
   * **Name** : The particular transaction ID is fetched/selected here.
   * **Total Amount** : The total amount of one Invoice/Journal Entry in the row.
   * **Outstanding** : The amount to receive/to pay for this invoice.
-  * **Allocated** : If the Paid Amount is less than the invoice amount only the paid amount will be allocated to the invoice(s) fetched in the Payment Entry. The payment may be made in parts, for example, if there are three invoices of amounts 20, 20, 20, the Paid Amount is 60 then this Paid Amount will be distributed equally. [Payment Terms](</erpnext/payment-terms>) may also be involved.
+  * **Allocated** : If the Paid Amount is less than the invoice amount only the paid amount will be allocated to the invoice(s) fetched in the Payment Entry. The payment may be made in parts, for example, if there are three invoices of amounts 20, 20, 20, the Paid Amount is 60 then this Paid Amount will be distributed equally. [Payment Terms](payment-terms.md) may also be involved.
 
 
 
-![payment_entry_get_outstanding_buttons](/files/payment_entry_get_outstanding_buttons.png)
+![payment_entry_get_outstanding_buttons](https://docs.frappe.io/assets/dc35913b190b.png)
 
 #### What is Unallocated Amount?
 
@@ -186,7 +186,7 @@ When a Payment Entry is created against an invoice, there could be some differen
 
 The loss/deductions can be written off. Let's see an example here where the paid amount is 25 but the allocated amount is 30 since 30 is the amount to be collected as per the invoice. The 'Difference Amount' will be 5 in this case. This difference amount can occur due to discounts or Currency Exchange. The Difference Amount needs to be 0 in order to submit the Payment Entry. This can be adjusted using the **Make Difference Entry** button. The amount will be adjusted in the Write Off account.
 
-![Writing Off](/files/payment-write-off.gif)
+![Writing Off](https://docs.frappe.io/assets/b81fb08a1f2d.gif)
 
 ### 3.6 Write Off
 
@@ -196,7 +196,7 @@ Write off happens when the paid amount is less than the allocated amount. I.e. t
 
 Save and Submit Payment Entry. On submission, outstanding will be updated in the Invoices.
 
-![Invoice Status Updated To Paid](/files/invoice-marked-paid-by-payment-entry.png)
+![Invoice Status Updated To Paid](https://docs.frappe.io/assets/3a723729324d.png)
 
 If payment entry was created against Sales Order or Purchase Order, the field 'Advance Paid' will be updated in them. When creating Invoice against those transactions, Payment Entry will be auto-updated in that Invoice so that you can allocate invoice amount against advance payment entry.
 
@@ -223,9 +223,9 @@ For outgoing payment:
 
 If you want to maintain a receivable/payable account in foreign currency, then create accounts with foreign currency (different from Company currency) and link it in the party account. For example:
 
-![Non-standard Currency in Receivable in Customer](/files/non-standard-currency-receivable.png)
+![Non-standard Currency in Receivable in Customer](https://docs.frappe.io/assets/6b08fd867560.png)
 
-ERPNext allows you maintain accounts and invoicing in [multiple currency](</erpnext/multi-currency-accounting>). If an invoice is made in the party currency, Currency Exchange Rate between the Company's base currency and party currency is also entered in the invoice.
+ERPNext allows you maintain accounts and invoicing in [multiple currency](multi-currency-accounting.md). If an invoice is made in the party currency, Currency Exchange Rate between the Company's base currency and party currency is also entered in the invoice.
 
 > Note: A separate Debtor/Creditor account needs to be created and selected in the Sales Invoice/Order for currency exchange to work correctly. For example, if the Customer is from the US, create a receivable account called 'Debtors US'.
 
@@ -233,15 +233,15 @@ When creating Payment Entry against that invoice, the current exchange rate will
 
 Click on the **Set Exchange Gain/Loss** button to automatically add a row to write off the difference amount.
 
-![Exchange Rate in Payment Entry](/files/exchange-rate-in-payment-entry.png)
+![Exchange Rate in Payment Entry](https://docs.frappe.io/assets/28a72aac770e.png)
 
 Since Currency Exchange Rate fluctuates all the time, it can lead to a difference in the payment amount against invoice total. This difference amount can be booked in the Currency Exchange Gain/Loss Amount.
 
-![Exchange Gain Loss Ledger](/files/exchange-gain-loss-ledger.png)
+![Exchange Gain Loss Ledger](https://docs.frappe.io/assets/26ec437c2d0f.png)
 
 Payments can also be made independent of invoices by creating a new Payment Entry.
 
-To know more about managing transactions in multiple currencies [visit this page](</erpnext/accounts/articles/managing-transactions-in-multiple-currencies>).
+To know more about managing transactions in multiple currencies [visit this page](accounts/articles/managing-transactions-in-multiple-currencies.md).
 
 ### 4.2 Internal Transfer
 
@@ -256,7 +256,7 @@ Following internal transfers can be managed from the Payment Entry.
 
 
 
-![Internal Transfer via Payment Entry](/files/payment-entry-internal-transfer.png)
+![Internal Transfer via Payment Entry](https://docs.frappe.io/assets/bf21c82ca484.png)
 
 ### 4.3 Managing Different Payment Scenarios
 
@@ -296,14 +296,14 @@ The total outstanding amount against an invoice is the sum of all the accounting
 
 * * *
 
-  1. [Payment Request](</erpnext/payment-request>)
-  2. [Payment Terms](</erpnext/payment-terms>)
-  3. [Sales Invoice](</erpnext/sales-invoice>)
-  4. [Purchase Invoice](</erpnext/purchase-invoice>)
+  1. [Payment Request](payment-request.md)
+  2. [Payment Terms](payment-terms.md)
+  3. [Sales Invoice](sales-invoice.md)
+  4. [Purchase Invoice](purchase-invoice.md)
 
 
 
-[ Previous Page Payment Order  ](</erpnext/payment-order>) [ Next Page Payment Ledger ](</erpnext/accounting/features/payments/payment-ledger>)
+[ Previous Page Payment Order  ](payment-order.md) [ Next Page Payment Ledger ](https://docs.frappe.io/erpnext/accounting/features/payments/payment-ledger)
 
 Last updated 2 weeks ago 
 

@@ -1,12 +1,12 @@
 # Asset Value Adjustment
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s3ukph8bn>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s3ukph8bn)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Asset Value Adjustment 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s3ukph8bn>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s3ukph8bn)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -24,7 +24,7 @@ To access the Asset Value Adjustment, go to:
 
 Before creating and using Asset Value Adjustment, it is advised to create the following first:
 
-  1. [Asset](</erpnext/asset>)
+  1. [Asset](asset.md)
 
 
 
@@ -41,14 +41,14 @@ Before creating and using Asset Value Adjustment, it is advised to create the fo
 
 
 
-![](/files/Screenshot%202026-01-09%20at%205.08.35%E2%80%AFPM.png)
+![](../../assets/ede8a4ee715c.png)
 
 On saving the system will book a "Gain/Loss on asset revaluation" and adjust the valuation of the asset.  
 You can change the cost center and add a finance book.
 
 On submitting, a Journal Entry is created under the 'Accumulated Depreciations' account.
 
-[ Previous Page Asset Repair  ](</erpnext/asset-repair>) [ Next Page Asset Capitalization ](</erpnext/asset-capitalization>)
+[ Previous Page Asset Repair  ](asset-repair.md) [ Next Page Asset Capitalization ](https://docs.frappe.io/erpnext/asset-capitalization)
 
 Last updated 1 week ago 
 

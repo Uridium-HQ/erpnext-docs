@@ -1,12 +1,12 @@
 # Quotation
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rhloboba3>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rhloboba3)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Quotation 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rhloboba3>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rhloboba3)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,7 +20,7 @@ To access the Quotation list, go to:
 
 A typical sales flow looks like:
 
-![Make Quotation from Opportunity](/files/selling-flow-quo.png)
+![Make Quotation from Opportunity](https://docs.frappe.io/assets/345f1868069e.png)
 
 A Quotation contains details about:
 
@@ -62,7 +62,7 @@ Before creating and using a Quotation, it is advised that you create the followi
 
 You can also create a Quotation from an Opportunity shown as follows.
 
-![](/files/image770cab.png)
+![](../../../../../assets/67402c7129bf.png)
 
 ## Features
 
@@ -105,7 +105,7 @@ The total quantity, rate, and net weight of all items will be shown below the it
 
 You can manually add Items and mark them as alternatives by checking the **Is Alternative** checkbox in the Items Table row. These items will not be counted towards the taxes and totals of the Quotation.
 
-![](/files/quotation%20with%20alternative%20items.png)
+![](../../../../../assets/929a52e6ab91.png)
 
 > It is important to maintain the right order i.e. alternative item rows must follow a non-alternative item row (the item that they are alternatives to). Grouping will be done on this basis.
 
@@ -119,7 +119,7 @@ To add taxes to your Quotation, you can select a Sales Taxes and Charges Templat
 
 The total taxes and charges will be displayed below the table. Clicking on Tax Breakup will show all the components and amounts.
 
-![](/files/tax%20and%20charges.png)
+![](../../../../../assets/573136a4fe93.png)
 
 To add taxes automatically via a Tax Category, visit this page.
 
@@ -137,7 +137,7 @@ Read Applying Discount for more details.
 
 Sometimes payment is not done all at once. Depending on the agreement, half of the payment may be made before shipment and the other half after receiving the goods/services. You can add a Payment Terms template or add the terms manually in this section.
 
-![](/files/payment%20terms.png)
+![](../../../../../assets/8d4a202e6955.png)
 
 Read Payment Terms to know more.
 
@@ -171,19 +171,19 @@ Quotation is a “Submittable” transaction. When you click on Save, a draft is
 
 On submitting, you can create a Sales Order from the Quotation using the Create button. In the Dashboard present on the top, you can go to the Sales Order linked with this Quotation. In case it didn't work out, you can set the Quotation as lost by clicking on the 'Set as Lost button'.
 
-![](/files/image1e9e10.png)
+![](../../../../../assets/8e450aba41fd.png)
 
 #### Selecting Alternatives
 
 If the Quotation contains alternative items, you will be prompted to select from among alternatives while creating a Sales Order from the Quotation.
 
-![](/files/select%20alternative%20items%20for%20sales%20order.png)
+![](../../../../../assets/39f673c03d69.png)
 
 As you can see, FSH-ROD-002 and FSH-ROD-003 are alternatives to FSH-ROD-001 that are offered to the Customer.
 
 One of these will be agreed upon and selected, following which the selected item will be mapped.
 
-![](/files/image6294a5.png)
+![](../../../../../assets/7719dde9ffe3.png)
 
 If simple items are involved (without alternatives), they will mapped as usual.
 
@@ -195,7 +195,7 @@ If simple items are involved (without alternatives), they will mapped as usual.
 
 
 
-[ Previous Page Selling Transactions ](</erpnext/selling-transactions>) [ Next Page Sales Order  ](</erpnext/sales-order>)
+[ Previous Page Selling Transactions ](../../../selling-transactions.md) [ Next Page Sales Order  ](../../../sales-order.md)
 
 Last updated 2 weeks ago 
 

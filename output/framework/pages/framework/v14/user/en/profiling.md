@@ -1,12 +1,12 @@
 # Profiling and Monitoring
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/1365biee2i>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/1365biee2i)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Profiling and Monitoring
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/1365biee2i>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/1365biee2i)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -24,7 +24,7 @@ Example use case: You've noticed that a certain doctype is taking too much time 
 
 You will now see a list of all the requests that were made. You can sort them by various columns to identify problematic requests.
 
-![Frappe recorder list view](/files/recorder-list-view.png)
+![Frappe recorder list view](https://docs.frappe.io/assets/d1f69d48aee7.png)
 
 Click on a row to open the request for extra information. Following information is available in capture:
 
@@ -40,7 +40,7 @@ Click on a row to open the request for extra information. Following information 
 
 
 
-![Frappe recorder request view](/files/recorder-request-view.png)
+![Frappe recorder request view](https://docs.frappe.io/assets/3c03da8b9e6c.png)
 
 SQL Queries table can be sorted and grouped for duplicates to find the relevant queries. To know more about a particular query click on row to expand additional information. This includes the duration of the query, stack trace and SQL's `EXPLAIN` output for that query.
 
@@ -120,13 +120,13 @@ RQ worker doctype shows all background workers consuming the background jobs que
 
 RQ Job is a virtual doctype which provides information about all background jobs. You can filter jobs by queue and status.
 
-![rq job list](/private/files/rq_job_list.png)
+![rq job list](https://docs.frappe.io/private/files/rq_job_list.png)
 
 Form view of RQ job shows all information about the job.
 
-![rq job](/private/files/rq_job.png)
+![rq job](https://docs.frappe.io/private/files/rq_job.png)
 
-[ Previous Page How to contribute ](</framework/v14/user/en/how_to_contribute>) [ Next Page Translations  ](</framework/v14/user/en/translations>)
+[ Previous Page How to contribute ](how_to_contribute.md) [ Next Page Translations  ](translations.md)
 
 Last updated 2 months ago 
 

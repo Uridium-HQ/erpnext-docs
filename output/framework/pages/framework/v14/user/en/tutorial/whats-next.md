@@ -1,12 +1,12 @@
 # What's Next?
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/1261oqnt8n>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/1261oqnt8n)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # What's Next? 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/1261oqnt8n>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/1261oqnt8n)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,19 +14,19 @@ The goal of this tutorial was to give an introduction to the various parts of th
 
 You can deep dive into topics by going through the rest of the documentation. Here are some topics to get you started:
 
-  1. [Architecture](</framework/v14/user/en/basics/architecture>)
-  2. [DocType](</framework/v14/user/en/basics/doctypes>)
-  3. [Document API](</framework/v14/user/en/api/document>)
-  4. [Form API](</framework/v14/user/en/api/form>)
-  5. [Bench CLI](</framework/v14/user/en/bench>)
+  1. [Architecture](../basics/architecture.md)
+  2. [DocType](../basics/doctypes.md)
+  3. [Document API](../api/document.md)
+  4. [Form API](../api/form.md)
+  5. [Bench CLI](../bench.md)
 
 
 
 ## Need Help?
 
-You can ask for help on our public forum: [discuss.erpnext.com](<https://discuss.erpnext.com>)
+You can ask for help on our public forum: [discuss.erpnext.com](https://discuss.erpnext.com/)
 
-[ Previous Page Web View Pages ](</framework/v14/user/en/tutorial/portal-pages>) [ Next Page Guides ](</framework/v14/user/en/guides>)
+[ Previous Page Web View Pages ](portal-pages.md) [ Next Page Guides ](../guides.md)
 
 Last updated 2 months ago 
 

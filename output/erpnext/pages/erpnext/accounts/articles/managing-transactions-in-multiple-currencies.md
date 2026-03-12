@@ -1,12 +1,12 @@
 # Managing Transactions In Multiple Currency
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0t4a0p78vv>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0t4a0p78vv)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Managing Transactions In Multiple Currency 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0t4a0p78vv>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0t4a0p78vv)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -25,7 +25,7 @@ Let's consider a Sales Invoice, where your base currency is USD and party curren
 
 
 
-![Accounts Frozen Date](/files/multiple-currency-1.png)
+![Accounts Frozen Date](https://docs.frappe.io/assets/6a1ad7c8097d.png)
 
   1. Update other details like Item, Taxes, Terms. In the Taxes and other Charges table. Charges of type Actual should be updated in the Customer's currency.
 
@@ -34,7 +34,7 @@ Let's consider a Sales Invoice, where your base currency is USD and party curren
 
 
 
-![Accounts Frozen Date](/files/multiple-currency-2.png)
+![Accounts Frozen Date](https://docs.frappe.io/assets/1f782580cb21.png)
 
 ## Currency Exchange Masters
 
@@ -46,7 +46,7 @@ In ERPNext, real-time exchange rates are fetched.
 
 **Note** : If you create a Currency Exchange master with a specific rate, it will be given preference over real-time exchange rates. For example, if you set $1 = ₹65 in Currency Exchange, then even if live rate is ₹69, ₹65 will be used in transactions.
 
-[ Previous Page Payment Entry for Capital Account ](</erpnext/payment-entry-for-capital-account>) [ Next Page Overview ](</erpnext/assets/introduction>)
+[ Previous Page Payment Entry for Capital Account ](../../payment-entry-for-capital-account.md) [ Next Page Overview ](../../assets/introduction.md)
 
 Last updated 1 week ago 
 

@@ -1,12 +1,12 @@
 # bench version
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/132pmsa1ph>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/132pmsa1ph)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # bench version 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/132pmsa1ph>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/132pmsa1ph)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -82,7 +82,7 @@ The `--format table` option displays version information formatted as an ASCII t
     
 [/code]
 
-[ Previous Page bench partial-restore  ](</framework/v14/user/en/bench/reference/partial-restore>) [ Next Page bench transform-database  ](</framework/v14/user/en/bench/reference/transform-database>)
+[ Previous Page bench partial-restore  ](partial-restore.md) [ Next Page bench transform-database  ](transform-database.md)
 
 Last updated 2 months ago 
 

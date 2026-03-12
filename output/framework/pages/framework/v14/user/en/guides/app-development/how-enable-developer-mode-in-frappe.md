@@ -1,12 +1,12 @@
 # How to Enable Developer Mode in Frappe
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/129v4kb08d>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/129v4kb08d)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # How to Enable Developer Mode in Frappe
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/129v4kb08d>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/129v4kb08d)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -51,7 +51,7 @@ To view the full developer options, you must be logged in as the "Administrator"
     
 [/code]
 
-[ Previous Page Using Html Templates In Javascript  ](</framework/v14/user/en/guides/app-development/using-html-templates-in-javascript>) [ Next Page Fetch a Field Value from a Document into a Transaction  ](</framework/v14/user/en/guides/app-development/fetch-custom-field-value-from-master-to-all-related-transactions>)
+[ Previous Page Using Html Templates In Javascript  ](using-html-templates-in-javascript.md) [ Next Page Fetch a Field Value from a Document into a Transaction  ](fetch-custom-field-value-from-master-to-all-related-transactions.md)
 
 Last updated 2 months ago 
 

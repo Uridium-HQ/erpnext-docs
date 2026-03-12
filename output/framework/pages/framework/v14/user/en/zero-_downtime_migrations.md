@@ -1,12 +1,12 @@
 # Zero* downtime migrations
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/13406ofh77>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/13406ofh77)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Zero* downtime migrations
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/13406ofh77>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/13406ofh77)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -25,7 +25,7 @@ In either case writes on your database are disabled until maintenance mode is li
 
 Both web pages and Desk will show persisten read only warnings during updates. All forms are also made read only so you can not modify any data.
 
-![zero downtime migration](/private/files/zero-downtime-migration.png)
+![zero downtime migration](https://docs.frappe.io/private/files/zero-downtime-migration.png)
 
 ### Caveats to keep in mind
 
@@ -36,7 +36,7 @@ Both web pages and Desk will show persisten read only warnings during updates. A
 
 ### Enabling Read Only Mode during upgrades
 
-  1. [Optional/Recommended] - Setup a read replica by following the [replication guide](<https://frappeframework.com/docs/v14/user/en/guides/database-settings/setup-read-from-secondary-db>)
+  1. [Optional/Recommended] - Setup a read replica by following the [replication guide](https://frappeframework.com/docs/v14/user/en/guides/database-settings/setup-read-from-secondary-db)
   2. Edit your site config to enable this feature. `bench --site develop set-config allow_reads_during_maintenance 1`
 
 
@@ -77,7 +77,7 @@ Website context includes `read_only_mode` key in context by default, you can use
     
 [/code]
 
-[ Previous Page Production Setup  ](</framework/v14/user/en/production-setup>) [ Next Page Rate Limiting  ](</framework/v14/user/en/rate-limiting>)
+[ Previous Page Production Setup  ](production-setup.md) [ Next Page Rate Limiting  ](rate-limiting.md)
 
 Last updated 2 months ago 
 

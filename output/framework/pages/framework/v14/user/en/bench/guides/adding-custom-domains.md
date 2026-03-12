@@ -1,12 +1,12 @@
 # Adding Custom Domains to your Site
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/132r2ge38h>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/132r2ge38h)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Adding Custom Domains to your Site 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/132r2ge38h>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/132r2ge38h)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -30,7 +30,7 @@ Domain configuration is stored in the respective site's site_config.json
 
 **You will need to regenerate the nginx configuration by runnning`bench setup nginx` and reload the nginx service by running `sudo service nginx reload` to put your custom domain in effect**
 
-[ Previous Page bench trim-tables  ](</framework/v14/user/en/bench/reference/trim-tables>) [ Next Page Configuring HTTPS  ](</framework/v14/user/en/bench/guides/configuring-https>)
+[ Previous Page bench trim-tables  ](../reference/trim-tables.md) [ Next Page Configuring HTTPS  ](configuring-https.md)
 
 Last updated 2 months ago 
 

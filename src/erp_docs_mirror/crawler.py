@@ -115,7 +115,7 @@ class DocsCrawler:
                             pass
 
                 rewriter = LinkRewriter(Path(self.config.output_dir), self.linkmap, self.assetmap)
-                rewritten = rewriter.rewrite_markdown(local_relpath, markdown)
+                rewritten = rewriter.rewrite_markdown(local_relpath, markdown, current_url=current)
                 content_hash = sha256_bytes(rewritten.encode("utf-8"))
                 self.storage.write_text(local_relpath, f"# {page_data['title']}\n\n{rewritten}")
 

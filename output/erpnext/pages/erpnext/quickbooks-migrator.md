@@ -1,12 +1,12 @@
 # ERPNext QuickBooks Migrator
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sf38ekpq6>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sf38ekpq6)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # ERPNext QuickBooks Migrator 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sf38ekpq6>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sf38ekpq6)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -15,7 +15,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 ### Create a QuickBooks Online App
 
   1. From Awesome-bar, Go to "QuickBooks Migrator" DocType.
-  2. Go to [Inuit Developer Portal](<https://developer.intuit.com>)
+  2. Go to [Inuit Developer Portal](https://developer.intuit.com/)
   3. Sign In with your existing account or Sign Up.
   4. Go to "My Apps" page.
   5. Click on "Select APIs".
@@ -245,7 +245,7 @@ QuickBooks Migrator will add following Custom Fields
 
 
 
-[ Previous Page Handling Excess Customer Payments ](</erpnext/handling-excess-customer-payments>) [ Next Page Immutable Ledger ](</erpnext/immutable-ledger-in-erpnext>)
+[ Previous Page Handling Excess Customer Payments ](handling-excess-customer-payments.md) [ Next Page Immutable Ledger ](immutable-ledger-in-erpnext.md)
 
 Last updated 1 week ago 
 

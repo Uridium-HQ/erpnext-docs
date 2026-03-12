@@ -1,12 +1,12 @@
 # Using Frappe as OAuth Service
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tv1pumb0l>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tv1pumb0l)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Using Frappe as OAuth Service
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tv1pumb0l>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tv1pumb0l)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -17,7 +17,7 @@ We hope this guide will be useful for beginners and we won’t be writing any co
 ## Prerequisites
 
   * A server running a debian based system(Debian, Ubuntu, Pop OS etc..)
-  * A Frappe Cloud account. You can sign up for Frappe Cloud [here](<https://frappecloud.com/>)
+  * A Frappe Cloud account. You can sign up for Frappe Cloud [here](https://frappecloud.com/)
 
 
 
@@ -32,7 +32,7 @@ OR
 
 Frappe Framework is a low-code, Python, and JavaScript web framework that is used to build delightful web applications. Frappe framework was initially developed for building enterprise-level applications, but it has evolved to be a framework for building general-purpose applications without much fuss. It’s open source and MIT licensed.
 
-The interesting thing about Frappe Framework is that you don’t have to write code to make everything work. It was built to be as useful for anyone without prior programming knowledge. You can generate DB schemas, REST APIs, Webhooks, Reports and much more without writing a single line of code. You can check all the feature [here](<https://frappeframework.com>)
+The interesting thing about Frappe Framework is that you don’t have to write code to make everything work. It was built to be as useful for anyone without prior programming knowledge. You can generate DB schemas, REST APIs, Webhooks, Reports and much more without writing a single line of code. You can check all the feature [here](https://frappeframework.com/)
 
 ## Grafana
 
@@ -40,15 +40,15 @@ Grafana is an awesome metrics visualization platform built by Grafana Labs. Graf
 
 ### Installing Frappe Framework
 
-Installing the Frappe Framework is an art in itself. It requires many moving parts for optimal functioning. Don't let this make you afraid; we have an elaborate guide on how to install and setup Frappe Framework in the [Framework documentation](<https://frappeframework.com/docs/v14/user/en/installation#debian-ubuntu>).
+Installing the Frappe Framework is an art in itself. It requires many moving parts for optimal functioning. Don't let this make you afraid; we have an elaborate guide on how to install and setup Frappe Framework in the [Framework documentation](https://frappeframework.com/docs/v14/user/en/installation).
 
-If you want the easy way, you can install and setup Frappe Framework with Docker. You can read more about it [here](<https://github.com/frappe/frappe_docker>).
+If you want the easy way, you can install and setup Frappe Framework with Docker. You can read more about it [here](https://github.com/frappe/frappe_docker).
 
-The easiest way is to use [Frappe Cloud](<https://frappecloud.com>) to spin up a new site with Frappe Framework installed.
+The easiest way is to use [Frappe Cloud](https://frappecloud.com/) to spin up a new site with Frappe Framework installed.
 
 ### Installing Grafana
 
-For installing Grafana, you can refer to the [Official Grafana Installation Guide](<https://grafana.com/docs/grafana/v9.0/setup-grafana/installation/>). We are assuming you're installing Grafana on a Debian-based system.
+For installing Grafana, you can refer to the [Official Grafana Installation Guide](https://grafana.com/docs/grafana/v9.0/setup-grafana/installation/). We are assuming you're installing Grafana on a Debian-based system.
 
 Once installed, you have to add grafana to systemd. You can do that by
 [code] 
@@ -69,11 +69,11 @@ Once you have logged into your site and completed the getting started process fo
 
 For accessing the `OAuth Client` doctype, you can use the awesomebar or press Ctrl + G to invoke the awesomebar and type in "OAuth Client", the autocomplete will show you the list of options.
 
-![Dropdown for OAuth Client](/files/g-2.png)
+![Dropdown for OAuth Client](https://docs.frappe.io/assets/07303feab16d.png)
 
 Select "New OAuth Client" from the dropdown, and you'll be taken to a page for adding the OAuth scopes and settings for the application you want to add OAuth for.
 
-![New OAuth Client](/files/g-3.png)
+![New OAuth Client](https://docs.frappe.io/assets/56137cf4a8dc.png)
 
 Here, you have to configure the:
 
@@ -87,7 +87,7 @@ The redirect URI for Grafana from their docs is `<grafana-url>/login/generic_oau
 
 Once you have added the details in the respective fields, you will receive an `App Client ID` and `App Client Secret`. These will be used in the Grafana configuration for the OAuth setup.
 
-![OAuth Client details added](/files/g-5.png)
+![OAuth Client details added](https://docs.frappe.io/assets/1a07d9ab0471.png)
 
 ### Configuring Grafana for OAuth
 
@@ -131,13 +131,13 @@ to restart Grafana on an Ubuntu/Debian system.
 
 That is mostly it. Now reload your Grafana site, and you'll be able to see a "Sign in with Frappe" button on the login page.
 
-![Signin with Frappe Grafana](/files/g-6.png)
+![Signin with Frappe Grafana](https://docs.frappe.io/assets/cca1f71f5f78.png)
 
 If you have done everything correctly, you'll be logged into Grafana with the credentials from your Frappe site.
 
-![Logging in with Frappe GIF](/files/grafana-oauthlogin.gif)
+![Logging in with Frappe GIF](https://docs.frappe.io/assets/e4e69c4036c4.gif)
 
-[ Previous Page Token based authentication  ](</framework/user/en/guides/integration/how_to_set_up_token_based_auth>) [ Next Page Introduction ](</framework/user/en/guides/integration/rest_api>)
+[ Previous Page Token based authentication  ](https://docs.frappe.io/framework/user/en/guides/integration/how_to_set_up_token_based_auth) [ Next Page Introduction ](https://docs.frappe.io/framework/user/en/guides/integration/rest_api)
 
 Last updated 3 weeks ago 
 

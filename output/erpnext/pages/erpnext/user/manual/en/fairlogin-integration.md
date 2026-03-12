@@ -1,12 +1,12 @@
 # Setting up fairlogin
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s65j2su55>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s65j2su55)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Setting up fairlogin 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s65j2su55>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s65j2su55)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -22,9 +22,9 @@ fairlogin is based on keycloak, so the parameters may be similar for any custom 
 
 There you add a new client, select open-id as client protocol and enter the address of your ERPnext instance as the Root, Redirect and Base URL.
 
-Adding your ERNext service as a client is being [offered as a service by fairkom](<https://erp.fairkom.net/cloud/fairlogin-client>).
+Adding your ERNext service as a client is being [offered as a service by fairkom](https://erp.fairkom.net/cloud/fairlogin-client).
 
-![ERPnext keycloak Settings](/files/fairloginKeycloakERPnext.png)
+![ERPnext keycloak Settings](https://docs.frappe.io/assets/590c4b57c17d.png)
 
 ## Setup fairlogin
 
@@ -38,13 +38,13 @@ To enable fairlogin as an ERPNext login option, you need to configure the follow
 
 
 
-![ERPnext fairlogin Settings](/files/fairloginERPnextSettings.png)
+![ERPnext fairlogin Settings](https://docs.frappe.io/assets/ffc616c9f1b4.png)
 
 On enabling service, the system will allow to login with any fairlogin account.
 
 The default role of a new user is Blogger (currently hardcoded).
 
-[ Previous Page Google Calendar Integration  ](</erpnext/google_calendar>) [ Next Page Google Contacts Integration  ](</erpnext/google_contacts>)
+[ Previous Page Google Calendar Integration  ](https://docs.frappe.io/erpnext/google_calendar) [ Next Page Google Contacts Integration  ](https://docs.frappe.io/erpnext/google_contacts)
 
 Last updated 2 weeks ago 
 

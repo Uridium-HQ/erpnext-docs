@@ -1,12 +1,12 @@
 # Packing Slip
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rua041o6l>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rua041o6l)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Packing Slip 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rua041o6l>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rua041o6l)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -26,7 +26,7 @@ To access the Packing Slip list, go to:
 
 Before creating and using a Packing Slip, it is advised that you create the following first:
 
-  * [Delivery Note](</erpnext/delivery-note>)
+  * [Delivery Note](../../../delivery-note.md)
 
 
 
@@ -44,7 +44,7 @@ Usually, you should create a Packing Slip from a Delivery Note when it is in the
 
 Most of these details will be fetched if you create the Packing Slip from the Delivery Note.
 
-![Packing Slip](/files/packing-slip.png)
+![Packing Slip](https://docs.frappe.io/assets/33850bad0a3f.png)
 
 ### 1.1 Additional options when creating a Packing Slip
 
@@ -68,16 +68,16 @@ These details will be shown when printing the Packing Slip.
 
 ### 2.3 Letterhead
 
-You can print your Packing Slip on your company's letterhead. Know more [here](</erpnext/letter-head>).
+You can print your Packing Slip on your company's letterhead. Know more [here](../../../letter-head.md).
 
 ### 2\. Related Topics
 
-  1. [Quality Inspection](</erpnext/quality-inspection>)
-  2. [Delivery Note](</erpnext/delivery-note>)
+  1. [Quality Inspection](../../../quality-inspection.md)
+  2. [Delivery Note](../../../delivery-note.md)
 
 
 
-[ Previous Page Putaway Rule  ](</erpnext/putaway-rule>) [ Next Page Landed cost Voucher ](</erpnext/landed-cost-voucher>)
+[ Previous Page Putaway Rule  ](../../../putaway-rule.md) [ Next Page Landed cost Voucher ](../../../landed-cost-voucher.md)
 
 Last updated 2 weeks ago 
 

@@ -1,16 +1,16 @@
 # Background Jobs
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tli0ise32>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tli0ise32)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Background Jobs
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tli0ise32>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tli0ise32)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-Frappe ships with a system for running jobs in the background. It is implemented by using the [schedule package](<https://pypi.org/project/schedule/>) and a simple long-running infinite [while loop](<https://github.com/frappe/frappe/blob/d0efa8e3ff734268a30b4804427641d2a5ed643e/frappe/utils/scheduler.py#L36-L46>).
+Frappe ships with a system for running jobs in the background. It is implemented by using the [schedule package](https://pypi.org/project/schedule/) and a simple long-running infinite [while loop](https://github.com/frappe/frappe/blob/d0efa8e3ff734268a30b4804427641d2a5ed643e/frappe/utils/scheduler.py).
 
 You can enqueue a python method to run in the background by using the `frappe.enqueue` method:
 [code] 
@@ -42,7 +42,7 @@ Here are all the possible arguments you can pass to the `enqueue`:
     
 [/code]
 
-You can also enqueue a [Document](<https://frappeframework.com/docs/v14/user/en/api/document>) method by using `frappe.enqueue_doc`:
+You can also enqueue a [Document](https://frappeframework.com/docs/v14/user/en/api/document) method by using `frappe.enqueue_doc`:
 [code] 
     frappe.enqueue_doc(
         doctype,
@@ -69,7 +69,7 @@ You can also pass a custom timeout to the `enqueue` method.
 
 ### Custom Queues
 
-You can add custom queues by configuring them in `[common_site_config.json](https://frappeframework.com/docs/v14/user/en/basics/site_config#common-site-config)`:
+You can add custom queues by configuring them in `[common_site_config.json](https://frappeframework.com/docs/v14/user/en/basics/site_config)`:
 [code] 
     {
         ...
@@ -154,19 +154,19 @@ These events will trigger every hour, day, week, and month respectively.
 
 
 
-Same as above but these jobs are run in the [long worker](<https://frappeframework.com/docs/v14/user/en/basics/directory-structure#worker_long>) suitable for long-running jobs.
+Same as above but these jobs are run in the [long worker](https://frappeframework.com/docs/v14/user/en/basics/directory-structure) suitable for long-running jobs.
 
   * `all`
 
 
 
-The `all` event is triggered every 4 minutes. This can be configured via the `scheduler_interval` key in [common_site_config.json](<https://frappeframework.com/docs/v14/user/en/basics/sites#scheduler_tick_interval>)
+The `all` event is triggered every 4 minutes. This can be configured via the `scheduler_interval` key in [common_site_config.json](https://frappeframework.com/docs/v14/user/en/basics/sites)
 
   * `cron`
 
 
 
-A valid cron string that can be parsed by [croniter](<https://pypi.org/project/croniter/>).
+A valid cron string that can be parsed by [croniter](https://pypi.org/project/croniter/).
 
 Usage Examples:
 [code] 
@@ -216,7 +216,7 @@ The `Scheduled Job Type`s trigger interval can be modified later, which persits 
 
 > The jobs triggered by scheduler are run by **Administrator** user. This also means any docs you create via scheduled job will be owned by the **Administrator** user unless specified otherwise.
 
-[ Previous Page Realtime (socket.io) ](</framework/user/en/api/realtime>) [ Next Page Document API ](</framework/user/en/api/document>)
+[ Previous Page Realtime (socket.io) ](realtime.md) [ Next Page Document API ](document.md)
 
 Last updated 3 weeks ago 
 

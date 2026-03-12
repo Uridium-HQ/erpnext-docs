@@ -1,12 +1,12 @@
 # Journal Entry
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ro25ip51r>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ro25ip51r)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Journal Entry 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ro25ip51r>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ro25ip51r)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -18,7 +18,7 @@ All types of accounting entries other than Sales and Purchase transactions are m
 
 Journal Entries can be used for entering expenses, opening entries, contra entries, bank payments, excise entries, etc. For example, booking running expenses, direct expenses like petrol/transport, sundry expenses, adjustment entries, and adjusting invoice amount.
 
-> Note: From version-13 onwards we have introduced immutable ledger which changes the way cancellation of accounting entries works in ERPNext. [Learn more here](</erpnext/immutable-ledger-in-erpnext>).
+> Note: From version-13 onwards we have introduced immutable ledger which changes the way cancellation of accounting entries works in ERPNext. [Learn more here](immutable-ledger-in-erpnext.md).
 
 To access the Journal Entry list, go to:
 
@@ -27,10 +27,10 @@ To access the Journal Entry list, go to:
 ## 1\. How to create a Journal Entry
 
   1. Go to the Journal Entry list, click on New.
-  2. The default Entry Type will be 'Journal Entry'. This is a general purpose entry type. Visit [section 3](</erpnext/journal-entry#3-journal-entry-types>) to know more about entry types.
+  2. The default Entry Type will be 'Journal Entry'. This is a general purpose entry type. Visit [section 3](journal-entry.md) to know more about entry types.
   3. You can change the Posting Date.
   4. Expand the table, select an Account from which amount is debited.
-  5. The above details can be added from a [Journal Entry Template](</erpnext/journal-entry-template>) too with the 'From Template' field.
+  5. The above details can be added from a [Journal Entry Template](journal-entry-template.md) too with the 'From Template' field.
   6. Select the Party Type and Party if it's a Debtor entry.
   7. Add a row where the amount will be credited.
   8. Note that, in the end, total debit and credit amounts should add up to be the same.
@@ -38,43 +38,43 @@ To access the Journal Entry list, go to:
 
 
 
-![Journal Entry](/files/journal-entry.png)
+![Journal Entry](https://docs.frappe.io/assets/4eee478616c8.png)
 
-**Finance Book** : You can post this entry to a specific [Finance Book](</erpnext/finance-book>). On leaving this field blank, this Journal Entry will show up in all Finance Books. This field will only be visible if 'Enable Finance Books' under the Fixed Asset Defaults section of the Company master is checked.
+**Finance Book** : You can post this entry to a specific [Finance Book](finance-book.md). On leaving this field blank, this Journal Entry will show up in all Finance Books. This field will only be visible if 'Enable Finance Books' under the Fixed Asset Defaults section of the Company master is checked.
 
 ### 1.1 Quick Entry
 
 When creating a Journal Entry, a **Quick Entry** button can be seen on the top right. This makes creating the Journal Entry a bit easier. Enter the amount, select the accounts, add a remark. This will populate the 'Accounting Entries' table with the selected details.
 
-![Quick Entry](/files/quick-journal-entry.png)
+![Quick Entry](https://docs.frappe.io/assets/28d5e948645c.png)
 
 ## 2\. Features
 
 ### 2.1 Accounting Entries
 
-  1. **Accounting Dimensions** : A Project or Cost Center can be linked here to track the costing separately. To know more, [visit this page](</erpnext/accounting-dimensions>). ![Accounting Dimension](/files/journal-entry-accounting-dimension.png)
+  1. **Accounting Dimensions** : A Project or Cost Center can be linked here to track the costing separately. To know more, [visit this page](accounting-dimensions.md). ![Accounting Dimension](https://docs.frappe.io/assets/fdefeb4aebe0.png)
 
-  2. **Bank Account No** : If you've added a [Bank Account](</erpnext/bank-account>), the number associated with that bank account will be fetched.
+  2. **Bank Account No** : If you've added a [Bank Account](bank-account.md), the number associated with that bank account will be fetched.
 
   3. **Reference Type** : If this Accounting Entry is associated with another transaction, it can be referenced here. Select the Reference Type and select the specific document. For example, if you're creating a Journal Entry against a specific Sales Invoice. Link this Journal Entry to the invoice. The “outstanding” amount of that invoice will be affected.
 
-  4. ![Reference](/files/journal-entry-reference.png)
+  4. ![Reference](https://docs.frappe.io/assets/ae5325a113f8.png)
 
 Following are the documents that can be selected in the Journal Entry under Reference Type:
 
-     1. [Sales Invoice](</erpnext/sales-invoice>)
-     2. [Purchase Invoice](</erpnext/purchase-invoice>)
+     1. [Sales Invoice](sales-invoice.md)
+     2. [Purchase Invoice](purchase-invoice.md)
      3. Journal Entry
-     4. [Sales Order](</erpnext/sales-order>)
-     5. [Purchase Order](</erpnext/purchase-order>)
-     6. [Expense Claim](</hr/expense-claim>)
-     7. [Asset](</erpnext/asset>)
-     8. [Loan](</lending/loan>)
-     9. [Payroll Entry](</hr/payroll-entry>)
-     10. [Employee Advance](</hr/employee-advance>)
-     11. [Exchange Rate Revaluation](</erpnext/exchange-rate-revaluation>)
-     12. [Invoice Discounting](</erpnext/invoice_discounting>)
-  5. **Is Advance** : If this is an advance payment by a Customer, set this option to 'Yes'. This is useful when you have linked a 'Reference Type' form to this Journal Entry. Selecting “Yes” will link this Journal Entry to the transaction selected in the 'Reference Name' field. To know more, visit the [Advance Payment Entry](</erpnext/advance-payment-entry>) page.
+     4. [Sales Order](sales-order.md)
+     5. [Purchase Order](purchase-order.md)
+     6. [Expense Claim](https://docs.frappe.io/hr/expense-claim)
+     7. [Asset](asset.md)
+     8. [Loan](https://docs.frappe.io/lending/loan)
+     9. [Payroll Entry](https://docs.frappe.io/hr/payroll-entry)
+     10. [Employee Advance](https://docs.frappe.io/hr/employee-advance)
+     11. [Exchange Rate Revaluation](exchange-rate-revaluation.md)
+     12. [Invoice Discounting](invoice_discounting.md)
+  5. **Is Advance** : If this is an advance payment by a Customer, set this option to 'Yes'. This is useful when you have linked a 'Reference Type' form to this Journal Entry. Selecting “Yes” will link this Journal Entry to the transaction selected in the 'Reference Name' field. To know more, visit the [Advance Payment Entry](advance-payment-entry.md) page.
 
   6. **User Remark** : Any additional remarks about the entry can be added in this field.
 
@@ -85,7 +85,7 @@ Following are the documents that can be selected in the Journal Entry under Refe
 
 In any submitted Journal Entry, there is a dedicated button to reverse the Journal Entry. On clicking the 'Reverse Journal Entry' button, the system creates a new Journal Entry by reversing debit and credit amount against the respective accounts.
 
-![Reverse Journal Entry](/files/reverse-journal-entry.png)
+![Reverse Journal Entry](https://docs.frappe.io/assets/326c6570801c.png)
 
 ### 2.3 Difference Entry
 
@@ -95,7 +95,7 @@ As per double entry accounting system, the total debit should be equal to the to
 
 This should be zero if the Journal Entry is to be “Submitted”. If this number is not zero, you can click on “Make Difference Entry” and the system will automatically add a new row with the amount required to make the total as zero. Select the account to debit/credit and proceed.
 
-![Make Difference](/files/journal-entry-make-difference-entry.png)
+![Make Difference](https://docs.frappe.io/assets/64c68ea537b6.png)
 
 ### 2.4 Referencing
 
@@ -115,9 +115,9 @@ In th Reference section, the following fields can be entered manually if the bil
 
 ### 2.5 Multi Currency entries
 
-If the accounts selected are in different currencies, tick the 'Multi Currency' checkbox. If this checkbox is not enabled, you will not be able to select any foreign currencies in the Journal Entry. This will show the different currency and fetch the 'Exchange Rate'. To know more, visit the [Multi Currency Accounting](</erpnext/multi-currency-accounting>) page.
+If the accounts selected are in different currencies, tick the 'Multi Currency' checkbox. If this checkbox is not enabled, you will not be able to select any foreign currencies in the Journal Entry. This will show the different currency and fetch the 'Exchange Rate'. To know more, visit the [Multi Currency Accounting](multi-currency-accounting.md) page.
 
-![Multi Currency](/files/multi-currency-journal-entry.png)
+![Multi Currency](https://docs.frappe.io/assets/d316e68c0e86.png)
 
 ### 2.6 Journal Entry Template
 
@@ -133,17 +133,17 @@ It will fetch and add the following details to the entry:
 
 
 
-To learn more go to the [Journal Entry Template](</erpnext/journal-entry-template>) page.
+To learn more go to the [Journal Entry Template](journal-entry-template.md) page.
 
 ### 2.7 Print Settings
 
-![Journal Print Settings](/files/journal-entry-print-settings.png)
+![Journal Print Settings](https://docs.frappe.io/assets/3d9cdd46402d.png)
 
 **Pay To / Recd From** : The name entered here will show up in the Sales Invoice. This is useful for printing cheques. Go to the print view in the Journal Entry and select the 'Cheque Printing Format'.
 
 #### Letterhead
 
-You can print your Journal Entry on your company's letterhead. Know more [here](</erpnext/letter-head>).
+You can print your Journal Entry on your company's letterhead. Know more [here](letter-head.md).
 
 #### Print Headings
 
@@ -151,12 +151,12 @@ Journal Entries can also be titled differently for printing purposes. You can do
 
 Home > Settings > Printing > Print Heading
 
-Read [Print Headings](</erpnext/print-headings>) to know more.
+Read [Print Headings](print-headings.md) to know more.
 
 ### 2.7 More Information
 
   1. **Mode of Payment** : Whether the payment was done using Wire Transfer, Bank Draft, Credit Card, Cheque, or Cash. New Modes of Payment can also be created. If a Bank Account is set in Mode of Payment, it will be fetched here when the Mode of Payment is selected.
-  2. **Is Opening** : If the Journal Entry is of type 'Opening Entry' this field will be set to 'Yes'. To know more, visit the [Opening Balance](</erpnext/opening-balance>) page.
+  2. **Is Opening** : If the Journal Entry is of type 'Opening Entry' this field will be set to 'Yes'. To know more, visit the [Opening Balance](opening-balance.md) page.
   3. **From Template** : When a template is selected, the 'Accounting Entries' table will be emptied first before loading the accounts from the template. You can add more account entries after that.
 
 
@@ -191,11 +191,11 @@ For crediting employee salaries, 'Journal Entry' type is used. In this case,
 
 If a transaction occurs between a parent and child company, or sister companies, or two companies belonging to the same group, this option can be used to make an Inter Company Journal Entry.
 
-To know more visit the [Inter Company Journal Entry](</erpnext/inter-company-journal-entry>) page.
+To know more visit the [Inter Company Journal Entry](inter-company-journal-entry.md) page.
 
 ### 3.3 Bank Entry
 
-Use this type when making or receiving a payment using a [Bank Account](</erpnext/bank-account>). For example, paying for an entertainment charges etc using the Company's bank account.
+Use this type when making or receiving a payment using a [Bank Account](bank-account.md). For example, paying for an entertainment charges etc using the Company's bank account.
 
 ### 3.4 Cash Entry
 
@@ -218,7 +218,7 @@ You can also create a Debit Note directly from a Purchase Invoice.
 
 
 
-To know more, [visit this page](</erpnext/debit-note>).
+To know more, [visit this page](debit-note.md).
 
 ### 3.7 Credit Note
 
@@ -231,7 +231,7 @@ This is a document sent by a supplier to a customer when returning goods/items.
 
 
 
-To know more, [visit this page](</erpnext/credit-note>).
+To know more, [visit this page](credit-note.md).
 
 > A debit/credit note is usually issued for the value of the goods returned or lesser.
 
@@ -292,26 +292,26 @@ Depreciation is when you write off certain value of your assets as an expense. F
 
 
 
-To know more, visit the [Asset Depreciation](</erpnext/asset-depreciation>) page.
+To know more, visit the [Asset Depreciation](asset-depreciation.md) page.
 
 > Note: There may be regulations in your country that define by how much amount you can depreciate a class of Assets.
 
 ### 3.13 Exchange Rate Revaluation
 
-If your Chart of Accounts has accounts with multiple currencies, a Journal Entry of type 'Exchange Rate Revaluation' helps in dealing with this situation. This entry is intended to be created from an Exchange Rate Revaluation form. To know more [visit the Exchange Rate Revaluation page](</erpnext/exchange-rate-revaluation>).
+If your Chart of Accounts has accounts with multiple currencies, a Journal Entry of type 'Exchange Rate Revaluation' helps in dealing with this situation. This entry is intended to be created from an Exchange Rate Revaluation form. To know more [visit the Exchange Rate Revaluation page](exchange-rate-revaluation.md).
 
 ### 4\. Related Topics
 
-  1. [Inter Company Journal Entry](</erpnext/inter-company-journal-entry>)
-  2. [Credit Note](</erpnext/credit-note>)
-  3. [Debit Note](</erpnext/debit-note>)
-  4. [Sales Invoice](</erpnext/sales-invoice>)
-  5. [Difference Entry Button](</erpnext/difference-entry-button>)
-  6. [Finance Book](</erpnext/finance-book>)
+  1. [Inter Company Journal Entry](inter-company-journal-entry.md)
+  2. [Credit Note](credit-note.md)
+  3. [Debit Note](debit-note.md)
+  4. [Sales Invoice](sales-invoice.md)
+  5. [Difference Entry Button](difference-entry-button.md)
+  6. [Finance Book](finance-book.md)
 
 
 
-[ Previous Page Semi-Auto Payment Reconciliation ](</erpnext/semi-auto-payment-reconciliation>) [ Next Page Journal Entry Template  ](</erpnext/journal-entry-template>)
+[ Previous Page Semi-Auto Payment Reconciliation ](semi-auto-payment-reconciliation.md) [ Next Page Journal Entry Template  ](journal-entry-template.md)
 
 Last updated 2 weeks ago 
 

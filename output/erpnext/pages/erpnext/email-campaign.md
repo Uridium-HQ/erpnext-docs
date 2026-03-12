@@ -1,12 +1,12 @@
 # Email Campaign
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rfdhpg7vj>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rfdhpg7vj)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Email Campaign 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rfdhpg7vj>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rfdhpg7vj)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -22,15 +22,15 @@ To create an Email Campaign, go to:
 
 Before creating and using Email Campaign, these need to be created first:
 
-  * [Campaign](</erpnext/campaign>)
-  * [Lead](</erpnext/lead>) or [Contact](</erpnext/contact>) or [Email Group](</erpnext/email_group>)
+  * [Campaign](campaign.md)
+  * [Lead](lead.md) or [Contact](contact.md) or [Email Group](https://docs.frappe.io/erpnext/email_group)
 
 
 
 ## 2\. How to Create an Email Campaign
 
   1. Go to the Email Campaign list, click on New.
-  2. Select the [Campaign](</erpnext/campaign>) for which you want to set up an Email Campaign.
+  2. Select the [Campaign](campaign.md) for which you want to set up an Email Campaign.
   3. Set the 'Start Date' for the Email Campaign.
   4. In 'Email Campaign For', select whether you want to set up Email Campaign for a Lead or a Contact or for an Email Group to send to multiple email contacts.
   5. In 'Recipient', select the respective Lead or Contact or Email Group for whom you want to start the Email Campaign.
@@ -39,11 +39,11 @@ Before creating and using Email Campaign, these need to be created first:
 
 
 
-![Email Campaign](/files/email-campaign.png)
+![Email Campaign](https://docs.frappe.io/assets/9222bd8f0a90.png)
 
 The above Email Campaign is for the following Campaign:
 
-![Campaign Schedule](/files/campaign-email-schedule.png)
+![Campaign Schedule](https://docs.frappe.io/assets/6d4f4a08e492.png)
 
 **Note** : The **Send After (days)** field in Campaign specifies the day on which email is to be sent relative to the **Start Date** of **Email Campaign**. Notice the 'End Date' in the above Email Campaign. It is '26-07-2019', which is 4 days after the 'Start Date', '22-07-2029', as the Campaign Schedule ends on day 4.
 
@@ -56,7 +56,7 @@ You can also create new Email Campaigns for different Leads or Contacts for the 
 
 
 
-![Email Campaigns from Dashboard](/files/campaign-dashboard.png)
+![Email Campaigns from Dashboard](https://docs.frappe.io/assets/5d8325a193c6.png)
 
 ## 3\. Features
 
@@ -64,27 +64,27 @@ You can also create new Email Campaigns for different Leads or Contacts for the 
 
 When emails are sent to the respective leads or contacts, Communication is linked to the Email Campaign document. You can view all the emails sent in your document.
 
-![Linked Communication](/files/email-campaign-linked-comm.png)
+![Linked Communication](https://docs.frappe.io/assets/958f608d691c.png)
 
 ### 3.2 Unsubscribe from Email Campaign
 
 If a lead or contact does not want to continue getting emails regarding the campaign, he or she can unsubscribe from the Email Campaign via the unsubscribe link sent with the email.
 
-![Unsubscribe Link](/files/unsubscribe-link.png)
+![Unsubscribe Link](https://docs.frappe.io/assets/f5122ef6441d.png)
 
 When the lead or contact unsubscribes, the status of the Email Campaign document changes to 'Unsubscribed'.
 
-![Unsubscribed](/files/email-campaign-unsubscribed.png)
+![Unsubscribed](https://docs.frappe.io/assets/d51b7cff877f.png)
 
 ### 3.3 Use Lead or Contact fields in Email Template
 
 The Email Template has the context of the document you have specified in the 'Email Campaign For' field. If you want to display the fields from your Lead or Contact document in your Email Template you will have to use `doc.fieldname` for the same. For example, if 'Email Campaign For' is 'Contact', you can mention the 'first name' of your Contact as `doc.first_name` in the Email Template as shown below:
 
-![Email Template Document](/files/email-template-doc.png)
+![Email Template Document](https://docs.frappe.io/assets/8cabbd097163.png)
 
 Then the emails sent would look like this:
 
-![Email Campaign Doc Data](/files/email-campaign-doc-data.png)
+![Email Campaign Doc Data](https://docs.frappe.io/assets/7cf003ee43cb.png)
 
 ### 3.4 Status indication
 
@@ -97,19 +97,19 @@ Status indicates the state of the Email Campaign, the various Statuses are:
 
 
 
-![Email Campaign Status](/files/email-campaign-status.png)
+![Email Campaign Status](https://docs.frappe.io/assets/7c9588797aef.png)
 
 ## 4\. Related Topics
 
-  1. [Campaign](</erpnext/campaign>)
-  2. [Lead](</erpnext/lead>)
-  3. [Contact](</erpnext/contact>)
+  1. [Campaign](campaign.md)
+  2. [Lead](lead.md)
+  3. [Contact](contact.md)
 
 
 
-Next: [Newsletter](</erpnext/newsletter>)
+Next: [Newsletter](https://docs.frappe.io/erpnext/newsletter)
 
-[ Previous Page Contract  ](</erpnext/contract>) [ Next Page Email Group  ](</erpnext/email_group>)
+[ Previous Page Contract  ](https://docs.frappe.io/erpnext/contract) [ Next Page Email Group  ](https://docs.frappe.io/erpnext/email_group)
 
 Last updated 1 week ago 
 

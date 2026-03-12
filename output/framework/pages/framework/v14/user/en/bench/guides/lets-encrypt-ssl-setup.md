@@ -1,18 +1,18 @@
 # Using Let's Encrypt to setup HTTPS
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/1339cj55ns>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/1339cj55ns)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Using Let's Encrypt to setup HTTPS 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/1339cj55ns>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/1339cj55ns)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 ## Prerequisites
 
-  1. You need to have a [DNS Multitenant Setup](<https://frappe.io/docs/v14/user/en/bench/guides/setup-multitenancy>)
+  1. You need to have a [DNS Multitenant Setup](https://frappe.io/docs/v14/user/en/bench/guides/setup-multitenancy)
   2. Your site should be accessible via a valid domain
   3. You need root permissions on your server
 
@@ -30,7 +30,7 @@ You will be faced with several prompts, respond to them accordingly. This comman
 
 ### Custom Domains
 
-You can setup Let's Encrypt for [custom domains](<adding-custom-domains.html>) as well. Just use the `--custom-domain` option
+You can setup Let's Encrypt for [custom domains](adding-custom-domains.md) as well. Just use the `--custom-domain` option
 
 sudo -H bench setup lets-encrypt [site-name] --custom-domain [custom-domain]
 
@@ -60,15 +60,15 @@ After letsencrypt initializes, you will be prompted for some information. This e
 
 At the prompt, enter an email address that will be used for notices and lost key recovery:
 
-![](../../../../../../../assets/d869cc1f56a9.png)
+![](https://docs.frappe.io/assets/d869cc1f56a9.png)
 
 Then you must agree to the Let's Encrypt Subscribe Agreement. Select Agree:
 
-![](../../../../../../../assets/f57e5ffd21aa.png)
+![](https://docs.frappe.io/assets/f57e5ffd21aa.png)
 
 Then enter your domain name(s). Note that if you want a single cert to work with multiple domain names (e.g. example.com and www.example.com), be sure to include all of them:
 
-![](../../../../../../../assets/9dc0d334f831.png)
+![](https://docs.frappe.io/assets/9dc0d334f831.png)
 
 ### Certificate Files
 
@@ -111,7 +111,7 @@ Login as root or a user with superuser privileges, run `crontab -e` and enter:
 
 MAILTO="mail@example.com" 0 0 1-7 * * [ "$(date '+%a')" = "Mon" ] && sudo service nginx stop && /opt/certbot-auto renew && sudo service nginx start
 
-[ Previous Page Diagnosing The Scheduler  ](</framework/v14/user/en/bench/guides/diagnosing-the-scheduler>) [ Next Page Setting Limits for your Site  ](</framework/v14/user/en/bench/guides/settings-limits>)
+[ Previous Page Diagnosing The Scheduler  ](diagnosing-the-scheduler.md) [ Next Page Setting Limits for your Site  ](settings-limits.md)
 
 Last updated 2 months ago 
 

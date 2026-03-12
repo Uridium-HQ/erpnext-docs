@@ -1,12 +1,12 @@
 # Periodic Inventory
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rr9o2fk10>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rr9o2fk10)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Periodic Inventory
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rr9o2fk10>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rr9o2fk10)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -16,9 +16,9 @@ To make a periodic accounting entry, you must create a Journal Entry manually. F
 
 To address this in Version 16, we introduced a new Journal Entry type called 'Periodic Accounting Entry'. With this, users don’t need to perform manual calculations. The system will automatically fetch the difference in balance when the user clicks the 'Get Balance' button.
 
-![](/files/periodic_accounting_entry5adb27.png)
+![](../../assets/17951af06c1a.png)
 
-[ Previous Page Perpetual Inventory  ](</erpnext/perpetual-inventory>) [ Next Page Stock Transactions ](</erpnext/stock-transactions>)
+[ Previous Page Perpetual Inventory  ](perpetual-inventory.md) [ Next Page Stock Transactions ](stock-transactions.md)
 
 Last updated 3 weeks ago 
 

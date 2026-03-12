@@ -1,12 +1,12 @@
 # Company
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rlb5mkpdc>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rlb5mkpdc)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Company
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rlb5mkpdc>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rlb5mkpdc)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -36,7 +36,7 @@ The abbreviation also appears in various accounts, cost centers, taxes templates
 
 You can also attach a company logo and add a description for the company.
 
-![Company Master](/files/company%20logo.png)
+![Company Master](https://docs.frappe.io/assets/1eb992cffc7f.png)
 
 ### Multi Company Structure
 
@@ -48,7 +48,7 @@ A parent company is a larger organization which consists of one or more child co
 
 The company tree view displays the overall structure of your companies.
 
-![](/files/company%20tree.png)
+![](../../assets/3b8218c147cf.png)
 
 Once you build a company tree, ERPNext will validate if the accounts of the child companies match the accounts in the parent company. All the accounts can be combined in a consolidated chart of accounts statement.
 
@@ -71,7 +71,7 @@ ERPNext has localized Chart of Accounts readily available for some countries. Wh
 
 
 
-![](/files/COA%20selection.png)
+![](../../assets/9d3602d39a59.png)
 
 Note that, if the Parent Company is selected when creating a new Company, the Chart of Accounts will be created based on the existing Parent Company.
 
@@ -139,7 +139,7 @@ Perpetual Inventory feature would lead to Stock transactions impacting the compa
 
 
 
-![](/files/company%20stock%20settings.png)
+![](../../assets/49410106ca5a.png)
 
 Accumulated Depreciation Account
 
@@ -153,7 +153,7 @@ Accumulated Depreciation Account
 
 
 
-![](/files/fixed%20assets.png)
+![](../../assets/bdc1bd851743.png)
 
 If you wish to book your accounting entries against different Finance Books, check the Enable Finance Books box and set a Default Finance Book.
 
@@ -199,7 +199,7 @@ For reference, the following details of your company can be saved in ERPNext:
 
 > Note: When setting the address here, it is important to tick the 'Is Your Company Address' checkbox.
 
-![](/files/company%20address.png)
+![](../../assets/b4ba5f3cafb0.png)
 
 **For India** , different addresses can be added with different GSTIN numbers if the company has multiple locations. For example, if your company has offices in Mumbai, Delhi, and Bangalore, you'll have to add different addresses with different GSTIN numbers.
 
@@ -224,7 +224,7 @@ You can delete all transactions (Orders, Invoices) of a Company. _Use with cauti
 
 
 
-![](/files/TDR%20full%20screen.png)
+![](../../assets/cf4b4e9ed83a.png)
 
 And you're done. The master data like Item, Account, Employee, BOM etc. will remain as it is.
 
@@ -259,7 +259,7 @@ You can change the Parent Company of an existing company. Go to the Parent Compa
 
 
 
-[ Previous Page Setting Up  ](</erpnext/setting-up>) [ Next Page Country ](</erpnext/country>)
+[ Previous Page Setting Up  ](setting-up.md) [ Next Page Country ](country.md)
 
 Last updated 2 weeks ago 
 

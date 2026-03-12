@@ -1,12 +1,12 @@
 # Email Digest
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rbl14r182>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rbl14r182)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Email Digest 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rbl14r182>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rbl14r182)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -28,16 +28,16 @@ To set up Email Digest, go to:
 
 Example:
 
-![Email Digest](/files/email-digest.png)
+![Email Digest](https://docs.frappe.io/assets/9c0dc4457161.png)
 
 ### Related Topics
 
-  1. [Auto Email Reports](</erpnext/auto-email-reports>)
-  2. [Sending Email](</erpnext/sending-email>)
+  1. [Auto Email Reports](auto-email-reports.md)
+  2. [Sending Email](sending-email.md)
 
 
 
-[ Previous Page Email Template  ](</erpnext/email-template>) [ Next Page Email Dropbox  ](</erpnext/email-dropbox>)
+[ Previous Page Email Template  ](email-template.md) [ Next Page Email Dropbox  ](https://docs.frappe.io/erpnext/email-dropbox)
 
 Last updated 1 week ago 
 

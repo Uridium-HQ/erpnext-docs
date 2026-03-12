@@ -1,12 +1,12 @@
 # Payment Terms Template
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rocu9h2ta>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rocu9h2ta)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Payment Terms Template
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rocu9h2ta>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rocu9h2ta)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,7 +20,7 @@ If you receive payment in the slab of 30-70, then you can define Payment Term fo
 
 In the Payment Terms Template, you can select all the Payment Terms and define a template which can be easily applied in the sales and purchase transactions.
 
-![Payment Terms Template](/files/payment-terms-template.png)
+![Payment Terms Template](https://docs.frappe.io/assets/0aa9abf96558.png)
 
   1. Prerequisites
 
@@ -30,7 +30,7 @@ In the Payment Terms Template, you can select all the Payment Terms and define a
 
 Before creating and using Payment Request, it is advisable to create the following first:
 
-  1. [Payment Terms](</erpnext/payment-terms>)
+  1. [Payment Terms](payment-terms.md)
 
   2. How to create a Payment Terms Template
 
@@ -64,13 +64,13 @@ You should use it if you have a set of standard Payment Terms or for ease of use
 
 If 'Allocate Payment Based On Payment Terms' is enabled on a template, Payments made against the Invoice through Create->Payment will have allocation based on the Terms.
 
-  1. Template with 'Allocate Payment Based on Payment Terms' enabled. ![Screenshot 2023-08-01 at 10.30.32 AM](/files/Screenshot%202023-08-01%20at%2010.30.32%20AM.png)
-  2. Invoice made with above template. ![Screenshot 2023-08-01 at 10.32.01 AM](/files/Screenshot%202023-08-01%20at%2010.32.01%20AM.png)
-  3. Payment created against above invoice. ![Screenshot 2023-08-01 at 10.32.31 AM](/files/Screenshot%202023-08-01%20at%2010.32.31%20AM.png)
+  1. Template with 'Allocate Payment Based on Payment Terms' enabled. ![Screenshot 2023-08-01 at 10.30.32 AM](https://docs.frappe.io/assets/0754759b55c6.png)
+  2. Invoice made with above template. ![Screenshot 2023-08-01 at 10.32.01 AM](https://docs.frappe.io/assets/eb6fed44a5e9.png)
+  3. Payment created against above invoice. ![Screenshot 2023-08-01 at 10.32.31 AM](https://docs.frappe.io/assets/16018e015450.png)
 
 
 
-[ Previous Page Payment Terms  ](</erpnext/payment-terms>) [ Next Page Payment Reconciliation ](</erpnext/payment-reconciliation>)
+[ Previous Page Payment Terms  ](payment-terms.md) [ Next Page Payment Reconciliation ](payment-reconciliation.md)
 
 Last updated 2 weeks ago 
 

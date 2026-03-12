@@ -1,12 +1,12 @@
 # ERPNext Shipping
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s78bo2mgp>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s78bo2mgp)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # ERPNext Shipping
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s78bo2mgp>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s78bo2mgp)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -16,12 +16,12 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 Integration with the following service providers is available:
 
-  1. [LetMeShip](<https://www.letmeship.com/en/>)
-  2. [SendCloud](<https://www.sendcloud.com>)
+  1. [LetMeShip](https://www.letmeship.com/en/)
+  2. [SendCloud](https://www.sendcloud.com/)
 
 
 
-> To avail these features, the **ERPNext Shipping** app will have to be installed on your site. You can the avail the app [on GitHub](<https://github.com/frappe/erpnext-shipping/tree/master>), [on Frappe Cloud Marketplace](<https://cloud.frappe.io/marketplace/apps/erpnext_shipping>) or you can contact your hosting platform.
+> To avail these features, the **ERPNext Shipping** app will have to be installed on your site. You can the avail the app [on GitHub](https://github.com/frappe/erpnext-shipping/tree/master), [on Frappe Cloud Marketplace](https://cloud.frappe.io/marketplace/apps/erpnext_shipping) or you can contact your hosting platform.
 
   1. Setting Up
 
@@ -33,8 +33,8 @@ For the app to work smoothly, you will have to generate an API key from **at lea
 
 ### 1.1 SendCloud
 
-  1. Register on [SendCloud](<https://panel.sendcloud.sc/accounts/signup/>).
-  2. Follow [these steps](<https://support.sendcloud.com/hc/en-us/articles/360024967612-Service-points-for-API-Integrations#step-1->) to generate a **Public Key** and a **Secret Key**.
+  1. Register on [SendCloud](https://panel.sendcloud.sc/accounts/signup/).
+  2. Follow [these steps](https://support.sendcloud.com/hc/en-us/articles/360024967612-Service-points-for-API-Integrations) to generate a **Public Key** and a **Secret Key**.
   3. Search for **SendCloud** in the awesomebar.
   4. Add the **Public Key** in the 'API Key' field and the **Secret Key** in the 'API Secret' field of the SendCloud DocType.
   5. Check the **Enabled** field.
@@ -42,19 +42,19 @@ For the app to work smoothly, you will have to generate an API key from **at lea
 
 
 
-![Sendcloud API](/files/sendcloud_api.png)
+![Sendcloud API](https://docs.frappe.io/assets/05c8f3ccbb28.png)
 
 ### 1.2 LetMeShip
 
-  1. Register on [LetMeShip](<https://www.letmeship.com/en/>).
-  2. Follow [these steps](<https://www.letmeship.com/en-de/shipping-api/>) to generate an **API ID** and **API Password**.
+  1. Register on [LetMeShip](https://www.letmeship.com/en/).
+  2. Follow [these steps](https://www.letmeship.com/en-de/shipping-api/) to generate an **API ID** and **API Password**.
   3. Search for **LetMeShip** in the awesomebar.
   4. Add the **API ID** and **API Password** to the LetMeShip DocType. Check the **Enabled** field.
   5. Save.
 
 
 
-![LetMeShip API](/files/letmeship_api.png)
+![LetMeShip API](https://docs.frappe.io/assets/5c119600a1db.png)
 
   2. Features
 
@@ -64,9 +64,9 @@ For the app to work smoothly, you will have to generate an API key from **at lea
 
 ### 2.1 Comparison of Shipping Rates
 
-Once a [Shipment](</erpnext/shipment>) is submitted, if the app is installed, the button **Fetch Shipping Rates** will appear. On clicking, you will get a list of services along with their service providers and rates.
+Once a [Shipment](shipment.md) is submitted, if the app is installed, the button **Fetch Shipping Rates** will appear. On clicking, you will get a list of services along with their service providers and rates.
 
-![Fetch Rates](/files/fetch_rates.png)
+![Fetch Rates](https://docs.frappe.io/assets/b4526c979b44.png)
 
 You can also add frequently used services to your **Preferred Services** using **Parcel Service Type** :
 
@@ -74,11 +74,11 @@ You can also add frequently used services to your **Preferred Services** using *
 
 
 
-![Highlight Service](/files/service_highlight.png) 2\. Go to **Parcel Service Type** > **New**. Create a new **Parcel Service**. In our case, it is 'TNT'. 3\. Add a **Parcel Service Type**. In our case, it will be 'Economy'. 4\. Add 'Economy' to the **Parcel Service Type Alias** table as well. 5\. Add a description (optional). 6\. Enable the **Show in Preferred Services List** field. Save.
+![Highlight Service](https://docs.frappe.io/assets/87012ace4b77.png) 2\. Go to **Parcel Service Type** > **New**. Create a new **Parcel Service**. In our case, it is 'TNT'. 3\. Add a **Parcel Service Type**. In our case, it will be 'Economy'. 4\. Add 'Economy' to the **Parcel Service Type Alias** table as well. 5\. Add a description (optional). 6\. Enable the **Show in Preferred Services List** field. Save.
 
 Now when you click on the **Fetch Shipping Rates** button, you will always see the previously highlighted service under **Preferred Services**.
 
-![Preferred Service](/files/preferred_service.png)
+![Preferred Service](https://docs.frappe.io/assets/2489fb71eb37.png)
 
 ### 2.2 Creation of Shipment
 
@@ -86,7 +86,7 @@ After comparing rates, you can proceed with any one of the services by clicking 
 
 You will notice that the **Shipment Information** section is updated automatically, based on the Shipment created.
 
-![Shipment Creation](/files/create_shipment.gif)
+![Shipment Creation](https://docs.frappe.io/assets/aea29a0311a3.gif)
 
 You can also search for your transaction on your service provider's platform using the **Shipment ID** field.
 
@@ -94,17 +94,17 @@ You can also search for your transaction on your service provider's platform usi
 
 To avail the **Print Shipping Label** button, the **Shipment ID** must be generated in the current record.
 
-![Print Label Button](/files/print_label_button.png)
+![Print Label Button](https://docs.frappe.io/assets/58e6ed38fc1e.png)
 
 You can then click on it and generate your shipping label.
 
-![Dummy Shipping Label](/files/dummy_shipping_label.png)
+![Dummy Shipping Label](https://docs.frappe.io/assets/346cde95f71a.png)
 
 You can also track your shipment's status by clicking on **View** > **Track Status**.
 
 > **Note** : The currently integrated platforms may not serve your region. Please visit the links attached against them to know more.
 
-[ Previous Page Zenoti Integration ](</erpnext/zenoti_integration>) [ Next Page Setting up PayPal  ](</erpnext/paypal-integration>)
+[ Previous Page Zenoti Integration ](zenoti_integration.md) [ Next Page Setting up PayPal  ](paypal-integration.md)
 
 Last updated 1 week ago 
 

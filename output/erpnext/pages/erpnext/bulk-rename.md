@@ -1,12 +1,12 @@
 # Bulk Rename
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rd3g6sqb5>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rd3g6sqb5)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Bulk Rename
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rd3g6sqb5>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rd3g6sqb5)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,7 +14,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 You can rename a document in ERPNext by going to **Menu > Rename**. This option will only be visible if you have the required permissions.
 
-![](/files/image3a97ad.png)
+![](../../assets/bb1b7288b895.png)
 
 ### Rename Tool
 
@@ -40,7 +40,7 @@ To upload the data file, search for "Rename Tool" on the awesomebar.
 
 Select the DocType that you want to rename. Here, DocType will be Item. Then browse and upload the data file and click Rename.
 
-![](/files/image36fdf6.png)
+![](../../assets/982c76f6878b.png)
 
 The Bulk Rename Jobs shows the progress of the process for each entry, from the queuing state to either finished or failed.
 
@@ -54,7 +54,7 @@ Old Name | New Name | Merge
 ---|---|---  
 Steve1 | Steve | 1  
   
-[ Previous Page Bulk Update  ](</erpnext/bulk-update>) [ Next Page Delete Company Transactions ](</erpnext/delete_company_transactions>)
+[ Previous Page Bulk Update  ](bulk-update.md) [ Next Page Delete Company Transactions ](delete_company_transactions.md)
 
 Last updated 2 weeks ago 
 

@@ -1,12 +1,12 @@
 # Quality Meeting
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s5ivdk9ed>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s5ivdk9ed)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Quality Meeting
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s5ivdk9ed>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s5ivdk9ed)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -27,11 +27,11 @@ To access Quality Meeting, go to:
 
 
 
-![](/files/meetingf9c910.gif)
+![](../../assets/4d23950057cd.gif)
 
 The Status of the Meeting can be set to Closed once the agenda is done.
 
-[ Previous Page Quality Feedback  ](</erpnext/quality_feedback>) [ Next Page Introduction ](</erpnext/subcontracting-in-erpnext>)
+[ Previous Page Quality Feedback  ](quality_feedback.md) [ Next Page Introduction ](subcontracting-in-erpnext.md)
 
 Last updated 2 weeks ago 
 

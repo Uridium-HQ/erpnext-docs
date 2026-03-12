@@ -1,18 +1,18 @@
 # Attachments
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12mflhqppi>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12mflhqppi)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Attachments 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12mflhqppi>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12mflhqppi)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 Frappe allows attachment of files to documents. Users with **Read** permissions on a particular document will also be able to access the files attached to it.
 
-![Attachments](/files/file_uploader.png)
+![Attachments](https://docs.frappe.io/assets/4a8e8c7d3008.png)
 
 ## How to Attach a New File
 
@@ -20,29 +20,29 @@ There are several ways to attach a file to a document.
 
 ### Select File
 
-![Select File](/files/file_uploader_my_device.gif)
+![Select File](https://docs.frappe.io/assets/4b3d53ec21d7.gif)
 
 ### Drag and Drop
 
-![Drag and Drop](/files/file_uploader_drag_and_drop.gif)
+![Drag and Drop](https://docs.frappe.io/assets/ad054330dcac.gif)
 
 ### Uploaded File
 
 Attach a file a that was previously uploaded, to a different document.
 
-![Uploaded File](/files/file_uploader_uploaded.gif)
+![Uploaded File](https://docs.frappe.io/assets/2c07f8f5014a.gif)
 
 ### Web Link
 
 If you use a separate server for files or use online services like Dropbox or Docs, you can attach a file by providing a link to it.
 
-![Web Link](/files/file_uploader_weblink.gif)
+![Web Link](https://docs.frappe.io/assets/32de883456f8.gif)
 
 ### Camera
 
 Attach Images by taking a photo using your device's camera.
 
-![Camera](/files/file_uploader_camera.gif)
+![Camera](https://docs.frappe.io/assets/651847491069.gif)
 
 ## File Manager
 
@@ -50,7 +50,7 @@ All the attached files are listed in the File Manager. You can access these by n
 
 **Home > Tools > Files**
 
-![File Manager](/files/file_manager.png)
+![File Manager](https://docs.frappe.io/assets/036919424c06.png)
 
 ## Import Zip
 
@@ -62,7 +62,7 @@ You can also bulk import multiple files at once using the Import Zip feature.
 
 
 
-![Importing files from zip](/files/import_zip.gif)
+![Importing files from zip](https://docs.frappe.io/assets/005c3f70cd68.gif)
 
 > Note: Hidden files (files starting with `.`) are not extracted when importing from a zip file.
 
@@ -77,13 +77,13 @@ You can also bulk export multiple files at once using the Export as Zip feature.
 
 
 
-![Export files as zip](/files/export-as-zip.png)
+![Export files as zip](https://docs.frappe.io/assets/e55e974c1caf.png)
 
 ## Cropping Images
 
 You can crop `.jpeg` and `.png` images by clicking on the crop icon.
 
-![Cropping images on upload](/files/crop_image.gif)
+![Cropping images on upload](https://docs.frappe.io/assets/b9d793aa2b55.gif)
 
 ## Optimizing Images
 
@@ -97,11 +97,11 @@ Images can be optimized to reduce their file size. Currently optimizing an image
 
 **Toggle optimization during upload**
 
-![Toggle image optimization](/files/toggle_image_optimization.gif)
+![Toggle image optimization](https://docs.frappe.io/assets/f63850d37a68.gif)
 
 **Optimize an already uploaded image**
 
-![Optimize saved image](/files/optimize_saved_image.gif)
+![Optimize saved image](https://docs.frappe.io/assets/a1e5c24d2d2e.gif)
 
 ## Limits
 
@@ -119,17 +119,17 @@ You can limit how many files can be attached to a specific document.
 
 Select the document type for which you'd like to set this limit.
 
-![Select Document Type](/files/select_document_type.png)
+![Select Document Type](https://docs.frappe.io/assets/241c3779c81f.png)
 
 #### Step 3: Set Limit
 
 Set the value of **Max Attachments** to the maximum number of attachments allowed for this document type.
 
-![Set Limit](/files/set_max_attachments.png)
+![Set Limit](https://docs.frappe.io/assets/4fe6ce79762f.png)
 
 Once you're satisfied with the changes, click the **Update** button. That's it! The maximum number of attachments per document will now be validated every time a new attachment is added to a document of this type.
 
-[ Previous Page Printing  ](</framework/v14/user/en/desk/printing>) [ Next Page Scripting  ](</framework/v14/user/en/desk/scripting>)
+[ Previous Page Printing  ](printing.md) [ Next Page Scripting  ](scripting.md)
 
 Last updated 2 months ago 
 

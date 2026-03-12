@@ -1,12 +1,12 @@
 # Stock Settings
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rr00l0m86>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rr00l0m86)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Stock Settings
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rr00l0m86>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rr00l0m86)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -18,9 +18,9 @@ You can set default settings for your stock related transactions from the Stock 
 
 * * *
 
-![Stock Settings](/files/stock-settings-1.png)
+![Stock Settings](https://docs.frappe.io/assets/849f86923197.png)
 
-By default, the Item Name is set as per the Item Code entered. If you want Items to be named by a set [Naming Series](</erpnext/naming-series>) choose the 'Naming Series' option .
+By default, the Item Name is set as per the Item Code entered. If you want Items to be named by a set [Naming Series](naming-series.md) choose the 'Naming Series' option .
 
   2. Defaults
 
@@ -30,7 +30,7 @@ By default, the Item Name is set as per the Item Code entered. If you want Items
 
 ### 2.1 Default Item Group
 
-This will be the default item group allocated to a newly created item. Item groups are useful for classification and setting properties for the whole group. To know more visit the [Item Group](</erpnext/item-group>) page.
+This will be the default item group allocated to a newly created item. Item groups are useful for classification and setting properties for the whole group. To know more visit the [Item Group](item-group.md) page.
 
 ### 2.2 Default Stock UOM
 
@@ -40,15 +40,15 @@ The default unit of measure for stock is set as numbers (Nos), it can be changed
 
 Set the default Warehouse from which the stock transactions are done. This will be fetched into the Default Warehouse in the Item master:
 
-![Stock Settings](/files/stock-settings-def.png)
+![Stock Settings](https://docs.frappe.io/assets/f2c95ce5ebae.png)
 
 ### 2.4 Sample Retention Warehouse
 
-This is the Warehouse where sample retentions are stored. To know more, visit [this page](</erpnext/retain-sample-stock>).
+This is the Warehouse where sample retentions are stored. To know more, visit [this page](retain-sample-stock.md).
 
 ### 2.5 Default Valuation method
 
-You can choose between FIFO (first in first out), LIFO (last in first out) or moving average valuation for your items. The default method is FIFO. If you select Moving Average or LIFO, new Items will be valuated on new method. You can change this when creating new Items in the Item form. Once the Item is saved, the Valuation Method cannot be changed. Read more [here](<https://frappe.io/blog/erpnext-features/inventory-valuation-method-fifo-vs-moving-average>).
+You can choose between FIFO (first in first out), LIFO (last in first out) or moving average valuation for your items. The default method is FIFO. If you select Moving Average or LIFO, new Items will be valuated on new method. You can change this when creating new Items in the Item form. Once the Item is saved, the Valuation Method cannot be changed. Read more [here](https://frappe.io/blog/erpnext-features/inventory-valuation-method-fifo-vs-moving-average).
 
   3. Limit Percent
 
@@ -92,7 +92,7 @@ If you want to control your description, views, and allow any HTML to be embedde
 
 * * *
 
-![Stock Settings](/files/stock-settings-2.png)
+![Stock Settings](https://docs.frappe.io/assets/8019bdd128cb.png)
 
 ### 7.1 Auto insert Price List rate if missing
 
@@ -132,11 +132,11 @@ The quantity of items will be set according to the serial numbers. For example, 
 
 * * *
 
-![Stock Settings](/files/stock-settings-3.png)
+![Stock Settings](https://docs.frappe.io/assets/4426a7c1e2c9.png)
 
 ### 10.1 Raise Material Request when the stock reaches re-order level
 
-This option is useful if you want to ensure a constant supply of raw materials/products and avoid shortage. A [Material Request](</erpnext/material-request>) will be raised automatically when stock reached the re-order level defined in the [Item form](</erpnext/item#34-automatic-reordering>).
+This option is useful if you want to ensure a constant supply of raw materials/products and avoid shortage. A [Material Request](material-request.md) will be raised automatically when stock reached the re-order level defined in the [Item form](item.md).
 
 ### 10.2 Notify by Email on the creation of automatic Material Request
 
@@ -148,7 +148,7 @@ An email will be sent to notify the User with the role 'Purchase Manager' when a
 
 * * *
 
-![Delivery Note Material Transfer](/files/inter-warehouse.png)
+![Delivery Note Material Transfer](https://docs.frappe.io/assets/3baf4196b637.png)
 
 ### 11.1 Enable customer warehouse for material transfer from Delivery Note and Sales Invoice
 
@@ -158,7 +158,7 @@ This option is useful when material transfer needs to be presented as a Delivery
 
 Similar to above option this option is useful when material transfer needs to be presented as Purchase Receipt.
 
-To know more about inter warehouse material transfer via Delivery Note and Purchase Invoice please refer this article [Material Transfer From Delivery Note](</erpnext/material-transfer-from-delivery-note>)
+To know more about inter warehouse material transfer via Delivery Note and Purchase Invoice please refer this article [Material Transfer From Delivery Note](material-transfer-from-delivery-note.md)
 
   12. Freeze Stock Entries
 
@@ -168,7 +168,7 @@ To know more about inter warehouse material transfer via Delivery Note and Purch
 
 The User will not be allowed to make stock postings beyond this date.
 
-![Stock Settings](/files/stock-settings-4.png)
+![Stock Settings](https://docs.frappe.io/assets/e4ff8832bcb5.png)
 
   * **Stock Frozen Upto** : A threshold date till which stocks will be frozen.
   * **Freeze Stocks Older Than [Days]** : Stocks older than x days will be frozen. This is calculated based on the creation date of the item.
@@ -181,7 +181,7 @@ The User will not be allowed to make stock postings beyond this date.
 
 * * *
 
-Global setting for batches of stocks to be identified by a [Naming Series](</erpnext/naming-series>). You can override this in the Item DocType.
+Global setting for batches of stocks to be identified by a [Naming Series](naming-series.md). You can override this in the Item DocType.
 
   14. Allow to Edit Stock Quantity
 
@@ -191,7 +191,7 @@ Global setting for batches of stocks to be identified by a [Naming Series](</erp
 
 Enable "Allow to Edit Stock UOM Qty for Sales Documents / Allow to Edit Stock UOM Qty for Purchase Documents" in the stock settings.
 
-![stock_settings_edit_stock_qty](/files/stock_settings_edit_stock_qty.png)
+![stock_settings_edit_stock_qty](https://docs.frappe.io/assets/18a0f8489fb7.png)
 
 **Why to Edit Stock Qty / Qty as Per Stock UOM**
 
@@ -201,7 +201,7 @@ If you're using multi-uom and your stock uom is a whole number, then you might f
 
 User will set the Stock Quantity and system will calculate the conversion factor
 
-![stock_qty_editable](/files/stock_qty_editable.gif)
+![stock_qty_editable](https://docs.frappe.io/assets/83f3b111faa4.gif)
 
   15. Allow UOM with Conversion Rate Defined in Item
 
@@ -211,9 +211,9 @@ User will set the Stock Quantity and system will calculate the conversion factor
 
 If enabled, the system will allow selecting UOMs in sales and purchase transactions only if the conversion rate is set in the item master.
 
-![UOM Restriction](/files/Screenshot%202025-03-31%20at%204.03.34%20PM.png)
+![UOM Restriction](https://docs.frappe.io/assets/20f5dcc5298c.png)
 
-[ Previous Page Opening Stock ](</erpnext/opening-stock>) [ Next Page Accounting Of Inventory Stock ](</erpnext/accounting-of-inventory-stock>)
+[ Previous Page Opening Stock ](opening-stock.md) [ Next Page Accounting Of Inventory Stock ](accounting-of-inventory-stock.md)
 
 Last updated 2 hours ago 
 

@@ -1,12 +1,12 @@
 # Create Supplier Quotation through Supplier Portal
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rg4le9u1b>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rg4le9u1b)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Create Supplier Quotation through Supplier Portal
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rg4le9u1b>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rg4le9u1b)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -19,9 +19,9 @@ Pre-requisites:
 
 
 
-![](/files/UoPrijB.png)
+![](../../assets/03f2ca860808.png)
 
-![](/files/zch4dCR.png)
+![](../../assets/90501b16de98.png)
 
 For a Supplier to create a Quotation, there should be an existing Request for Quotation (RFQ) against them. To do this entire process, follow the following steps:
 
@@ -29,31 +29,31 @@ For a Supplier to create a Quotation, there should be an existing Request for Qu
 
 
 
-![](/files/SuRcElw.png)
+![](../../assets/f31fa1775346.png)
 
   2. Now, the Supplier (MNO Suppliers in our case) has to log into the Supplier Portal using their login credentials. There, the Supplier will be able to view the RFQ
 
 
 
-![](/files/MMMlkUS.png)
+![](../../assets/afa63a9b68d4.png)
 
 The Supplier has to enter the Item Rate and submit the RFQ.
 
-![](/files/OOnqdmE.png)
+![](../../assets/2d4c819e3ccf.png)
 
-![](/files/Ga0q2gS.png)
+![](../../assets/c00fa0c4a39c.png)
 
 Once the RFQ is submitted, a Supplier Quotation gets automatically created in the system against this RFQ. Click on the "View" option.
 
-![](/files/2a7jWc6.png)
+![](../../assets/fd33faf020a8.png)
 
 Observe that the Supplier Quotation is in the Draft state. After reviewing the Supplier Quotation, the user can submit it. This will also be reflected in the Supplier Portal.
 
-![](/files/P010Tfe.png)
+![](../../assets/edfbacd266a2.png)
 
-![](/files/WrWFtea.png)
+![](../../assets/61aa253ab9b5.png)
 
-[ Previous Page Purchase Order ](</erpnext/purchase-order>) [ Next Page Supplier Scorecard  ](</erpnext/supplier-scorecard>)
+[ Previous Page Purchase Order ](purchase-order.md) [ Next Page Supplier Scorecard  ](supplier-scorecard.md)
 
 Last updated 2 weeks ago 
 

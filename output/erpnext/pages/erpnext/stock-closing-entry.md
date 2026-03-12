@@ -1,12 +1,12 @@
 # Stock Closing Entry
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rr9q3uf7g>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rr9q3uf7g)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Stock Closing Entry
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rr9q3uf7g>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rr9q3uf7g)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -18,13 +18,13 @@ The user is required to create a stock closing entry for the desired period, whi
 
 Stock Closing Entry
 
-![](/files/stock-closing-entry.png)
+![](../../assets/cd635574d2f3.png)
 
 Stock reports, such as Stock Balance and Batch-Wise Balance History, use the Stock Closing Balance data to calculate the opening stock, which is significantly faster than calculating the closing stock using the Stock Ledger Entry.
 
 Note: Will be available in v16
 
-[ Previous Page Stock Adjustment / COGS with Negative Stock ](</erpnext/stock-adjustment-cogs-with-negative-stock>) [ Next Page Disassembly Order ](</erpnext/disassembly-order>)
+[ Previous Page Stock Adjustment / COGS with Negative Stock ](stock-adjustment-cogs-with-negative-stock.md) [ Next Page Disassembly Order ](https://docs.frappe.io/erpnext/disassembly-order)
 
 Last updated 2 weeks ago 
 

@@ -1,12 +1,12 @@
 # Document Naming Settings
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rc27bhpi9>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rc27bhpi9)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Document Naming Settings
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rc27bhpi9>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rc27bhpi9)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -35,7 +35,7 @@ You can define or select the Naming Series pattern from:
 
 
 
-![document naming settings](/files/document_naming_settings.gif)
+![document naming settings](https://docs.frappe.io/assets/e75e661cb7ae.gif)
 
   3. If you want the user to explicitly select a series instead of the default one, check the “User must always select” checkbox. here will be no default naming series if this is ticked.
   4. You can also update the starting point of a series by entering the series name and the starting point in the “Update Series” section.
@@ -51,7 +51,7 @@ You can also show the financial year in the Naming Series. By default, if you en
 
 As you can see, in the following screenshot of a Sales Invoice, the year 2019 is listed:
 
-![Fiscal year in Naming Series](/files/year-naming-series.png)
+![Fiscal year in Naming Series](https://docs.frappe.io/assets/65644bb60ae4.png)
 
 ## 3\. Updating the current value for existing Naming Series
 
@@ -66,7 +66,7 @@ You can change the starting/current sequence number of an existing series.
 
 For example, if the current Sales Order series number is at 16, and you want to restart or set it as 50, enter 0 or 50 depending on your case. Any new Sales Order created will start from the new sequence number.
 
-To know more about this, [visit this article](</erpnext/naming-series-current-value>).
+To know more about this, [visit this article](naming-series-current-value.md).
 
 > Tip: You could have a separate series for each type of Customer or for  
 >  each of your retail outlets.
@@ -95,7 +95,7 @@ To configure the naming of amended documents:
 
 
 
-![Amended Naming Series](/files/Screenshot%202024-11-21%20at%2012.17.06%E2%80%AFPM.png)
+![Amended Naming Series](https://docs.frappe.io/assets/4b7cab82e980.png)
 
   3. Click "Update Amendment Counter" to save your changes.
 
@@ -105,11 +105,11 @@ To configure the naming of amended documents:
 
 ## 7\. Related Topics
 
-  1. [Bulk Rename](</erpnext/bulk-rename>)
+  1. [Bulk Rename](bulk-rename.md)
 
 
 
-[ Previous Page Naming Series  ](</erpnext/naming-series>) [ Next Page Document Naming Rule ](</erpnext/document-naming>)
+[ Previous Page Naming Series  ](naming-series.md) [ Next Page Document Naming Rule ](document-naming.md)
 
 Last updated 1 week ago 
 

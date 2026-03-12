@@ -1,12 +1,12 @@
 # Auto Email Reports
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rbmu58ncq>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rbmu58ncq)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Auto Email Reports
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rbmu58ncq>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rbmu58ncq)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -31,11 +31,11 @@ You can find Auto Email Report at:
 
 
 
-![With Filters](/files/auto-email-2.png) 5\. Save.
+![With Filters](https://docs.frappe.io/assets/d839d0a40957.png) 5\. Save.
 
 You can test the report by clicking on "Download" or "Send Now". Here is an example of the email you will receive for a general ledger report:
 
-![Report by Email](/files/auto-email-4.png)
+![Report by Email](https://docs.frappe.io/assets/9c42910f5a71.png)
 
   2. Features
 
@@ -55,7 +55,7 @@ You can test the report by clicking on "Download" or "Send Now". Here is an exam
 
 If your report has filters, you will be able to see them. Click on the table to edit it:
 
-![Edit Filters](/files/auto-email-3.png)
+![Edit Filters](https://docs.frappe.io/assets/2ae01d42fe78.png)
 
 For example, if the email is on the report 'Project Billing Summary' select the Project. The date range here is the date range of the 'Project Billing Summary'.
 
@@ -67,12 +67,12 @@ You can also change the file format in which the report is created. The availabl
 
 ### 2\. Related Topics
 
-  1. [Email Digest](</erpnext/email-digest>)
-  2. [Document Follow](</erpnext/document-follow>)
+  1. [Email Digest](email-digest.md)
+  2. [Document Follow](document-follow.md)
 
 
 
-[ Previous Page Sending Email from any Document ](</erpnext/sending-email>) [ Next Page Notification ](</erpnext/notifications>)
+[ Previous Page Sending Email from any Document ](sending-email.md) [ Next Page Notification ](notifications.md)
 
 Last updated 1 week ago 
 

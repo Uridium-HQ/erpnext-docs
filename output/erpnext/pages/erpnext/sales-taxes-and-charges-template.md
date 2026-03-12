@@ -1,12 +1,12 @@
 # Sales Taxes and Charges Template
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rlhn0f0oo>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rlhn0f0oo)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Sales Taxes and Charges Template 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rlhn0f0oo>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rlhn0f0oo)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -16,13 +16,13 @@ The templates created from this form can be used in Sales Orders and Sales Invoi
 
 For Tax Accounts that you want to use in the tax templates, you must set the Account Type field as 'Tax' for that particular account. The way ERPNext sets up taxes is via templates. Other types of charges that may apply to your invoices (like shipping, insurance etc.) can also be configured as taxes.
 
-To know about setting up taxes visit [this page](</erpnext/setting-up-taxes>).
+To know about setting up taxes visit [this page](setting-up-taxes.md).
 
 To access Sales Taxes and Charges Template, go to:
 
 > Home > Selling > Settings > Sales Taxes and Charges Template
 
-To know about setting up taxes visit [this page](</erpnext/setting-up-taxes>)
+To know about setting up taxes visit [this page](setting-up-taxes.md)
 
 ## 1\. How to add Sales Taxes/Charges via a template
 
@@ -38,7 +38,7 @@ Before creating a new template, note that templates are already created for many
   8. On Item Quantity: Tax will be calculated as Tax Rate * Item Quantity. For example, if Tax Rate is 2% and number of Items is 1, then Tax Rate will be 4, if number of Items are 5, Tax Rate will be 10, and so on.
   9. Select an account head which has pre set tax rates or create your own.
   10. Selecting default will apply this template by default for new Sales transactions.
-  11. Save. ![Sales taxes](/files/sales-taxes.png)
+  11. Save. ![Sales taxes](https://docs.frappe.io/assets/684f845a9944.png)
 
 
 
@@ -48,9 +48,9 @@ Before creating a new template, note that templates are already created for many
 
 ### 2.1 Sales Taxes and Charges table
 
-  * **Consider Tax or Charge for** : Total - for the total of all items. Valuation - for each item. Valuation and total - apply tax/charge to both. [Check out this article](</erpnext/difference-in-total-and-valuation-in-tax-and-charges>) to know the difference.
+  * **Consider Tax or Charge for** : Total - for the total of all items. Valuation - for each item. Valuation and total - apply tax/charge to both. [Check out this article](difference-in-total-and-valuation-in-tax-and-charges.md) to know the difference.
 
-  * **Reference Row #** : If tax is based on "Previous Row Total" you can select the row number which will be taken as a base for this calculation (default is the previous row). ![Sales taxes table](/files/sales-taxes-table.png)
+  * **Reference Row #** : If tax is based on "Previous Row Total" you can select the row number which will be taken as a base for this calculation (default is the previous row). ![Sales taxes table](https://docs.frappe.io/assets/0dfc5c15233f.png)
 
   * **Is this Tax included in Basic Rate?** : If checked, the tax amount will be considered as already included in the Print Rate / Print Amount in the Item table of a transaction. This is useful when you want to give tax inclusive price to your customers. To account for tax inclusive rates, the system calculates the Net Amount by deducting the amount of tax to be applied then calculates the tax on it.
 
@@ -71,12 +71,12 @@ The tax rates you define in the template be the standard tax rate for all Items.
 
 ### 3\. Related Topics
 
-  1. [Sales Order](</erpnext/sales-order>)
-  2. [Selling Settings](</erpnext/selling-settings>)
+  1. [Sales Order](sales-order.md)
+  2. [Selling Settings](selling-settings.md)
 
 
 
-[ Previous Page Purchase Taxes and Charges Template  ](</erpnext/purchase-taxes-and-charges-template>) [ Next Page Tax Withholding Category ](</erpnext/tax-withholding-category>)
+[ Previous Page Purchase Taxes and Charges Template  ](purchase-taxes-and-charges-template.md) [ Next Page Tax Withholding Category ](tax-withholding-category.md)
 
 Last updated 2 weeks ago 
 

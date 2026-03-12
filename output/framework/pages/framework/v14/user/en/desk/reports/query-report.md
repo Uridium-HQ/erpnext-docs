@@ -1,12 +1,12 @@
 # Query Report
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12o9nt8bem>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12o9nt8bem)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Query Report 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12o9nt8bem>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12o9nt8bem)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -23,7 +23,7 @@ To create a Query Report, type "new report" in the awesomebar and hit enter.
 
 > If you set Standard as "Yes" and Developer Mode is enabled, then a JSON file will be generated which you will have to check in to your version control. You should do this only if you want to bundle Query Reports with your app. The Module will decide where the JSON file will go.
 
-![New Query Report](/files/query-report-example-1.png)
+![New Query Report](https://docs.frappe.io/assets/74bfc8ae2a74.png)
 
 ### Columns and Filters
 
@@ -33,7 +33,7 @@ You can configure the columns and filters in the Report document. Here you can s
 
 Filters can be used as formatting variables in the query. For example a filters of type `customer` can be used as `%(customer)s` in the query.
 
-![Standard Columns and Filters](/files/report-columns-filters.png)
+![Standard Columns and Filters](https://docs.frappe.io/assets/0fd1169ebf3a.png)
 
 #### Example
 [code] 
@@ -77,9 +77,9 @@ If you notice there is a special syntax for each column, we use this information
 
 For example: The first column `Work Order:Link/Work Order:200` will be rendered as a Link Field with the DocType Work Order and the column width would be 200px.
 
-![Query Report View](/files/query-report-example-2.png) _Query Report View_
+![Query Report View](https://docs.frappe.io/assets/362265673ea2.png) _Query Report View_
 
-[ Previous Page Script Report  ](</framework/v14/user/en/desk/reports/script-report>) [ Next Page Report Builder  ](</framework/v14/user/en/desk/reports/report-builder>)
+[ Previous Page Script Report  ](script-report.md) [ Next Page Report Builder  ](report-builder.md)
 
 Last updated 2 months ago 
 

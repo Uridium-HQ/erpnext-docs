@@ -1,24 +1,24 @@
 # Introduction
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tod20eigq>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tod20eigq)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Introduction
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tod20eigq>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tod20eigq)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 ## What is Frappe Framework?
 
-Frappe, pronounced _fra-pay_ , is a full stack, batteries-included, web framework written in Python and Javascript with MariaDB as the database. It is the framework which powers [ERPNext](<https://erpnext.com>), is pretty generic and can be used to build database driven apps.
+Frappe, pronounced _fra-pay_ , is a full stack, batteries-included, web framework written in Python and Javascript with MariaDB as the database. It is the framework which powers [ERPNext](https://erpnext.com/), is pretty generic and can be used to build database driven apps.
 
-![](/files/hero-image.png)
+![](../../../../../assets/afaae257e1b3.png)
 
 ## Why Frappe?
 
-The key difference in Frappe compared to other frameworks is that **meta-data** is also treated as data. This enables you to build front-ends very easily. We believe in a monolithic architecture, so Frappe comes with almost everything you need to build a modern web application. It has a full featured Admin UI called the Desk that handles forms, navigation, lists, menus, permissions, file attachment and much more out of the box. [Read more here](</framework/user/en/basics/why>).
+The key difference in Frappe compared to other frameworks is that **meta-data** is also treated as data. This enables you to build front-ends very easily. We believe in a monolithic architecture, so Frappe comes with almost everything you need to build a modern web application. It has a full featured Admin UI called the Desk that handles forms, navigation, lists, menus, permissions, file attachment and much more out of the box. [Read more here](../basics/why.md).
 
 ## Key Features
 
@@ -33,18 +33,18 @@ The key difference in Frappe compared to other frameworks is that **meta-data** 
 
 ## Installation
 
-Before you can use Frappe, you need to install it. We have a complete [installation guide](</framework/user/en/installation>) which covers all possibilities, this guide will also help you understand the backend stack.
+Before you can use Frappe, you need to install it. We have a complete [installation guide](../installation.md) which covers all possibilities, this guide will also help you understand the backend stack.
 
 ## Learning and community
 
-  1. [Frappe School](<https://school.frappe.io/lms/courses>) \- Learn Frappe Framework and ERPNext from the various courses by the maintainers or from the community.
-  2. [GitHub](<https://github.com/frappe/frappe>) \- Explore the source code, contribute, and collaborate with the Frappe community.
-  3. [Discussion Forum](<https://discuss.frappe.io/c/framework/5>) \- Hang out with our growing community on our forum, ask questions, help others and be a part of the community.
-  4. [buildwithhussain.dev](<https://youtube.com/@buildwithhussain>) \- Watch Frappe Framework being used in the wild to build world-class web apps.
+  1. [Frappe School](https://school.frappe.io/lms/courses) \- Learn Frappe Framework and ERPNext from the various courses by the maintainers or from the community.
+  2. [GitHub](https://github.com/frappe/frappe) \- Explore the source code, contribute, and collaborate with the Frappe community.
+  3. [Discussion Forum](https://discuss.frappe.io/c/framework/5) \- Hang out with our growing community on our forum, ask questions, help others and be a part of the community.
+  4. [buildwithhussain.dev](https://youtube.com/@buildwithhussain) \- Watch Frappe Framework being used in the wild to build world-class web apps.
 
 
 
-[ Previous Page Desk  ](</framework/user/en/desk>) [ Next Page Printing ](</framework/user/en/desk/printing>)
+[ Previous Page Desk  ](../desk.md) [ Next Page Printing ](printing.md)
 
 Last updated 3 weeks ago 
 

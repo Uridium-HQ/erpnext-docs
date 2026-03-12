@@ -1,18 +1,18 @@
 # Manufacturer
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rs4373fnm>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rs4373fnm)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Manufacturer 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rs4373fnm>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rs4373fnm)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 **A manufacturer created or produces an Item.**
 
-A Manufacturer may not be the same person/company that sells the Item under a specific [Brand](</erpnext/brand>). For example, Unico Plastics can be the Manufacturer of plastic brushes but it may be sold under a Brand, say, Super Brushes.
+A Manufacturer may not be the same person/company that sells the Item under a specific [Brand](brand.md). For example, Unico Plastics can be the Manufacturer of plastic brushes but it may be sold under a Brand, say, Super Brushes.
 
 In ERPNext, a Manufacturer can be used to identify Items using a specific part number.
 
@@ -24,13 +24,13 @@ To access the Manufacturer list, go to:
 
   1. Go to the Manufacturer list and click on New.
   2. Enter a Manufacturer name and enter a description if needed.
-  3. Save. [Manufacturer](</files/manufacturer.png>)
+  3. Save. [Manufacturer](https://docs.frappe.io/files/manufacturer.png)
 
 
 
 After creating a Manufacturer, you can create an **Item Manufacturer** record with a Manufacturer Part Number for identification.
 
-![](/files/item_manufacturer.png)
+![](../../assets/53f7ab91efab.png)
 
 ### 1.1 Additional details
 
@@ -46,17 +46,17 @@ The following details can be set for a Manufacturer:
 
 ### 2.1 Address and Contacts
 
-An [Address](</erpnext/address>) and [Contact](</erpnext/contact>) can be set for this Manufacturer.
+An [Address](address.md) and [Contact](contact.md) can be set for this Manufacturer.
 
 ## 3\. Related Topics
 
-  1. [Item](</erpnext/item>)
-  2. [Supplier](</erpnext/supplier>)
-  3. [Brand](</erpnext/brand>)
+  1. [Item](item.md)
+  2. [Supplier](supplier.md)
+  3. [Brand](brand.md)
 
 
 
-[ Previous Page Brand  ](</erpnext/brand>) [ Next Page Pricing ](</erpnext/pricing>)
+[ Previous Page Brand  ](brand.md) [ Next Page Pricing ](pricing.md)
 
 Last updated 1 week ago 
 

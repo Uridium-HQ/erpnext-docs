@@ -1,12 +1,12 @@
 # Document Naming Rule
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0r9hek74ts>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0r9hek74ts)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Document Naming Rule
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0r9hek74ts>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0r9hek74ts)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -27,7 +27,7 @@ In ERPNext, managing naming conventions systematically helps maintain consistenc
 
 🔹 Higher priority rules (e.g., 10) are applied before lower ones (e.g., 5). 🔹 If multiple rules match, the one with the highest priority is used.
 
-![Selsct a DocType](/files/Screenshot%202025-06-16%20at%205.19.58%E2%80%AFPM.png)
+![Selsct a DocType](https://docs.frappe.io/assets/ecbc889a8194.png)
 
   3. Add Rule Conditions ➕ You can add multiple conditions per rule. The rule is applied only when all conditions are satisfied.
 
@@ -52,7 +52,7 @@ If the Country is USA, the format should be: CUST-USA-00001, CUST-USA-00002, ...
 
 
 
-![](/files/Screenshot%202025-06-19%20at%203.44.10%E2%80%AFPM.png)
+![](../../assets/cef3ce00d886.png)
 
 Here is an Example:
 
@@ -68,7 +68,7 @@ Useful for companies with multi-branch, multi-country, or multi-category documen
 
 If no rule matches, the system will fall back to the default Naming Series (if configured).
 
-[ Previous Page Document Naming Settings ](</erpnext/document-naming-settings>) [ Next Page Field Types ](</erpnext/field-types>)
+[ Previous Page Document Naming Settings ](document-naming-settings.md) [ Next Page Field Types ](field-types.md)
 
 Last updated 1 week ago 
 

@@ -1,12 +1,12 @@
 # Batch
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rt5c4t454>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rt5c4t454)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Batch
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rt5c4t454>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rt5c4t454)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,7 +14,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 To enable serial / batch feature for the item, first check the 'Enable Serial and Batch No for Item' checkbox in the 'Stock Settings'.
 
-![](/files/Screenshot%202026-03-06%20at%2011.52.18%20AM.png)
+![](../../../../../assets/77a2c3e59481.png)
 
 **Batch feature in ERPNext allows you to group multiple units of an Item and assign them a unique value/number/tag called Batch No.**
 
@@ -30,8 +30,8 @@ To access the Batch No list, go to: > Home > Stock > Serial No and Batch > Batch
 
 Before creating and using a Batch, it is advised that you create the following first:
 
-  * [Item](</erpnext/item>)
-  * Enable 'Has Batch No' in the Item master ![Batch No Enabled](/files/batch-no-enabled.png)
+  * [Item](../../../item.md)
+  * Enable 'Has Batch No' in the Item master ![Batch No Enabled](https://docs.frappe.io/assets/16504506d77f.png)
 
 
   2. How to create a new Batch
@@ -52,13 +52,13 @@ To create new Batch No. master for an item, go to:
 
 
 
-When Batches are enabled for an Item, the option to [retain sample stock](</erpnext/retain-sample-stock>) also becomes available.
+When Batches are enabled for an Item, the option to [retain sample stock](../../../retain-sample-stock.md) also becomes available.
 
 ### 2.1 Batch Auto Creation
 
 If you want automatic batch creation at the time of Purchase Receipt, you must tick 'Automatically Create New Batch' in the Item master:
 
-![Item Setup for Batches](/files/item_setup_for_batch.png)
+![Item Setup for Batches](https://docs.frappe.io/assets/77499be19f26.png)
 
   3. Features
 
@@ -70,14 +70,14 @@ If you want automatic batch creation at the time of Purchase Receipt, you must t
 
 When you open a batch, you will see all the quantities that belong to that batch on the page.
 
-![Batch View](/files/batch_view.png)
+![Batch View](https://docs.frappe.io/assets/5b91c2ca1bb9.png)
 
   * To move the batch from one Warehouse to another, you can click on the **Move** button.
   * You can also split the batch into smaller one by clicking on the **Split** button. This will create a new Batch based on this Batch and the quantities will be split between the batches.
 
 
 
-![Split Batch](/files/batch_split.png)
+![Split Batch](https://docs.frappe.io/assets/8e38b4b8fbfa.png)
 
   * If you set expiry date, the Batch will show 'Not Expired' until the expiry date, after which it'll show 'Expired'. If a date is not set, the Batch will show 'Not Set'.
 
@@ -93,13 +93,13 @@ On every stock transaction (Purchase Receipt, Delivery Note, Invoice) with a bat
 
 ### 4\. Related Topics
 
-  1. [Serial Number](</erpnext/serial-no>)
-  2. [Opening Stock Balance Entry For Serialized And Batch Item](</erpnext/opening-stock-balance-entry-for-serialized-and-batch-item>)
-  3. [Managing Batch Wise Inventory](</erpnext/managing-batch-wise-inventory>)
+  1. [Serial Number](../../../serial-no.md)
+  2. [Opening Stock Balance Entry For Serialized And Batch Item](../../../opening-stock-balance-entry-for-serialized-and-batch-item.md)
+  3. [Managing Batch Wise Inventory](../../../managing-batch-wise-inventory.md)
 
 
 
-[ Previous Page Stock Inspection ](</erpnext/stock-inspection>) [ Next Page Serial Number ](</erpnext/serial-no>)
+[ Previous Page Stock Inspection ](../../../stock-inspection.md) [ Next Page Serial Number ](../../../serial-no.md)
 
 Last updated 1 week ago 
 

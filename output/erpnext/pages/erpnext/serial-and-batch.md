@@ -1,12 +1,12 @@
 # Serial and Batch
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rqorpl0co>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rqorpl0co)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Serial and Batch
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rqorpl0co>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rqorpl0co)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,17 +20,17 @@ However, batch tracking involves grouping items with identical attributes, such 
 
 Both serial and batch tracking functionalities in ERPNext provide businesses with granular control over inventory management, enhancing traceability, quality control, and compliance efforts.
 
-  * [Serial Number](</erpnext/user/manual/en/serial-no>)
-  * [Serial Number Naming](</erpnext/user/manual/en/serial-no-naming>)
-  * [Batch](</erpnext/user/manual/en/batch>)
-  * [Serial and Batch Bundle](</erpnext/user/manual/en/serial-and-batch-bundle>)
-  * [Serial Number Naming](</erpnext/user/manual/en/serial-no-naming>)
-  * [Installation Notes](</erpnext/user/manual/en/installation-note>)
-  * [Managing Batch Wise Inventory](</erpnext/user/manual/en/managing-batch-wise-inventory>)
+  * [Serial Number](user/manual/en/serial-no.md)
+  * [Serial Number Naming](user/manual/en/serial-no-naming.md)
+  * [Batch](user/manual/en/batch.md)
+  * [Serial and Batch Bundle](user/manual/en/serial-and-batch-bundle.md)
+  * [Serial Number Naming](user/manual/en/serial-no-naming.md)
+  * [Installation Notes](user/manual/en/installation-note.md)
+  * [Managing Batch Wise Inventory](user/manual/en/managing-batch-wise-inventory.md)
 
 
 
-[ Previous Page Unit of Measure (UoM)  ](</erpnext/uom>) [ Next Page Item Variants  ](</erpnext/item-variants>)
+[ Previous Page Unit of Measure (UoM)  ](uom.md) [ Next Page Item Variants  ](item-variants.md)
 
 Last updated 1 week ago 
 

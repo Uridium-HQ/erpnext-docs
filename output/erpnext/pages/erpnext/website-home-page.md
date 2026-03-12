@@ -1,12 +1,12 @@
 # Website Home Page
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0seogadq32>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0seogadq32)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Website Home Page
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0seogadq32>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0seogadq32)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -32,13 +32,13 @@ To Open website settings page go to: `Website > Setup > Website Settings`
 
 Enter the same value you entered for the `route` field in the previous section to the `Home Page` field. ERPNext will set this route to be the same as /index for your page.
 
-![Website Setting Home](/files/Selection_021.png)
+![Website Setting Home](https://docs.frappe.io/assets/2cee843e74d1.png)
 
 #### **Step 4: Save Website Settings Form.**
 
 After setting up Home Page Press `Save` button from website settings page and refresh the system from Help menu. Like this you can set any standard page as your default website home page. When some one visited to your website, he/she will see home page as default landing page on your website.
 
-[ Previous Page Disable Signup on ERPNext Website  ](</erpnext/disable-signup>) [ Next Page Website Banner Resizing  ](</erpnext/website-banner>)
+[ Previous Page Disable Signup on ERPNext Website  ](disable-signup.md) [ Next Page Website Banner Resizing  ](website-banner.md)
 
 Last updated 1 week ago 
 

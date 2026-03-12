@@ -1,12 +1,12 @@
 # Delivery Trip
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rsv689c6r>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rsv689c6r)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Delivery Trip 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rsv689c6r>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rsv689c6r)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -16,7 +16,7 @@ Multiple stops can also be added and Submitted Delivery Note can be tagged per C
 
 ## 1\. How to create a Delivery Trip
 
-A Delivery Trip can be created from a [Delivery Note](</erpnext/delivery-note>) by clicking on 'Create > Delivery Trip'.
+A Delivery Trip can be created from a [Delivery Note](delivery-note.md) by clicking on 'Create > Delivery Trip'.
 
   1. Go to: **Stock > Stock Transactions > Delivery Trip > New**
   2. Select the Driver and Vehicle, create both if not present.
@@ -25,13 +25,13 @@ A Delivery Trip can be created from a [Delivery Note](</erpnext/delivery-note>) 
 
 
 
-![Delivery](/files/delivery_stops.png)
+![Delivery](https://docs.frappe.io/assets/79cae0c5db70.png)
 
   1. Save and submit.
 
 
 
-![Delivery](/files/delivery_trip.png)
+![Delivery](https://docs.frappe.io/assets/08d5910c48a5.png)
 
 ## 2\. Features
 
@@ -45,12 +45,12 @@ Using Google Maps, the best route for the deliveries will be calculated.
 
 ### Related Topics
 
-  1. [Packing Slip](</erpnext/packing-slip>)
-  2. [Shipping Rule](</erpnext/shipping-rule>)
+  1. [Packing Slip](packing-slip.md)
+  2. [Shipping Rule](shipping-rule.md)
 
 
 
-[ Previous Page Serial and Batch Bundle ](</erpnext/serial-and-batch-bundle>) [ Next Page Track Purchases In Accounts ](</erpnext/track-purchases-in-accounts>)
+[ Previous Page Serial and Batch Bundle ](serial-and-batch-bundle.md) [ Next Page Track Purchases In Accounts ](track-purchases-in-accounts.md)
 
 Last updated 2 weeks ago 
 

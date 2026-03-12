@@ -1,12 +1,12 @@
 # Workspace
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12nd94i0pd>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12nd94i0pd)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Workspace
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12nd94i0pd>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12nd94i0pd)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -23,7 +23,7 @@ Let's build one and check out some cool features.
 
 
 
-![Create Workspace](/files/CreateWorkspace.gif)
+![Create Workspace](https://docs.frappe.io/assets/7c36739496a5.gif)
 
 ###Create Child Workspace
 
@@ -33,15 +33,15 @@ Let's build one and check out some cool features.
 
 
 
-![Create Child Workspace](/files/ChildPage.gif)
+![Create Child Workspace](https://docs.frappe.io/assets/8c0dbc593f43.gif)
 
 ###Workspace Blocks The workspace block is a building block for the workspace page. These blocks can be placed in different variations to build an ideal workspace for a specific use case.
 
-[Learn More →](</framework/v14/user/en/desk/workspace/blocks>)
+[Learn More →](workspace/blocks.md)
 
-![Workspace Blocks](/files/WorkspaceBlocks.gif) ###Sidebar
+![Workspace Blocks](https://docs.frappe.io/assets/f255b7b8bbc9.gif) ###Sidebar
 
-![Workspace Sidebar](/files/WorkspaceSidebar.png)
+![Workspace Sidebar](https://docs.frappe.io/assets/7bffb6803e26.png)
 
 There are two sections in the sidebar `MY WORKSPACES` & `PUBLIC`.
 
@@ -49,15 +49,15 @@ You can create as many private workspaces as you want. It will only be visible t
 
 All the standard workspaces comes under `PUBLIC` section. You can also create more public workspaces. These workspaces will be visible to all users.
 
-[More →](</framework/v14/user/en/desk/workspace/customization#customizing-workspaces>)
+[More →](workspace/customization.md)
 
 > Only users with **Workspace Manager Role** can create, edit or delete public workspaces
 
-###Customization Workspace has two modes **Read Only Mode** and **Edit Mode**. You can start customizing your workspace by clicking on the **Edit** button. [Customizing Workspaces](</framework/v14/user/en/desk/workspace/customization#customizing-workspaces>) and [Customizing Workspace Page](</framework/v14/user/en/desk/workspace/customization#customizing-workspace-page>) are two different things.
+###Customization Workspace has two modes **Read Only Mode** and **Edit Mode**. You can start customizing your workspace by clicking on the **Edit** button. [Customizing Workspaces](workspace/customization.md) and [Customizing Workspace Page](workspace/customization.md) are two different things.
 
 > Adding new blocks from the workspace document will not work as the new workspace doesn't know exactly where to add that block (at which position). You can update the existing blocks from the workspace document but it is not recommended either. The best practice would be to use the new workspace builder UI to do all kinds of customization.
 
-[ Previous Page Document Template ](</framework/v14/user/en/document_template>) [ Next Page Customization ](</framework/v14/user/en/desk/workspace/customization>)
+[ Previous Page Document Template ](../document_template.md) [ Next Page Customization ](workspace/customization.md)
 
 Last updated 2 months ago 
 

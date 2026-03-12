@@ -1,12 +1,12 @@
 # Selling Settings
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rh2vlqb0m>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rh2vlqb0m)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Selling Settings
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rh2vlqb0m>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rh2vlqb0m)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -18,7 +18,7 @@ To access Selling Settings, go to:
 
 ## Customer Defaults
 
-![Screenshot 2024-08-29 at 12.29.37 PM](/files/Screenshot%202024-08-29%20at%2012.29.37%20PM.png)
+![Screenshot 2024-08-29 at 12.29.37 PM](https://docs.frappe.io/assets/64af4b8e80c0.png)
 
 ### 1\. Customer Naming By
 
@@ -42,7 +42,7 @@ Quotations can be created for the Customers as well as for the Leads. When conve
 
 ## Item Price Settings
 
-![Item Price Settings as of 2025-09-23 in v16](/files/Bildschirmfoto%202025-09-23%20um%2012.27.59.png)
+![Item Price Settings as of 2025-09-23 in v16](https://docs.frappe.io/assets/8ffbced80281.png)
 
 ### 1\. Default Price List
 
@@ -65,11 +65,11 @@ You can configure the action that system should take if the same rate is not mai
 
 
 
-**Note:** This field will only be visible if [Maintain Same Rate Throughout Sales Cycle](</erpnext/selling-settings#2-maintain-same-rate-throughout-sales-cycle>) is enabled.
+**Note:** This field will only be visible if [Maintain Same Rate Throughout Sales Cycle](selling-settings.md) is enabled.
 
 ### 4\. Role Allowed to Override Stop Action
 
-Allow users to add role to override "Stop" action for [Maintain Same Rate Throughout Sales Cycle](</erpnext/selling-settings#2-maintain-same-rate-throughout-sales-cycle>), if [Action if Same Rate is Not Maintained](</erpnext/selling-settings#3-action-if-same-rate-is-not-maintained-throughout-sales-cycle>) was set to Stop.
+Allow users to add role to override "Stop" action for [Maintain Same Rate Throughout Sales Cycle](selling-settings.md), if [Action if Same Rate is Not Maintained](selling-settings.md) was set to Stop.
 
 **Note:** This field will only be visible if 'Maintain Same Rate Throughout Sales Cycle' is enabled and 'Action if Same Rate is Not Maintained' is set to Stop.
 
@@ -88,7 +88,7 @@ When making sales, it's important to know that you're not making losses. Enablin
 Enabling this will do the following:
 
   * Make the Rate column of all Packed/Bundle Items tables editable.
-  * Calculate the prices of all [Product Bundles](</erpnext/product-bundle>) in the Items table, based on the prices of its Child Items, specified in the Packed/Bundle Items table.
+  * Calculate the prices of all [Product Bundles](product-bundle.md) in the Items table, based on the prices of its Child Items, specified in the Packed/Bundle Items table.
 
 
 
@@ -100,7 +100,7 @@ Enable this option to permit the use of negative rates for items in sales transa
 
 ## Transaction Settings
 
-![Screenshot 2024-08-29 at 12.41.21 PM](/files/Screenshot%202024-08-29%20at%2012.41.21%20PM.png)
+![Screenshot 2024-08-29 at 12.41.21 PM](https://docs.frappe.io/assets/84746d0453df.png)
 
 ### 1\. Is Sales Order Required for Sales Invoice & Delivery Note Creation?
 
@@ -158,7 +158,7 @@ The Allow Sales Order with Zero Quantity feature enables users to create and sub
 
 By default, ERPNext requires a valid quantity for each item in a Sales Order. When this option is enabled, the system bypasses this validation and allows Sales Orders to be created with zero-quantity items.
 
-[ Previous Page Terms And Conditions  ](</erpnext/terms-and-conditions>) [ Next Page Selling Transactions ](</erpnext/selling-transactions>)
+[ Previous Page Terms And Conditions  ](terms-and-conditions.md) [ Next Page Selling Transactions ](selling-transactions.md)
 
 Last updated 1 week ago 
 

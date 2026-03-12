@@ -1,12 +1,12 @@
 # bench uninstall-app
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/131pfcoj76>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/131pfcoj76)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # bench uninstall-app 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/131pfcoj76>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/131pfcoj76)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -63,7 +63,7 @@ Remove Application and linked doctypes, modules from the site. Executing the van
     
 [/code]
 
-[ Previous Page bench list-apps  ](</framework/v14/user/en/bench/reference/list-apps>) [ Next Page bench show-config ](</framework/v14/user/en/bench/reference/show-config>)
+[ Previous Page bench list-apps  ](list-apps.md) [ Next Page bench show-config ](show-config.md)
 
 Last updated 2 months ago 
 

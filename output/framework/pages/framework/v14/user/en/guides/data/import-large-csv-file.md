@@ -1,12 +1,12 @@
 # Import Large Csv File
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12efkeb47k>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12efkeb47k)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Import Large Csv File 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12efkeb47k>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12efkeb47k)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -26,7 +26,7 @@ Import CSV using data import tool
 
 Options: \--only-insert Do not overwrite existing records \--submit-after-import Submit document after importing it \--ignore-encoding-errors Ignore encoding errors while coverting to unicode \--help Show this message and exit.
 
-[ Previous Page Using the Data Migration Tool  ](</framework/v14/user/en/guides/data/using-data-migration-tool>) [ Next Page Google GSuite  ](</framework/v14/user/en/guides/integration/google_gsuite>)
+[ Previous Page Using the Data Migration Tool  ](using-data-migration-tool.md) [ Next Page Google GSuite  ](../integration/google_gsuite.md)
 
 Last updated 2 months ago 
 

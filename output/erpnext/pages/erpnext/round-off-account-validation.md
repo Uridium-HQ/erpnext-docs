@@ -1,12 +1,12 @@
 # Round off Account Validation Message
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0skkusljse>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0skkusljse)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Round off Account Validation Message
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0skkusljse>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0skkusljse)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,7 +14,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 When submitting an invoice, why does it ask for a Round Off Account? How to update it?
 
-![Round off Account in Purchase Invoice](/files/round-off-message-in-purchase-invoice.png)
+![Round off Account in Purchase Invoice](https://docs.frappe.io/assets/d07645da24e8.png)
 
 **Answer**
 
@@ -35,13 +35,13 @@ You need to create Round-off Account in the Chart of Accounts and update in the 
   * In the Chart of Account, check or create new Account under Expense > Direct Expense. Ignore if account for this purpose already existing
   * Come to Company master Account > Company
   * Open Company in which Round-Off account has to be updated.
-  * In the Company master, scroll to Accounts Settings and select Round-Off account and Cost Center. ![Round Off Account in Company](/files/round-off-account-in-company.png)
+  * In the Company master, scroll to Accounts Settings and select Round-Off account and Cost Center. ![Round Off Account in Company](https://docs.frappe.io/assets/81feabacefbd.png)
 
 
 
 Once Round-Off account this updated in the Company master, then try to submit Purchase Invoice once again.
 
-[ Previous Page Fixing Fiscal Year Error ](</erpnext/fiscal-year-error>) [ Next Page Delete entries linked with GL entries ](</erpnext/delete-entries-linked-with-gl-entries>)
+[ Previous Page Fixing Fiscal Year Error ](fiscal-year-error.md) [ Next Page Delete entries linked with GL entries ](delete-entries-linked-with-gl-entries.md)
 
 Last updated 1 week ago 
 

@@ -1,12 +1,12 @@
 # bench show-config
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/1313np7o21>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/1313np7o21)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # bench show-config
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/1313np7o21>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/1313np7o21)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,7 +20,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 The applied configuration for your sites gets applied as a combination of the bench directory's `common_site_config.json` and the site's own `site_config.json`. Bench provides an interface to view the applied `frappe.conf` values for your sites. You may choose to access this information in tabular or JSON formats.
 
-To read more about site configuration and understanding key precedence, refer to the docs [here](</framework/v14/user/en/basics/site_config>).
+To read more about site configuration and understanding key precedence, refer to the docs [here](../../basics/site_config.md).
 
 ## Flags
 
@@ -54,7 +54,7 @@ To read more about site configuration and understanding key precedence, refer to
     
 [/code]
 
-[ Previous Page bench uninstall-app  ](</framework/v14/user/en/bench/reference/uninstall-app>) [ Next Page bench set-config  ](</framework/v14/user/en/bench/reference/set-config>)
+[ Previous Page bench uninstall-app  ](uninstall-app.md) [ Next Page bench set-config  ](set-config.md)
 
 Last updated 2 months ago 
 

@@ -1,12 +1,12 @@
 # Printing and Branding
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ra1nkk25j>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ra1nkk25j)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Printing and Branding 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0ra1nkk25j>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0ra1nkk25j)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -29,7 +29,7 @@ ERPNext also gives you the option to print barcode labels, POS receipts and send
 
 
 
-[ Previous Page Print Style ](</erpnext/print-style>) [ Next Page Letter Head  ](</erpnext/letter-head>)
+[ Previous Page Print Style ](print-style.md) [ Next Page Letter Head  ](letter-head.md)
 
 Last updated 1 week ago 
 

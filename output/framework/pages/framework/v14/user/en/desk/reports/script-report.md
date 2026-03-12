@@ -1,12 +1,12 @@
 # Script Report
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12nf3lfnfp>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12nf3lfnfp)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Script Report 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12nf3lfnfp>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12nf3lfnfp)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -25,13 +25,13 @@ To create a Script Report, type "new report" in the awesomebar and hit enter.
 
 
 
-![New Script Report](/files/script-report-example-1.png) _New Script Report_
+![New Script Report](https://docs.frappe.io/assets/f0517c6c9be8.png) _New Script Report_
 
 ### Standard and Custom Reports
 
 > Added in Version 12
 
-Verson 12 onwards, you can make custom Query and Script reports in Frappe Framework. In custom reports, the script can be added directy in the Report itself and you can use the [Script API](</framework/v14/user/en/desk/scripting/script-api>) functions of Frappe Framework.
+Verson 12 onwards, you can make custom Query and Script reports in Frappe Framework. In custom reports, the script can be added directy in the Report itself and you can use the [Script API](../scripting/script-api.md) functions of Frappe Framework.
 
 ### Columns and Filters
 
@@ -41,13 +41,13 @@ You can configure the columns and filters in the Report document. Here you can s
 
 Filters can be used as formatting variables in the query. For example a filters of type `customer` can be used as `%(customer)s` in the query.
 
-![Standard Columns and Filters](/files/report-columns-filters.png)
+![Standard Columns and Filters](https://docs.frappe.io/assets/0fd1169ebf3a.png)
 
 ### Writing the script
 
 #### Custom Report
 
-In custom reports, you can use the [Script API](</framework/v14/user/en/desk/scripting/script-api>) and write the script directly in the Code section.
+In custom reports, you can use the [Script API](../scripting/script-api.md) and write the script directly in the Code section.
 [code] 
     return frappe.db.get_all('User', ['first_name', 'last_name'], filters = filters)
     
@@ -146,7 +146,7 @@ Example:
 
 > Note: These arguments are supposed to be returned in the specific order as follows
 
-Here is a script report from ERPNext: [Balance Sheet](<https://github.com/frappe/erpnext/blob/develop/erpnext/accounts/report/balance_sheet/balance_sheet.py>)
+Here is a script report from ERPNext: [Balance Sheet](https://github.com/frappe/erpnext/blob/develop/erpnext/accounts/report/balance_sheet/balance_sheet.py)
 
 #### Adding filters
 
@@ -181,11 +181,11 @@ To add filters in your report define the fields and their fieldtypes in the `{re
 
 Similar to the `depends_on` property that controls the display of fields, in Version 13 we have introduced `depends_on` for Script Report filters. This can be used to determine whether the filter will be visible based on the value of the condition in `depends_on`.
 
-![Balance Sheet](/files/script-report-example-2.png) _Balance Sheet_
+![Balance Sheet](https://docs.frappe.io/files/script-report-example-2.png) _Balance Sheet_
 
 > _Protip_ : To navigate directly to a Report of any of the above type, type its name in the awesomebar and hit enter.
 
-[ Previous Page Access ](</framework/v14/user/en/desk/workspace/access>) [ Next Page Query Report  ](</framework/v14/user/en/desk/reports/query-report>)
+[ Previous Page Access ](../workspace/access.md) [ Next Page Query Report  ](query-report.md)
 
 Last updated 2 months ago 
 

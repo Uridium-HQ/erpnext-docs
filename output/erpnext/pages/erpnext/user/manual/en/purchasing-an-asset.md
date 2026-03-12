@@ -1,12 +1,12 @@
 # Purchasing an Asset
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s432djec8>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s432djec8)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Purchasing an Asset
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s432djec8>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s432djec8)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,13 +20,13 @@ Assets can be purchased manually or automatically created when receiving an item
 
 Before purchasing a new asset, ensure the following are configured:
 
-  * **[Asset Category](<https://docs.frappe.io/erpnext/user/manual/en/asset-category>)** is created
-  * [Item](<https://docs.frappe.io/erpnext/user/manual/en/item>) is created with **‘Is Fixed Asset’** enabled
+  * **[Asset Category](https://docs.frappe.io/erpnext/user/manual/en/asset-category.md)** is created
+  * [Item](https://docs.frappe.io/erpnext/user/manual/en/item.md) is created with **‘Is Fixed Asset’** enabled
   * Optional: Enable **‘Auto Create Assets on Purchase’** in the item master if you want assets to be created automatically upon receipt
 
 
 
-![](/files/Screenshot%202026-01-11%20at%2011.49.39%E2%80%AFPM.png) _Item Master_
+![](../../../../../assets/0f06c275054d.png) _Item Master_
 
 ## 2\. How to Purchase an Asset
 
@@ -49,7 +49,7 @@ Before purchasing a new asset, ensure the following are configured:
 
 
 
-![Auto create asset on purchase](/files/Screenshot%202025-05-21%20at%2012.04.07%E2%80%AFAM.png)
+![Auto create asset on purchase](https://docs.frappe.io/assets/0f7894d0454d.png)
 
 ### 2.1 Accounting Entries
 
@@ -75,18 +75,18 @@ Before purchasing a new asset, ensure the following are configured:
 
 
 
-![](/files/Screenshot%202026-01-11%20at%2011.55.53%E2%80%AFPM.png)
+![](../../../../../assets/311436a9f51b.png)
 
 ## 3\. Related Topics
 
 * * *
 
-  1. [Purchase Receipt](<https://docs.frappe.io/erpnext/user/manual/en/purchase-receipt>)
-  2. [Purchase Invoice](<https://docs.frappe.io/erpnext/user/manual/en/purchase-invoice>)
+  1. [Purchase Receipt](https://docs.frappe.io/erpnext/user/manual/en/purchase-receipt.md)
+  2. [Purchase Invoice](https://docs.frappe.io/erpnext/user/manual/en/purchase-invoice.md)
 
 
 
-[ Previous Page Asset Location  ](</erpnext/asset-location>) [ Next Page Asset ](</erpnext/asset>)
+[ Previous Page Asset Location  ](../../../asset-location.md) [ Next Page Asset ](../../../asset.md)
 
 Last updated 2 weeks ago 
 

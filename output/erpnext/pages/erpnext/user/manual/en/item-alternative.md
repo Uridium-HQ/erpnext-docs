@@ -1,12 +1,12 @@
 # Item Alternative
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rtv1blh74>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rtv1blh74)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Item Alternative 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rtv1blh74>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rtv1blh74)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,7 +14,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 If the raw material defined in the BOM is not available during the production process then their respective available alternative Item can be used to complete the production process.
 
-First you need to enable the "Allow Alternative Item" in the Item. ![Item](/files/allow-alternative-item.png)
+First you need to enable the "Allow Alternative Item" in the Item. ![Item](https://docs.frappe.io/assets/85a95ae19a6f.png)
 
 To access the Item alternative list, go to:
 
@@ -22,13 +22,13 @@ To access the Item alternative list, go to:
 
 This can also be done by clicking the plus sign next to 'Item Alternative' from the Item master dashboard. You can enable Two-Way replacement between an Item and their alternative item if both can be used as an alternative to each other.
 
-![Item Alternative](/files/item-alternative.png)
+![Item Alternative](https://docs.frappe.io/assets/0f912145f11a.png)
 
 ## 1\. Prerequisites
 
 Before creating and using an Item Alternative, it is advised that you create the following first:
 
-  * [Item](</erpnext/item>)
+  * [Item](../../../item.md)
 
 
 
@@ -38,15 +38,15 @@ To allow to using alternative Items in the manufacturing process, the user can c
 
 ### 2.1 Provision to allow alternative item in the BOM
 
-You can enable 'Allow Alternative Item' in a BOM then select the alternative item in the Stock Entry. This can also be done with a Work Order. ![Item](/files/allow-alternative-item-bom.png)
+You can enable 'Allow Alternative Item' in a BOM then select the alternative item in the Stock Entry. This can also be done with a Work Order. ![Item](https://docs.frappe.io/assets/ce78d7019f80.png)
 
 ### 2.2 Provision to allow alternative item in the Work Order
 
-User can also enable/disable allow alternative item for individual Work Orders. ![Item](/files/allow-alternative-item-wo.png)
+User can also enable/disable allow alternative item for individual Work Orders. ![Item](https://docs.frappe.io/assets/cd07015b3481.png)
 
-Ticking on the 'Allow Alternative Item' checkbox will show a button named 'Alternate Item'. You can click on this to set the Item Alternative in the Work Order. This is how you use Item Alternative in a Work Order: ![Item](/files/work_order_item_alternative.gif)
+Ticking on the 'Allow Alternative Item' checkbox will show a button named 'Alternate Item'. You can click on this to set the Item Alternative in the Work Order. This is how you use Item Alternative in a Work Order: ![Item](https://docs.frappe.io/assets/49929a5236bc.gif)
 
-This is how you use Item Alternative with a Stock Entry: ![Item](/files/se_item_alternative.gif)
+This is how you use Item Alternative with a Stock Entry: ![Item](https://docs.frappe.io/assets/d5ee2b21ee7d.gif)
 
 If the 'Allow Alternative Item' checkbox in the Item table is disabled, you cannot set an Alternate Item for this Item.
 
@@ -54,18 +54,18 @@ If the 'Allow Alternative Item' checkbox in the Item table is disabled, you cann
 
 In subcontract, the user has to transfer raw materials to the subcontracted supplier to get finished good from them. If the raw material is not available in the stock, with this feature, the user can transfer the alternate item of the subcontracted raw material to the supplier. This is done in the Stock Entry.
 
-![Item](/files/purchase_order_item_alternative.gif)
+![Item](https://docs.frappe.io/assets/21cbfd6ad595.gif)
 
 After this, when you create a Purchase Receipt from the Work Order, the alternate item will be shown.
 
 ### 3\. Related Topics
 
-  1. [Bill Of Materials](</erpnext/bill-of-materials>)
-  2. [Work Order](</erpnext/work-order>)
+  1. [Bill Of Materials](../../../bill-of-materials.md)
+  2. [Work Order](../../../work-order.md)
 
 
 
-[ Previous Page Auto Creation of Material Request ](</erpnext/auto-creation-of-material-request>) [ Next Page Shipment  ](</erpnext/shipment>)
+[ Previous Page Auto Creation of Material Request ](../../../auto-creation-of-material-request.md) [ Next Page Shipment  ](../../../shipment.md)
 
 Last updated 2 weeks ago 
 

@@ -1,12 +1,12 @@
 # Database API
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12s99tpt28>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12s99tpt28)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Database API
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12s99tpt28>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12s99tpt28)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -290,7 +290,7 @@ Example:
     
 [/code]
 
-> Avoid using this method as it will bypass validations and integrity checks. It's always better to use [frappe.get_doc](<https://frappeframework.com/docs/v14/user/en/api/document#frappeget_doc>), frappe.db.get_list, etc., if possible.
+> Avoid using this method as it will bypass validations and integrity checks. It's always better to use [frappe.get_doc](https://frappeframework.com/docs/v14/user/en/api/document), frappe.db.get_list, etc., if possible.
 
 ## frappe.db.multisql
 
@@ -423,7 +423,7 @@ Frappe's database abstractions implement a sane transaction model by default. So
 
 > Note: If you're catching exceptions anywhere, then database abstraction does not know that something has gone wrong hence you're responsible for the correct rollback of the transaction.
 
-[ Previous Page Document API  ](</framework/v14/user/en/api/document>) [ Next Page Jinja API  ](</framework/v14/user/en/api/jinja>)
+[ Previous Page Document API  ](document.md) [ Next Page Jinja API  ](jinja.md)
 
 Last updated 2 months ago 
 

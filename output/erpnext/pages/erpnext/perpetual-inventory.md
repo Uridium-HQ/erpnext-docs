@@ -1,12 +1,12 @@
 # Perpetual Inventory
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rsh0sq8rp>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rsh0sq8rp)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Perpetual Inventory 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rsh0sq8rp>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rsh0sq8rp)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -16,7 +16,7 @@ On receipt of items in a particular warehouse, the balance in the Warehouse Acco
 
 ### 1\. Activate perpetual inventory
 
-  1. Go to: *Home > Accounting > Company > Enable Perpetual Inventory** [Perpetual Inventory](</files/perpetual-1.png>)  
+  1. Go to: *Home > Accounting > Company > Enable Perpetual Inventory** [Perpetual Inventory](../../assets/fc31a2501a97.png)  
 Note that if you disable perpetual inventory, users will have to create manual entry to update actual stock balance in the Stock in hand account (or ledger).
   2. Set up the following default accounts for each Company if not set. These accounts are created automatically in the new ERPNext accounts. Default Inventory Account (Asset)  
 Stock Received But Not Billed (Liability)  
@@ -99,11 +99,11 @@ Customs Duty | 150 | Valuation
   
 **Stock Ledger**
 
-![Perpetual Inventory](/files/perpetual-receipt-sl-1.png)
+![Perpetual Inventory](https://docs.frappe.io/assets/6a7d91a1322f.png)
 
 **General Ledger**
 
-![Perpetual Inventory](/files/perpetual-receipt-gl-2.png)
+![Perpetual Inventory](https://docs.frappe.io/assets/a99c69e8fe12.png)
 
 As stock balance increases through Purchase Receipt, "Store" accounts are debited and a temporary account "Stock Receipt But Not Billed" account is credited, to maintain double-entry accounting system. At the same time, the negative expense is booked in account head having category as "Valuation" or "Total and Valuation" in taxes and charges table for the amount added for valuation purpose, to avoid double expense booking.
 
@@ -113,7 +113,7 @@ On receiving Bill from supplier, for the above Purchase Receipt, you will make P
 
 **General Ledger**
 
-![Perpetual Inventory](/files/perpetual-pinv-gl-3.png)
+![Perpetual Inventory](https://docs.frappe.io/assets/2d1a9ad44a6b.png)
 
 Here "Stock Received But Not Billed" account is debited and nullified the  
 effect of Purchase Receipt.
@@ -139,11 +139,11 @@ VAT | 100
   
 **Stock Ledger**
 
-![Perpetual Inventory](/files/perpetual-dn-sl-4.png)
+![Perpetual Inventory](https://docs.frappe.io/assets/928e4e774bb4.png)
 
 **General Ledger**
 
-![Perpetual Inventory](/files/perpetual-dn-gl-5.png)
+![Perpetual Inventory](https://docs.frappe.io/assets/4afd4e45cf6a.png)
 
 As an item is delivered from "Stores" warehouse, "Stores" account is credited and  
 an equal amount is debited to the expense account "Cost of Goods Sold". The  
@@ -163,11 +163,11 @@ of the Sales Invoice are same as the above Delivery Note.
 
 **Stock Ledger**
 
-![Perpetual Inventory](/files/perpetual-inv-sl-6.png)
+![Perpetual Inventory](https://docs.frappe.io/assets/5c49f8eda6c7.png)
 
 **General Ledger**
 
-![Perpetual Inventory](/files/perpetual-inv-gl-7.png)
+![Perpetual Inventory](https://docs.frappe.io/assets/54c551daa162.png)
 
 Here, apart from normal account entries for an invoice, "Stores" and "Cost of  
 Goods Sold" accounts are also affected based on the valuation amount.
@@ -182,11 +182,11 @@ RM0001 | Stores | 50 | 220 | 11000
   
 **Stock Ledger**
 
-![Perpetual Inventory](/files/perpetual-st-receipt-sl.png)
+![Perpetual Inventory](https://docs.frappe.io/assets/89ad174d8cb8.png)
 
 **General Ledger**
 
-![Perpetual Inventory](/files/perpetual-st-receipt-gl.png)
+![Perpetual Inventory](https://docs.frappe.io/assets/0c1e2e1ae5d6.png)
 
 #### 2.7 Stock Entry (Material Issue)
 
@@ -198,11 +198,11 @@ RM0001 | Stores | 10 | 220 | 2200
   
 **Stock Ledger**
 
-![Perpetual Inventory](/files/perpetual-st-issue-sl.png)
+![Perpetual Inventory](https://docs.frappe.io/assets/a48ef3c697fa.png)
 
 **General Ledger**
 
-![Perpetual Inventory](/files/perpetual-st-issue-gl.png)
+![Perpetual Inventory](https://docs.frappe.io/assets/8ab15705af67.png)
 
 #### 2.8 Stock Entry (Material Transfer)
 
@@ -214,20 +214,20 @@ RM0001 | Stores | Work In Progress | 10 | 220 | 2200
   
 **Stock Ledger**
 
-![Perpetual Inventory](/files/perpetual-st-transfer-sl.png)
+![Perpetual Inventory](https://docs.frappe.io/assets/f6fbd788ce65.png)
 
 **General Ledger**
 
-![Perpetual Inventory](/files/perpetual-st-transfer-gl.png)
+![Perpetual Inventory](https://docs.frappe.io/assets/2856c63d118f.png)
 
 #### 3\. Related Topics
 
-  1. [Accounting Of Inventory Stock](</erpnext/accounting-of-inventory-stock>)
-  2. [Migrate to Perpetual Inventory](</erpnext/migrate-to-perpetual-inventory>)
+  1. [Accounting Of Inventory Stock](accounting-of-inventory-stock.md)
+  2. [Migrate to Perpetual Inventory](migrate-to-perpetual-inventory.md)
 
 
 
-[ Previous Page Accounting Of Inventory Stock ](</erpnext/accounting-of-inventory-stock>) [ Next Page Periodic Inventory ](</erpnext/periodic-inventory>)
+[ Previous Page Accounting Of Inventory Stock ](accounting-of-inventory-stock.md) [ Next Page Periodic Inventory ](periodic-inventory.md)
 
 Last updated 2 weeks ago 
 

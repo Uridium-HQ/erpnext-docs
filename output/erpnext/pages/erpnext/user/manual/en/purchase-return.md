@@ -1,12 +1,12 @@
 # Purchase Return
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/1i49il88cg>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/1i49il88cg)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Purchase Return 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/1i49il88cg>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/1i49il88cg)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -18,14 +18,14 @@ With the Purchase Return feature, you can return products to the Supplier. This 
 
 Before creating and using a Purchase Return, it is advised that you create the following first:
 
-  * [Item](</erpnext/item>)
-  * [Purchase Invoice](</erpnext/purchase-invoice>)
+  * [Item](../../../item.md)
+  * [Purchase Invoice](../../../purchase-invoice.md)
 
 
 
 Or
 
-[Purchase Receipt](</erpnext/purchase-receipt>)
+[Purchase Receipt](../../../purchase-receipt.md)
 
 ## 2\. How to create a Purchase Return
 
@@ -33,25 +33,25 @@ Or
 
 
 
-![Original Purchase Receipt](/files/purchase-return-original-purchase-receipt.png)
+![Original Purchase Receipt](https://docs.frappe.io/assets/88503c37c12b.png)
 
   1. Click on 'Create > Return', it will open a new Purchase Receipt with 'Is Return' checked. Items, Rate, and taxes will negative numbers.
 
 
 
-![Return Against Purchase Receipt](/files/purchase-return-against-purchase-receipt.png)
+![Return Against Purchase Receipt](https://docs.frappe.io/assets/2982a0f7f002.png)
 
   1. On submission of Return Purchase Return, the system will decrease item quantity from the mentioned Warehouse. To maintain correct stock valuation, stock balance will also go up according to the original purchase rate of the returned items.
 
 
 
-![Return Stock Ledger](/files/purchase-return-stock-ledger.png)
+![Return Stock Ledger](https://docs.frappe.io/assets/f178491f59df.png)
 
   1. In the Accounting Ledger, the Stock In Hand account will be credited and the Stock Received but Not Billed account will be debited.
 
 
 
-![Return Stock Ledger](/files/purchase-return-general-ledger.png)
+![Return Stock Ledger](https://docs.frappe.io/assets/e4682e82cd5f.png)
 
 If Perpetual Inventory enabled, the system will also post accounting entry against warehouse account to sync warehouse account balance with stock balance as per Stock Ledger.
 
@@ -61,19 +61,19 @@ On Creating a Purchase Return against a Purchase Receipt:
 
   * The **Returned Quantity** in the original Purchase Receipt along with any Purchase Order linked to it, is updated.
 
-  * The original Purchase Receipt's status is changed to **Return Issued** if 100% returned: ![Return Issued](/files/purchase-return-issue.png)
+  * The original Purchase Receipt's status is changed to **Return Issued** if 100% returned: ![Return Issued](https://docs.frappe.io/assets/4ac875a9ff97.png)
 
 
 
 
 ### 4\. Related Topics
 
-  1. [Sales Return](</erpnext/sales-return>)
-  2. [Perpetual Inventory](</erpnext/perpetual-inventory>)
+  1. [Sales Return](../../../sales-return.md)
+  2. [Perpetual Inventory](../../../perpetual-inventory.md)
 
 
 
-[ Previous Page Material Request ](</erpnext/material-request>) [ Next Page Request for Quotation ](</erpnext/request-for-quotation>)
+[ Previous Page Material Request ](../../../material-request.md) [ Next Page Request for Quotation ](../../../request-for-quotation.md)
 
 Last updated 1 week ago 
 

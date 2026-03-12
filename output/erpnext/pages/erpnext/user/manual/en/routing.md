@@ -1,12 +1,12 @@
 # Routing
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s0j72jrlm>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s0j72jrlm)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Routing 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s0j72jrlm>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s0j72jrlm)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -18,8 +18,8 @@ A Routing stores all Operations along with the description, hourly rate, operati
 
 ### Prerequisites
 
-  * [Operation](</erpnext/operation>)
-  * [Workstation](</erpnext/workstation>)
+  * [Operation](../../../operation.md)
+  * [Workstation](../../../workstation.md)
 
 
 
@@ -42,13 +42,13 @@ A Routing stores all Operations along with the description, hourly rate, operati
 
 Once created, a Routing can be selected in a BOM to fetch the Operations stored in the Routing.
 
-![](/files/CleanShot%202026-02-19%20at%2012.31.10@2x.png)
+![](../../../../../assets/a165d143e4db.png)
 
 * * *
 
 ## Sequence ID in Routing
 
-![](/files/image2679eb.png)
+![](../../../../../assets/c429efa8436d.png)
 
 Sequence ID enforces the users to complete the operations sequentially via Job Card. In case a user tries to complete an operation before completing any of its precedent operations as per the Sequence ID, the system throws a validation error.
 
@@ -56,12 +56,12 @@ Sequence ID enforces the users to complete the operations sequentially via Job C
 
 ### Related Topics
 
-  1. [Work Order](</erpnext/work-order>)
-  2. [Bill Of Materials](</erpnext/bill-of-materials>)
+  1. [Work Order](../../../work-order.md)
+  2. [Bill Of Materials](../../../bill-of-materials.md)
 
 
 
-[ Previous Page Workstation ](</erpnext/workstation>) [ Next Page Production and Material Planning ](</erpnext/production-and-material-planning>)
+[ Previous Page Workstation ](../../../workstation.md) [ Next Page Production and Material Planning ](../../../production-and-material-planning.md)
 
 Last updated 2 weeks ago 
 

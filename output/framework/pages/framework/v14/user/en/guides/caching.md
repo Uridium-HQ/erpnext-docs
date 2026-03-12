@@ -1,12 +1,12 @@
 # Caching
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12anlvlpbl>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12anlvlpbl)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Caching
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12anlvlpbl>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12anlvlpbl)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -244,7 +244,7 @@ Any repeated calls to Redis within the same request/job return data from the cli
 
 All Frappe related changes are made by wrapping the default Redis client and extending the methods. You can find this code in `frappe.utils.redis_wrapper` the module.
 
-[ Previous Page Exporting Customizations to your App  ](</framework/v14/user/en/guides/app-development/exporting-customizations>) [ Next Page Packages  ](</framework/v14/user/en/guides/deployment/packages>)
+[ Previous Page Exporting Customizations to your App  ](app-development/exporting-customizations.md) [ Next Page Packages  ](deployment/packages.md)
 
 Last updated 2 months ago 
 

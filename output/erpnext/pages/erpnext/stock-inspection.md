@@ -1,12 +1,12 @@
 # Stock Inspection
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rqufh8e60>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rqufh8e60)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Stock Inspection
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rqufh8e60>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rqufh8e60)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -19,11 +19,11 @@ During outgoing transactions such as sales or transfers, quality inspections can
 ERPNext facilitates the creation of inspection criteria, inspection plans, and inspection certificates to streamline the quality control process.
 
   * Quality Inspection Template
-  * [Quality Inspection](</erpnext/user/manual/en/quality-inspection>)
+  * [Quality Inspection](user/manual/en/quality-inspection.md)
 
 
 
-[ Previous Page Pricing Rule  ](</erpnext/pricing-rule>) [ Next Page Batch ](</erpnext/batch>)
+[ Previous Page Pricing Rule  ](pricing-rule.md) [ Next Page Batch ](batch.md)
 
 Last updated 2 weeks ago 
 

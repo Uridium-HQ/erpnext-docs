@@ -1,12 +1,12 @@
 # Warehouse
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rq2djs0en>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rq2djs0en)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Warehouse 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rq2djs0en>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rq2djs0en)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -49,7 +49,7 @@ identifying which Warehouse belongs to which company at a glance.
 
 You can add Billing, Shipping, and other types of addresses for the Warehouse. You can also add a contact, this could be the Warehouse Manager for example.
 
-![](/files/Warehouse.png)
+![](../../assets/e601946e4265.png)
 
 ### 1.2 After Saving
 
@@ -67,11 +67,11 @@ After saving a Warehouse, you'll see the following options:
 
 You can also switch to 'Tree' View which will show all the group and child Warehouses.
 
-![](/files/warehouses.png)
+![](../../assets/0da59f423736.png)
 
 ### 2.2 Warehouse Account
 
-In ERPNext, if you enable [Perpetual Inventory](</erpnext/perpetual-inventory>), every Warehouse must belong to a specific company to maintain  
+In ERPNext, if you enable [Perpetual Inventory](perpetual-inventory.md), every Warehouse must belong to a specific company to maintain  
 company-wise stock balance. To do so, each Warehouse should be linked with an  
 Account in the Chart of Accounts (the same name as the Warehouse itself). This account captures the monetary equivalent of the goods or materials stored in that specific warehouse.
 
@@ -81,7 +81,7 @@ scenarios do not require to account for value of stock items per Shelf or Bin. F
 > Tip: ERPNext maintains stock balance for every distinct combination  
 >  of Item and Warehouse. Thus you can get the stock balance for any specific Item in a particular Warehouse on any particular date.
 
-[ Previous Page Stock Masters ](</erpnext/stock-masters>) [ Next Page Item ](</erpnext/item>)
+[ Previous Page Stock Masters ](stock-masters.md) [ Next Page Item ](item.md)
 
 Last updated 1 week ago 
 

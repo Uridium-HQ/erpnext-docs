@@ -1,12 +1,12 @@
 # Developer API
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12qtt5v0nm>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12qtt5v0nm)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Developer API 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12qtt5v0nm>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12qtt5v0nm)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,19 +14,19 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 Frappe aims to achieve minimum cognitive load for its users. Hence, you can find the most used methods and utilities in the `frappe` namespace itself. It's the only import you need (most of the time) in a Python file.
 
-  1. [Document](</framework/v14/user/en/api/document>)
-  2. [Database](</framework/v14/user/en/api/database>)
-  3. [Jinja](</framework/v14/user/en/api/jinja>)
-  4. [Common Utilities](</framework/v14/user/en/api/utils>)
-  5. [Router](</framework/v14/user/en/python-api/routing-and-rendering>)
-  6. [Response](</framework/v14/user/en/python-api/response>)
-  7. [Language Resolution](</framework/v14/user/en/python-api/language>)
-  8. [Search](</framework/v14/user/en/python-api/search>)
-  9. [Hooks](</framework/v14/user/en/python-api/hooks>)
-  10. [REST API](</framework/v14/user/en/api/rest>)
-  11. [Full Text Search](</framework/v14/user/en/api/full-text-search>)
-  12. [Dialog API](</framework/v14/user/en/api/py-dialog>)
-  13. [Query Builder](</framework/v14/user/en/api/query-builder>)
+  1. [Document](api/document.md)
+  2. [Database](api/database.md)
+  3. [Jinja](api/jinja.md)
+  4. [Common Utilities](api/utils.md)
+  5. [Router](python-api/routing-and-rendering.md)
+  6. [Response](python-api/response.md)
+  7. [Language Resolution](python-api/language.md)
+  8. [Search](python-api/search.md)
+  9. [Hooks](python-api/hooks.md)
+  10. [REST API](api/rest.md)
+  11. [Full Text Search](api/full-text-search.md)
+  12. [Dialog API](api/py-dialog.md)
+  13. [Query Builder](api/query-builder.md)
 
 
 
@@ -34,26 +34,26 @@ Frappe aims to achieve minimum cognitive load for its users. Hence, you can find
 
 Frappe attaches itself to the `window` object under the `frappe` namespace. You will find most of the Client API under the `frappe` object. All of these methods are only available inside the Desk. A good way to explore these APIs is from the browser console.
 
-  1. [Form](</framework/v14/user/en/api/form>)
-  2. [Controls](</framework/v14/user/en/api/controls>)
-  3. [Page](</framework/v14/user/en/api/page>)
-  4. [Tree](</framework/v14/user/en/api/tree>)
-  5. [Server Calls (AJAX)](</framework/v14/user/en/api/server-calls>)
-  6. [Common Utilities](</framework/v14/user/en/api/js-utils>)
-  7. [Dialog API](</framework/v14/user/en/api/dialog>)
-  8. [Chart API](</framework/v14/user/en/api/chart>)
-  9. [Scanner API](</framework/v14/user/en/api/scanner>)
+  1. [Form](api/form.md)
+  2. [Controls](api/controls.md)
+  3. [Page](api/page.md)
+  4. [Tree](api/tree.md)
+  5. [Server Calls (AJAX)](api/server-calls.md)
+  6. [Common Utilities](api/js-utils.md)
+  7. [Dialog API](api/dialog.md)
+  8. [Chart API](api/chart.md)
+  9. [Scanner API](api/scanner.md)
 
 
 
 ## Other
 
-  1. [REST API](</framework/v14/user/en/api/rest>)
-  2. [Jinja API](</framework/v14/user/en/api/jinja>)
+  1. [REST API](api/rest.md)
+  2. [Jinja API](api/jinja.md)
 
 
 
-[ Previous Page Customization ](</framework/v14/user/en/web-form/customization>) [ Next Page Form Scripts  ](</framework/v14/user/en/api/form>)
+[ Previous Page Customization ](web-form/customization.md) [ Next Page Form Scripts  ](api/form.md)
 
 Last updated 2 months ago 
 

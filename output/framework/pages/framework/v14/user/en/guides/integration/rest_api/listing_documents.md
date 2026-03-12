@@ -1,12 +1,12 @@
 # Listing documents
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12ghf1ff30>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12ghf1ff30)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Listing documents 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12ghf1ff30>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12ghf1ff30)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -68,7 +68,7 @@ Response:
 
 Authors: Rushabh Mehta (rushabh@erpnext.com), Raffael Meyer (raffael@alyf.de)
 
-[ Previous Page OAuth 2  ](</framework/v14/user/en/guides/integration/rest_api/oauth-2>) [ Next Page Manipulating DocTypes  ](</framework/v14/user/en/guides/integration/rest_api/manipulating_documents>)
+[ Previous Page OAuth 2  ](oauth-2.md) [ Next Page Manipulating DocTypes  ](manipulating_documents.md)
 
 Last updated 2 months ago 
 

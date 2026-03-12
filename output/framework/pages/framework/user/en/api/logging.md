@@ -1,22 +1,22 @@
 # Logging
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0to41afgo0>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0to41afgo0)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Logging
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0to41afgo0>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0to41afgo0)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 Logging is a means of tracking events that happen when some software runs. Under the bench architecture, with multitenancy, it might get really complicated really fast to track down and eliminate any uncertainties. You may wan't to log events along with circumstantial, variable data.
 
-Frappe implements Python's [logging module](<https://docs.python.org/3/howto/logging.html>) to maintain bench and site wise logs. `Version 13` uses Log Rotation to maintain the last 20 files along with the current running of _100kB_ each for the _out of the box_ log files.
+Frappe implements Python's [logging module](https://docs.python.org/3/howto/logging.html) to maintain bench and site wise logs. `Version 13` uses Log Rotation to maintain the last 20 files along with the current running of _100kB_ each for the _out of the box_ log files.
 
 ## frappe.log_level
 
-Maintains the log level of Frappe processes. To learn more about logging levels, you can check out Python's [documentation](<https://docs.python.org/dev/library/logging.html#logging.Logger.setLevel>).
+Maintains the log level of Frappe processes. To learn more about logging levels, you can check out Python's [documentation](https://docs.python.org/dev/library/logging.html).
 
 ## frappe.utils.logger.set_log_level
 
@@ -26,7 +26,7 @@ Maintains the log level of Frappe processes. To learn more about logging levels,
 
 `frappe.loggers` maintains a `dict` of active loggers in your process. The key is the name of the logger, typically "{module}-{site}" and the value holds the Logger instance.
 
-A web worker may have `frappe.loggers` such as the following if [docs.erpnext.com](<https://docs.erpnext.com/>) and [frappeframework.com](<https://frappeframework.com>) are the sites on the bench.
+A web worker may have `frappe.loggers` such as the following if [docs.erpnext.com](https://docs.erpnext.com/) and [frappeframework.com](https://frappeframework.com/) are the sites on the bench.
 [code] 
     {
         "frappe.web-docs.erpnext.com": <logger frappe.web-docs.erpnext.com="" (debug)="">,
@@ -72,7 +72,7 @@ Arguments:
 
 The above entry would be logged under `./logs/frappe.web.log` and `./sites/frappeframework.com/logs/frappe.web.log` files.
 
-> Usage specified as implemented in [app.py#L102-L110](<https://github.com/frappe/frappe/blob/fe22595e854e3fb3fa4dbcbd6d9dacdf94e73462/frappe/app.py#L102-L110>)
+> Usage specified as implemented in [app.py#L102-L110](https://github.com/frappe/frappe/blob/fe22595e854e3fb3fa4dbcbd6d9dacdf94e73462/frappe/app.py)
 
 ### Example
 
@@ -105,9 +105,9 @@ API calls made to this endpoint will now start getting logged in your `api.log` 
     
 [/code]
 
-> Learn more about Logging in Frappe [here](</framework/v14/user/en/logging>)
+> Learn more about Logging in Frappe [here](../../../v14/user/en/logging.md)
 
-[ Previous Page Server Calls (AJAX)  ](</framework/user/en/api/server-calls>) [ Next Page Form Tours ](</framework/user/en/form-tours>)
+[ Previous Page Server Calls (AJAX)  ](server-calls.md) [ Next Page Form Tours ](../form-tours.md)
 
 Last updated 3 weeks ago 
 

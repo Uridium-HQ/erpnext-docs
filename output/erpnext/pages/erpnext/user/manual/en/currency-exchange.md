@@ -1,12 +1,12 @@
 # Currency Exchange
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rnihghem3>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rnihghem3)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Currency Exchange
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rnihghem3>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rnihghem3)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -31,7 +31,7 @@ To access the Currency Exchange list, go to:
 
 
 
-![Screenshot 2024-06-24 at 1.16.07 PM](/files/Screenshot%202024-06-24%20at%201.16.07%20PM.png)
+![Screenshot 2024-06-24 at 1.16.07 PM](https://docs.frappe.io/assets/f7db594bc8cd.png)
 
   2. Related Topics
 
@@ -39,12 +39,12 @@ To access the Currency Exchange list, go to:
 
 * * *
 
-  1. [Exchange Rate Revaluation](</erpnext/exchange-rate-revaluation>)
-  2. [Multi Currency Accounting](</erpnext/multi-currency-accounting>)
+  1. [Exchange Rate Revaluation](../../../exchange-rate-revaluation.md)
+  2. [Multi Currency Accounting](../../../multi-currency-accounting.md)
 
 
 
-[ Previous Page Currency  ](</erpnext/currency>) [ Next Page Multi Currency Accounting  ](</erpnext/multi-currency-accounting>)
+[ Previous Page Currency  ](../../../currency.md) [ Next Page Multi Currency Accounting  ](../../../multi-currency-accounting.md)
 
 Last updated 2 weeks ago 
 

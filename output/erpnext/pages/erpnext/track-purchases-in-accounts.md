@@ -1,12 +1,12 @@
 # Track Purchases In Accounts
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rrjrmr4jm>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rrjrmr4jm)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Track Purchases In Accounts
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rrjrmr4jm>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rrjrmr4jm)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,9 +20,9 @@ To address this in the ERPNext, we have Purchase Expense Account and Purchase Ex
 
 Users can configure the default purchase expense and default purchase expense contra account in the company master
 
-![](/files/purchase-expense-accounts.png)
+![](../../assets/6370e8863b9d.png)
 
-[ Previous Page Delivery Trip  ](</erpnext/delivery-trip>) [ Next Page Landed Cost Voucher ](</erpnext/stock-transactions-landed-cost-voucher>)
+[ Previous Page Delivery Trip  ](delivery-trip.md) [ Next Page Landed Cost Voucher ](stock-transactions-landed-cost-voucher.md)
 
 Last updated 2 weeks ago 
 

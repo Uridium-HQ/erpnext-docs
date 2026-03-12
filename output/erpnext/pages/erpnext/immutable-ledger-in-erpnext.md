@@ -1,12 +1,12 @@
 # Immutable Ledger
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rm0osuu6j>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rm0osuu6j)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Immutable Ledger
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rm0osuu6j>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rm0osuu6j)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -24,11 +24,11 @@ A major change has been introduced in ERPNext from version 13 onwards. This chan
 
 ### 1\. Reverse Entries on cancellation of transactions
 
-![General Ledger](/files/general-ledgercb549a.png)
+![General Ledger](https://docs.frappe.io/assets/31480c7a7f03.png)
 
 On cancellation of any transaction instead of deleting the GL Entries for that transactions reverse entries will be passed to cancel the effect of that transaction on the date of cancellation.
 
-![Document Delete](/files/document-delete.png)
+![Document Delete](https://docs.frappe.io/assets/7391ccc2846c.png)
 
 Since GL Entries linked to a transaction will never be deleted this also means that cancelled transactions and their linked documents can no longer be deleted.
 
@@ -36,11 +36,11 @@ Since GL Entries linked to a transaction will never be deleted this also means t
 
 Since the ledgers are immutable now this means future transactions cannot be updated or reposted. So users will no longer be able to post backdated stock transactions.
 
-![Back Dated Entry](/files/backdated-entry.png)
+![Back Dated Entry](https://docs.frappe.io/assets/1415f8c42652.png)
 
 For Eg: Suppose a Stock Transaction has been made for **Item A** with posting time as `19-06-2020 23:00:10` then after this transaction you cannot post a transaction for **Item A** with posting time before this timestamp.
 
-[ Previous Page ERPNext QuickBooks Migrator  ](</erpnext/quickbooks-migrator>) [ Next Page Rebuild Tree ](</erpnext/rebuild-tree>)
+[ Previous Page ERPNext QuickBooks Migrator  ](quickbooks-migrator.md) [ Next Page Rebuild Tree ](rebuild-tree.md)
 
 Last updated 1 week ago 
 

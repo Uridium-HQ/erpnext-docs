@@ -1,12 +1,12 @@
 # Auto Repeat
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rakj19sbv>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rakj19sbv)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Auto Repeat 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rakj19sbv>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rakj19sbv)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -30,7 +30,7 @@ To access Auto Repeat, go to:
 
 
 
-![Allow Auto Repeat](/files/allow-auto-repeat.png)
+![Allow Auto Repeat](https://docs.frappe.io/assets/ddebf213ef4a.png)
 
 ### 1.2 Set up Auto Repeat
 
@@ -49,11 +49,11 @@ You can also set a document on Auto Repeat by clicking the **Repeat** option fro
 
 **Note** : If a document is already on Auto Repeat, the Repeat option is not available.
 
-![Repeat in Transactions](/files/repeat-option.png)
+![Repeat in Transactions](https://docs.frappe.io/assets/6b83c84ddb2a.png)
 
 Once you click on Repeat, a prompt for Auto Repeat will show up. Fill in the details and click on Save.
 
-![Auto Repeat Prompt](/files/auto-repeat-prompt.png)
+![Auto Repeat Prompt](https://docs.frappe.io/assets/6ed55c69f06d.png)
 
 ## 2\. Features
 
@@ -61,7 +61,7 @@ Once you click on Repeat, a prompt for Auto Repeat will show up. Fill in the det
 
 If the reference document type is submittable, you get an option called _Submit on Creation_. If this is checked, your document will be submitted on creation.
 
-![Auto Repeat Submit on Creation](/files/submit-on-creation.png)
+![Auto Repeat Submit on Creation](https://docs.frappe.io/assets/0648a4e8aec0.png)
 
 ### 2.2 Notify by Email
 
@@ -77,7 +77,7 @@ If you want to notify certain contacts whenever the recurring documents are crea
 
 
 
-> **Note** : If the document you are setting up Auto Repeat for, is submittable, ensure that "Allow Print for Draft" is enabled in [Print Settings](</erpnext/print-settings>) to receive the new recurring document in Auto Repeat Notification Email. If this is not enabled, you will be notified about the recurring document creation without the document.
+> **Note** : If the document you are setting up Auto Repeat for, is submittable, ensure that "Allow Print for Draft" is enabled in [Print Settings](print-settings.md) to receive the new recurring document in Auto Repeat Notification Email. If this is not enabled, you will be notified about the recurring document creation without the document.
 
 ### 2.3 Repeat on a particular day
 
@@ -94,25 +94,25 @@ If the frequency is set as Monthly, Quarterly, Half-yearly or Yearly, then it wi
 
 Auto Repeat with Weekly frequency allows you to select the days on which you want the recurring documents to be created.
 
-![Auto Repeat Weekdays](/files/auto-repeat-weekdays.png)
+![Auto Repeat Weekdays](https://docs.frappe.io/assets/dc3f179c7e5a.png)
 
 ### 2.5 Dashboard
 
 You can see the Auto Repeat schedule in the Dashboard of Auto Repeat document. If you don't specify the End Date then the schedule will show only the Next Schedule Date.
 
-![Auto Repeat Dashboard](/files/auto-repeat-dashboard.png)
+![Auto Repeat Dashboard](https://docs.frappe.io/assets/a668685e4262.png)
 
 ### 2.6 Auto Repeat Frequency on the sidebar
 
 When a document is set on Auto Repeat you can see the Auto Repeat frequency on the sidebar. You can click on the status to see the linked Auto Repeat document.
 
-![Auto Repeat Frequency](/files/auto-repeat-frequency.png)
+![Auto Repeat Frequency](https://docs.frappe.io/assets/beb88353aa56.png)
 
 ### 2.7 Disable Auto Repeat
 
 If you check this field it will stop creating recurring documents and unlink the Auto Repeat document from the Reference Document.
 
-[ Previous Page Assignment Rule  ](</erpnext/assignment-rule>) [ Next Page Milestone Tracking  ](</erpnext/milestone-tracker>)
+[ Previous Page Assignment Rule  ](https://docs.frappe.io/erpnext/assignment-rule) [ Next Page Milestone Tracking  ](https://docs.frappe.io/erpnext/milestone-tracker)
 
 Last updated 1 week ago 
 

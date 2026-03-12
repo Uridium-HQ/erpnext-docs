@@ -1,12 +1,12 @@
 # Purchase Invoice
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rmjaho9lf>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rmjaho9lf)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Purchase Invoice
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rmjaho9lf>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rmjaho9lf)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -18,7 +18,7 @@ To access the Purchase Invoice list, go to:
 
 > Home > Accounting > Accounts Payable > Purchase Invoice
 
-![PI Flow](/files/pi-flow.png)
+![PI Flow](https://docs.frappe.io/assets/d92141239e9d.png)
 
   1. Prerequisites
 
@@ -28,10 +28,10 @@ To access the Purchase Invoice list, go to:
 
 Before creating and using a Purchase Invoice, it is advised to create the following first:
 
-  * [Item](</erpnext/item>)
-  * [Supplier](</erpnext/supplier>)
-  * [Purchase Order](</erpnext/purchase-order>)
-  * [Purchase Receipt](</erpnext/purchase-receipt>) (optional)
+  * [Item](item.md)
+  * [Supplier](supplier.md)
+  * [Purchase Order](purchase-order.md)
+  * [Purchase Receipt](purchase-receipt.md) (optional)
 
 
   1. How to create a Purchase Invoice:
@@ -56,13 +56,13 @@ For manual creation, follow these steps:
 
 
 
-![](/files/Screenshot%202026-01-19%20at%2012.37.15%20PM.png)
+![](../../assets/e030fdeb97b5.png)
 
 ### 2.1 Additional options when creating a Purchase Invoice
 
-  * **Is Paid** : You can tick 'Is Paid' if the amount has already been paid via an [Advance Payment Entry](</erpnext/advance-payment-entry>). This should be ticked if there is full or partial payment.
-  * **Is Return (Debit Note)** : Tick this if the customer has returned the Items. To know more details, visit the [Debit Note](</erpnext/debit-note>) page.
-  * **Apply Tax Withholding Amount** : If the selected Supplier has a Tax Withholding Category set, this checkbox will be enabled. For more information, visit the [Tax Withholding Category](</erpnext/tax-withholding-category>) page.
+  * **Is Paid** : You can tick 'Is Paid' if the amount has already been paid via an [Advance Payment Entry](advance-payment-entry.md). This should be ticked if there is full or partial payment.
+  * **Is Return (Debit Note)** : Tick this if the customer has returned the Items. To know more details, visit the [Debit Note](debit-note.md) page.
+  * **Apply Tax Withholding Amount** : If the selected Supplier has a Tax Withholding Category set, this checkbox will be enabled. For more information, visit the [Tax Withholding Category](tax-withholding-category.md) page.
 
 
 
@@ -70,10 +70,10 @@ For manual creation, follow these steps:
 
   * **Draft** : A draft is saved but yet to be submitted to the system.
   * **Return** : The Items have been returned to the Supplier.
-  * **Debit Note Issued** : The Items have been returned and a [Debit Note](</erpnext/debit-note>) has been issued against the invoice.
+  * **Debit Note Issued** : The Items have been returned and a [Debit Note](debit-note.md) has been issued against the invoice.
   * **Submitted** : The Purchase Invoice has been submitted to the system and the general ledger has been updated.
-  * **Paid** : Supplier has been fully paid the invoice amount and the corresponding [Payment Entries](</erpnext/payment-entry>) have been submitted.
-  * **Partly Paid** : Supplier has been paid a part of the invoice amount and the corresponding [Payment Entries](</erpnext/payment-entry>) have been submitted.
+  * **Paid** : Supplier has been fully paid the invoice amount and the corresponding [Payment Entries](payment-entry.md) have been submitted.
+  * **Partly Paid** : Supplier has been paid a part of the invoice amount and the corresponding [Payment Entries](payment-entry.md) have been submitted.
   * **Unpaid** : The Purchase Invoice is yet to be paid.
   * **Overdue** : The due date has passed for payment.
   * **Canceled** : The invoice has been canceled due to some reason.
@@ -87,7 +87,7 @@ For manual creation, follow these steps:
 
 ### 3.1 Accounting Dimensions
 
-Accounting Dimensions lets you tag transactions based on a specific Territory, Branch, Customer, etc. This helps in viewing accounting statements separately based on the criteria selected. To know more, visit the [Accounting Dimensions](</erpnext/accounting-dimensions>) page.
+Accounting Dimensions lets you tag transactions based on a specific Territory, Branch, Customer, etc. This helps in viewing accounting statements separately based on the criteria selected. To know more, visit the [Accounting Dimensions](accounting-dimensions.md) page.
 
 > Note: Project and Cost Center are treated as dimensions by default.
 
@@ -97,15 +97,15 @@ Sometimes you may need to hold an invoice from being submitted.
 
 **Hold Invoice** : Enable this checkbox to put the Purchase Invoice on hold. This can be done only before submitting the invoice. Once 'Hold Invoice' is enabled and the Purchase Invoice is submitted, the status will change to 'Temporarily on Hold'.
 
-![](/files/Screenshot%202026-01-19%20at%2012.38.23%20PM.png)
+![](../../assets/cc14d7a193a9.png)
 
 Once the purchase invoice gets submit and you want to change 'Release Date' then you can take the help of the 'Hold Invoice' button, which is available on the top right.
 
 If you want to hold submitted purchase invoice then you can hold using 'Block Invoice' option and If you want to unblock again then use 'Unblock Invoice' option.
 
-![](/files/Screenshot%202026-01-19%20at%2012.39.12%20PM.png)
+![](../../assets/d229f1e149ca.png)
 
-This is invoice level holding, Suppliers can be put on hold. [Learn more here](</erpnext/supplier#23-credit-limit>).
+This is invoice level holding, Suppliers can be put on hold. [Learn more here](supplier.md).
 
 ### 3.3 Supplier Invoice Details
 
@@ -117,7 +117,7 @@ This is invoice level holding, Suppliers can be put on hold. [Learn more here](<
 ### 3.4 Address and Contact
 
   * **Supplier Address:** This is the Billing Address of the Supplier.
-  * **Contact Person** : If the Supplier is a Company, the person to be contacted is fetched in this field if set in the [Supplier](</erpnext/supplier>) form.
+  * **Contact Person** : If the Supplier is a Company, the person to be contacted is fetched in this field if set in the [Supplier](supplier.md) form.
   * **Shipping Address:** Address where the items will be shipped to.
 
 
@@ -132,20 +132,20 @@ For India, the following details can be recorded for GST purposes:
 
 ### 3.5 Currency and Price list
 
-You can set the currency in which the Purchase Invoice order is to be sent. This is fetched from the Purchase Order. If you set a Pricing List, then the item prices will be fetched from that list. Ticking on 'Ignore Pricing Rule' will ignore the [Pricing Rules](</erpnext/pricing-rule>) set in Accounts > Pricing Rule.
+You can set the currency in which the Purchase Invoice order is to be sent. This is fetched from the Purchase Order. If you set a Pricing List, then the item prices will be fetched from that list. Ticking on 'Ignore Pricing Rule' will ignore the [Pricing Rules](pricing-rule.md) set in Accounts > Pricing Rule.
 
-![](/files/Screenshot%202026-01-19%20at%2012.39.55%20PM.png)
+![](../../assets/565b6ade0837.png)
 
-Read about [Price Lists](</erpnext/price-lists>) and [Multi-Currency Transactions](</erpnext/accounts/articles/managing-transactions-in-multiple-currencies>) to know more.
+Read about [Price Lists](price-lists.md) and [Multi-Currency Transactions](accounts/articles/managing-transactions-in-multiple-currencies.md) to know more.
 
 ### 3.6 Subcontracting or 'Supply Raw Materials'
 
-Setting 'Supply Raw Materials' option is useful for subcontracting where you provide the raw materials for manufacturing an Item. To know more, visit the [Subcontracting page](</erpnext/subcontracting>).
+Setting 'Supply Raw Materials' option is useful for subcontracting where you provide the raw materials for manufacturing an Item. To know more, visit the [Subcontracting page](subcontracting.md).
 
 ### 3.7 Items table
 
-  * **scan barcode** : You can add Items in the Items table by scanning their barcodes if you have a barcode scanner. Read documentation for [tracking items using barcode](</erpnext/track-items-using-barcode>) to know more.
-  * The Item Code, name, description, Image, and Manufacturer will be fetched from the [Item master](</erpnext/item>).
+  * **scan barcode** : You can add Items in the Items table by scanning their barcodes if you have a barcode scanner. Read documentation for [tracking items using barcode](track-items-using-barcode.md) to know more.
+  * The Item Code, name, description, Image, and Manufacturer will be fetched from the [Item master](item.md).
   * **Manufacturer** : If the Item is manufactured by a specific manufacturer, it can be added here. This will be fetched if set in the Item master.
   * **Quantity and Rate** : When you select the Item code, its name, description, and UOM will be fetched. The 'UOM Conversion Factor' is set to 1 by default, you can change it depending on the UOM received from the seller, more in the next section.
 
@@ -154,80 +154,80 @@ Setting 'Supply Raw Materials' option is useful for subcontracting where you pro
 'Price List Rate' will be fetched if a Standard Buying rate is set. 'Last Purchase Rate' shows the rate of the item from your last Purchase Order. Rate is fetched if set in the item master. You can attach an Item Tax Template to apply a specific tax rate to the item.
 
   * **Item weights** will be fetched if set in the Item master else enter manually.
-  * **Discount on Price List Rate** : You can apply a discount on individual Items percentage-wise or on the total amount of the Item. Read [Applying Discount](</erpnext/applying-discount>) for more details.
+  * **Discount on Price List Rate** : You can apply a discount on individual Items percentage-wise or on the total amount of the Item. Read [Applying Discount](applying-discount.md) for more details.
   * **Item Weight** : The Item Weight details per unit and Weight UOM are fetched if set in the Item master, else enter manually.
   * **Accounting Details** : The Expense account can be changed here you wish to.
-  * **Deferred Expense** : If the expense for this Item will be billed over the coming months in parts, then tick on 'Enable Deferred Expense'. To know more, visit the [Deferred Expense page](</erpnext/deferred-expense>).
+  * **Deferred Expense** : If the expense for this Item will be billed over the coming months in parts, then tick on 'Enable Deferred Expense'. To know more, visit the [Deferred Expense page](deferred-expense.md).
   * **Allow Zero Valuation Rate** : Ticking on 'Allow Zero Valuation Rate' will allow submitting the Purchase Receipt even if the Valuation Rate of the Item is 0. This can be a sample item or due to a mutual understanding with your Supplier.
-  * **BOM** : If there is a [Bill of Materials](</erpnext/bill-of-materials>) created for the Item, it'll be fetched here. This is useful for reference when [subcontracting](</erpnext/subcontracting>).
-  * **Item Tax Template** : You can set an Item Tax Template to apply a specific Tax amount to this particular Item. To know more, visit [this page](</erpnext/item-tax-template>).
+  * **BOM** : If there is a [Bill of Materials](bill-of-materials.md) created for the Item, it'll be fetched here. This is useful for reference when [subcontracting](subcontracting.md).
+  * **Item Tax Template** : You can set an Item Tax Template to apply a specific Tax amount to this particular Item. To know more, visit [this page](item-tax-template.md).
   * **Page Break** will create a page break just before this Item when printing.
 
 
 
 #### Update Stock
 
-> Note: From version-13 onwards we have introduced immutable ledger which changes the rules for cancellation of stock entries and posting backdated stock transactions in ERPNext. [Learn more here](</erpnext/immutable-ledger-in-erpnext>).
+> Note: From version-13 onwards we have introduced immutable ledger which changes the rules for cancellation of stock entries and posting backdated stock transactions in ERPNext. [Learn more here](immutable-ledger-in-erpnext.md).
 
 The **Update Stock** checkbox should be checked if you want ERPNext to automatically update your inventory. Consequently, there will be no need for a Purchase Receipt.
 
 ### 3.8 Taxes and charges
 
-The Taxes and Charges will be fetched from the [Purchase Order](</erpnext/purchase-order>) or [Purchase Receipt](</erpnext/purchase-receipt>).
+The Taxes and Charges will be fetched from the [Purchase Order](purchase-order.md) or [Purchase Receipt](purchase-receipt.md).
 
-![](/files/Screenshot%202026-01-19%20at%2012.40.47%20PM.png)
+![](../../assets/b7deb18bcdba.png)
 
-Visit the [Purchase Taxes and Charges Template](</erpnext/purchase-taxes-and-charges-template>) page to know more about taxes.
+Visit the [Purchase Taxes and Charges Template](purchase-taxes-and-charges-template.md) page to know more about taxes.
 
 The total taxes and charges will be displayed below the table.
 
-To add taxes automatically via a Tax Category, visit [this page](</erpnext/tax-category>).
+To add taxes automatically via a Tax Category, visit [this page](tax-category.md).
 
 Make sure to mark all your taxes in the Taxes and Charges table correctly for an accurate valuation.
 
 #### Shipping Rule
 
-A Shipping Rule helps set the cost of shipping an Item. The cost will usually increase with the distance of shipping. To know more, visit the [Shipping Rule](</erpnext/shipping-rule>) page.
+A Shipping Rule helps set the cost of shipping an Item. The cost will usually increase with the distance of shipping. To know more, visit the [Shipping Rule](shipping-rule.md) page.
 
 ### 3.9 Additional Discount
 
 Any additional discounts to the whole Invoice can be set in this section. This discount could be based on the Grand Total i.e., post tax/charges or Net total i.e., pre tax/charges. The additional discount can be applied as a percentage or an amount.
 
-![](/files/Screenshot%202026-01-19%20at%2012.42.03%20PM.png)
+![](../../assets/517a4b9a7fd2.png)
 
-Visit the [Applying Discount](</erpnext/applying-discount>) page for more details.
+Visit the [Applying Discount](applying-discount.md) page for more details.
 
 ### 3.10 Advance Payment
 
-For high-value Items, the seller can request an advance payment before processing the order. The **Get Advances Received** button opens a popup from where you can fetch the orders where advance payment was made. To know more, visit the [Advance Payment Entry](</erpnext/advance-payment-entry>) page.
+For high-value Items, the seller can request an advance payment before processing the order. The **Get Advances Received** button opens a popup from where you can fetch the orders where advance payment was made. To know more, visit the [Advance Payment Entry](advance-payment-entry.md) page.
 
 ### 3.11 Payment Terms
 
 The payment for an invoice may be made in parts depending on your understanding with the Supplier. This is fetched if set in the Purchase Order.
 
-![](/files/Screenshot%202026-01-19%20at%2012.43.59%20PM.png)
+![](../../assets/6fbcdc78f747.png)
 
-To know more, visit the [Payment Terms](</erpnext/payment-terms>) page.
+To know more, visit the [Payment Terms](payment-terms.md) page.
 
 ### 3.12 Write Off
 
-Write off happens when the Customer pays an amount less than the invoice amount. This may be a small difference like 0.50. Over several orders, this might add up to a big number. For accounting accuracy, this difference amount is 'written off'. To know more, visit the [Payment Terms](</erpnext/payment-entry#25-deductions-or-loss>) page.
+Write off happens when the Customer pays an amount less than the invoice amount. This may be a small difference like 0.50. Over several orders, this might add up to a big number. For accounting accuracy, this difference amount is 'written off'. To know more, visit the [Payment Terms](payment-entry.md) page.
 
 ### 3.13 Terms and Conditions
 
-In Sales/Purchase transactions there might be certain Terms and Conditions based on which the Supplier provides goods or services to the Customer. You can apply the Terms and Conditions to transactions to transactions and they will appear when printing the document. To know about Terms and Conditions, [click here](</erpnext/terms-and-conditions>)
+In Sales/Purchase transactions there might be certain Terms and Conditions based on which the Supplier provides goods or services to the Customer. You can apply the Terms and Conditions to transactions to transactions and they will appear when printing the document. To know about Terms and Conditions, [click here](terms-and-conditions.md)
 
 ### 3.14 Printing Settings
 
 #### Letterhead
 
-You can print your Purchase Invoice on your Company's letterhead. Know more [here](</erpnext/letter-head>).
+You can print your Purchase Invoice on your Company's letterhead. Know more [here](letter-head.md).
 
 'Group same items' will group the same items added multiple times in the Items table. This can be seen when your print.
 
 #### Print Headings
 
-Purchase Invoice headings can also be changed when printing the document. You can do this by selecting a **Print Heading**. To create new Print Headings go to: Home > Settings > Printing > Print Heading. Know more [here](</erpnext/print-headings>).
+Purchase Invoice headings can also be changed when printing the document. You can do this by selecting a **Print Heading**. To create new Print Headings go to: Home > Settings > Printing > Print Heading. Know more [here](print-headings.md).
 
 ### 3.15 GST Details (for India)
 
@@ -256,15 +256,15 @@ The following details can be set for GST:
 
 On submitting a Purchase Invoice, the following documents can be created against it:
 
-  1. [Journal Entry](</erpnext/journal-entry>)
-  2. [Payment Entry](</erpnext/payment-entry>)
-  3. [Payment Request](</erpnext/payment-request>)
-  4. [Landed Cost Voucher](</erpnext/landed-cost-voucher>)
-  5. [Asset](</erpnext/asset>)
+  1. [Journal Entry](journal-entry.md)
+  2. [Payment Entry](payment-entry.md)
+  3. [Payment Request](payment-request.md)
+  4. [Landed Cost Voucher](landed-cost-voucher.md)
+  5. [Asset](asset.md)
 
 
 
-![](/files/Screenshot%202026-01-19%20at%2012.45.03%20PM.png)
+![](../../assets/c51dcec85cd0.png)
 
   1. More
 
@@ -287,7 +287,7 @@ The Purchase Invoice will affect your accounts as follows:
 
 
 
-![](/files/Screenshot%202026-01-19%20at%2012.45.54%20PM.png)
+![](../../assets/898e5a0e7dea.png)
 
 ### 4.2 Accounting When **Is Paid** is checked
 
@@ -340,7 +340,7 @@ Date span hold holds the purchase invoice until a specified date. To do it, in t
 
 After the invoice has been saved, you can change the release date by clicking on the "Hold Invoice" drop-down button and then "Change Release Date". This action will cause a dialog to appear.
 
-![](/files/Screenshot%202026-01-19%20at%2012.47.43%20PM.png)
+![](../../assets/bbae39a93fcc.png)
 
 Select the new release date and click "Save". You should also enter a comment in the "Reason For Putting On Hold" field.
 
@@ -361,41 +361,41 @@ In many situations, a service is received and the expense is incurred but the Pu
 
 
 
-![](../../assets/5ae6dcecc5f5.png)
+![](https://docs.frappe.io/assets/5ae6dcecc5f5.png)
 
   1. Make a Purchase Receipt for a non-stock item
 
 
 
-![](../../assets/e467b44a2e47.png)
+![](https://docs.frappe.io/assets/e467b44a2e47.png)
 
 Accounting entries against the Purchase Receipt will be as follows
 
-![](../../assets/79e27af086a8.png)
+![](https://docs.frappe.io/assets/79e27af086a8.png)
 
   1. Make a Purchase Invoice against the Purchase Receipt Accounting entries against the Purchase Invoice will be posted as usual
 
 
 
-![](../../assets/4993ef41efb1.png)
+![](https://docs.frappe.io/assets/4993ef41efb1.png)
 
 On posting a purchase invoice accounting entries against the purchase receipt will be reversed
 
-![](../../assets/7821262d8935.png)
+![](https://docs.frappe.io/assets/7821262d8935.png)
 
 ### 5\. Related Topics
 
-  1. [Sales Invoice](</erpnext/sales-invoice>)
-  2. [Item Wise Taxation](</erpnext/item-tax-template>)
-  3. [Payment Entry](</erpnext/payment-entry>)
-  4. [Payment Request](</erpnext/payment-request>)
-  5. [Request For Quotation](</erpnext/request-for-quotation>)
-  6. [Purchase Order](</erpnext/purchase-order>)
-  7. [Purchase Receipt](</erpnext/purchase-receipt>)
+  1. [Sales Invoice](sales-invoice.md)
+  2. [Item Wise Taxation](item-tax-template.md)
+  3. [Payment Entry](payment-entry.md)
+  4. [Payment Request](payment-request.md)
+  5. [Request For Quotation](request-for-quotation.md)
+  6. [Purchase Order](purchase-order.md)
+  7. [Purchase Receipt](purchase-receipt.md)
 
 
 
-[ Previous Page Loyalty Program  ](</erpnext/loyalty-program>) [ Next Page Debit Note  ](</erpnext/debit-note>)
+[ Previous Page Loyalty Program  ](loyalty-program.md) [ Next Page Debit Note  ](debit-note.md)
 
 Last updated 2 weeks ago 
 

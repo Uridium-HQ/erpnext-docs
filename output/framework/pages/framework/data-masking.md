@@ -1,18 +1,18 @@
 # Data Masking
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tledcppsi>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tledcppsi)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Data Masking
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tledcppsi>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tledcppsi)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 > Note: This feature is only available in nightly (v16) version. This feature is considered experimental.
 
-In the Frappe Framework, permissions can be applied to control field visibility using [Perm Levels](<https://docs.frappe.io/erpnext/user/manual/en/managing-perm-level>).
+In the Frappe Framework, permissions can be applied to control field visibility using [Perm Levels](https://docs.frappe.io/erpnext/user/manual/en/managing-perm-level).
 
 However, in many business scenarios, it's important to show certain fields while hiding their sensitive data. For example:
 
@@ -42,7 +42,7 @@ Data Masking can be enabled directly from the Doctype or through the Customize F
 
 Once enabled, users who do not have the Mask permission for that field will see masked or hidden data, while users with the appropriate permission will see the actual value.
 
-Here's a quick demo showing how to enable Data Masking: ![Enable Data Masking](/files/data-masking.gif)
+Here's a quick demo showing how to enable Data Masking: ![Enable Data Masking](https://docs.frappe.io/assets/96c51d1f1d23.gif)
 
 #### Supported Field Types
 
@@ -86,7 +86,7 @@ The system checks if the current user has the `mask` permission for that field u
 
 > Note: Data Masking does **not** apply automatically to custom SQL queries or Query Reports that use raw SQL. In such cases, developers need to explicitly apply masking logic in their query results before returning the response.
 
-[ Previous Page Customizing DocTypes  ](</framework/user/en/basics/doctypes/customize>) [ Next Page Permission Types ](</framework/permission-types>)
+[ Previous Page Customizing DocTypes  ](user/en/basics/doctypes/customize.md) [ Next Page Permission Types ](https://docs.frappe.io/framework/permission-types)
 
 Last updated 3 weeks ago 
 

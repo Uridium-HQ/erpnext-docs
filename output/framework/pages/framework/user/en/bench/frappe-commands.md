@@ -1,20 +1,20 @@
 # Frappe Commands
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0u5vp069po>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0u5vp069po)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Frappe Commands
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0u5vp069po>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0u5vp069po)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 The Bench CLI utilizes the module`frappe.utils.bench_manager` to get the framework's as well as any other Application's commands present on the current bench directory.
 
-This page is concerned only with the commands that exist in the Frappe project, that are a direct part of the CLI tool. These commands are defined under the [frappe/frappe](<https://github.com/frappe/frappe>).
+This page is concerned only with the commands that exist in the Frappe project, that are a direct part of the CLI tool. These commands are defined under the [frappe/frappe](https://github.com/frappe/frappe).
 
-> For references of any Bench commands, checkout [Bench Commands](</framework/v14/user/en/bench/bench-commands>).
+> For references of any Bench commands, checkout [Bench Commands](../../../v14/user/en/bench/bench-commands.md).
 
 There are four major command types in Frappe inherited by Bench during command executions. They can be broadly grouped into
 
@@ -32,7 +32,7 @@ Create a new Site on your bench. By default, all sites created on your bench wil
     
 [/code]
 
-For more information and examples, see the [bench new-site](</framework/v14/user/en/bench/reference/new-site>) reference.
+For more information and examples, see the [bench new-site](../../../v14/user/en/bench/reference/new-site.md) reference.
 
 #### Site Backups
 
@@ -46,7 +46,7 @@ You can use the Bench CLI to take backups on the sites of your bench. You can ma
 
 The Bench CLI also deletes the older backup files from your bench directory. By default, it deletes backups older than 24 hours from the backups directory.
 
-For more information and examples, see the [bench backup](</framework/v14/user/en/bench/reference/backup>) reference.
+For more information and examples, see the [bench backup](../../../v14/user/en/bench/reference/backup.md) reference.
 
 #### Site Restores
 
@@ -60,17 +60,17 @@ Bench CLI can be used to restore an existing site to a previous state. Using the
 
 The least requirement for performing a restore operation is having the database file on your local filesystem. The specified backup file may have the `sql.gz` of `sql` extension.
 
-For more information and examples, see the [bench restore](</framework/v14/user/en/bench/reference/restore>) reference.
+For more information and examples, see the [bench restore](../../../v14/user/en/bench/reference/restore.md) reference.
 
 #### Partial Site Restores and Backups
 
 Since Version 13, Frappe has support for taking partial backups and restoring them. Partial backups can be taken using the `bench backup` command directly. As for partial restores, the `bench partial-restore` command may be used to restore the partial backups to an existing site.
 
-For more information and examples, see the [bench partial-restore](</framework/v14/user/en/bench/reference/partial-restore>) and [bench backup](</framework/v14/user/en/bench/reference/backup>) reference.
+For more information and examples, see the [bench partial-restore](../../../v14/user/en/bench/reference/partial-restore.md) and [bench backup](../../../v14/user/en/bench/reference/backup.md) reference.
 
 #### Site App Management
 
-You can install or uninstall Frappe Applications available on your Bench. To add Apps to your bench using `bench get-app` checkout [the docs](</framework/v14/user/en/bench/bench-commands#frequently-used>).
+You can install or uninstall Frappe Applications available on your Bench. To add Apps to your bench using `bench get-app` checkout [the docs](../../../v14/user/en/bench/bench-commands.md).
 
 ##### App Installation
 
@@ -96,11 +96,11 @@ Uninstall an app installed on site. This is a destructive action and consists of
 
 > Note: From Version 13, even apps not installed on the Bench can be uninstalled from the site.
 
-For more information and examples, see the [bench uninstall-app](</framework/v14/user/en/bench/reference/uninstall-app>) reference.
+For more information and examples, see the [bench uninstall-app](../../../v14/user/en/bench/reference/uninstall-app.md) reference.
 
 #### Site Migrations
 
-Run patches, sync schema and rebuild files, translations and indexes on a particular site. Find out how site migrations work in [the docs](</framework/v14/user/en/database-migrations>).
+Run patches, sync schema and rebuild files, translations and indexes on a particular site. Find out how site migrations work in [the docs](../../../v14/user/en/database-migrations.md).
 [code] 
     bench --site {site} migrate
       
@@ -108,7 +108,7 @@ Run patches, sync schema and rebuild files, translations and indexes on a partic
     
 [/code]
 
-For more information and examples, see the [bench migrate](</framework/v14/user/en/bench/reference/migrate>) reference.
+For more information and examples, see the [bench migrate](../../../v14/user/en/bench/reference/migrate.md) reference.
 
 #### Site Deletion
 
@@ -120,7 +120,7 @@ Drops the database and moves the site directory from `./sites` to the `./archive
     
 [/code]
 
-For more information and examples, see the [bench drop-site](</framework/v14/user/en/bench/reference/drop-site>) reference.
+For more information and examples, see the [bench drop-site](../../../v14/user/en/bench/reference/drop-site.md) reference.
 
 #### Reset Site Data
 
@@ -132,7 +132,7 @@ Re-install all installed Applications from your specified site. This completely 
     
 [/code]
 
-For more information and examples, see the [bench reinstall](</framework/v14/user/en/bench/reference/reinstall>) reference.
+For more information and examples, see the [bench reinstall](../../../v14/user/en/bench/reference/reinstall.md) reference.
 
 #### List Installed Apps
 
@@ -146,7 +146,7 @@ List all the Frappe Applications installed on the specified site. The informatio
 
 Multi-site support has been added in Version 13. To see the summary for all sites, run the command with site's value as `all`.
 
-For more information and examples, see the [bench list-apps](</framework/v14/user/en/bench/reference/list-apps>) reference.
+For more information and examples, see the [bench list-apps](../../../v14/user/en/bench/reference/list-apps.md) reference.
 
 #### Setting the default site
 
@@ -213,7 +213,7 @@ Here are some operations you can perform on your site via the Bench CLI to updat
   * **add-system-manager** : Add a new system manager to a site.
   * **add-user** : Add a new User with specific roles to a site.
   * **add-to-hosts** : Add the specified site to the hosts file on your system.
-  * **build-search-index** : Builds search index for Websites. Refer to [Full Text Search API Docs](</framework/v14/user/en/api/full-text-search>) for more information.
+  * **build-search-index** : Builds search index for Websites. Refer to [Full Text Search API Docs](../../../v14/user/en/api/full-text-search.md) for more information.
   * **disable-user** : Disable user on site.
   * **publish-realtime** : Publish realtime event from bench.
   * **reload-doc** : Reload schema for a particular _Doctype_ and refresh the specified _Document_
@@ -250,7 +250,7 @@ The `transform-database` command allows you to manage the settings of your site'
     
 [/code]
 
-For more information and examples, see the [bench transform-database](</framework/v14/user/en/bench/reference/transform-database>) reference.
+For more information and examples, see the [bench transform-database](../../../v14/user/en/bench/reference/transform-database.md) reference.
 
 #### Table Trimming
 
@@ -272,7 +272,7 @@ Some benefits of regular table trimming are:
     
 [/code]
 
-For more information and examples, see the [bench trim-tables](</framework/v14/user/en/bench/reference/trim-tables>) reference.
+For more information and examples, see the [bench trim-tables](../../../v14/user/en/bench/reference/trim-tables.md) reference.
 
 #### Database Trimming
 
@@ -284,7 +284,7 @@ Deleting DocTypes from the list view may not delete their corresponding tables f
     
 [/code]
 
-For more information and examples, see the [bench trim-database](</framework/v14/user/en/bench/reference/trim-database>) reference.
+For more information and examples, see the [bench trim-database](../../../v14/user/en/bench/reference/trim-database.md) reference.
 
 ### Scheduler Commands
 
@@ -310,7 +310,7 @@ Frappe Utility commands that can be both, site or bench specific. These commands
 
 #### Displaying Site Config
 
-The applied configuration for your sites gets applied as a combination of the bench directory's `common_site_config.json` and the site's own `site_config.json`. You can read more about this, [here](</framework/v14/user/en/basics/site_config>). Bench provides an interface to view the applied `frappe.conf` values for your sites. You may choose to access this information in tabular or JSON formats.
+The applied configuration for your sites gets applied as a combination of the bench directory's `common_site_config.json` and the site's own `site_config.json`. You can read more about this, [here](../../../v14/user/en/basics/site_config.md). Bench provides an interface to view the applied `frappe.conf` values for your sites. You may choose to access this information in tabular or JSON formats.
 [code] 
     bench --site {site} show-config
       
@@ -318,7 +318,7 @@ The applied configuration for your sites gets applied as a combination of the be
     
 [/code]
 
-For more information and examples, see the [bench show-config](</framework/v14/user/en/bench/reference/show-config>) reference.
+For more information and examples, see the [bench show-config](../../../v14/user/en/bench/reference/show-config.md) reference.
 
 #### Updating Site Config
 
@@ -330,7 +330,7 @@ Bench provides a wrapper command to insert or update values in the site config f
     
 [/code]
 
-For more information and examples, see the [bench set-config](</framework/v14/user/en/bench/reference/set-config>) reference.
+For more information and examples, see the [bench set-config](../../../v14/user/en/bench/reference/set-config.md) reference.
 
 #### Display Version Of Installed Apps
 
@@ -342,7 +342,7 @@ The `version` command displays all installed apps and their versions.
     
 [/code]
 
-With version 13, the `-f` / `--format` option was introduced. This option allows you to display additional information about the branch and last commit. For more information and examples, see the [bench version](</framework/v14/user/en/bench/reference/bench-version>) reference.
+With version 13, the `-f` / `--format` option was introduced. This option allows you to display additional information about the branch and last commit. For more information and examples, see the [bench version](../../../v14/user/en/bench/reference/bench-version.md) reference.
 
 #### More Commands
 
@@ -415,7 +415,7 @@ Set of commands to manage Gettext based translation files. These commands are de
 
 
 
-[ Previous Page Bench Commands  ](</framework/user/en/bench/bench-commands>) [ Next Page Bench - Extending the CLI  ](</framework/user/en/bench/extending-the-cli>)
+[ Previous Page Bench Commands  ](bench-commands.md) [ Next Page Bench - Extending the CLI  ](https://docs.frappe.io/framework/user/en/bench/extending-the-cli)
 
 Last updated 3 weeks ago 
 

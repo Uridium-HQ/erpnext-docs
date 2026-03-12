@@ -1,12 +1,12 @@
 # Asset Repair
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s383jvchp>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s383jvchp)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Asset Repair 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s383jvchp>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s383jvchp)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -24,7 +24,7 @@ To access the Asset Repair list, go to:
 
 Before creating an Asset Repair, ensure:
 
-  * [Asset](</erpnext/asset>)
+  * [Asset](asset.md)
 
 
 
@@ -42,7 +42,7 @@ Before creating an Asset Repair, ensure:
 
 
 
-![](/files/Screenshot%202026-01-11%20at%2010.49.56%E2%80%AFPM.png)
+![](../../assets/619cf58f25ce.png)
 
 > Note: Alternatively, you could open the record for the Asset in question and click on the **Repair Asset** button under **Manage** , and then follow steps 3-8.
 
@@ -58,20 +58,20 @@ If checked, the Repair Cost will be added to the Asset's value. This could also 
 
 The number of months by which the Asset's life might be extended by the repair can be added here. This will modify the Depreciation Schedule of the Asset. This field will only be visible if Capitalize Repair Cost is checked.
 
-![](/files/Screenshot%202026-01-11%20at%2010.53.02%E2%80%AFPM.png)
+![](../../assets/8c0a88cac47b.png)
 
 ### 3.3 Consumed Stock Items
 
 Entering Stock Items consumed during the repair here will create a Stock Entry record of type Material Issue for them, thereby decreasing their quantity. GL Entries will also be created for each Item in the table. In case of Serialized Items, the Item row can be expanded to reveal the Add Serial No button.
 
-![](/files/Screenshot%202026-01-11%20at%2010.56.17%E2%80%AFPM.png)
+![](../../assets/ae63b8959198.png)
 
   * **Error Description** : A detailed descripton of the problem can be entered here.
   * **Actions Performed** : A sequence of actions performed to carry out the repair can be noted down here.
 
 
 
-![](/files/Screenshot%202026-01-11%20at%2010.59.48%E2%80%AFPM.png)
+![](../../assets/3c6b89480719.png)
 
 ### 3.4 Accounting Dimensions
 
@@ -83,15 +83,15 @@ Accounting Dimensions let you tag transactions based on a specific Territory, Br
 
 A Purchase Invoice can be linked with the Asset Repair, to account for any Items that need to be purchased to carry out the repair or the repair service offered.
 
-![](/files/Screenshot%202026-01-11%20at%2011.00.38%E2%80%AFPM.png)
+![](../../assets/7697cdd580e4.png)
 
 ### 3.6 Total Repair Cost
 
 If Stock Consumed During Repair is checked, the Total Repair Cost will be computed based on the value of the consumed Stock Items and the Repair Cost entered.
 
-![](/files/Screenshot%202026-01-11%20at%2011.01.18%E2%80%AFPM.png)
+![](../../assets/955f8220d2f4.png)
 
-[ Previous Page Asset Movement ](</erpnext/asset-movement>) [ Next Page Asset Value Adjustment  ](</erpnext/asset-value-adjustment>)
+[ Previous Page Asset Movement ](asset-movement.md) [ Next Page Asset Value Adjustment  ](asset-value-adjustment.md)
 
 Last updated 1 week ago 
 

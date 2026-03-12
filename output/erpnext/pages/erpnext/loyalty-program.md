@@ -1,12 +1,12 @@
 # Loyalty Program
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rleu809s5>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rleu809s5)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Loyalty Program 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rleu809s5>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rleu809s5)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -22,8 +22,8 @@ To access the Loyalty Program list, go to:
 
 Before creating and using a Loyalty Program, it is advised to create the following first:
 
-  1. [Customer](</erpnext/customer>)
-  2. [Sales Invoice](</erpnext/sales-invoice>)
+  1. [Customer](customer.md)
+  2. [Sales Invoice](sales-invoice.md)
 
 
 
@@ -34,7 +34,7 @@ Before creating and using a Loyalty Program, it is advised to create the followi
   3. Select whether the program is Single Tiered or Multi Tiered (gold, silver, etc).
   4. Set a start and end date for the program.
   5. Select the Customer Group and Territory for which this program is applicable, the default is all.
-  6. For opting in all Customers by default, tick on 'Auto Opt In (For all customers)'. Otherwise, the program needs to be assigned from the [Customer master](</erpnext/loyalty-program#22-loyalty-points-in-customer>).
+  6. For opting in all Customers by default, tick on 'Auto Opt In (For all customers)'. Otherwise, the program needs to be assigned from the [Customer master](loyalty-program.md).
   7. In the table, enter:
   8. **Tier name** : To be assigned to a Customer based on his eligibility.
   9. **Collection Factor** : How much amount needs to be spent to gain 1 Loyalty Point in ERPNext.
@@ -44,7 +44,7 @@ Before creating and using a Loyalty Program, it is advised to create the followi
 
 
 
-![Loyalty Program](/files/loyalty-program.png)
+![Loyalty Program](https://docs.frappe.io/assets/4c9519d13232.png)
 
 ### 2.1 Redemption section
 
@@ -61,17 +61,17 @@ Before creating and using a Loyalty Program, it is advised to create the followi
 
 Set a Loyalty Program section in the Customer master to assign a Loyalty Program to a Customer.
 
-![Loyalty Program in Customer](/files/loyalty-program-in-customer.png)
+![Loyalty Program in Customer](https://docs.frappe.io/assets/12a2e9f9dec9.png)
 
 **Loyalty points** earned can be viewed in the Customer's dashboard.
 
-![Loyalty Points](/files/loyalty-points-in-customer.png)
+![Loyalty Points](https://docs.frappe.io/assets/01f2de0e90e1.png)
 
 ### 2.3 Loyalty Point Entry
 
 Go to: **Accounts > Retail Operations > Loyalty Point Entry**. This acts as a log to give an overview of which Customer earned how many points against which Sales Invoice. It holds the data Invoice and Customer.
 
-![Loyalty Program Entry](/files/loyalty-program-entry.png)
+![Loyalty Program Entry](https://docs.frappe.io/assets/313c930cdbf5.png)
 
 ## 3\. How does a Loyalty Program work?
 
@@ -90,11 +90,11 @@ Go to: **Accounts > Retail Operations > Loyalty Point Entry**. This acts as a lo
 
 ### 3.2 Redeeming Points
 
-  * Let's continue from the above example where we created 1 invoice and earned 15 points from it. When creating another invoice for the same Customer, go to the Loyalty Points section and enable the checkbox to 'Redeem Loyalty Points'. ![Redeem Loyalty Points](/files/redeem-loyalty-points.png)
+  * Let's continue from the above example where we created 1 invoice and earned 15 points from it. When creating another invoice for the same Customer, go to the Loyalty Points section and enable the checkbox to 'Redeem Loyalty Points'. ![Redeem Loyalty Points](https://docs.frappe.io/assets/457d48559a91.png)
   * The fields for 'Loyalty Point', 'Redemption Account' and 'Redemption Cost Center' will become visible under this section. The account and Cost Center will be fetched from the **Loyalty Program** assigned to the **Customer**.
   * Since the Customer has earned 15 points, we can use all of it until expiry. If we try to use more than what we have an error will be thrown.
   * In above example, we have used 6375 points to be redeemed. Doing so will enable another field that will display the amount calculated using (loyalty point * Conversion Factor). So, USD 6375 will be deducted from our the amount since our 'Conversion Factor' was '1'.
-  * When submitted, 2 **Loyalty Point Entries** will be created. One for redeemed, which will be a negative value and one for the current invoice. ![Loyalty Point](/files/loyalty-point-entry-redeem.png)
+  * When submitted, 2 **Loyalty Point Entries** will be created. One for redeemed, which will be a negative value and one for the current invoice. ![Loyalty Point](https://docs.frappe.io/assets/ee71632a80d2.png)
 
 
 
@@ -102,14 +102,14 @@ Go to: **Accounts > Retail Operations > Loyalty Point Entry**. This acts as a lo
 
 ### 4\. Related Topics
 
-  1. [Cost Center](</erpnext/cost-center>)
-  2. [Sales Invoice](</erpnext/sales-invoice>)
-  3. [Customer](</erpnext/customer>)
-  4. [Customer Group](</erpnext/customer-group>)
+  1. [Cost Center](cost-center.md)
+  2. [Sales Invoice](sales-invoice.md)
+  3. [Customer](customer.md)
+  4. [Customer Group](customer-group.md)
 
 
 
-[ Previous Page Sales Interest / Dunning ](</erpnext/dunning>) [ Next Page Purchase Invoice ](</erpnext/purchase-invoice>)
+[ Previous Page Sales Interest / Dunning ](dunning.md) [ Next Page Purchase Invoice ](purchase-invoice.md)
 
 Last updated 2 weeks ago 
 

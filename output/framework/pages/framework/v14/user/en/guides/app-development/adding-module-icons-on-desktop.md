@@ -1,12 +1,12 @@
 # Adding Module Icons On Desktop
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12apsb77hl>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12apsb77hl)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Adding Module Icons On Desktop 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12apsb77hl>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12apsb77hl)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -66,7 +66,7 @@ You can also create a dropdown list of actions available on this module and acti
 
 Note: Module views are visible based on permissions.
 
-[ Previous Page Fetch a Field Value from a Document into a Transaction  ](</framework/v14/user/en/guides/app-development/fetch-custom-field-value-from-master-to-all-related-transactions>) [ Next Page Single Type Doctype  ](</framework/v14/user/en/guides/app-development/single-type-doctype>)
+[ Previous Page Fetch a Field Value from a Document into a Transaction  ](fetch-custom-field-value-from-master-to-all-related-transactions.md) [ Next Page Single Type Doctype  ](single-type-doctype.md)
 
 Last updated 2 months ago 
 

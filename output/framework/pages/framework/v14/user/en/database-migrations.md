@@ -1,12 +1,12 @@
 # Database Migrations
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/134n33ijrf>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/134n33ijrf)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Database Migrations 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/134n33ijrf>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/134n33ijrf)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -28,16 +28,16 @@ On running a `migrate`, all apps migrate to their current version. First, we run
 
   * Database Schema
   * Background Jobs
-  * Fixtures _[[Read more](</framework/v14/user/en/python-api/hooks#fixtures>)]_
+  * Fixtures _[[Read more](python-api/hooks.md)]_
   * Dashboards, Desktop Icons and Web Pages
   * Updates Translations
   * Rebuild Search Index for all routes
 
 
 
-Particularly for DocTypes, we compare the MD5 hash of each DocType JSON with the hashes we have stored in the DocType database table. If the hashes don't match, we reload the particular DocType. This technique is called checksum comparison, you can learn more about it [here](<https://www.computerworld.com/article/2819393/unix-tip--comparing-files-with-checksums.html>). Finally, we run a "after\\_migrate" hook to finish the migration. You can find the commands run for the individual processes at [bench-site-commands](<bench/frappe-commands#site-commands>)
+Particularly for DocTypes, we compare the MD5 hash of each DocType JSON with the hashes we have stored in the DocType database table. If the hashes don't match, we reload the particular DocType. This technique is called checksum comparison, you can learn more about it [here](https://www.computerworld.com/article/2819393/unix-tip--comparing-files-with-checksums.html). Finally, we run a "after\\_migrate" hook to finish the migration. You can find the commands run for the individual processes at [bench-site-commands](bench/frappe-commands.md)
 
-> Note: Up Until `v13` DocTypes were synced based on the modified timestamps in the JSON file. This method was error-prone so we moved to the more robust hash comparison method. You can read more about it [here](<https://github.com/frappe/frappe/pull/14246#issuecomment-928942292>)
+> Note: Up Until `v13` DocTypes were synced based on the modified timestamps in the JSON file. This method was error-prone so we moved to the more robust hash comparison method. You can read more about it [here](https://github.com/frappe/frappe/pull/14246)
 
 When you remove or rename fields in the DocType, the corresponding database columns are not removed from the database table, but they will not be visible in the form view. This is done to avoid any potential data loss situations and to allow you write related data migrations (patches) which might need values from old fields.
 
@@ -118,7 +118,7 @@ For Example,
     
 [/code]
 
-[ Previous Page Bench Procfile  ](</framework/v14/user/en/bench/resources/bench-procfile>) [ Next Page Production Setup  ](</framework/v14/user/en/production-setup>)
+[ Previous Page Bench Procfile  ](bench/resources/bench-procfile.md) [ Next Page Production Setup  ](production-setup.md)
 
 Last updated 2 months ago 
 

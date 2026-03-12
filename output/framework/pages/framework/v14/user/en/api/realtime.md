@@ -1,16 +1,16 @@
 # Realtime (socket.io)
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12s8ipa5k9>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12s8ipa5k9)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Realtime (socket.io)
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12s8ipa5k9>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12s8ipa5k9)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-Frappe ships with an API for realtime events based on [socket.io](<https://socket.io/>). Since socket.io needs a Node server to run, we run a Node process in parallel to the main web server.
+Frappe ships with an API for realtime events based on [socket.io](https://socket.io/). Since socket.io needs a Node server to run, we run a Node process in parallel to the main web server.
 
 ## frappe.realtime.on
 
@@ -46,9 +46,9 @@ You can use this method to show a progress bar in a dialog:
     
 [/code]
 
-![frappe publish realtime](/files/frappe-publish-realtime.png)
+![frappe publish realtime](https://docs.frappe.io/assets/f1336f0d91fa.png)
 
-[ Previous Page Form Tours  ](</framework/v14/user/en/form-tours>) [ Next Page Background Jobs ](</framework/v14/user/en/api/background_jobs>)
+[ Previous Page Form Tours  ](../form-tours.md) [ Next Page Background Jobs ](background_jobs.md)
 
 Last updated 2 months ago 
 

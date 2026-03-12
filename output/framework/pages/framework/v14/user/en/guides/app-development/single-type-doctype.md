@@ -1,12 +1,12 @@
 # Single Type Doctype
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12a6nl4t18>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12a6nl4t18)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Single Type Doctype 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12a6nl4t18>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12a6nl4t18)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,7 +20,7 @@ The data in Single DocType is stored in `tabSingles` (`doctype`, `field`, `value
 
 In Frappe, Single types are **System Settings** and **Customize Form**
 
-[ Previous Page Adding Module Icons On Desktop  ](</framework/v14/user/en/guides/app-development/adding-module-icons-on-desktop>) [ Next Page Prerequisites  ](</framework/v14/user/en/guides/app-development/generic-oauth-client>)
+[ Previous Page Adding Module Icons On Desktop  ](adding-module-icons-on-desktop.md) [ Next Page Prerequisites  ](generic-oauth-client.md)
 
 Last updated 2 months ago 
 

@@ -1,12 +1,12 @@
 # Landed Cost Voucher
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rssstls8s>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rssstls8s)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Landed Cost Voucher
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rssstls8s>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rssstls8s)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,7 +20,7 @@ Landed costs include the original cost of the item, complete shipping costs, cus
 
 Similarly in business, identifying landed cost for an Item/product is very crucial, as it helps to decide selling cost of that item and impacts the company’s profitability. Hence all applicable landed cost charges should be included in Item’s valuation rate.
 
-According to the [Third-Party Logistics Study](<http://www.3plstudy.com/>), only 45% of the respondents stated that they use Landed Cost extensively. The main reasons of not using Landed Cost were unavailability of necessary data (49%), lack of right tools (48%), insufficient time (31%), and not sure how to apply landed cost (27%).
+According to the [Third-Party Logistics Study](http://www.3plstudy.com/), only 45% of the respondents stated that they use Landed Cost extensively. The main reasons of not using Landed Cost were unavailability of necessary data (49%), lack of right tools (48%), insufficient time (31%), and not sure how to apply landed cost (27%).
 
 To access the Landed Cost Voucher list, go to: > Home > Stock > Tools > Landed Cost Voucher
 
@@ -55,13 +55,13 @@ We will then use the **Landed Cost Voucher** to decrease the costs recorded thro
 
 
 
-![Landed Cost Voucher](/files/landed-cost-voucher.png)
+![Landed Cost Voucher](https://docs.frappe.io/assets/9f25f68485c3.png)
 
 In the document, you can select multiple Purchase Receipts/Invoices and fetch all items from those Purchase Receipts. Then you should add applicable charges in “Taxes and Charges” table. You can easily delete an item if the added charges do not apply to that item.
 
 The added charges are proportionately distributed among all the items based their amount or quantity. If you selected based on the amount, the Item with the highest amount will be allocated the highest proportion of the charges. In case of quantity, Item with the highest quantity will be allocated most of the charges and the other Items will be allocated lesser amounts. This is shown in the following screenshot:
 
-![Landed Cost Voucher](/files/landed-cost-distribution.png)
+![Landed Cost Voucher](https://docs.frappe.io/assets/733154e41c3d.png)
 
   3. Related Actions
 
@@ -94,22 +94,22 @@ From version 16 of ERPNext, users can create a Landed Cost Voucher against a Sub
 
 This feature allows users to include additional costs—such as freight charges, excise duty into the final valuation rate of the subcontracted product.
 
-![](/files/Screenshot%202025-06-16%20at%208.07.42%20PM.png)
+![](../../assets/a30f43b653b7.png)
 
 ### 3.5 Vendor Invoices
 
 You can link vendor invoices in the Landed Cost Voucher, and the system will ensure that the Landed Cost matches the total vendor invoice amount. Make sure the vendor invoices do not include any stock items.
 
-![](/files/Screenshot%202025-07-30%20at%2011.19.43%20PM.png)
+![](../../assets/13fba07cd9b8.png)
 
 ### 4\. Related Topics
 
-  1. [Delivery Trip](</erpnext/delivery-trip>)
-  2. [Purchase Receipt](</erpnext/purchase-receipt>)
+  1. [Delivery Trip](delivery-trip.md)
+  2. [Purchase Receipt](purchase-receipt.md)
 
 
 
-[ Previous Page Track Purchases In Accounts ](</erpnext/track-purchases-in-accounts>) [ Next Page Quality Inspection ](</erpnext/quality-inspection>)
+[ Previous Page Track Purchases In Accounts ](track-purchases-in-accounts.md) [ Next Page Quality Inspection ](quality-inspection.md)
 
 Last updated 2 weeks ago 
 

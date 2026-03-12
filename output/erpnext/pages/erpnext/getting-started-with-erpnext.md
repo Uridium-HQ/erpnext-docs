@@ -1,12 +1,12 @@
 # Getting Started with ERPNext
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0r96j5uv87>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0r96j5uv87)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Getting Started with ERPNext
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0r96j5uv87>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0r96j5uv87)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -21,7 +21,7 @@ Getting started with ERPNext can seem overwhelming, but focusing on these steps 
 
 **2\. Choose Deployment**
 
-  * **Cloud Hosting** : Opt for an easy setup with minimal infrastructure by using [Frappe Cloud](<https://frappe.io/cloud>) or a third-party provider.
+  * **Cloud Hosting** : Opt for an easy setup with minimal infrastructure by using [Frappe Cloud](https://frappe.io/cloud) or a third-party provider.
   * **Self-Hosting** : Install ERPNext on your own server if you have the technical resources and prefer control over your setup.
 
 
@@ -29,7 +29,7 @@ Getting started with ERPNext can seem overwhelming, but focusing on these steps 
 **3\. Setup ERPNext**
 
   * **Cloud** : Sign-up and follow the setup instructions.
-  * **Self-Hosting** : Prepare your server, and follow the [installation guide](<https://github.com/frappe/erpnext>) to set up ERPNext.
+  * **Self-Hosting** : Prepare your server, and follow the [installation guide](https://github.com/frappe/erpnext) to set up ERPNext.
 
 
 
@@ -43,12 +43,12 @@ Getting started with ERPNext can seem overwhelming, but focusing on these steps 
 
 **5\. Train and Launch**
 
-  * **Train Users** : Provide training [sessions or resources](<https://school.frappe.io/lms/courses>) to help your team get familiar with ERPNext.
+  * **Train Users** : Provide training [sessions or resources](https://school.frappe.io/lms/courses) to help your team get familiar with ERPNext.
   * **Go Live** : Transition to ERPNext for your daily operations and monitor the system for any issues.
 
 
 
-[ Previous Page Concepts and Terms ](</erpnext/concepts-and-terms>) [ Next Page Setting Up  ](</erpnext/setting-up>)
+[ Previous Page Concepts and Terms ](concepts-and-terms.md) [ Next Page Setting Up  ](setting-up.md)
 
 Last updated 2 weeks ago 
 

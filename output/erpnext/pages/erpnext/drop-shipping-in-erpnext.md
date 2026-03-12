@@ -1,12 +1,12 @@
 # Drop Ship
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rinakirpk>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rinakirpk)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Drop Ship
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rinakirpk>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rinakirpk)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -26,7 +26,7 @@ Consider a business dealing with Computer Monitors. Now, the retailer has receiv
 
 
 
-![](/files/imagea168ed.png)
+![](../../assets/833803702412.png)
 
 ### **Sales Cycle:**
 
@@ -34,7 +34,7 @@ Consider a business dealing with Computer Monitors. Now, the retailer has receiv
 
 
 
-![](/files/image03c50d.png)
+![](../../assets/9c91e8a95f8d.png)
 
 ### **Order Fulfillment:**
 
@@ -42,9 +42,9 @@ Consider a business dealing with Computer Monitors. Now, the retailer has receiv
 
 
 
-![](/files/mSsoueP.gif)
+![](../../assets/39254f09d21e.gif)
 
-[ Previous Page Blanket Order ](</erpnext/blanket-order>) [ Next Page Credit Limit  ](</erpnext/credit-limit>)
+[ Previous Page Blanket Order ](blanket-order.md) [ Next Page Credit Limit  ](credit-limit.md)
 
 Last updated 2 weeks ago 
 

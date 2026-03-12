@@ -1,16 +1,16 @@
 # OAuth2
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0u4csri83f>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0u4csri83f)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # OAuth2
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0u4csri83f>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0u4csri83f)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-Frappe Framwork uses [`oauthlib`](<https://github.com/oauthlib/oauthlib>) to manage OAuth2 requirements. A Frappe instance can function as all of these:
+Frappe Framwork uses [`oauthlib`](https://github.com/oauthlib/oauthlib) to manage OAuth2 requirements. A Frappe instance can function as all of these:
 
   1. **Resource Server** : contains resources, for example the data in your DocTypes.
   2. **Authorization Server** : server that issues tokens to access some resource.
@@ -38,9 +38,9 @@ DocTypes pertaining to the above roles:
 
 Additional features over `oauthlib` that have implemented in the Framework:
 
-  * **Dynamic Client Registration** : allows a client to register itself without manual configuration by the resource owner. [RFC7591](<https://datatracker.ietf.org/doc/html/rfc7591>)
-  * **Authorization Server Metadata Discovery** : allows a client to view the instance's auth server (itself) metadata such as auth end points. [RFC8414](<https://datatracker.ietf.org/doc/html/rfc8414>)
-  * **Resource Server Metadata Discovery** : allows a client to view the instance's resource server metadata such as documentation, auth servers, etc. [RFC9728](<https://datatracker.ietf.org/doc/html/rfc9728>)
+  * **Dynamic Client Registration** : allows a client to register itself without manual configuration by the resource owner. [RFC7591](https://datatracker.ietf.org/doc/html/rfc7591)
+  * **Authorization Server Metadata Discovery** : allows a client to view the instance's auth server (itself) metadata such as auth end points. [RFC8414](https://datatracker.ietf.org/doc/html/rfc8414)
+  * **Resource Server Metadata Discovery** : allows a client to view the instance's resource server metadata such as documentation, auth servers, etc. [RFC9728](https://datatracker.ietf.org/doc/html/rfc9728)
 
 
 
@@ -48,12 +48,12 @@ Additional features over `oauthlib` that have implemented in the Framework:
 
 Documentation of various OAuth2 features:
 
-  1. [How to setup OAuth 2?](<https://docs.frappe.io/framework/user/en/guides/integration/how_to_set_up_oauth>)
-  2. [OAuth 2](<https://docs.frappe.io/framework/user/en/guides/integration/rest_api/oauth-2>)
-  3. [Token Based Authentication](<https://docs.frappe.io/framework/user/en/guides/integration/rest_api/token_based_authentication>)
-  4. [Using Frappe as OAuth Service](<https://docs.frappe.io/framework/user/en/using_frappe_as_oauth_service>)
-  5. [Social Login Key](<https://docs.frappe.io/framework/user/en/guides/integration/social_login_key>)
-  6. [Connected App](<https://docs.frappe.io/framework/user/en/guides/app-development/connected-app>)
+  1. [How to setup OAuth 2?](https://docs.frappe.io/framework/user/en/guides/integration/how_to_set_up_oauth.md)
+  2. [OAuth 2](https://docs.frappe.io/framework/user/en/guides/integration/rest_api/oauth-2.md)
+  3. [Token Based Authentication](https://docs.frappe.io/framework/user/en/guides/integration/rest_api/token_based_authentication.md)
+  4. [Using Frappe as OAuth Service](https://docs.frappe.io/framework/user/en/using_frappe_as_oauth_service.md)
+  5. [Social Login Key](https://docs.frappe.io/framework/user/en/guides/integration/social_login_key.md)
+  6. [Connected App](https://docs.frappe.io/framework/user/en/guides/app-development/connected-app.md)
 
 
 
@@ -82,7 +82,7 @@ The remaining fields (in the **Resource** section) are used only when responding
 > 
 > To side-step this restriction for certain trusted clients, you may add their hostnames to the **Allowed Public Client Origins** field.
 
-[ Previous Page Microsoft Office365 Email OAuth ](</framework/user/en/microsoft-email-oauth>) [ Next Page Bench ](</framework/user/en/bench>)
+[ Previous Page Microsoft Office365 Email OAuth ](user/en/microsoft-email-oauth.md) [ Next Page Bench ](user/en/bench.md)
 
 Last updated 3 weeks ago 
 

@@ -1,12 +1,12 @@
 # Using Html Templates In Javascript
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/129l3dqjqk>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/129l3dqjqk)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Using Html Templates In Javascript 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/129l3dqjqk>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/129l3dqjqk)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -30,7 +30,7 @@ From `erpnext/public/js/templates/address_list.js`
 
 New Address
 
-{% for(var i=0, l=addr_list.length; i [{%= __("Edit") %}](/app/address/{%= addr_list[i].name %})
+{% for(var i=0, l=addr_list.length; i [{%= __("Edit") %}](https://docs.frappe.io/app/address/{%= addr_list[i].name %})
 
 #### {%= addr_list[i].address_type %}
 
@@ -42,7 +42,7 @@ New Address
 
 {% } %}
 
-[ Previous Page How To Create Custom Fields During App Installation  ](</framework/v14/user/en/guides/app-development/how-to-create-custom-fields-during-app-installation>) [ Next Page How to Enable Developer Mode in Frappe ](</framework/v14/user/en/guides/app-development/how-enable-developer-mode-in-frappe>)
+[ Previous Page How To Create Custom Fields During App Installation  ](how-to-create-custom-fields-during-app-installation.md) [ Next Page How to Enable Developer Mode in Frappe ](how-enable-developer-mode-in-frappe.md)
 
 Last updated 2 months ago 
 

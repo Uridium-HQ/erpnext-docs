@@ -1,12 +1,12 @@
 # Asset Movement
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s4rm67774>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s4rm67774)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Asset Movement
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s4rm67774>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s4rm67774)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -32,7 +32,7 @@ To access the Asset Movement list, go to:
 
 > Asset Movement is a transaction and must be **submitted** to update the Asset’s location or custodian.
 
-![](/files/Screenshot%202026-02-20%20at%2012.39.33%E2%80%AFAM.png)
+![](../../../../../assets/a237fa880331.png)
 
 ## 2\. Features
 
@@ -79,15 +79,15 @@ If you want to move multiple Assets together:
 
 This creates a new Asset Movement with the selected Assets pre-filled.
 
-![](/files/Screenshot%202026-02-20%20at%2012.35.22%E2%80%AFAM.png)
+![](../../../../../assets/6f1f4b31d457.png)
 
 ## 4\. Initiating Asset Movement from Asset Form
 
 There is also a **Transfer Asset** option in the **Action** dropdown on the top right of the Asset form to initiate Asset Movement. It auto fills available fields from Asset Form.
 
-![](/files/Screenshot%202026-02-20%20at%2012.37.04%E2%80%AFAM.png)
+![](../../../../../assets/fd1cb6337038.png)
 
-[ Previous Page Asset Maintenance Log  ](</erpnext/asset-maintenance-log>) [ Next Page Asset Repair  ](</erpnext/asset-repair>)
+[ Previous Page Asset Maintenance Log  ](../../../asset-maintenance-log.md) [ Next Page Asset Repair  ](../../../asset-repair.md)
 
 Last updated 2 weeks ago 
 

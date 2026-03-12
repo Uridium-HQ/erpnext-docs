@@ -1,12 +1,12 @@
 # Cost Center Allocation
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rnvpav4gg>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rnvpav4gg)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Cost Center Allocation
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rnvpav4gg>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rnvpav4gg)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -28,17 +28,17 @@ In ERPNext, we just need to define the allocation between multiple cost centers 
 
 
 
-![Screenshot 2024-06-24 at 12.26.59 PM](/files/Screenshot%202024-06-24%20at%2012.26.59%20PM.png)
+![Screenshot 2024-06-24 at 12.26.59 PM](https://docs.frappe.io/assets/6eb34b7a2111.png)
 
 ### 2\. GL Entries against Transaction
 
 While booking any transaction against the main cost center, the system automatically split the GL Entry against it and posts multiple gl entries based on the applicable cost center allocation record.
 
-![Screenshot 2024-06-24 at 12.31.26 PM](/files/Screenshot%202024-06-24%20at%2012.31.26%20PM.png)
+![Screenshot 2024-06-24 at 12.31.26 PM](https://docs.frappe.io/assets/f8ce53eb27c2.png)
 
 (GL Entries against a Sales Invoice has been splitted based on Cost Center Allocation)
 
-[ Previous Page Cost Center  ](</erpnext/cost-center>) [ Next Page Accounting Dimensions  ](</erpnext/accounting-dimensions>)
+[ Previous Page Cost Center  ](cost-center.md) [ Next Page Accounting Dimensions  ](accounting-dimensions.md)
 
 Last updated 2 weeks ago 
 

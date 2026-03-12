@@ -1,12 +1,12 @@
 # Setting Up
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rdhpn8vjh>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rdhpn8vjh)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Setting Up 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rdhpn8vjh>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rdhpn8vjh)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,9 +20,9 @@ You'll find the global configuration options here. For module-wise setup, visit 
 
 It’s always recommended to be completely hands-on with the product, even while learning. We recommend setting up an ERPNext site for yourself. If you don’t already have one, here’s how you can get started.
 
-  * Get a [free trial account](<https://frappe.io/erpnext/pricing>)  
+  * Get a [free trial account](https://frappe.io/erpnext/pricing)  
 Or
-  * Get an ERPNext site from [Frappe Cloud](<https://frappe.io/cloud>)
+  * Get an ERPNext site from [Frappe Cloud](https://frappe.io/cloud)
 
 
 
@@ -30,15 +30,15 @@ Once you log in to ERPNext, you will see a host of options. Stay focused to achi
 
 ## Masters
 
-  * [Company](</erpnext/company-setup>)
-  * [Item](</erpnext/item>)
-  * [Customer](</erpnext/customer>)
-  * [Supplier](</erpnext/supplier>)
-  * [Chart of Accounts](</erpnext/chart-of-accounts>)
-  * [Data import tool](</erpnext/data-import>)
+  * [Company](company-setup.md)
+  * [Item](item.md)
+  * [Customer](customer.md)
+  * [Supplier](supplier.md)
+  * [Chart of Accounts](chart-of-accounts.md)
+  * [Data import tool](data-import.md)
   * Opening Balances
-    * [Stock opening balance](</erpnext/opening-stock>)
-    * [Accounts opening balance](</erpnext/opening-balance>)
+    * [Stock opening balance](opening-stock.md)
+    * [Accounts opening balance](opening-balance.md)
 
 
 
@@ -46,9 +46,9 @@ Once you log in to ERPNext, you will see a host of options. Stay focused to achi
 
 Enrol for a ERPNext Course which covers tutorial on the fundamentals, basic setup and advance features, all in one.
 
-[Intoduction to ERPNext Frappe School Course](<https://frappe.school/courses/introduction-to-erpnext>)
+[Intoduction to ERPNext Frappe School Course](https://frappe.school/courses/introduction-to-erpnext)
 
-[ Previous Page Getting Started with ERPNext ](</erpnext/getting-started-with-erpnext>) [ Next Page Company ](</erpnext/company-setup>)
+[ Previous Page Getting Started with ERPNext ](getting-started-with-erpnext.md) [ Next Page Company ](company-setup.md)
 
 Last updated 1 week ago 
 

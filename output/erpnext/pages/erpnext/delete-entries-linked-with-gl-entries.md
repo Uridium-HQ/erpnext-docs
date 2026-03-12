@@ -1,18 +1,18 @@
 # Delete entries linked with GL entries
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0skn5j1kvg>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0skn5j1kvg)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Delete entries linked with GL entries
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0skn5j1kvg>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0skn5j1kvg)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 While deleting the transactional entries like Purchase Receipt, Purchase Invoice, Sales Invoice, Delivery note and Stock ledger entries the following message pops up:
 
-![](/files/TTRdA1T.png)
+![](../../assets/a7ab049c14a0.png)
 
 To delete all the transactional entries, follow the steps given below:
 
@@ -22,9 +22,9 @@ To delete all the transactional entries, follow the steps given below:
 
 
 
-![](/files/YIECr8i.png)
+![](../../assets/a4271c8505ce.png)
 
-[ Previous Page Round off Account Validation Message ](</erpnext/round-off-account-validation>) [ Next Page Invoice rounding issue ](</erpnext/invoice-rounding-issue>)
+[ Previous Page Round off Account Validation Message ](round-off-account-validation.md) [ Next Page Invoice rounding issue ](invoice-rounding-issue.md)
 
 Last updated 1 week ago 
 

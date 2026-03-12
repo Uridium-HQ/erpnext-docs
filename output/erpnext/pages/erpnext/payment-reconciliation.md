@@ -1,12 +1,12 @@
 # Payment Reconciliation
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rmv58iors>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rmv58iors)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Payment Reconciliation
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rmv58iors>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rmv58iors)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -40,7 +40,7 @@ To access Payment Reconciliation, go to:
 
 
 
-![Payment Reconciliation Tool](/files/payment_recon875886.gif)
+![Payment Reconciliation Tool](https://docs.frappe.io/assets/14ebe2b33b48.gif)
 
   2. What happens on Payment Reconciliation
 
@@ -57,14 +57,14 @@ If the invoices are reconciled against:
 
 ### 2\. Related Topics
 
-  1. [Payment Request](</erpnext/payment-request>)
-  2. [Sales Invoice](</erpnext/sales-invoice>)
-  3. [Purchase Invoice](</erpnext/purchase-invoice>)
-  4. [Semi-Auto Payment Reconciliation](</erpnext/semi-auto-payment-reconciliation>)
+  1. [Payment Request](payment-request.md)
+  2. [Sales Invoice](sales-invoice.md)
+  3. [Purchase Invoice](purchase-invoice.md)
+  4. [Semi-Auto Payment Reconciliation](semi-auto-payment-reconciliation.md)
 
 
 
-[ Previous Page Payment Terms Template ](</erpnext/payment-terms-template>) [ Next Page Semi-Auto Payment Reconciliation ](</erpnext/semi-auto-payment-reconciliation>)
+[ Previous Page Payment Terms Template ](payment-terms-template.md) [ Next Page Semi-Auto Payment Reconciliation ](semi-auto-payment-reconciliation.md)
 
 Last updated 1 week ago 
 

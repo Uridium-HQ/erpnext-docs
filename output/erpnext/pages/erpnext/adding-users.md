@@ -1,12 +1,12 @@
 # Adding Users
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0scp9ppipo>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0scp9ppipo)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Adding Users
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0scp9ppipo>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0scp9ppipo)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -18,7 +18,7 @@ There are two main types of users:
 
 **Website users** : Customers, Suppliers, Students, etc., who have access only to the portal and not to any modules. **System Users** : People using ERPNext in the Company with access to modules, company data, etc.
 
-Read more about [difference between system and website user](</erpnext/difference-between-system-user-and-website-user>).
+Read more about [difference between system and website user](difference-between-system-user-and-website-user.md).
 
 Under User, a lot of info can be entered. For the sake of usability, the information entered for web users is minimal: First Name and Email.
 
@@ -36,7 +36,7 @@ An Email address is the unique key (ID) identifying the Users.
 
 
 
-![Add User Details](/files/add-user-details.png)
+![Add User Details](https://docs.frappe.io/assets/05e43b9a5f0d.png)
 
 Details like Username and Language can also be changed.
 
@@ -48,9 +48,9 @@ Details like Username and Language can also be changed.
 
 ### 2.1 Setting Roles
 
-After saving, you will see a list of roles and checkboxes next to them. Just check the roles you want the user to have and save the document. The roles have pre-defined permissions, to know more about roles, [click here](</erpnext/role-based-permissions>). You can set [Role profiles](</erpnext/role-and-role-profile>) to use as a template which selects multiple roles together.
+After saving, you will see a list of roles and checkboxes next to them. Just check the roles you want the user to have and save the document. The roles have pre-defined permissions, to know more about roles, [click here](role-based-permissions.md). You can set [Role profiles](role-and-role-profile.md) to use as a template which selects multiple roles together.
 
-![User Roles](/files/user-2.png)
+![User Roles](https://docs.frappe.io/assets/2e5cfbe0cfb2.png)
 
 ### 2.2 More Information
 
@@ -79,36 +79,36 @@ Ticking on 'Mute Sounds' will mute sounds that play on interacting with document
 
 ### 2.4 Document Follow
 
-With this option you can follow various documents in the system and get email notifications when they are updated. Know more [here](</erpnext/document-follow>).
+With this option you can follow various documents in the system and get email notifications when they are updated. Know more [here](document-follow.md).
 
 ### 2.5 Email Settings
 
   * **Send Notifications for Email threads** : The user will get notifications for Email conversations that take place in document types like Opportunities.
   * **Send Me A Copy of Outgoing Emails** : Sends the user a copy of the emails they send. This is useful for keeping track if the email got sent.
   * **Allowed In Mentions** : Allow this user's name to appear in thread conversations so that they can be mentioned using '@'.
-  * **Email Signature** : Adding an email signature here will set it as default for all outgoing emails for the user. This is different from a footer which is set from the [Company master](</erpnext/company-setup>).
+  * **Email Signature** : Adding an email signature here will set it as default for all outgoing emails for the user. This is different from a footer which is set from the [Company master](company-setup.md).
 
 
 
 ### 2.6 Email Inbox
 
-Subscribe the user to different mailing lists of your company from this section. Add a new row and select the mailing list to assign this user. For example, mailing lists can be jobs, support, sales, etc. To know more about Email Inbox, [click here](</erpnext/email-inbox>).
+Subscribe the user to different mailing lists of your company from this section. Add a new row and select the mailing list to assign this user. For example, mailing lists can be jobs, support, sales, etc. To know more about Email Inbox, [click here](email-inbox.md).
 
 ### 2.7 Allow Module Access
 
 Users will have access to all modules for which they have role-based access. If you want to restrict access of certain modules for this user, un-check the modules from this list.
 
-![User Block Module](/files/user-3.png)
+![User Block Module](https://docs.frappe.io/assets/65c11320a3ac.png)
 
 #### 2.7.1 Module Profiles
 
 Role Profiles act as a template to store and select access to multiple modules. This Role Profile can then be assigned to a User. For example, HR Users will have access to multiple modules like HR, Payroll, etc. Role Profiles are useful to provide access to multiple modules at once when adding multiple users.
 
-![Module Profile](/files/module-profile.png)
+![Module Profile](https://docs.frappe.io/assets/00d5e054d49e.png)
 
 ### 2.8 Security Settings
 
-  * **Simultaneous Sessions** : Simultaneous login sessions the user is allowed. You can use the same set of credentials for multiple users by allowing more sessions. This can be restricted from [System Settings](</erpnext/system-settings#15-security>) globally. For cloud account, the total number of simultaneous sessions cannot exceed the total number of subscribed users.
+  * **Simultaneous Sessions** : Simultaneous login sessions the user is allowed. You can use the same set of credentials for multiple users by allowing more sessions. This can be restricted from [System Settings](system-settings.md) globally. For cloud account, the total number of simultaneous sessions cannot exceed the total number of subscribed users.
   * **User Type** : If the user has any role checked other than Customer, Supplier, Patient, or Student they automatically become a System User. This field is read-only.
   * **Login After, Login Before** : If you wish to give the user access to the system only between office hours, or during weekends, specify it here. For example, if office hours are from 10 am to 6 pm, set the Login After, Login Before hours as 10:00 and 18:00.
   * **Restrict IP** : Restrict user login to the IPs specified here. This can be used so that the user can log in only from office computers. Multiple IPs can be added separated by commas.
@@ -121,7 +121,7 @@ This section also shows other details like Last Login, Last IP, and Last Active 
 
 This will allow users to use Facebook, Google, or GitHub to log in. To use this feature, signup for a developer account with Facebook, Google, GitHub, etc. Create an app on their console, specify an app name, the originating URL and callback URL, copy the client ID and client secret info here to start using.
 
-For more details, go to [this page](</framework/user/en/guides/deployment/how-to-enable-social-logins>).
+For more details, go to [this page](https://docs.frappe.io/framework/user/en/guides/deployment/how-to-enable-social-logins).
 
 ### 2.10 API Access
 
@@ -131,23 +131,23 @@ You can generate API Secret keys from this section using the Generate Keys butto
 
 After saving a user, these buttons will be seen on the dashboard area of the User master.
 
-![User dashboard buttons](/files/user-after-save.png)
+![User dashboard buttons](https://docs.frappe.io/assets/1a1eb5d687b6.png)
 
 #### Permissions
 
-  * **Set User Permissions** : Will take you to the [User Permissions](</erpnext/user-permissions>) page of Bruce from where you can restrict Bruce's access to documents.
+  * **Set User Permissions** : Will take you to the [User Permissions](user-permissions.md) page of Bruce from where you can restrict Bruce's access to documents.
   * **View Permitted Documents** : Will take you to the 'Permitted Documents For User' report for this user. Here you can see which documents does Bruce have access to. For example, on selected Sales Order, the list of Sales Orders Bruce has access to will be displayed.
 
 
 
 #### Password
 
-  * **Reset Password** : An email with instructions to reset the user's password will be sent to the user's [Email Account](</erpnext/email-account>).
+  * **Reset Password** : An email with instructions to reset the user's password will be sent to the user's [Email Account](email-account.md).
   * **Reset OTP Secret** : Reset OTP Secret for logging in via Two Factor Authentication.
 
 
 
-Create User Email will let you create an [Email Account](</erpnext/email-account>) for the user based on the email entered in the User master.
+Create User Email will let you create an [Email Account](email-account.md) for the user based on the email entered in the User master.
 
 ### 3\. Login Methods
 
@@ -155,11 +155,11 @@ In System Settings, under the Security section, if you check the 'Allow Login us
 
 Login with Email:
 
-![Email Login](/files/user-login-email.png)
+![Email Login](https://docs.frappe.io/assets/85bc1aaf5b4e.png)
 
 Login with Email or Mobile:
 
-![Mobile No Login](/files/user-login-mobile.png)
+![Mobile No Login](https://docs.frappe.io/assets/73713ea59a06.png)
 
 After adding these details, save the user.
 
@@ -179,13 +179,13 @@ Note:
 
 ### 5\. Related Topics
 
-  1. [Role Based Permissions](</erpnext/role-based-permissions>)
-  2. [User Permissions](</erpnext/user-permissions>)
-  3. [Document Follow](</erpnext/document-follow>)
+  1. [Role Based Permissions](role-based-permissions.md)
+  2. [User Permissions](user-permissions.md)
+  3. [Document Follow](document-follow.md)
 
 
 
-[ Previous Page Export Data for Specific Year or Filter ](</erpnext/export-data-for-specific-year-or-filter>) [ Next Page Role Based Permissions ](</erpnext/role-based-permissions>)
+[ Previous Page Export Data for Specific Year or Filter ](export-data-for-specific-year-or-filter.md) [ Next Page Role Based Permissions ](role-based-permissions.md)
 
 Last updated 1 week ago 
 

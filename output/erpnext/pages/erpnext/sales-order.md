@@ -1,12 +1,12 @@
 # Sales Order
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rh1milsmm>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rh1milsmm)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Sales Order 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rh1milsmm>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rh1milsmm)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,7 +14,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 It is usually a binding Contract with your Customer. Once your customer confirms the Quotation you can convert your Quotation into a Sales Order.
 
-![Sales Flow](/files/selling-flow-so.png)
+![Sales Flow](https://docs.frappe.io/assets/a48077498267.png)
 
 To access Sales Order, go to:
 
@@ -96,7 +96,7 @@ You will be asked to select a Delivery Warehouse even for a product bundle item,
 
 Here is what a Packing List looks like:
 
-![](/files/image33d548.png)
+![](../../assets/e2197cb839a9.png)
 
 ### Taxes and Charges
 
@@ -104,7 +104,7 @@ To add taxes to your Sales Order, you can select a Sales Taxes and Charges Templ
 
 The total taxes and charges will be displayed below the table. Clicking on Tax Breakup will show all the components and amounts.
 
-![](/files/imagecbbd3e.png)
+![](../../assets/1b6df645b7f1.png)
 
 #### Shipping Rule
 
@@ -164,7 +164,7 @@ If the sale took place via one of your Sales Partners, you can add their commiss
 
 **Sales Persons:** ERPNext allows you to add multiple Sales Persons who may have worked on this deal. You can change the contribution percentage of the Sales Persons and track how much incentives they earned on this deal.
 
-![](/files/imagef03a00.png)
+![](../../assets/1bb1baa5ccda.png)
 
 ### Auto Repeat Section
 
@@ -193,7 +193,7 @@ Once you “Submit” your Sales Order, you can trigger actions from the Sales O
 
 These actions can also be seen at the top of the Dashboard. You can also make an accounting Journal Entry based on the Sales Order from the dashboard.
 
-![](/files/imageb853cc.png)
+![](../../assets/bf3e77bf308f.png)
 
 ### Sales Order with Order type 'Maintenance'
 
@@ -221,7 +221,7 @@ When the 'Order Type' of the Sales Order is 'Maintenance' follow these steps:
 
 
 
-[ Previous Page Quotation  ](</erpnext/quotation>) [ Next Page Blanket Order ](</erpnext/blanket-order>)
+[ Previous Page Quotation  ](quotation.md) [ Next Page Blanket Order ](blanket-order.md)
 
 Last updated 2 weeks ago 
 

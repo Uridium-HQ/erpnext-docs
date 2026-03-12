@@ -1,12 +1,12 @@
 # Redirects
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12dsor0uf7>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12dsor0uf7)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Redirects 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12dsor0uf7>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12dsor0uf7)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -27,7 +27,7 @@ You can add redirects by adding the `website_redirects` hook.
     
 [/code]
 
-[ Previous Page Generators  ](</framework/v14/user/en/guides/portal-development/generators>) [ Next Page Using the Data Migration Tool  ](</framework/v14/user/en/guides/data/using-data-migration-tool>)
+[ Previous Page Generators  ](generators.md) [ Next Page Using the Data Migration Tool  ](../data/using-data-migration-tool.md)
 
 Last updated 2 months ago 
 

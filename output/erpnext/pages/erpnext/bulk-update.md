@@ -1,12 +1,12 @@
 # Bulk Update
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rdi9mc1ee>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rdi9mc1ee)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Bulk Update 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rdi9mc1ee>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rdi9mc1ee)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -26,11 +26,11 @@ To do this,
   4. Enter a **valid** new value to be updated.
   5. Enter any conditions that apply, for example, status="Draft" will only affect documents in the Draft stage.
   6. Select the limit, i.e. number of documents (Quotations) to be updated.
-  7. Click on Save ![](/files/imagec413e2.png)
+  7. Click on Save ![](../../assets/b524bad38d61.png)
 
 
 
-[ Previous Page Downloading Backups ](</erpnext/download-backup>) [ Next Page Bulk Rename ](</erpnext/bulk-rename>)
+[ Previous Page Downloading Backups ](download-backup.md) [ Next Page Bulk Rename ](bulk-rename.md)
 
 Last updated 2 weeks ago 
 

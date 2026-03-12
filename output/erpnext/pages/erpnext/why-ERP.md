@@ -1,12 +1,12 @@
 # Why should businesses use an ERP?
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0r8935132u>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0r8935132u)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Why should businesses use an ERP?
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0r8935132u>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0r8935132u)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -34,7 +34,7 @@ So even today, small businesses continue to struggle to keep things organized. T
 ERPNext addresses some fundamental problems SMEs struggle with when managing their resources:
 
   1. **Affordability** : It is a Free and Open Source Software, freely available to download and install.
-  2. **Completeness** : All necessary modules are available. [View full list](<https://erpnext.com/docs/v13/user/manual/en>).
+  2. **Completeness** : All necessary modules are available. [View full list](https://erpnext.com/docs/v13/user/manual/en).
   3. **Customization** : It is easy to add fields, or add more features.
   4. **Efficiency** : Computing requirements are relatively low (cheaper to host and manage).
   5. **Wholesomeness** : A single system and database that allows multiple users to record transactions or extract data simultaneously.
@@ -60,11 +60,11 @@ If you are a large enterprise looking for an ERP system that can help you to imp
   * **Flexibility:** ERPNext is a highly flexible ERP system that can be customized to meet the specific needs of any business. It has a wide range of modules that can be used to manage different aspects of a business, such as accounting, manufacturing, sales, and HR.
   * **Security:** ERPNext is a secure ERP system that uses industry-standard security features to protect data. It has a robust authentication system that prevents unauthorized access to data.
   * **Performance:** ERPNext is a high-performance ERP system that can handle large volumes of data and transactions. It is designed to be efficient and reliable, even under heavy load.
-  * **Support:** ERPNext has a strong community of users and developers who provide support. There are also a number of third-party partners who offer professional services for ERPNext.Check out a variety of [User Stories](<https://erpnext.com/blog/customer-success-stories>) to know more.
+  * **Support:** ERPNext has a strong community of users and developers who provide support. There are also a number of third-party partners who offer professional services for ERPNext.Check out a variety of [User Stories](https://erpnext.com/blog/customer-success-stories) to know more.
 
 
 
-[ Previous Page Introduction ](</erpnext/introduction>) [ Next Page Do I Need ERPNext? ](</erpnext/do-i-need-an-erp>)
+[ Previous Page Introduction ](introduction.md) [ Next Page Do I Need ERPNext? ](do-i-need-an-erp.md)
 
 Last updated 2 weeks ago 
 

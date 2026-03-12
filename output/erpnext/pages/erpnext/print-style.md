@@ -1,12 +1,12 @@
 # Print Style
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rai0hcqu6>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rai0hcqu6)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Print Style
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rai0hcqu6>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rai0hcqu6)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -31,24 +31,24 @@ To create a new Print Style go to:
 
 The styles you create here apply to both standard and custom print formats. To find out the various CSS classes available, you can make a standard print format, open in a new page and see the source.
 
-A default Print Style, can be set from [Print Settings](</erpnext/print-settings>).
+A default Print Style, can be set from [Print Settings](print-settings.md).
 
 All Print Format styles are based on Bootstrap (Version 3) CSS Framework.
 
-![Screenshot 2023-12-29 at 12.08.10 PM](/files/Screenshot%202023-12-29%20at%2012.08.10%20PM.png)![Screenshot 2023-12-29 at 12.08.10 PM](/files/Screenshot%202023-12-29%20at%2012.08.10%20PM.png)
+![Screenshot 2023-12-29 at 12.08.10 PM](https://docs.frappe.io/assets/8518f43897f7.png)![Screenshot 2023-12-29 at 12.08.10 PM](https://docs.frappe.io/assets/8518f43897f7.png)
 
 If you have enabled developer mode and tick on Standard then system will generate the JSON file for the Print Style. You can contribute a default print style with this.
 
 ### Related Topics
 
-  1. [Print Format](</erpnext/print-format>)
-  2. [Print Headings](</erpnext/print-headings>)
-  3. [Letter Head](</erpnext/letter-head>)
-  4. [Cheque Print Template](</erpnext/cheque-print-template>)
+  1. [Print Format](print-format.md)
+  2. [Print Headings](print-headings.md)
+  3. [Letter Head](letter-head.md)
+  4. [Cheque Print Template](cheque-print-template.md)
 
 
 
-[ Previous Page Print Settings  ](</erpnext/print-settings>) [ Next Page Printing and Branding  ](</erpnext/print>)
+[ Previous Page Print Settings  ](print-settings.md) [ Next Page Printing and Branding  ](print.md)
 
 Last updated 1 week ago 
 

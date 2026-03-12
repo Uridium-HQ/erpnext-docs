@@ -1,20 +1,20 @@
 # Daily Depreciation Calculation
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s3bnmna64>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s3bnmna64)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Daily Depreciation Calculation
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s3bnmna64>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s3bnmna64)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-In the **[Accounts Settings](<https://docs.erpnext.com/docs/user/manual/en/accounts-settings>)** of ERPNext, there is a check box that allows users to enable "Calculate daily depreciation using total days in depreciation period" checkbox.
+In the **[Accounts Settings](https://docs.erpnext.com/docs/user/manual/en/accounts-settings)** of ERPNext, there is a check box that allows users to enable "Calculate daily depreciation using total days in depreciation period" checkbox.
 
 _This method is primarily used when the "Depreciation based on daily pro-rata" option is enabled during the asset creation process._
 
-![](/files/Screenshot%202026-02-20%20at%201.34.05%E2%80%AFAM.png)
+![](../../assets/829088c32142.png)
 
 ## 1\. How it works
 
@@ -60,7 +60,7 @@ Calculate Daily Rate:
 
 The calculated daily depreciation is then multiplied by the number of days in the specified depreciation frequency to determine the depreciation amount.
 
-![](/files/Screenshot%202024-10-21%20at%203.42.59%E2%80%AFAM7cff72.png)
+![](../../assets/334a6cb2baf7.png)
 
 ## 3\. When checkbox is disabled:
 
@@ -99,18 +99,18 @@ Using the same asset details as above:
 
 The calculated daily depreciation is then multiplied by the number of days in the specified depreciation frequency (e.g., 30 for monthly, 90 for quarterly) to compute the depreciation amount.
 
-![](/files/Screenshot%202024-10-21%20at%203.42.03%E2%80%AFAM.png)
+![](../../assets/b57a2f7b4735.png)
 
 ## 4\. Relevant Docs
 
 * * *
 
-  * [Asset Depreciation](<https://docs.erpnext.com/docs/user/manual/en/asset-depreciation>)
-  * [Asset Reports](<https://docs.erpnext.com/docs/user/manual/en/asset-reports>)
+  * [Asset Depreciation](https://docs.erpnext.com/docs/user/manual/en/asset-depreciation)
+  * [Asset Reports](https://docs.erpnext.com/docs/user/manual/en/asset-reports)
 
 
 
-[ Previous Page Depreciation Methods ](</erpnext/depreciation-methods>) [ Next Page Asset Shift Allocation ](</erpnext/asset-shift-allocation>)
+[ Previous Page Depreciation Methods ](depreciation-methods.md) [ Next Page Asset Shift Allocation ](asset-shift-allocation.md)
 
 Last updated 2 weeks ago 
 

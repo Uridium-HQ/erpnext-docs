@@ -1,16 +1,16 @@
 # Why Frappe Framework?
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12i8irucuj>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12i8irucuj)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Why Frappe Framework? 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12i8irucuj>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12i8irucuj)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-Frappe was built to power our flagship product [ERPNext](<https://erpnext.com>). The core philosophy at Frappe is write as less code as possible. We prefer configuration over code. If a feature is generic and we need it, we put it right into the framework.
+Frappe was built to power our flagship product [ERPNext](https://erpnext.com/). The core philosophy at Frappe is write as less code as possible. We prefer configuration over code. If a feature is generic and we need it, we put it right into the framework.
 
 This has enabled us to build and maintain a complex application like an ERP which has thousands of features with a small team of developers.
 
@@ -34,7 +34,7 @@ Bench supports multi-tenancy out of the box. It means you can spin up multiple i
 
 Build powerful extensions on top of Frappe by creating your own apps. Apps can bring their own models or modify existing ones in Frappe.
 
-[ Previous Page What is Frappe Framework?  ](</framework/v14/user/en/basics>) [ Next Page Architecture  ](</framework/v14/user/en/basics/architecture>)
+[ Previous Page What is Frappe Framework?  ](../basics.md) [ Next Page Architecture  ](architecture.md)
 
 Last updated 2 months ago 
 

@@ -1,12 +1,12 @@
 # Customer Provided Items
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0speil1o1f>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0speil1o1f)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Customer Provided Items 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0speil1o1f>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0speil1o1f)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,11 +14,11 @@ In Contract Manufacturing, in some cases, the Customer provides specific items a
 
 In this feature, Customer Provided Item is received through 'Stock Entry' with type 'Material Receipt' from a 'Material Request' with type 'Customer provided'. This feature is used when someone subcontracts the manufacturing process to you and supplies the raw materials.
 
-![Customer Provided Material Request](/files/material-request-customer-provided.png)
+![Customer Provided Material Request](https://docs.frappe.io/assets/695e8b89e0c1.png)
 
 Here are the steps on how to setup a 'Customer Provided' item.
 
-  1. Got to [Item Doctype](</erpnext/stock>) and add a new 'Customer Provided' item.
+  1. Got to [Item Doctype](stock.md) and add a new 'Customer Provided' item.
 
 
 
@@ -28,7 +28,7 @@ Here are the steps on how to setup a 'Customer Provided' item.
 
 
 
-![Item Purchase Details](/files/item-customer-provided.png)
+![Item Purchase Details](https://docs.frappe.io/assets/3bdbc21acddb.png)
 
 How to receive a 'Customer Provided' Item?
 
@@ -36,13 +36,13 @@ How to receive a 'Customer Provided' Item?
 
 
 
-![Material Request in Production Plan](/files/material-request-production-plan.png)
+![Material Request in Production Plan](https://docs.frappe.io/assets/38667d31ce91.png)
 
   2. Once a component in a BOM is set as 'Customer Provided' and 'Material Request' is created from a 'Production Plan', it will create both 'Material Request' with type 'Purchase' and 'Customer Provided'. From there, a 'Stock Entry' with purpose 'Material Receipt' can be created.
 
 
 
-![Stock Entry from Material Request](/files/create-mr-from-production-plan.png)
+![Stock Entry from Material Request](https://docs.frappe.io/assets/b20e54fcdd1b.png)
 
   3. A 'Material Request' can have multiple 'Stock Entry' - Material Receipt. It will reflect it in the status.
 
@@ -51,7 +51,7 @@ How to receive a 'Customer Provided' Item?
 
 
 
-[ Previous Page Multiple finished goods with single raw material ](</erpnext/how-to-handle-a-scenario-of-1-raw-material-multiple-finish-goods>) [ Next Page Production Scrap Management  ](</erpnext/scrap-management>)
+[ Previous Page Multiple finished goods with single raw material ](how-to-handle-a-scenario-of-1-raw-material-multiple-finish-goods.md) [ Next Page Production Scrap Management  ](scrap-management.md)
 
 Last updated 1 week ago 
 

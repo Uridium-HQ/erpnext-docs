@@ -1,12 +1,12 @@
 # bench set-config
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/13140eee38>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/13140eee38)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # bench set-config 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/13140eee38>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/13140eee38)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,7 +20,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 Bench provides a wrapper command to insert or update values in the site config files. You can update values in your site's `site_config.json`, along with the bench directory's `common_site_config.json` through the same command.
 
-To read more about site configuration and understanding key precedence, refer to the docs [here](</framework/v14/user/en/basics/site_config>).
+To read more about site configuration and understanding key precedence, refer to the docs [here](../../basics/site_config.md).
 
 ## Flags
 
@@ -65,7 +65,7 @@ Using the above command, the bench's `common_site_config.json` will have the key
 
 You can now access the list in code as `frappe.conf.backup.get("includes")`.
 
-[ Previous Page bench show-config ](</framework/v14/user/en/bench/reference/show-config>) [ Next Page bench restore  ](</framework/v14/user/en/bench/reference/restore>)
+[ Previous Page bench show-config ](show-config.md) [ Next Page bench restore  ](restore.md)
 
 Last updated 2 months ago 
 

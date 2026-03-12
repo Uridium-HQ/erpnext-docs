@@ -1,12 +1,12 @@
 # Supplier
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rggdu4kon>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rggdu4kon)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Supplier
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rggdu4kon>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rggdu4kon)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -23,7 +23,7 @@ To access the Supplier list, go to: > Home > Buying > Supplier > Supplier
   1. Go to the Supplier list and click on New.
   2. Enter a name for the supplier.
   3. Select the supplier group whether Pharmaceutical, Hardware etc.
-  4. Save. ![Supplier Master](/files/supplier-master.png)
+  4. Save. ![Supplier Master](https://docs.frappe.io/assets/3a3bf29df36b.png)
 
 
 
@@ -61,13 +61,13 @@ For India:
 
 If the "Purchase Order Required" or "Purchase Receipt Required" option is configured as "Yes" in Buying Settings, it can be overridden for a particular supplier by enabling the "Allow Purchase Invoice Creation Without Purchase Order" or "Allow Purchase Invoice Creation Without Purchase Receipt" in the Supplier Master.
 
-![Supplier Master](/files/supplier-po-pr-required.png)
+![Supplier Master](https://docs.frappe.io/assets/ce1dfe2ddb2f.png)
 
 ### 2.3 Currency and Price List
 
 **Billing Currency** : Your supplier's currency can be different from your company currency. If you choose JPY for a supplier, then the currency will be filled as JPY and the exchange rate shown for future purchase transactions.
 
-![Supplier Currency](/files/supplier-currency.gif)
+![Supplier Currency](https://docs.frappe.io/assets/cae02de157a3.gif)
 
 Each Supplier can have a default **Price List** so that every time you buy a new item from this supplier for different prices, the price list associated with the supplier would be updated as well. Under the price list comes item price, you can see the prices in Buying > Items and Pricing > Item Price.
 
@@ -96,7 +96,7 @@ You can **integrate** a supplier with an account. For all Suppliers, "Creditor" 
 
 If you want to customize payable account for the Supplier, you should first add a payable Account in the Chart of Account, and then select that Payable Account in the Supplier master.
 
-![Supplier Master](/files/supplier-payable-account.png)
+![Supplier Master](https://docs.frappe.io/assets/8ba447e5dea9.png)
 
 If you don't want to customize payable account, and proceed with default payable account "Creditor", then do not update any value in the Default Supplier Account's table.
 
@@ -112,7 +112,7 @@ You can add the supplier's website and any additional details about your supplie
 
 Contacts and Addresses in ERPNext are stored separately so that you can create multiple Contacts and Addresses for one Supplier. Once Supplier is saved, you will find the option to create Contact and Address for that Supplier.
 
-![Supplier Master](/files/supplier-new-address-contact.png)
+![Supplier Master](https://docs.frappe.io/assets/43aea8edee17.png)
 
 > Tip: When you select a Supplier in any transaction, Contact for which "Is Primary" field id checked, it will auto-fetch with the Supplier details.
 
@@ -130,7 +130,7 @@ Once all the necessary details are filled, save the document. On saving, options
 
 
 
-![Supplier Save](/files/supplier-save.png)
+![Supplier Save](https://docs.frappe.io/assets/4e0515b4a9a3.png)
 
 By clicking on the View button, you can view the Accounting Ledger or Accounts Payable directly for this supplier.
 
@@ -150,7 +150,7 @@ There's a button to 'Send GST Update Reminder' to the supplier. You need to have
 
 
 
-[ Previous Page Supplier Group  ](</erpnext/supplier-group>) [ Next Page Buying Settings ](</erpnext/buying-settings>)
+[ Previous Page Supplier Group  ](../../../supplier-group.md) [ Next Page Buying Settings ](../../../buying-settings.md)
 
 Last updated 2 weeks ago 
 

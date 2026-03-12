@@ -1,12 +1,12 @@
 # Letter Head
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rbpig3fqh>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rbpig3fqh)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Letter Head 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rbpig3fqh>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rbpig3fqh)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,7 +14,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 Every company has a default Letter Head. These Letter Head values are generally set as Header and Footer in the documents. In ERPNext, you can capture these details in the Letter Head master.
 
-These details will appear in the Print Format of transactions like Sales Order, Sales Invoice, Salary Slip, Purchase Order, etc. In ERPNext, the Letter Head is only for setting up the top part of the document, other content is pre-formatted and can be configured via [Print Format](</erpnext/print-format>) and [Print Headings](</erpnext/print-headings>).
+These details will appear in the Print Format of transactions like Sales Order, Sales Invoice, Salary Slip, Purchase Order, etc. In ERPNext, the Letter Head is only for setting up the top part of the document, other content is pre-formatted and can be configured via [Print Format](print-format.md) and [Print Headings](print-headings.md).
 
 To access Letter Head, go to:
 
@@ -33,7 +33,7 @@ To access Letter Head, go to:
 
 
 
-![Print Heading](/files/letter-head.png)
+![Print Heading](https://docs.frappe.io/assets/1f6a4a92b363.png)
 
 > If you want to make this the default Letter Head, click on "Default Letter Head".
 
@@ -43,11 +43,11 @@ To access Letter Head, go to:
 
 You can set the Letter Head based on HTML to make changes to it:
 
-![Letter Head based on](/files/letter-head-based-on.gif)
+![Letter Head based on](https://docs.frappe.io/assets/dcc897892187.gif)
 
 This is how the Letter Head looks in a document's print.
 
-![Print Heading](/files/letter-head-1.png)
+![Print Heading](https://docs.frappe.io/assets/319a53761dc9.png)
 
 > Note that Footer will be visible only when the document's print is seen in the PDF. Footer will not be visible in the HTML based print preview.
 
@@ -55,14 +55,14 @@ This is how the Letter Head looks in a document's print.
 
 ### 3\. Related Topics
 
-  1. [Address Template](</erpnext/address-template>)
-  2. [Terms and Conditions](</erpnext/terms-and-conditions>)
-  3. [Cheque Print Template](</erpnext/cheque-print-template>)
-  4. [Print Headings](</erpnext/print-headings>)
+  1. [Address Template](address-template.md)
+  2. [Terms and Conditions](terms-and-conditions.md)
+  3. [Cheque Print Template](cheque-print-template.md)
+  4. [Print Headings](print-headings.md)
 
 
 
-[ Previous Page Printing and Branding  ](</erpnext/print>) [ Next Page Print Headings  ](</erpnext/print-headings>)
+[ Previous Page Printing and Branding  ](print.md) [ Next Page Print Headings  ](print-headings.md)
 
 Last updated 1 week ago 
 

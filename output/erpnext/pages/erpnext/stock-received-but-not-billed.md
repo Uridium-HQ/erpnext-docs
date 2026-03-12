@@ -1,12 +1,12 @@
 # Purpose of Stock Received but not Billed
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sjsl6iuad>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sjsl6iuad)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Purpose of Stock Received but not Billed 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sjsl6iuad>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sjsl6iuad)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -18,7 +18,7 @@ On receiving Bill from the supplier, you will make Purchase Invoice against a Pu
 
 The balance in the Stock Received but not Billed account indicates the value of items for which Purchase Receipt has been made, but billing is pending.
 
-[ Previous Page Migrate To Perpetual Inventory  ](</erpnext/migrate-to-perpetual-inventory>) [ Next Page Opening Stock Balance Entry for Serialized and Batch Item  ](</erpnext/opening-stock-balance-entry-for-serialized-and-batch-item>)
+[ Previous Page Migrate To Perpetual Inventory  ](migrate-to-perpetual-inventory.md) [ Next Page Opening Stock Balance Entry for Serialized and Batch Item  ](opening-stock-balance-entry-for-serialized-and-batch-item.md)
 
 Last updated 1 week ago 
 

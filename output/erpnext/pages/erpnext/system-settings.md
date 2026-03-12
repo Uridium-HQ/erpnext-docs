@@ -1,12 +1,12 @@
 # System Settings
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0raj1v54as>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0raj1v54as)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # System Settings
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0raj1v54as>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0raj1v54as)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -30,7 +30,7 @@ To open System Settings, go to:
 
 
 
-![Screenshot 2024-05-27 at 10.39.34 AM](/files/Screenshot%202024-05-27%20at%2010.39.34%20AM.png)
+![Screenshot 2024-05-27 at 10.39.34 AM](https://docs.frappe.io/assets/049f5c8b749a.png)
 
 ### 1.2 Date and Number Format
 
@@ -45,7 +45,7 @@ To open System Settings, go to:
 
 
 
-![Screenshot 2024-05-27 at 10.41.54 AM](/files/Screenshot%202024-05-27%20at%2010.41.54%20AM.png)
+![Screenshot 2024-05-27 at 10.41.54 AM](https://docs.frappe.io/assets/ea9ce9838abf.png)
 
 ### 1.3 Permissions
 
@@ -55,7 +55,7 @@ To open System Settings, go to:
 
 For example: If you set User Permissions for Territory and set the value as India. If the checkbox is unticked, all transactions (sales orders, quotations) with India and **blank** will be shown to the users. If the Apply Strict User Permissions checkbox is ticked, documents, where Territory is blank, will not be shown to the users.
 
-![Screenshot 2025 12 10 161147](/files/Screenshot-2025-12-10-161147.png)
+![Screenshot 2025 12 10 161147](https://docs.frappe.io/assets/944e10e7e165.png)
 
 ### 1.4 Session
 
@@ -66,18 +66,18 @@ For example: If you set User Permissions for Territory and set the value as Indi
 
 
 
-![Screenshot 2024-05-27 at 11.01.30 AM](/files/Screenshot%202024-05-27%20at%2011.01.30%20AM.png)
+![Screenshot 2024-05-27 at 11.01.30 AM](https://docs.frappe.io/assets/5cbc7a060c07.png)
 
 ### 1.5 Login Methods
 
   * **Allow Login using Mobile Number** : By checking the 'Allow Login using Mobile Number' checkbox, you can log in to ERPNext using a valid mobile number set in your User account.
-  * **Allow Login using User Name** : Allow user login via their username set in the [User master](</erpnext/adding-users>).
+  * **Allow Login using User Name** : Allow user login via their username set in the [User master](adding-users.md).
   * **Login with email link:** Allow users to log in without a password, using a login link sent to their email.
   * **Login with email link expiry (in minutes):** Indicates the duration in minutes for which login via email link will be active.
 
 
 
-![Screenshot 2024-05-27 at 11.04.17 AM](/files/Screenshot%202024-05-27%20at%2011.04.17%20AM.png)
+![Screenshot 2024-05-27 at 11.04.17 AM](https://docs.frappe.io/assets/d37476c40597.png)
 
 ### 1.6 Brute Force Security
 
@@ -86,7 +86,7 @@ For example: If you set User Permissions for Territory and set the value as Indi
 
 
 
-![Screenshot 2024-05-27 at 11.07.02 AM](/files/Screenshot%202024-05-27%20at%2011.07.02%20AM.png)
+![Screenshot 2024-05-27 at 11.07.02 AM](https://docs.frappe.io/assets/5cb831d33eea.png)
 
 ### 1.7 Two Factor Authentication
 
@@ -100,7 +100,7 @@ On ticking 'Enable Two Factor Auth', the following two options will be seen.
 
 
 
-![Screenshot 2024-05-27 at 11.08.39 AM](/files/Screenshot%202024-05-27%20at%2011.08.39%20AM.png)
+![Screenshot 2024-05-27 at 11.08.39 AM](https://docs.frappe.io/assets/ec4057283e02.png)
 
 ### 1.8 Password
 
@@ -116,13 +116,13 @@ On ticking 'Enable Two Factor Auth', the following two options will be seen.
 
 
 
-![Screenshot 2024-05-27 at 11.10.51 AM](/files/Screenshot%202024-05-27%20at%2011.10.51%20AM.png)
+![Screenshot 2024-05-27 at 11.10.51 AM](https://docs.frappe.io/assets/02267fbc87b0.png)
 
 ### 1.9 Email
 
   * **Email Footer Address** : Organization name, address, and other details can be added here. This will be set as default in all outgoing mails.
   * **Disable Standard Email Footer** : If ticked, the standard email footer will be disabled for outgoing emails.
-  * **Hide footer in auto-email reports** : If ticked, footers will be hidden in [Auto Email reports](</erpnext/auto-email-reports>).
+  * **Hide footer in auto-email reports** : If ticked, footers will be hidden in [Auto Email reports](auto-email-reports.md).
   * **Include Web View Link in Email** : When you turn on _Attach Document Print_ for a new email, the system attaches a PDF or HTML version of your document to the email. If you also enable _Include Web View Link in Email_ in the **System Settings** , a link will be added to the email, allowing the recipient to view the document online as a webpage.
   * **Welcome Email Template:** Predefined template for welcome email can be set from the list of available templates.
   * **Reset Password Template:** Predefined template for the password reset activity can be set from the list of available templates.
@@ -130,7 +130,7 @@ On ticking 'Enable Two Factor Auth', the following two options will be seen.
 
 
 
-![Screenshot 2024-05-27 at 11.14.14 AM](/files/Screenshot%202024-05-27%20at%2011.14.14%20AM.png)
+![Screenshot 2024-05-27 at 11.14.14 AM](https://docs.frappe.io/assets/3b02b782fbc3.png)
 
 ### 1.10 File
 
@@ -142,7 +142,7 @@ On ticking 'Enable Two Factor Auth', the following two options will be seen.
 
 
 
-![Screenshot 2024-05-27 at 11.21.12 AM](/files/Screenshot%202024-05-27%20at%2011.21.12%20AM.png)
+![Screenshot 2024-05-27 at 11.21.12 AM](https://docs.frappe.io/assets/c1cf004ae6b4.png)
 
 ### 1.11 Updates
 
@@ -151,7 +151,7 @@ On ticking 'Enable Two Factor Auth', the following two options will be seen.
 
 
 
-![Screenshot 2024-05-27 at 11.25.02 AM](/files/Screenshot%202024-05-27%20at%2011.25.02%20AM.png)
+![Screenshot 2024-05-27 at 11.25.02 AM](https://docs.frappe.io/assets/66a1c368fb0e.png)
 
 ### 1.12 Backups
 
@@ -165,7 +165,7 @@ This field shows the number of backups after which older ones will be deleted. B
 
 
 
-![Screenshot 2024-05-27 at 11.25.31 AM](/files/Screenshot%202024-05-27%20at%2011.25.31%20AM.png)
+![Screenshot 2024-05-27 at 11.25.31 AM](https://docs.frappe.io/assets/3314473b37d6.png)
 
 ### 1.13 Advanced
 
@@ -176,17 +176,17 @@ This field shows the number of backups after which older ones will be deleted. B
 
 
 
-![Screenshot 2024-05-27 at 11.31.36 AM](/files/Screenshot%202024-05-27%20at%2011.31.36%20AM.png)
+![Screenshot 2024-05-27 at 11.31.36 AM](https://docs.frappe.io/assets/51ebb17deda9.png)
 
 ### 2\. Related Topics
 
-  1. [Company Setup](</erpnext/company-setup>)
-  2. [Global Defaults](</erpnext/global-defaults>)
-  3. [Show or Hide Modules](</erpnext/show-hide-modules>)
+  1. [Company Setup](company-setup.md)
+  2. [Global Defaults](global-defaults.md)
+  3. [Show or Hide Modules](show-hide-modules.md)
 
 
 
-[ Previous Page Country ](</erpnext/country>) [ Next Page Global Defaults ](</erpnext/global-defaults>)
+[ Previous Page Country ](country.md) [ Next Page Global Defaults ](global-defaults.md)
 
 Last updated 1 week ago 
 

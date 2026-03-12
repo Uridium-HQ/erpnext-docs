@@ -1,12 +1,12 @@
 # Installing RediSearch to enable fast E-commerce Search
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0t4h6qq2ma>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0t4h6qq2ma)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Installing RediSearch to enable fast E-commerce Search
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0t4h6qq2ma>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0t4h6qq2ma)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -76,9 +76,9 @@ You can also load the module on a running redis instance by running the followin
 
 > We placed the `redisearch.so` module in the `/etc` directory, but it can be placed anywhere in the file system. We have used this directory because in the future the `loadmodule` line will be populated in the config file automatically and it will assume the binary is in the `/etc` directory.
 
-> More detailed instructions can be found [here](<https://github.com/RediSearch/redisearch-getting-started/blob/master/docs/002-install-redisearch.md>).
+> More detailed instructions can be found [here](https://github.com/RediSearch/redisearch-getting-started/blob/master/docs/002-install-redisearch.md).
 
-[ Previous Page E-commerce Search ](</erpnext/e_commerce_search>) [ Next Page Store Landing Page  ](</erpnext/store-landing-page>)
+[ Previous Page E-commerce Search ](https://docs.frappe.io/erpnext/e_commerce_search) [ Next Page Store Landing Page  ](store-landing-page.md)
 
 Last updated 1 week ago 
 

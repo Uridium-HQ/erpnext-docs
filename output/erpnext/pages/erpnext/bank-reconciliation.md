@@ -1,12 +1,12 @@
 # Bank Reconciliation
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0squq1ergd>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0squq1ergd)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Bank Reconciliation
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0squq1ergd>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0squq1ergd)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -22,7 +22,7 @@ The Bank Reconciliation Report provides the difference between the bank balance 
 
 This is what a Bank Reconciliation statement looks like:
 
-![Bank Reconciliation statement](/files/bank-reconciliation-2.png)
+![Bank Reconciliation statement](https://docs.frappe.io/assets/825547a47979.png)
 
 In the report, check whether the field 'Balance as per bank' matches the Bank Account Statement. If it is matching, it means that the Clearance Date is correctly updated for all the bank entries. If there is a mismatch, it's because of bank entries for which Clearance Date is not yet updated.
 
@@ -42,7 +42,7 @@ To access Bank Reconciliation, go to:
 
 
 
-![Screenshot 2023-06-19 at 6.16.32 PM](/files/Screenshot%202023-06-19%20at%206.16.32%20PM.png)
+![Screenshot 2023-06-19 at 6.16.32 PM](https://docs.frappe.io/assets/8714fb2abeae.png)
 
 ## 3\. Types of reconciliation tools
 
@@ -74,7 +74,7 @@ It is a two-step process:
 
 #### 3.2.1 Bank Statement Import
 
-  * Download a bank statement from your bank's website ![Reconcile bank transactions](/files/sample_bank_statement.png)Make sure you have at least the date, the debit/credit and the currency on every row of your bank statement. To upload your Bank Statement, go to:
+  * Download a bank statement from your bank's website ![Reconcile bank transactions](https://docs.frappe.io/assets/3ab33e8ebe15.png)Make sure you have at least the date, the debit/credit and the currency on every row of your bank statement. To upload your Bank Statement, go to:
 
 
 
@@ -86,14 +86,14 @@ Or simply search for **Bank Statement Import** in the awesomebar.
   * Click Save
   * Attach the Bank Statement
   * Click on **Map Columns** to enter the mapping between columns in the uploaded Bank Statement and the Bank Transaction DocType
-  * Click on Start Import to start the import process. The Bank Transactions will be created via a background job, although the progress will be shown here ![Reconcile bank transactions](/files/bank_transaction_upload.gif)
-  * The mapping that is done is stored in the Bank document linked to the corresponding Bank Account. In the next upload, the mapping is taken from here but the system allows the user to change it if needed. The changed mapping is updated in the Bank document too. ![Reconcile bank transactions](/files/bank_configuration.png)
+  * Click on Start Import to start the import process. The Bank Transactions will be created via a background job, although the progress will be shown here ![Reconcile bank transactions](https://docs.frappe.io/assets/c358ca146fe3.gif)
+  * The mapping that is done is stored in the Bank document linked to the corresponding Bank Account. In the next upload, the mapping is taken from here but the system allows the user to change it if needed. The changed mapping is updated in the Bank document too. ![Reconcile bank transactions](https://docs.frappe.io/assets/35d39801cef4.png)
 
 
 
 #### 3.2.2 Bank Account Synchronisation
 
-You can use Plaid (see [Plaid Integrations page](</erpnext/plaid_integration>)) to automatically synchronise your bank account with ERPNext. All your bank transactions will be automatically imported into ERPNext.
+You can use Plaid (see [Plaid Integrations page](plaid_integration.md)) to automatically synchronise your bank account with ERPNext. All your bank transactions will be automatically imported into ERPNext.
 
 #### 3.2.3 Automatic Party Matching for Bank Transactions
 
@@ -101,13 +101,13 @@ You can optionally enable automatic party matching so that a party is auto set (
 
 > Accounts Settings > Banking > Enable Automatic Party Matching
 
-![Screenshot 2023-06-19 at 5.58.51 PM](/files/Screenshot%202023-06-19%20at%205.58.51%20PM.png)
+![Screenshot 2023-06-19 at 5.58.51 PM](https://docs.frappe.io/assets/79dc83d970cb.png)
 
 You can additionally check **Enable Fuzzy Matching** where, the Party Name/Description in the Bank Transaction is **approximately** matched with all the parties in the system. This is useful when the party's Bank Account is not registered in the system.
 
 Once enabled, party matching will automatically happen on **submitting** the Bank Transaction.
 
-To aid the mapping, you can easily store **Customer** , **Supplier** and **Employee** bank data by creating a [Bank Account](</erpnext/bank-account>) against individual parties. **After Submission** , the Party Type and Party in the Bank Transaction will be automatically set and can be corrected/updated.
+To aid the mapping, you can easily store **Customer** , **Supplier** and **Employee** bank data by creating a [Bank Account](bank-account.md) against individual parties. **After Submission** , the Party Type and Party in the Bank Transaction will be automatically set and can be corrected/updated.
 
 > The fuzzy matching results depend on the nature of the party data there is in the system. It may fail to be accurate where multiple parties with extremely similar names exist.
 > 
@@ -131,24 +131,24 @@ Or simply search for **Bank Reconciliation Tool** in the awesomebar.
   * Select your Company, Bank Account, Bank Statement Start and End Date.
   * Make sure that the opening balance from ERPNext matches the opening balance of your Bank Statement.
   * Enter the Closing Balance of the Bank Statement.
-  * Saving the document will show the matching bank transactions. ![Reconcile bank transactions](/files/bank_reconciliation_tool.png)
+  * Saving the document will show the matching bank transactions. ![Reconcile bank transactions](https://docs.frappe.io/assets/dd04715b3ff7.png)
   * The final goal of Bank Reconciliation is to make the difference amount zero (green) by either matching to an existing voucher or creating a new voucher.
   * For all the bank transactions which are present in the Bank Statement but do not have a clearance date, click on the Actions Button to Match/ Create Vouchers
-  * For matching, choose 'Match Against Voucher' in 'Action'. The vouchers that are related to this transaction will be displayed. They will be ranked on the basis of the maximum number of fields matched. You can match one or multiple vouchers against the same Bank Transaction using the checkboxes. ![Reconcile bank transactions](/files/match_voucher.png)
-  * To create a new voucher, choose 'Create Voucher' in the 'Action' and then choose the document type. Fill in the details that were not available in the Bank Transaction. Clicking on Submit will create the corresponding voucher and update its clearance date. ![Reconcile bank transactions](/files/create_voucher.png)
-  * It is also possible to update the Bank Transactions. Updating the Bank Transaction might help ERPNext in finding better matches. To Update a Bank transaction, choose 'Update Bank Transaction' in 'Action', fill in the required details, and click on Submit to save the Bank Transaction. ![Reconcile bank transactions](/files/update_bank_transaction.png)
+  * For matching, choose 'Match Against Voucher' in 'Action'. The vouchers that are related to this transaction will be displayed. They will be ranked on the basis of the maximum number of fields matched. You can match one or multiple vouchers against the same Bank Transaction using the checkboxes. ![Reconcile bank transactions](https://docs.frappe.io/assets/12601a91e2a5.png)
+  * To create a new voucher, choose 'Create Voucher' in the 'Action' and then choose the document type. Fill in the details that were not available in the Bank Transaction. Clicking on Submit will create the corresponding voucher and update its clearance date. ![Reconcile bank transactions](https://docs.frappe.io/assets/89f6d725b3df.png)
+  * It is also possible to update the Bank Transactions. Updating the Bank Transaction might help ERPNext in finding better matches. To Update a Bank transaction, choose 'Update Bank Transaction' in 'Action', fill in the required details, and click on Submit to save the Bank Transaction. ![Reconcile bank transactions](https://docs.frappe.io/assets/cb7fad98eeda.png)
 
 
 
 ### 4\. Related Topics
 
-  * [Payment Reconciliation](</erpnext/payment-reconciliation>)
-  * [Bank Guarantee](</erpnext/bank-guarantee>)
-  * [Payment Entry](</erpnext/payment-entry>)
+  * [Payment Reconciliation](payment-reconciliation.md)
+  * [Bank Guarantee](https://docs.frappe.io/erpnext/bank-guarantee)
+  * [Payment Entry](payment-entry.md)
 
 
 
-[ Previous Page Payment Terms Status Report ](</erpnext/payment_terms_status_report>) [ Next Page Process Statement Of Accounts  ](</erpnext/process-statement-of-accounts>)
+[ Previous Page Payment Terms Status Report ](https://docs.frappe.io/erpnext/payment_terms_status_report) [ Next Page Process Statement Of Accounts  ](process-statement-of-accounts.md)
 
 Last updated 1 week ago 
 

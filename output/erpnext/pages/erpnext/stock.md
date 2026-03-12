@@ -1,12 +1,12 @@
 # Introduction to Stock Module
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rqq1rapam>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rqq1rapam)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Introduction to Stock Module
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rqq1rapam>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rqq1rapam)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -24,9 +24,9 @@ Overall, the Stock module helps businesses maintain optimal inventory levels, re
 
 ## Video Tutorials
 
-[Frappe School Course on Stock Module](<https://frappe.school/courses/inventory-management>)
+[Frappe School Course on Stock Module](https://frappe.school/courses/inventory-management)
 
-[ Previous Page Adding Margin  ](</erpnext/adding-margin>) [ Next Page Stock Masters ](</erpnext/stock-masters>)
+[ Previous Page Adding Margin  ](adding-margin.md) [ Next Page Stock Masters ](stock-masters.md)
 
 Last updated 1 week ago 
 

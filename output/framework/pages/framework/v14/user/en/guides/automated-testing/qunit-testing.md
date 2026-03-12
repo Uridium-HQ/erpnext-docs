@@ -1,16 +1,16 @@
 # UI Testing with Frappe API
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12hipt98c5>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12hipt98c5)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # UI Testing with Frappe API 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12hipt98c5>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12hipt98c5)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-You can either write integration tests, or directly write tests in Javascript using [QUnit](<http://api.qunitjs.com/>)
+You can either write integration tests, or directly write tests in Javascript using [QUnit](http://api.qunitjs.com/)
 
 QUnit helps you write UI tests using the QUnit framework and native frappe API. As you might have guessed, this is a much faster way of writing tests.
 
@@ -22,7 +22,7 @@ To run your files, you can use the **Test Runner**. The **Test Runner** gives a 
 
 In the CI, all QUnit tests are run by the **Test Runner** using `frappe/tests/test_test_runner.py`
 
-![](/files/test-runner.png)
+![](../../../../../../../assets/dc96ab055727.png)
 
 ### Running Tests
 
@@ -66,7 +66,7 @@ frappe.run_serially([ () => frappe.set_route('List', 'ToDo'), () => frappe.new_d
 
 Promises are a great way to write test-friendly code. If your method calls an aysnchronous call (ajax), then you should return an `Promise` object. While writing tests, if you encounter a function that does not return a `Promise` object, you should update the code to return a `Promise` object.
 
-[ Previous Page UI Integration Testing  ](</framework/v14/user/en/guides/automated-testing/integration-testing>) [ Next Page Desk Customization  ](</framework/v14/user/en/guides/desk>)
+[ Previous Page UI Integration Testing  ](integration-testing.md) [ Next Page Desk Customization  ](../desk.md)
 
 Last updated 2 months ago 
 

@@ -1,12 +1,12 @@
 # Testing
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/135ouvou2u>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/135ouvou2u)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Testing 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/135ouvou2u>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/135ouvou2u)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -181,7 +181,7 @@ If you want to run tests across 2 CI instances your command will be as follows:
 
 ### Parallel tests with orchestrator
 
-It may happen that each test takes a different amount of time for completion which may result in imbalanced time across CI builds. To mitigate this you can use [test orchestrator](<https://github.com/frappe/test-orchestrator>) which runs the next test based on the availability of CI instance. The command to use the test orchestrator for the parallel test is as follows.
+It may happen that each test takes a different amount of time for completion which may result in imbalanced time across CI builds. To mitigate this you can use [test orchestrator](https://github.com/frappe/test-orchestrator) which runs the next test based on the availability of CI instance. The command to use the test orchestrator for the parallel test is as follows.
 
 **Command:**
 [code] 
@@ -201,7 +201,7 @@ If you want to run tests across 2 CI instances your command will be as follows
     
 [/code]
 
-**Note:** Environment variables `CI_BUILD_ID` and `ORCHESTRATOR_URL` are required for this command. `CI_BUILD_ID` is the unique ID that you get for each build run of CI. `ORCHESTRATOR_URL` is the publicly accessible URL that you get after hosting the [orchestrator](<https://github.com/frappe/test-orchestrator>).
+**Note:** Environment variables `CI_BUILD_ID` and `ORCHESTRATOR_URL` are required for this command. `CI_BUILD_ID` is the unique ID that you get for each build run of CI. `ORCHESTRATOR_URL` is the publicly accessible URL that you get after hosting the [orchestrator](https://github.com/frappe/test-orchestrator).
 
 ### Comparison
 
@@ -255,7 +255,7 @@ It may happen that the time required with the second command that uses orchestra
 
 **Note:** Only one test file is executed on the first instance because it is busy for 4 mins. By that time, the 2nd instance is able to execute other test files which help in balancing time across builds.
 
-[ Previous Page Rate Limiting  ](</framework/v14/user/en/rate-limiting>) [ Next Page UI Testing  ](</framework/v14/user/en/ui-testing>)
+[ Previous Page Rate Limiting  ](rate-limiting.md) [ Next Page UI Testing  ](ui-testing.md)
 
 Last updated 2 months ago 
 

@@ -1,12 +1,12 @@
 # Asset Category
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s34o9i0vt>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s34o9i0vt)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Asset Category
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s34o9i0vt>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s34o9i0vt)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -24,7 +24,7 @@ To access the Asset Category list, go to:
 
 Before creating an Asset Category, it is advised to:
 
-  * Create a **[Company](<https://docs.frappe.io/erpnext/user/manual/en/company-setup>)**
+  * Create a **[Company](https://docs.frappe.io/erpnext/user/manual/en/company-setup.md)**
 
 
 
@@ -39,7 +39,7 @@ Before creating an Asset Category, it is advised to:
 
 
 
-![](/files/Screenshot%202026-01-11%20at%2011.31.43%E2%80%AFPM.png) _Asset Category_
+![](../../../../../assets/2de459c4834d.png) _Asset Category_
 
 ### 2.1 Additional options when creating an Asset Category
 
@@ -63,7 +63,7 @@ You can link a Finance Book if you report depreciation in different ways. You ca
 
 
 
-![](/files/Screenshot%202026-01-11%20at%2011.31.43%E2%80%AFPM5c5a1a.png)
+![](../../../../../assets/858f5ce96775.png)
 
 ### 3.2 Accounting Details
 
@@ -92,12 +92,12 @@ Once created, you can:
 
 * * *
 
-  1. [Finance Book](<https://docs.frappe.io/erpnext/user/manual/en/finance-book>)
-  2. [Depreciation](<https://docs.frappe.io/erpnext/user/manual/en/asset-depreciation>)
+  1. [Finance Book](https://docs.frappe.io/erpnext/user/manual/en/finance-book.md)
+  2. [Depreciation](https://docs.frappe.io/erpnext/user/manual/en/asset-depreciation.md)
 
 
 
-[ Previous Page Overview ](</erpnext/assets/introduction>) [ Next Page Asset Location  ](</erpnext/asset-location>)
+[ Previous Page Overview ](../../../assets/introduction.md) [ Next Page Asset Location  ](../../../asset-location.md)
 
 Last updated 2 weeks ago 
 

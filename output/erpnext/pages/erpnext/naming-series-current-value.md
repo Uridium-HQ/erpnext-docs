@@ -1,16 +1,16 @@
 # Set Current Value for Naming Series
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sgvr3bhar>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sgvr3bhar)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Set Current Value for Naming Series
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sgvr3bhar>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sgvr3bhar)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-Naming Series feature allows you to define prefix for naming of a documents. For example, if a Sales Order has prefix "SO", then the series will be generated as SO-00001, SO-00002... and so on. Click [here](</erpnext/document-naming-settings>) to learn how you can customize Number Series for a transaction/master in ERPNext.
+Naming Series feature allows you to define prefix for naming of a documents. For example, if a Sales Order has prefix "SO", then the series will be generated as SO-00001, SO-00002... and so on. Click [here](document-naming-settings.md) to learn how you can customize Number Series for a transaction/master in ERPNext.
 
 ### 1\. Setting the Current Value
 
@@ -24,19 +24,19 @@ For example, you have 322 Sales Orders created in your old system with SO00322 a
 
 #### Update Series Section
 
-![Update Series Section](/files/current-no-1.png)
+![Update Series Section](https://docs.frappe.io/assets/975e4744e59b.png)
 
 #### Select Prefix
 
 Considering our scenario, prefix for Sales Order will be "SO".
 
-![Series Prefix](/files/current-no-2.png)
+![Series Prefix](https://docs.frappe.io/assets/fba7d0e15af9.png)
 
 #### Current Value
 
 If you have currently 12 Sales Orders created in your account, then current value updated will be 12. You can edit Current Value to 322, and then click on Update Series Number.
 
-![Series Current Value](/files/current-no-3.png)
+![Series Current Value](https://docs.frappe.io/assets/a3262eb7338d.png)
 
 With this setting, you will have numbering for the New Sales Orders starting with #323.
 
@@ -70,7 +70,7 @@ This indicate the Current Value for Series/Prefix of ToDo (TDI) has been disturb
 
 
 
-[ Previous Page Tree Master Renaming  ](</erpnext/tree-master-renaming>) [ Next Page Company-wise Naming Series ](</erpnext/company-wise-naming-series>)
+[ Previous Page Tree Master Renaming  ](tree-master-renaming.md) [ Next Page Company-wise Naming Series ](company-wise-naming-series.md)
 
 Last updated 1 week ago 
 

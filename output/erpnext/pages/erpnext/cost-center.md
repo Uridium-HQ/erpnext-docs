@@ -1,12 +1,12 @@
 # Cost Center
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rqmpa3fc4>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rqmpa3fc4)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Cost Center 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rqmpa3fc4>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rqmpa3fc4)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -18,7 +18,7 @@ Your Chart of Accounts is mainly designed to provide reports to the government a
 
 Most businesses have multiple activities like different product lines, market segments, areas of business, etc that share some common overheads. They should ideally have their own structure to report whether they are profitable or not. For this purpose, there is an alternate structure called the Chart of Cost Centers.
 
-A Cost Center acts like an [Accounting Dimension](</erpnext/accounting-dimensions>) which helps you track costing based on particular areas.
+A Cost Center acts like an [Accounting Dimension](accounting-dimensions.md) which helps you track costing based on particular areas.
 
 The Cost Center can be set at these levels:
 
@@ -30,15 +30,15 @@ The Cost Center can be set at these levels:
 
 The Cost Center can be linked to the following transactions:
 
-  1. [Sales Invoice](</erpnext/sales-invoice>)
-  2. [Purchase Invoice](</erpnext/purchase-invoice>)
-  3. [Journal Entry](</erpnext/journal-entry>)
-  4. [Payment Entry](</erpnext/payment-entry>)
-  5. [Delivery Note](</erpnext/delivery-note>)
+  1. [Sales Invoice](sales-invoice.md)
+  2. [Purchase Invoice](purchase-invoice.md)
+  3. [Journal Entry](journal-entry.md)
+  4. [Payment Entry](payment-entry.md)
+  5. [Delivery Note](delivery-note.md)
 
 
 
-And other transactions which can be used for budgeting. You can also use Cost Center for [Budgeting](</erpnext/budget>).
+And other transactions which can be used for budgeting. You can also use Cost Center for [Budgeting](budget.md).
 
 ## 1\. Cost Center tree
 
@@ -69,19 +69,19 @@ To access the Chart of Cost Centers, go to:
 
 Selecting a different Company will display the Cost Centers for that Company.
 
-![Cost Center](/files/chart-of-cost-center.png)
+![Cost Center](https://docs.frappe.io/assets/c342f1e86dc1.png)
 
-![Chart of Cost Centers](/files/company-master.png)
+![Chart of Cost Centers](https://docs.frappe.io/assets/417d23fdf7c5.png)
 
 ### 3\. Related Topics
 
-  1. [Budgeting](</erpnext/budget>)
-  2. [Sales Invoice](</erpnext/sales-invoice>)
-  3. [Purchase Invoice](</erpnext/purchase-invoice>)
+  1. [Budgeting](budget.md)
+  2. [Sales Invoice](sales-invoice.md)
+  3. [Purchase Invoice](purchase-invoice.md)
 
 
 
-[ Previous Page Exchange Rate Revaluation ](</erpnext/exchange-rate-revaluation>) [ Next Page Cost Center Allocation ](</erpnext/cost_center_allocation>)
+[ Previous Page Exchange Rate Revaluation ](exchange-rate-revaluation.md) [ Next Page Cost Center Allocation ](cost_center_allocation.md)
 
 Last updated 2 weeks ago 
 

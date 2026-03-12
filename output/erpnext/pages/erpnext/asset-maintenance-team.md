@@ -1,12 +1,12 @@
 # Asset Maintenance Team
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s3fphqs1c>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s3fphqs1c)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Asset Maintenance Team 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0s3fphqs1c>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0s3fphqs1c)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -30,16 +30,16 @@ To access the Asset Maintenance Team, go to:
 
 
 
-![Asset](/files/asset-maintenance-team.png)
+![Asset](https://docs.frappe.io/assets/c53b6b33bb8c.png)
 
 ## Related Topics
 
-  1. [Asset Maintenance](<https://docs.frappe.io/erpnext/user/manual/en/asset-maintenance>)
-  2. [Asset Repair](<https://docs.frappe.io/erpnext/user/manual/en/asset-repair>)
+  1. [Asset Maintenance](https://docs.frappe.io/erpnext/user/manual/en/asset-maintenance.md)
+  2. [Asset Repair](https://docs.frappe.io/erpnext/user/manual/en/asset-repair.md)
 
 
 
-[ Previous Page Asset Maintenance ](</erpnext/asset-maintenance>) [ Next Page Asset Maintenance Log  ](</erpnext/asset-maintenance-log>)
+[ Previous Page Asset Maintenance ](asset-maintenance.md) [ Next Page Asset Maintenance Log  ](asset-maintenance-log.md)
 
 Last updated 2 weeks ago 
 

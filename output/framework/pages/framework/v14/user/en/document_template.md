@@ -1,12 +1,12 @@
 # Document Template
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12nv4ubrio>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12nv4ubrio)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Document Template
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12nv4ubrio>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12nv4ubrio)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -23,7 +23,7 @@ You can also delete the saved template if no longer useful.
 
 
 
-[ Previous Page Scripting  ](</framework/v14/user/en/desk/scripting>) [ Next Page Workspace ](</framework/v14/user/en/desk/workspace>)
+[ Previous Page Scripting  ](desk/scripting.md) [ Next Page Workspace ](desk/workspace.md)
 
 Last updated 2 months ago 
 

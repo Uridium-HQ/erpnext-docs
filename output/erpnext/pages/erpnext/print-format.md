@@ -1,12 +1,12 @@
 # Print Format
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rae6ma818>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rae6ma818)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Print Format 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rae6ma818>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rae6ma818)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -16,7 +16,7 @@ Every transaction has a default Print Format called 'Standard'. You can change P
 
   * Using the Print Format form
   * Using Jinja/JS scripting under Print Format
-  * Using the [Print Format Builder](</erpnext/print-format-builder>) to create print formats with UI
+  * Using the [Print Format Builder](print-format-builder.md) to create print formats with UI
   * Using Customize Form to hide/unhide fields
 
 
@@ -33,7 +33,7 @@ To access Print Format, go to:
 
 
 
-![Print Format menu](/files/print-format-menu.png)
+![Print Format menu](https://docs.frappe.io/assets/d2bb83dfaea1.png)
 
   1. Save.
 
@@ -41,7 +41,7 @@ To access Print Format, go to:
 
 Under Style Settings, there are options to change the styling options. With those options, you can change the font, align the labels together on the left or right, add headings for sections, etc.
 
-To style the Print Format using custom Jinja/JS, click on Custom Format. If you select this option, there'll be a checkbox for raw printing. To know more about raw printing, [click here](</erpnext/raw-printing>).
+To style the Print Format using custom Jinja/JS, click on Custom Format. If you select this option, there'll be a checkbox for raw printing. To know more about raw printing, [click here](raw-printing.md).
 
 If developer mode is enabled, you can select Standard as yes to contribute a print format as a standard (preset) print format in the system.
 
@@ -49,27 +49,27 @@ If developer mode is enabled, you can select Standard as yes to contribute a pri
 
 Fields in the transactions and their child tables can be hidden/shown using Customize Form. For example, if you want to hide the 'Item Code' when printing a Quotation, click on the print icon to enter the print screen.
 
-Go to Menu > Customize, select Quotation Item in the 'Enter Form Type' field. ![Print Format Customize](/files/print-format-customize1.png)
+Go to Menu > Customize, select Quotation Item in the 'Enter Form Type' field. ![Print Format Customize](https://docs.frappe.io/assets/223ac0f1dee7.png)
 
-To know more, visit the [Customize Print Format](</erpnext/print-format>) page.
+To know more, visit the [Customize Print Format](print-format.md) page.
 
-In the fields table, expand the 'Item Code' row, scroll down and tick the 'Print Hide' checkbox. ![Print Format Print Hide](/files/print-format-customize2.png)
+In the fields table, expand the 'Item Code' row, scroll down and tick the 'Print Hide' checkbox. ![Print Format Print Hide](https://docs.frappe.io/assets/388adea04ae1.png)
 
-A newly created Print Format can be selected on the print screen of a transaction. From there you can see how it looks and proceed to print. ![Selecting a Print Format](/files/print-format-selection.png)
+A newly created Print Format can be selected on the print screen of a transaction. From there you can see how it looks and proceed to print. ![Selecting a Print Format](https://docs.frappe.io/assets/287593356be0.png)
 
 ## 2\. Video
 
 ### 3\. Related Topics
 
-  1. [Print Style](</erpnext/print-style>)
-  2. [Print Headings](</erpnext/print-headings>)
-  3. [Letter Head](</erpnext/letter-head>)
-  4. [Cheque Print Template](</erpnext/cheque-print-template>)
-  5. [Disabling Line Breaks in Print Format Sections](</erpnext/print-format-sections>)
+  1. [Print Style](print-style.md)
+  2. [Print Headings](print-headings.md)
+  3. [Letter Head](letter-head.md)
+  4. [Cheque Print Template](cheque-print-template.md)
+  5. [Disabling Line Breaks in Print Format Sections](https://docs.frappe.io/erpnext/print-format-sections)
 
 
 
-[ Previous Page Printing ](</erpnext/printing>) [ Next Page Print Format Builder  ](</erpnext/print-format-builder>)
+[ Previous Page Printing ](printing.md) [ Next Page Print Format Builder  ](print-format-builder.md)
 
 Last updated 1 week ago 
 

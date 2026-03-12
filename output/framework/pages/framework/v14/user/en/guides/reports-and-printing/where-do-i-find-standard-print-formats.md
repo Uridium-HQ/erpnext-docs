@@ -1,12 +1,12 @@
 # Where Do I Find Standard Print Formats
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12cud4dcfn>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12cud4dcfn)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Where Do I Find Standard Print Formats 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12cud4dcfn>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12cud4dcfn)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -24,16 +24,16 @@ Go to **Setup > Customize > Customize Form View** and you can:
 
 #### 2\. Creating new layouts based on Print Formats
 
-As there are not templates that are generated for standard Print Formats, you will have to create new templates from scratch using the [Jinja Templating Language](<http://jinja.pocoo.org/>) via
+As there are not templates that are generated for standard Print Formats, you will have to create new templates from scratch using the [Jinja Templating Language](http://jinja.pocoo.org/) via
 
 **Setup > Printing and Branding > Print Format**
 
-  1. [See Print Format help](<https://docs.erpnext.com/docs/v14/user/manual/en/customize-erpnext/print-format>).
-  2. You can use the [Bootstrap CSS framework](<http://getbootstrap.com>) to layout your print formats
+  1. [See Print Format help](https://docs.erpnext.com/docs/v14/user/manual/en/customize-erpnext/print-format).
+  2. You can use the [Bootstrap CSS framework](http://getbootstrap.com/) to layout your print formats
 
 
 
-**Tip: You can import[Standard Template macros](<https://github.com/frappe/frappe/blob/develop/frappe/templates/print_formats/standard_macros.html>) for building your print formats.**
+**Tip: You can import[Standard Template macros](https://github.com/frappe/frappe/blob/develop/frappe/templates/print_formats/standard_macros.html) for building your print formats.**
 
 Example, adding the standard header:
 [code] 
@@ -43,7 +43,7 @@ Example, adding the standard header:
     
 [/code]
 
-[ Previous Page Getting Information From Another Document In Print Format ](</framework/v14/user/en/guides/reports-and-printing/getting-information-from-another-document-in-print-format>) [ Next Page How To Make Query Report  ](</framework/v14/user/en/guides/reports-and-printing/how-to-make-query-report>)
+[ Previous Page Getting Information From Another Document In Print Format ](getting-information-from-another-document-in-print-format.md) [ Next Page How To Make Query Report  ](how-to-make-query-report.md)
 
 Last updated 2 months ago 
 

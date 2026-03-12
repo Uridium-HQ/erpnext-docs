@@ -1,18 +1,18 @@
 # Types in Tax Template
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rpdu89fln>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rpdu89fln)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Types in Tax Template
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rpdu89fln>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rpdu89fln)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 In the Sales Taxes and Purchase Taxes master, you will find a column called Type. Following a brief on a meaning of each Type and how you can use it.
 
-![Calculate Tax Based On](/files/calculate-tax-based-on.png)
+![Calculate Tax Based On](https://docs.frappe.io/assets/917aebe80f79.png)
 
 **Actual:** This allows you to enter expense amount directly. For example, Rs. 500 incurred for Shipping.
 
@@ -28,7 +28,7 @@ If you select Type as Previous Row Amount or Previous Row Total, then you must a
 
 **On Item Quantity:** This option can be used for fixed/item specific taxes.
 
-[ Previous Page Item Tax Template  ](</erpnext/item-tax-template>) [ Next Page Purchase Taxes and Charges Template  ](</erpnext/purchase-taxes-and-charges-template>)
+[ Previous Page Item Tax Template  ](item-tax-template.md) [ Next Page Purchase Taxes and Charges Template  ](purchase-taxes-and-charges-template.md)
 
 Last updated 2 weeks ago 
 

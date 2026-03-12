@@ -1,12 +1,12 @@
 # Blanket Order
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rh2k048p9>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rh2k048p9)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Blanket Order
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rh2k048p9>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rh2k048p9)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -42,7 +42,7 @@ Before creating and using a Blanket Order, it is advised that you create the fol
 
 
 
-![](/files/blanket%20orderfd538a.gif)
+![](../../../../../assets/1f3f5800eef9.gif)
 
 ## Features
 
@@ -64,7 +64,7 @@ Once a Blanket Order is submitted, you can create new Quotations by clicking on 
 
 You can view Purchase Orders, Sales Orders and Quotations against this Blanket Order through the Dashboard.
 
-![](/files/image4354c4.png)
+![](../../../../../assets/8f8c040f734e.png)
 
 **Note-** Multiple Sales Orders, Purchase Orders, and Quotations can be created against one Blanket Order. Those Sales/Purchase Orders or Quotations can be processed further as per the regular Selling or Procurement cycle. But, there is no provision to close the Blanket Order.
 
@@ -75,7 +75,7 @@ You can view Purchase Orders, Sales Orders and Quotations against this Blanket O
 
 
 
-[ Previous Page Sales Order  ](</erpnext/sales-order>) [ Next Page Drop Ship ](</erpnext/drop-shipping-in-erpnext>)
+[ Previous Page Sales Order  ](../../../sales-order.md) [ Next Page Drop Ship ](../../../drop-shipping-in-erpnext.md)
 
 Last updated 2 weeks ago 
 

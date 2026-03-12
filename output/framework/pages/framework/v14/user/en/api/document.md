@@ -1,12 +1,12 @@
 # Document API
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12sc0m2rp7>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12sc0m2rp7)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Document API 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12sc0m2rp7>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12sc0m2rp7)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -383,7 +383,7 @@ Serialize and update a document into database. Warning: This bypasses all valida
     
 [/code]
 
-[ Previous Page Background Jobs ](</framework/v14/user/en/api/background_jobs>) [ Next Page Database API ](</framework/v14/user/en/api/database>)
+[ Previous Page Background Jobs ](background_jobs.md) [ Next Page Database API ](database.md)
 
 Last updated 2 months ago 
 

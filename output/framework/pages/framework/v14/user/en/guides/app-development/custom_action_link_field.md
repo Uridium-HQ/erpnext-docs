@@ -1,12 +1,12 @@
 # Custom Action in Link Field
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12804hhv1b>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12804hhv1b)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Custom Action in Link Field
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12804hhv1b>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12804hhv1b)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -35,9 +35,9 @@ In the `frappe.ui.form.ControlLink.link_options`, you have access to the link fi
 
 Once a function is assigned to `frappe.ui.form.ControlLink.link_options`, the link field will have a new link option:
 
-![182354398 c1fc9f55 4464 4683 bb74 982ec2546f71](../../../../../../../assets/ca3d7c1441a9.png)
+![182354398 c1fc9f55 4464 4683 bb74 982ec2546f71](https://docs.frappe.io/assets/ca3d7c1441a9.png)
 
-[ Previous Page Translations  ](</framework/v14/user/en/guides/basics/translations>) [ Next Page Executing Code On Doctype Events  ](</framework/v14/user/en/guides/app-development/executing-code-on-doctype-events>)
+[ Previous Page Translations  ](../basics/translations.md) [ Next Page Executing Code On Doctype Events  ](executing-code-on-doctype-events.md)
 
 Last updated 2 months ago 
 

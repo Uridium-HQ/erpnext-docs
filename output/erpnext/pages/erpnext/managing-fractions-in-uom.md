@@ -1,12 +1,12 @@
 # Managing Fractions in UOM
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rt0f2a5is>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rt0f2a5is)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Managing Fractions in UOM 
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0rt0f2a5is>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0rt0f2a5is)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -28,7 +28,7 @@ From the list of UOM, select UOM for which value in decimal place is to be restr
 
 In the UoOM master, you will find a field called "Must be whole number". Check this field to restrict user from enter value in decimal places in quantity field, for item having this UOM.
 
-![UoM Must be Whole No](/files/uom-fraction-1.png)
+![UoM Must be Whole No](https://docs.frappe.io/assets/8f7e0037cda0.png)
 
 ### Validation
 
@@ -36,9 +36,9 @@ While creating transaction, if you enter value in fraction for item whose UOM ha
 
 `Quantity cannot be a fraction at row #`
 
-![UoM Validation Message](/files/uom-fraction-2.png)
+![UoM Validation Message](https://docs.frappe.io/assets/c57941a043ac.png)
 
-[ Previous Page Change Valuation Method ](</erpnext/change-valuation-method>) [ Next Page Serial Number Naming ](</erpnext/serial-no-naming>)
+[ Previous Page Change Valuation Method ](change-valuation-method.md) [ Next Page Serial Number Naming ](serial-no-naming.md)
 
 Last updated 2 weeks ago 
 

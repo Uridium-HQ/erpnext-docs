@@ -1,12 +1,12 @@
 # How To Improve A Standard Control
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/128tpql0r5>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/128tpql0r5)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # How To Improve A Standard Control 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/128tpql0r5>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/128tpql0r5)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -22,7 +22,7 @@ The answer for this question is: _-Of course not! Because we know that if one el
 
 So, what we need do, is improve your goal based on the `Control`, to reduce our quantity of work.
 
-But, where will we find this magic element, the control? _-For now, we can look it in the JavaScript sources - let's look now at [Github](<https://github.com/frappe/frappe/blob/develop/frappe/public/js/frappe/form/controls/control.js>)_
+But, where will we find this magic element, the control? _-For now, we can look it in the JavaScript sources - let's look now at [Github](https://github.com/frappe/frappe/blob/develop/frappe/public/js/frappe/form/controls/control.js)_
 
 > Don't worry if you don't understand the code for now, our goal there is simplify our work.
 
@@ -36,7 +36,7 @@ _-Wait!, we understood that the field `options` can help us, but, how will it he
 
 Good question, we will define a word to put in the `options` of the `DocFields` that we need to include the feature, this world will be **`Translatable`.**
 
-> If you forget how to customize the options of a field look [this article](<https://kb.erpnext.com/kb/customize/creating-custom-link-field>), it can refresh your knowledge.
+> If you forget how to customize the options of a field look [this article](https://kb.erpnext.com/kb/customize/creating-custom-link-field), it can refresh your knowledge.
 
 Well, with the defined word in `options` of our selected `DocFields`, now is time to code:
 
@@ -111,7 +111,7 @@ Let me explain what this code does;
 
 
 
-[ Previous Page Executing Code On Doctype Events  ](</framework/v14/user/en/guides/app-development/executing-code-on-doctype-events>) [ Next Page Running Background Jobs  ](</framework/v14/user/en/guides/app-development/running-background-jobs>)
+[ Previous Page Executing Code On Doctype Events  ](executing-code-on-doctype-events.md) [ Next Page Running Background Jobs  ](running-background-jobs.md)
 
 Last updated 2 months ago 
 

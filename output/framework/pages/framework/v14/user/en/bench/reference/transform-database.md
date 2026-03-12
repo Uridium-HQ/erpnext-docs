@@ -1,12 +1,12 @@
 # bench transform-database
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/132aqqquvk>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/132aqqquvk)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # bench transform-database 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/132aqqquvk>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/132aqqquvk)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -22,7 +22,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 The `transform-database` command allows you to manage the settings of your site's tables. At this point, you can switch engines and row_format settings for select tables on your site database.
 
-> MariaDB 10.6 deprecated the COMPRESSED ROW_FORMAT which was Frappe's default option for a very long time. This command was added to handle upgrades to later versions of MariaDB. For more information on this, refer to the [PR](<https://github.com/frappe/frappe/pull/13954>).
+> MariaDB 10.6 deprecated the COMPRESSED ROW_FORMAT which was Frappe's default option for a very long time. This command was added to handle upgrades to later versions of MariaDB. For more information on this, refer to the [PR](https://github.com/frappe/frappe/pull/13954).
 
 ## Options
 
@@ -56,7 +56,7 @@ The `transform-database` command allows you to manage the settings of your site'
     
 [/code]
 
-[ Previous Page bench version  ](</framework/v14/user/en/bench/reference/bench-version>) [ Next Page bench trim-database  ](</framework/v14/user/en/bench/reference/trim-database>)
+[ Previous Page bench version  ](bench-version.md) [ Next Page bench trim-database  ](trim-database.md)
 
 Last updated 2 months ago 
 

@@ -1,12 +1,12 @@
 # Query Builder
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tm9d7g7uq>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tm9d7g7uq)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Query Builder 
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0tm9d7g7uq>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0tm9d7g7uq)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -98,7 +98,7 @@ Some noteworthy things
 
 
 
-You can read more about the other functions at the [Pypika](<https://github.com/kayak/pypika>) repo.
+You can read more about the other functions at the [Pypika](https://github.com/kayak/pypika) repo.
 
 ### frappe.qb.Doctype(name_of_table)
 
@@ -192,7 +192,7 @@ This module provides standard functions you might need while building queries, l
 
 ### Joins and Sub-queries
 
-You can check [pypika documentation](<https://pypika.readthedocs.io/en/latest/2_tutorial.html#joining-tables-and-subqueries>) to join tables and add subqueries. Instead of `Table`, use `frappe.qb.DocType`
+You can check [pypika documentation](https://pypika.readthedocs.io/en/latest/2_tutorial.html) to join tables and add subqueries. Instead of `Table`, use `frappe.qb.DocType`
 
 Example:
 [code] 
@@ -261,7 +261,7 @@ Here we define a column user with the value "john."
 
 ### Special functions
 
-One such function is [Match Against](<https://mariadb.com/kb/en/match-against/>). It's different because it has a chained against argument. To implement something like this you need to inherit from PyPika's `DistinctOptionFunction` class.
+One such function is [Match Against](https://mariadb.com/kb/en/match-against/). It's different because it has a chained against argument. To implement something like this you need to inherit from PyPika's `DistinctOptionFunction` class.
 
 The current MATCH class looks something like
 [code] 
@@ -325,7 +325,7 @@ For example the the mapping for GroupConat looks like this
     
 [/code]
 
-[ Previous Page Dialog API ](</framework/user/en/api/py-dialog>) [ Next Page frappe.qb.get_query ](</framework/get_query>)
+[ Previous Page Dialog API ](py-dialog.md) [ Next Page frappe.qb.get_query ](https://docs.frappe.io/framework/get_query)
 
 Last updated 3 weeks ago 
 

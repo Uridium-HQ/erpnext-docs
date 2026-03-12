@@ -1,12 +1,12 @@
 # Sites
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12771e10rp>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12771e10rp)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Sites 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12771e10rp>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12771e10rp)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -20,7 +20,7 @@ Apart from the sites, the `sites_dir` should contain the following.
 
 #### apps.txt
 
-`apps.txt` contain a list of Python packages to treat as Frappe apps. Every frappe app that you intend to use in your site should have an entry in this file. Also, they should be in the `PYTHONPATH`. For more information, refer [Frappe Apps](</framework/v14/user/en/basics/apps>).
+`apps.txt` contain a list of Python packages to treat as Frappe apps. Every frappe app that you intend to use in your site should have an entry in this file. Also, they should be in the `PYTHONPATH`. For more information, refer [Frappe Apps](../../basics/apps.md).
 
 #### common\\_site\\_config.json
 
@@ -42,7 +42,7 @@ A site is a directory in `sites_dir` which represents a tenant in Frappe Platfor
 
 site ├── locks ├── private │ └── backups ├── public │ └── files │ └── testfile.txt └── site_config.json
 
-  * `locks` directory is used by the scheduler to synchronize various jobs using the [file locking concept](<http://en.wikipedia.org/wiki/File_locking>).
+  * `locks` directory is used by the scheduler to synchronize various jobs using the [file locking concept](http://en.wikipedia.org/wiki/File_locking).
 
   * `private` directory contains files that require authentication to access. Presently, it is limited only to backups.
 
@@ -55,7 +55,7 @@ site ├── locks ├── private │ └── backups ├── public �
 
 ### Site Config
 
-[See configuration options for `site_config.json`](</framework/v14/user/en/basics/sites#site-config>)
+[See configuration options for `site_config.json`](../../basics/sites.md)
 
 ### Site Resolution
 
@@ -82,7 +82,7 @@ To force a site to be used as the default site, execute the following:
 
 To make sure, check the contents of `currentsite.txt` (found in the `sites` folder of your bench instance) and it should have SITENAME.
 
-[ Previous Page How to Enable Backup Encryption  ](</framework/v14/user/en/guides/basics/how-to-enable-backup-encryption>) [ Next Page Translations  ](</framework/v14/user/en/guides/basics/translations>)
+[ Previous Page How to Enable Backup Encryption  ](how-to-enable-backup-encryption.md) [ Next Page Translations  ](translations.md)
 
 Last updated 2 months ago 
 

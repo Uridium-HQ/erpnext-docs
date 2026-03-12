@@ -1,20 +1,20 @@
 # Production Setup
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0u8kdbhq07>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0u8kdbhq07)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Production Setup 
 
-[ Edit ](</wiki/spaces/1u8fslkdg6/page/0u8kdbhq07>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/1u8fslkdg6/page/0u8kdbhq07)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-[Bench](<https://github.com/frappe/bench>) is the CLI tool to manage deployments for sites based on Frappe Framework. Here are steps to deploy your frappe based sites on production.
+[Bench](https://github.com/frappe/bench) is the CLI tool to manage deployments for sites based on Frappe Framework. Here are steps to deploy your frappe based sites on production.
 
 ## Install Bench
 
-Deploying frappe sites is not too different from setting it up on your local system. Install bench using the [Easy Install](<https://github.com/frappe/bench#easy-install-script>) script if your server is one of the supported linux distributions (Debian, Ubuntu, CentOS). Make sure you pass the `--production` flag to the script.
+Deploying frappe sites is not too different from setting it up on your local system. Install bench using the [Easy Install](https://github.com/frappe/bench) script if your server is one of the supported linux distributions (Debian, Ubuntu, CentOS). Make sure you pass the `--production` flag to the script.
 [code] 
     sudo python install.py --production --user [frappe-user]
     
@@ -100,7 +100,7 @@ Above command generates an ACL file in the bench configs directory. Make sure th
     
 [/code]
 
-[ Previous Page Database Migrations  ](</framework/user/en/database-migrations>) [ Next Page Zero* downtime migrations ](</framework/user/en/zero*_downtime_migrations>)
+[ Previous Page Database Migrations  ](database-migrations.md) [ Next Page Zero* downtime migrations ](https://docs.frappe.io/framework/user/en/zero*_downtime_migrations)
 
 Last updated 3 weeks ago 
 

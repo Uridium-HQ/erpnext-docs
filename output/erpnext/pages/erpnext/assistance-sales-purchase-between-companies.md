@@ -1,12 +1,12 @@
 # Drop Ship Between Subsidiary Companies
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sjvq8th3j>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sjvq8th3j)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Drop Ship Between Subsidiary Companies
 
-[ Edit ](</wiki/spaces/24hrpr6es9/page/0sjvq8th3j>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/24hrpr6es9/page/0sjvq8th3j)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -31,7 +31,7 @@ Using ERPNext we wish to implement the following workflow.
 
 You can manage this scenario by using Drop Shipping feature of ERPNext. Check following link to learn how it functions in ERPNext.
 
-[Drop Shipping](</erpnext/drop-shipping-in-erpnext>)
+[Drop Shipping](drop-shipping-in-erpnext.md)
 
 **Steps:**
 
@@ -44,7 +44,7 @@ You can manage this scenario by using Drop Shipping feature of ERPNext. Check fo
 
 
 
-[ Previous Page Change the Rate of Items in the Sales Cycle ](</erpnext/need-to-change-rate-of-items-during-sales-cycle>) [ Next Page Request for Raw Materials from Sales Order  ](</erpnext/request-for-raw-materials-from-sales-order>)
+[ Previous Page Change the Rate of Items in the Sales Cycle ](need-to-change-rate-of-items-during-sales-cycle.md) [ Next Page Request for Raw Materials from Sales Order  ](request-for-raw-materials-from-sales-order.md)
 
 Last updated 1 week ago 
 

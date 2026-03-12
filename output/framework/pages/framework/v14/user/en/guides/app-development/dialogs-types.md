@@ -1,12 +1,12 @@
 # Dialogs Types
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/129aoot3ll>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/129aoot3ll)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Dialogs Types 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/129aoot3ll>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/129aoot3ll)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -14,7 +14,7 @@ Frappe provides a group of standard dialogs that are very useful while coding.
 
 ## Alert Dialog
 
-![](/files/show-alert.png)
+![](../../../../../../../assets/22604e0985d4.png)
 
 Alert Dialog is used for showing non-obstructive messages.
 
@@ -33,7 +33,7 @@ show_alert('Hi, do you have a new message', 5);
 
 ## Prompt Dialog
 
-![](/files/prompt.png)
+![](../../../../../../../assets/6bfa261f3ab0.png)
 
 Prompt Dialog is used for collecting data from users.
 
@@ -54,7 +54,7 @@ frappe.prompt([ {'fieldname': 'birth', 'fieldtype': 'Date', 'label': 'Birth Date
 
 ## Confirm Dialog
 
-![](/files/confirm-dialog.png)
+![](../../../../../../../assets/0d13acab2f1c.png)
 
 Confirm Dialog is used to get a confirmation from the user before executing an action.
 
@@ -74,7 +74,7 @@ frappe.confirm( 'Are you sure to leave this page?', function(){ window.close(); 
 
 ## Message Print
 
-![](/files/msgprint.png)
+![](../../../../../../../assets/4892446464a7.png)
 
 Message Print is used for showing information to users.
 
@@ -109,7 +109,7 @@ msgprint("**Server Status** "
 
 ### Custom Dialog
 
-![](/files/dialog.png)
+![](../../../../../../../assets/7185fcd96626.png)
 
 You can extend and build your own custom dialogs using `frappe.ui.Dialog`
 
@@ -117,7 +117,7 @@ You can extend and build your own custom dialogs using `frappe.ui.Dialog`
 
 var d = new frappe.ui.Dialog({ 'fields': [ {'fieldname': 'ht', 'fieldtype': 'HTML'}, {'fieldname': 'today', 'fieldtype': 'Date', 'default': frappe.datetime.nowdate()} ], primary_action: function(){ d.hide(); show_alert(d.get_values()); } }); d.fields_dict.ht.$wrapper.html('Hello World'); d.show();
 
-[ Previous Page Trigger Event On Deletion Of Grid Row  ](</framework/v14/user/en/guides/app-development/trigger-event-on-deletion-of-grid-row>) [ Next Page Overriding Link Query By Custom Script  ](</framework/v14/user/en/guides/app-development/overriding-link-query-by-custom-script>)
+[ Previous Page Trigger Event On Deletion Of Grid Row  ](trigger-event-on-deletion-of-grid-row.md) [ Next Page Overriding Link Query By Custom Script  ](overriding-link-query-by-custom-script.md)
 
 Last updated 2 months ago 
 

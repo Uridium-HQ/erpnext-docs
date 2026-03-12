@@ -1,12 +1,12 @@
 # Google Calendar Integration
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12fsvr3aaf>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12fsvr3aaf)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Google Calendar Integration 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12fsvr3aaf>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12fsvr3aaf)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -16,7 +16,7 @@ Frappe provides an integration with Google Calendar in order for all users to sy
 
 In order to allow a synchronization with Google Calendar you need to connect to your application in Google Cloud Platform and then create an account for each of your users:
 
-  1. Create a new project on [Google Cloud Platform](<https://cloud.google.com/>) and generate new OAuth 2.0 credentials
+  1. Create a new project on [Google Cloud Platform](https://cloud.google.com/) and generate new OAuth 2.0 credentials
   2. Add `https://{yoursite}` to Authorized JavaScript origins
   3. Add `https://{yoursite}?cmd=frappe.integrations.doctype.gcalendar_settings.gcalendar_settings.google_callback` as an authorized redirect URI
   4. Add your Client ID and Client Secret in the Gcalendar application: in "Modules>Integrations>Google Calendar>GCalendar Settings"
@@ -58,7 +58,7 @@ The synchronization module follows Frappe's authorization rule: An event will be
 
 Currently, if an instance of a recurring event is cancelled in Google Calendar, this change will not be reflected in Frappe.
 
-[ Previous Page Social Login Key  ](</framework/v14/user/en/guides/integration/social_login_key>) [ Next Page How to setup OAuth 2?  ](</framework/v14/user/en/guides/integration/how_to_set_up_oauth>)
+[ Previous Page Social Login Key  ](social_login_key.md) [ Next Page How to setup OAuth 2?  ](how_to_set_up_oauth.md)
 
 Last updated 2 months ago 
 

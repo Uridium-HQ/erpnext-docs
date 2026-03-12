@@ -1,16 +1,16 @@
 # Portal Pages
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12p16vokm0>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12p16vokm0)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # Portal Pages 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12p16vokm0>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12p16vokm0)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-Frappe Framework not only provides a rich admin interface via the [Desk](</framework/v14/user/en/desk>) which is an SPA but also static server rendered web pages. These pages are generally built for your website visitors. They can be public or can require login.
+Frappe Framework not only provides a rich admin interface via the [Desk](desk.md) which is an SPA but also static server rendered web pages. These pages are generally built for your website visitors. They can be public or can require login.
 
 ## Adding pages
 
@@ -139,13 +139,13 @@ Usage in template
      
     
      {% if about_us_settings.show_contact_us %}
-     [Contact Us](/contact)
+     [Contact Us](https://docs.frappe.io/contact)
      {% endif %}
     
     
 [/code]
 
-> Since Portal Pages are built using Jinja, frappe provides a standard [API](</framework/v14/user/en/api/jinja>) to use in jinja templates.
+> Since Portal Pages are built using Jinja, frappe provides a standard [API](api/jinja.md) to use in jinja templates.
 
 #### List of standard context keys
 
@@ -213,7 +213,7 @@ For example by adding `` to your `.html` or `.md` file, `context.add_breadcrumbs
      
     
      {% if about_us_settings.show_contact_us %}
-     [Contact Us](/contact)
+     [Contact Us](https://docs.frappe.io/contact)
      {% endif %}
     
     
@@ -257,7 +257,7 @@ The home page for your portal can be defined in
 
 
 
-[ Previous Page Discussions ](</framework/v14/user/en/discussions>) [ Next Page Blog Post  ](</framework/v14/user/en/blog-post>)
+[ Previous Page Discussions ](discussions.md) [ Next Page Blog Post  ](blog-post.md)
 
 Last updated 2 months ago 
 

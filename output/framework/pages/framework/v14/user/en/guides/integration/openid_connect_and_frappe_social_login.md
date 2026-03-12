@@ -1,12 +1,12 @@
 # OpenID Connect and Frappe social login
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12ervugnkn>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12ervugnkn)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
 # OpenID Connect and Frappe social login 
 
-[ Edit ](</wiki/spaces/r3uvq1ch61/page/12ervugnkn>)
+[ Edit ](https://docs.frappe.io/wiki/spaces/r3uvq1ch61/page/12ervugnkn)
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
@@ -51,31 +51,31 @@ Now you will see Frappe icon on the login page. Click on this icon to login with
 
 ### Part 1 : on Frappe Identity Provider (IDP)
 
-Login to IDP ![](/files/00-login-to-idp.png)
+Login to IDP ![](../../../../../../../assets/0bc5d6d9f016.png)
 
-Add OAuth Client on IDP ![](/files/01-add-oauth-client-on-idp.png)
+Add OAuth Client on IDP ![](../../../../../../../assets/3627b77a14f0.png)
 
-Set Server URL on IDP ![](/files/02-set-server-url-on-idp.png)
+Set Server URL on IDP ![](../../../../../../../assets/653e2d807e22.png)
 
 ### Part 2 : on Frappe App Server
 
-Set `Frappe Client ID` and `Frappe Client Secret` on App server (refer the client set on IDP) ![](/files/03-set-clientid-client-secret-server-on-app-server.png)
+Set `Frappe Client ID` and `Frappe Client Secret` on App server (refer the client set on IDP) ![](../../../../../../../assets/3690eb2e6a05.png)
 
 **Note** : Frappe Server URL is the main server where identities from your organization are stored.
 
-Login Screen on App Server (login with frappe) ![](/files/04-login-screen-on-app-server.png)
+Login Screen on App Server (login with frappe) ![](../../../../../../../assets/fba04147efd7.png)
 
 ### Part 3 : Redirected on IDP
 
-login with user on IDP ![](/files/05-login-with-user-on-idp.png)
+login with user on IDP ![](../../../../../../../assets/401e23a070f0.png)
 
-Confirm Access on IDP ![](/files/06-confirm-grant-access-on-idp.png)
+Confirm Access on IDP ![](../../../../../../../assets/73306ea8ab72.png)
 
 ### Part 4 : Back on App Server
 
-Logged in on app server with ID from IDP ![](/files/07-logged-in-as-website-user-with-id-from-idp.png)
+Logged in on app server with ID from IDP ![](../../../../../../../assets/512304074a0c.png)
 
-[ Previous Page Token based authentication  ](</framework/v14/user/en/guides/integration/how_to_setup_token_based_auth>) [ Next Page Webhooks  ](</framework/v14/user/en/guides/integration/webhooks>)
+[ Previous Page Token based authentication  ](how_to_setup_token_based_auth.md) [ Next Page Webhooks  ](webhooks.md)
 
 Last updated 2 months ago 
 
