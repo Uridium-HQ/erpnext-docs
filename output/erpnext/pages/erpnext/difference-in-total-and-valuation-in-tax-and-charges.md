@@ -18,7 +18,7 @@ Consider Tax or Charge field in Taxes and Charges table of purchase or sales tra
 
 
 
-![Valuation And Total](https://docs.frappe.io/assets/f7e684cd8edf.png)
+![Valuation And Total](../../assets/f7e684cd8edf.png)
 
 Let's consider an example to understand an effect of each charge type. We purchase ten units of item, at the rate of 800. total purchase amount is 800. Purchased item has 4% VAT applied on it, and INR 100 was incurred in transportation.
 

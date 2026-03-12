@@ -36,7 +36,7 @@ Before creating and using a Pick List, it is advised that you create the followi
 
 * * *
 
-  1. Go to the Pick List list, click on New. ![Unsaved Pick List](https://docs.frappe.io/assets/fd7a1660be6d.png)
+  1. Go to the Pick List list, click on New. ![Unsaved Pick List](../../assets/fd7a1660be6d.png)
 
   2. Set the Company.
 
@@ -51,12 +51,12 @@ Before creating and using a Pick List, it is advised that you create the followi
 
   6. **Get Item Locations:** Once items to be picked is finalized you can click on the **Get Item Locations** button to get Warehouse selection for each item. Since Warehouse will be automatically fetched if you get an Item from any reference document, this button can be useful to manually add additional Items or change the quantity of existing Items in the Item Locations table.
 
-  7. **Item Locations:** This will have the information of the item location (Warehouse), Serial Number for serialized items and batch no for batched items. ![Item Locations](https://docs.frappe.io/assets/bb61cc5e0de1.png)
+  7. **Item Locations:** This will have the information of the item location (Warehouse), Serial Number for serialized items and batch no for batched items. ![Item Locations](../../assets/bb61cc5e0de1.png)
 
 
 
 
-If Serial Numbers are involved, the Item row will look like this: ![Item Location Detail](https://docs.frappe.io/assets/0118845faa29.png) 8\. Save and Submit. ![Submitted Pick List](https://docs.frappe.io/assets/3021c9202199.png)
+If Serial Numbers are involved, the Item row will look like this: ![Item Location Detail](../../assets/0118845faa29.png) 8\. Save and Submit. ![Submitted Pick List](../../assets/3021c9202199.png)
 
 ### 2.1 Create Pick List from a Sales Order
 
@@ -81,7 +81,7 @@ If Serial Numbers are involved, the Item row will look like this: ![Item Locatio
 
   1. Go to a [Work Order](work-order.md).
   2. Click **Create Pick List** button.
-  3. You'll see the dialog box asking for the quantity of Finished Goods Item. This is required to calculate the number of raw material items required to manufacture the entered quantity of Finished Goods Item. ![Dialog For qty](https://docs.frappe.io/assets/1dbd101b3259.png)
+  3. You'll see the dialog box asking for the quantity of Finished Goods Item. This is required to calculate the number of raw material items required to manufacture the entered quantity of Finished Goods Item. ![Dialog For qty](../../assets/1dbd101b3259.png)
   4. You should be able to see the Item locations table with the Warehouse selected for each raw material item.
   5. Save this document and then this document can be forwarded to the person who is picking the stock.
   6. Submit the document once the stock picking is done and the picked item is updated in the document accordingly.
@@ -130,7 +130,7 @@ Pick list supports barcode scanning, introducing two check boxes. **Scan Mode** 
 
 In the pick list, if a user manually selects batches, the system overrides the changes upon saving the pick list. To solve this issue added a checkbox 'Pick Manually' in the pick list. If this checkbox is enabled, the system will not override the user's changes in the pick list.
 
-![pick_manual](https://docs.frappe.io/assets/6c8404e8d0a2.gif)
+![pick_manual](../../assets/6c8404e8d0a2.gif)
 
   5. Related Topics
 

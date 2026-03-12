@@ -65,7 +65,7 @@ Similarly, if you check 'Preferred Billing Address', the address would be automa
 
 If the customer or supplier has registered under GST, you can enter GSTIN and GST State in Address. Make sure GSTIN entered is in valid format.
 
-![GST Details in Address](https://docs.frappe.io/assets/9daaa0e610c1.png)
+![GST Details in Address](../../assets/9daaa0e610c1.png)
 
 In sales transactions along with address, GSTIN is also fetched.
 

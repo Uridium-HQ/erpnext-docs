@@ -38,7 +38,7 @@ To access the Journal Entry list, go to:
 
 
 
-![Journal Entry](https://docs.frappe.io/assets/4eee478616c8.png)
+![Journal Entry](../../assets/4eee478616c8.png)
 
 **Finance Book** : You can post this entry to a specific [Finance Book](finance-book.md). On leaving this field blank, this Journal Entry will show up in all Finance Books. This field will only be visible if 'Enable Finance Books' under the Fixed Asset Defaults section of the Company master is checked.
 
@@ -46,19 +46,19 @@ To access the Journal Entry list, go to:
 
 When creating a Journal Entry, a **Quick Entry** button can be seen on the top right. This makes creating the Journal Entry a bit easier. Enter the amount, select the accounts, add a remark. This will populate the 'Accounting Entries' table with the selected details.
 
-![Quick Entry](https://docs.frappe.io/assets/28d5e948645c.png)
+![Quick Entry](../../assets/28d5e948645c.png)
 
 ## 2\. Features
 
 ### 2.1 Accounting Entries
 
-  1. **Accounting Dimensions** : A Project or Cost Center can be linked here to track the costing separately. To know more, [visit this page](accounting-dimensions.md). ![Accounting Dimension](https://docs.frappe.io/assets/fdefeb4aebe0.png)
+  1. **Accounting Dimensions** : A Project or Cost Center can be linked here to track the costing separately. To know more, [visit this page](accounting-dimensions.md). ![Accounting Dimension](../../assets/fdefeb4aebe0.png)
 
   2. **Bank Account No** : If you've added a [Bank Account](bank-account.md), the number associated with that bank account will be fetched.
 
   3. **Reference Type** : If this Accounting Entry is associated with another transaction, it can be referenced here. Select the Reference Type and select the specific document. For example, if you're creating a Journal Entry against a specific Sales Invoice. Link this Journal Entry to the invoice. The “outstanding” amount of that invoice will be affected.
 
-  4. ![Reference](https://docs.frappe.io/assets/ae5325a113f8.png)
+  4. ![Reference](../../assets/ae5325a113f8.png)
 
 Following are the documents that can be selected in the Journal Entry under Reference Type:
 
@@ -85,7 +85,7 @@ Following are the documents that can be selected in the Journal Entry under Refe
 
 In any submitted Journal Entry, there is a dedicated button to reverse the Journal Entry. On clicking the 'Reverse Journal Entry' button, the system creates a new Journal Entry by reversing debit and credit amount against the respective accounts.
 
-![Reverse Journal Entry](https://docs.frappe.io/assets/326c6570801c.png)
+![Reverse Journal Entry](../../assets/326c6570801c.png)
 
 ### 2.3 Difference Entry
 
@@ -95,7 +95,7 @@ As per double entry accounting system, the total debit should be equal to the to
 
 This should be zero if the Journal Entry is to be “Submitted”. If this number is not zero, you can click on “Make Difference Entry” and the system will automatically add a new row with the amount required to make the total as zero. Select the account to debit/credit and proceed.
 
-![Make Difference](https://docs.frappe.io/assets/64c68ea537b6.png)
+![Make Difference](../../assets/64c68ea537b6.png)
 
 ### 2.4 Referencing
 
@@ -117,7 +117,7 @@ In th Reference section, the following fields can be entered manually if the bil
 
 If the accounts selected are in different currencies, tick the 'Multi Currency' checkbox. If this checkbox is not enabled, you will not be able to select any foreign currencies in the Journal Entry. This will show the different currency and fetch the 'Exchange Rate'. To know more, visit the [Multi Currency Accounting](multi-currency-accounting.md) page.
 
-![Multi Currency](https://docs.frappe.io/assets/d316e68c0e86.png)
+![Multi Currency](../../assets/d316e68c0e86.png)
 
 ### 2.6 Journal Entry Template
 
@@ -137,7 +137,7 @@ To learn more go to the [Journal Entry Template](journal-entry-template.md) page
 
 ### 2.7 Print Settings
 
-![Journal Print Settings](https://docs.frappe.io/assets/3d9cdd46402d.png)
+![Journal Print Settings](../../assets/3d9cdd46402d.png)
 
 **Pay To / Recd From** : The name entered here will show up in the Sales Invoice. This is useful for printing cheques. Go to the print view in the Journal Entry and select the 'Cheque Printing Format'.
 

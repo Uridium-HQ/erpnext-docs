@@ -25,7 +25,7 @@ Following are the steps to be followed for renaming the ID of a master which is 
 
 When you click on that node, you will have an option to 'Rename' the document.
 
-![Tree Master Renaming](https://docs.frappe.io/assets/cd3e2fd3d605.png)
+![Tree Master Renaming](../../assets/cd3e2fd3d605.png)
 
   * **Step 3:** Rename Account
 
@@ -33,7 +33,7 @@ When you click on that node, you will have an option to 'Rename' the document.
 
 When you click on rename, a box will pop-up wherein you will be allowed to rename the document.
 
-![Tree Master Renaming](https://docs.frappe.io/assets/8b8fa61870f6.gif)
+![Tree Master Renaming](../../assets/8b8fa61870f6.gif)
 
 [ Previous Page Manage Tree Structure Masters ](managing-tree-structure-masters.md) [ Next Page Set Current Value for Naming Series ](naming-series-current-value.md)
 

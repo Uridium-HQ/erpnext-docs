@@ -40,13 +40,13 @@ You need to create following ledgers in order to post invoice discounting transa
 
 
 
-![Disburse Loan in Invoice Discounting](https://docs.frappe.io/assets/b23b8d9b08ed.png)
+![Disburse Loan in Invoice Discounting](../../assets/b23b8d9b08ed.png)
 
   1. You'll be taken to a [Journal Entry](journal-entry.md) screen. Save and Submit the Journal Entry.
 
 
 
-![Journal Entry](https://docs.frappe.io/assets/7b8cb6a77ff5.png)
+![Journal Entry](../../assets/7b8cb6a77ff5.png)
 
 ## 2\. Features
 
@@ -64,7 +64,7 @@ You can also specify multiple of the above filters.
 
 ### 2.2 Closing the Loan
 
-When you repay the loan at the end of the loan period or before that, you can update the same by clicking on 'Close Loan' button. ![Journal Entry](https://docs.frappe.io/assets/fc76aba0e601.png) System will prepare the Journal Entry. Review and Submit the it.
+When you repay the loan at the end of the loan period or before that, you can update the same by clicking on 'Close Loan' button. ![Journal Entry](../../assets/fc76aba0e601.png) System will prepare the Journal Entry. Review and Submit the it.
 
 ### 2.3 Auto Update of Ledgers at the end of Loan Period
 

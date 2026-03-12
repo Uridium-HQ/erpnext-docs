@@ -14,7 +14,7 @@ System Console helps you run Python commands for debugging based on [Script API]
 
 To access the System Console, search for it on the Search Bar.
 
-![System Console](https://docs.frappe.io/assets/094ac046b78e.png)
+![System Console](../../../../../../../assets/094ac046b78e.png)
 
 ### API
 

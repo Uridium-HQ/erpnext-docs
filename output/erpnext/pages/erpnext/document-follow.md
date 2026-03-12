@@ -30,7 +30,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 
 
-![Defining Criteria](https://docs.frappe.io/assets/58830bddb923.png)
+![Defining Criteria](../../assets/58830bddb923.png)
 
   1. After following, you can also unfollow a document.
 
@@ -54,7 +54,7 @@ Cases where the document will be **automatically** followed after activating Doc
 
 This is what an email notification for Document Follow will look like:
 
-![Defining Criteria](https://docs.frappe.io/assets/725d3220ed82.png)
+![Defining Criteria](../../assets/725d3220ed82.png)
 
 ### 2\. Related Topics
 

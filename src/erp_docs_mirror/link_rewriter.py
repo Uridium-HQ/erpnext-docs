@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import re
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urlunparse
 
 from .utils import normalize_url, relativize_path, strip_fragment
 
@@ -17,6 +17,15 @@ class LinkRewriter:
         self.linkmap = {normalize_url(k): v for k, v in linkmap.items()}
         self.assetmap = {normalize_url(k): v for k, v in assetmap.items()}
         self.reverse_linkmap = {v: k for k, v in self.linkmap.items()}
+        for source_url, local_path in list(self.assetmap.items()):
+            parsed = urlparse(source_url)
+            if not parsed.scheme or not parsed.netloc:
+                continue
+            asset_name = Path(local_path).name
+            if not asset_name:
+                continue
+            cdn_alias = urlunparse((parsed.scheme, parsed.netloc, f"/assets/{asset_name}", "", "", ""))
+            self.assetmap.setdefault(cdn_alias, local_path)
 
     @staticmethod
     def _unwrap_target(target: str) -> str:
@@ -29,11 +38,22 @@ class LinkRewriter:
         target = self._unwrap_target(target)
         return normalize_url(target, base=current_url) if current_url else normalize_url(target)
 
+    def _is_existing_local_target(self, current_relpath: str, target: str) -> bool:
+        parsed = urlparse(target)
+        if parsed.scheme or target.startswith("/"):
+            return False
+        target_base = target.split("#", 1)[0]
+        if not target_base:
+            return False
+        return (self.root / current_relpath).parent.joinpath(target_base).exists()
+
     def _rewrite_target(self, current_relpath: str, target: str, current_url: str | None = None) -> str:
         target = self._unwrap_target(target)
         if target.startswith("mailto:") or target.startswith("tel:"):
             return target
         if target.startswith("#"):
+            return target
+        if self._is_existing_local_target(current_relpath, target):
             return target
         normalized_target = self._normalize_target(target, current_url)
         base_target, fragment = strip_fragment(normalized_target)

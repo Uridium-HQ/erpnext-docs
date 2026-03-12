@@ -18,7 +18,7 @@ To setup Pricing Rule, go to:
 
 ####Adding Margin in Pricing Rule
 
-![Adding Margin in Pricing Rule](https://docs.frappe.io/assets/eb1a3ab231f1.png)
+![Adding Margin in Pricing Rule](../../assets/eb1a3ab231f1.png)
 
 Total Margin is calculated as follows: `Rate = Price List Rate + Margin Rate`
 
@@ -30,7 +30,7 @@ To add Price List, go to:
 
 ####Adding Item Price
 
-![Adding Margin in Pricing Rule](https://docs.frappe.io/assets/d6231d593629.png)
+![Adding Margin in Pricing Rule](../../assets/d6231d593629.png)
 
   2. Apply margin direct on Item: If user wants to apply the margin without pricing rule, they can use this option. In Quotation Item and Sales Order Item, user can select the margin type and rate or amount. The system will calculate the margin and apply it on price list rate to calculate the rate of the product.
 
@@ -44,7 +44,7 @@ add item and scroll down to section where you can find the Margin Type
 
 ####Adding Margin in Quotation
 
-![Adding Margin in Quotation](https://docs.frappe.io/assets/28d5bc8a734a.png)
+![Adding Margin in Quotation](../../assets/28d5bc8a734a.png)
 
 [ Previous Page Sales Return Management  ](sales-return-use-cases.md) [ Next Page Introduction to Stock Module ](stock.md)
 

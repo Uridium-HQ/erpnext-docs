@@ -32,7 +32,7 @@ To access the Accounting Dimension list, go to:
 
 
 
-![Creating Accounting Dimension](https://docs.frappe.io/assets/1e1c137f66b4.png)
+![Creating Accounting Dimension](../../assets/1e1c137f66b4.png)
 
 ## 2\. Features
 
@@ -42,13 +42,13 @@ As you create the dimension, custom fields will be created using a background jo
 
 To tag a transaction with a dimension you can select the specific dimension in Accounting Dimensions section as shown in the screenshot below.
 
-![Accounting Dimension in Sales Invoice](https://docs.frappe.io/assets/2592b61c9863.png)
+![Accounting Dimension in Sales Invoice](../../assets/2592b61c9863.png)
 
 ### 2.2 Filtering Reports based on dimensions
 
 You can also filter various financial reports like Profit and Loss Statement, Balance Sheet, General Ledger based on these dimensions.
 
-![Accounting Dimension in Reports](https://docs.frappe.io/assets/ae9bc4139861.png)
+![Accounting Dimension in Reports](../../assets/ae9bc4139861.png)
 
 ### 2.3 Making accounting dimensions mandatory for "Profit and Loss" and "Balance Sheet" Accounts
 
@@ -58,13 +58,13 @@ The Balance Sheet accounts are Application of Funds (Assets) and Sources of Fund
 
 By selecting the check boxes 'Mandatory for Profit and Loss Account' or 'Mandatory for Balance Sheet' you can configure your dimensions to be mandatory for 'Profit and Loss' and 'Balance Sheet Accounts'.
 
-![Accounting Dimension Mandatory in Transaction](https://docs.frappe.io/assets/292680633c45.png)
+![Accounting Dimension Mandatory in Transaction](../../assets/292680633c45.png)
 
 ### 2.4 Disabling accounting dimensions when no longer required
 
 You can also disable the dimensions if you don't require them anymore. The old transactions having accounting dimensions will remain intact.
 
-![Disable Accounting Dimension](https://docs.frappe.io/assets/674abd812862.png)
+![Disable Accounting Dimension](../../assets/674abd812862.png)
 
 ### Related Topics
 

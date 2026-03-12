@@ -14,7 +14,7 @@ ERPNext allows you to configure some aspects of Accounting as per your business 
 
 ## Transactions Settings
 
-![Screenshot 2024-06-03 at 11.08.05 AM](https://docs.frappe.io/assets/53919fa61594.png)
+![Screenshot 2024-06-03 at 11.08.05 AM](../../assets/53919fa61594.png)
 
 ### 1\. Over Billing Allowance (%)
 
@@ -84,7 +84,7 @@ If checked, Discount Accounts can be added in the Items table of Sales Invoices,
 
 ## Tax Settings
 
-![Screenshot 2024-06-03 at 11.12.55 AM](https://docs.frappe.io/assets/50c58bbf108b.png)
+![Screenshot 2024-06-03 at 11.12.55 AM](../../assets/50c58bbf108b.png)
 
 ### 1\. Determine Address Tax Category From
 
@@ -100,7 +100,7 @@ Enabling this will split the Payment Entry discount deductions into Income Loss 
 
 ## Period Closing Settings
 
-![Screenshot 2024-06-03 at 11.14.36 AM](https://docs.frappe.io/assets/bf6bcfe0d52e.png)
+![Screenshot 2024-06-03 at 11.14.36 AM](../../assets/bf6bcfe0d52e.png)
 
 ### 1\. Accounts Frozen Till Date
 
@@ -116,7 +116,7 @@ This role is allowed to submit transactions that exceed credit limit.
 
 ## Deferred Accounting Settings
 
-![Screenshot 2024-06-03 at 11.16.37 AM](https://docs.frappe.io/assets/ddcf91ab0a9b.png)
+![Screenshot 2024-06-03 at 11.16.37 AM](../../assets/ddcf91ab0a9b.png)
 
 ### 1\. Book Deferred Entries Based On
 
@@ -132,7 +132,7 @@ By default Ledger Entries are posted directly to book deferred revenue against a
 
 ## Print Settings
 
-![Screenshot 2024-06-03 at 11.19.05 AM](https://docs.frappe.io/assets/2dbe86eeac21.png)
+![Screenshot 2024-06-03 at 11.19.05 AM](../../assets/2dbe86eeac21.png)
 
 ### 1\. Show Inclusive Tax In Print
 
@@ -148,7 +148,7 @@ The Payment Schedule table is visible on using [Payment Terms](payment-terms.md)
 
 ## Currency Exchange Settings
 
-![Screenshot 2024-06-03 at 11.22.56 AM](https://docs.frappe.io/assets/b7fdf22e25a8.png)
+![Screenshot 2024-06-03 at 11.22.56 AM](../../assets/b7fdf22e25a8.png)
 
 ### 1\. Allow Stale Exchange Rates
 
@@ -172,7 +172,7 @@ If stale rates are disabled, the order of fetching is:
 
 ## Report Settings
 
-![Screenshot 2024-06-03 at 11.23.29 AM](https://docs.frappe.io/assets/836e68e34f78.png)
+![Screenshot 2024-06-03 at 11.23.29 AM](../../assets/836e68e34f78.png)
 
 ### 1\. Use Custom Cash Flow Format
 

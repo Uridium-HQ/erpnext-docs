@@ -55,7 +55,7 @@ To see the listing of partners, go to:
 
 https://yourCompanyName.erpnext.com/partners
 
-![Sales Partner](https://docs.frappe.io/assets/98461f910edf.png)
+![Sales Partner](../../assets/98461f910edf.png)
 
 ### Track Sales via Sales Partner
 

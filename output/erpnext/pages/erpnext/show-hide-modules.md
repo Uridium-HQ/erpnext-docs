@@ -16,7 +16,7 @@ For example, if you are in the services business, you want to hide the Manufactu
 
 Check/uncheck the items to show or hide modules.
 
-![Module Settings](https://docs.frappe.io/assets/9987bfc52285.gif)
+![Module Settings](../../assets/9987bfc52285.gif)
 
 In versions **older** than v12, click on your username, select 'Everyone' and check/uncheck the modules
 

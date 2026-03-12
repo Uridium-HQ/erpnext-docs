@@ -36,7 +36,7 @@ An Email address is the unique key (ID) identifying the Users.
 
 
 
-![Add User Details](https://docs.frappe.io/assets/05e43b9a5f0d.png)
+![Add User Details](../../assets/05e43b9a5f0d.png)
 
 Details like Username and Language can also be changed.
 
@@ -50,7 +50,7 @@ Details like Username and Language can also be changed.
 
 After saving, you will see a list of roles and checkboxes next to them. Just check the roles you want the user to have and save the document. The roles have pre-defined permissions, to know more about roles, [click here](role-based-permissions.md). You can set [Role profiles](role-and-role-profile.md) to use as a template which selects multiple roles together.
 
-![User Roles](https://docs.frappe.io/assets/2e5cfbe0cfb2.png)
+![User Roles](../../assets/2e5cfbe0cfb2.png)
 
 ### 2.2 More Information
 
@@ -98,13 +98,13 @@ Subscribe the user to different mailing lists of your company from this section.
 
 Users will have access to all modules for which they have role-based access. If you want to restrict access of certain modules for this user, un-check the modules from this list.
 
-![User Block Module](https://docs.frappe.io/assets/65c11320a3ac.png)
+![User Block Module](../../assets/65c11320a3ac.png)
 
 #### 2.7.1 Module Profiles
 
 Role Profiles act as a template to store and select access to multiple modules. This Role Profile can then be assigned to a User. For example, HR Users will have access to multiple modules like HR, Payroll, etc. Role Profiles are useful to provide access to multiple modules at once when adding multiple users.
 
-![Module Profile](https://docs.frappe.io/assets/00d5e054d49e.png)
+![Module Profile](../../assets/00d5e054d49e.png)
 
 ### 2.8 Security Settings
 
@@ -131,7 +131,7 @@ You can generate API Secret keys from this section using the Generate Keys butto
 
 After saving a user, these buttons will be seen on the dashboard area of the User master.
 
-![User dashboard buttons](https://docs.frappe.io/assets/1a1eb5d687b6.png)
+![User dashboard buttons](../../assets/1a1eb5d687b6.png)
 
 #### Permissions
 
@@ -155,11 +155,11 @@ In System Settings, under the Security section, if you check the 'Allow Login us
 
 Login with Email:
 
-![Email Login](https://docs.frappe.io/assets/85bc1aaf5b4e.png)
+![Email Login](../../assets/85bc1aaf5b4e.png)
 
 Login with Email or Mobile:
 
-![Mobile No Login](https://docs.frappe.io/assets/73713ea59a06.png)
+![Mobile No Login](../../assets/73713ea59a06.png)
 
 After adding these details, save the user.
 

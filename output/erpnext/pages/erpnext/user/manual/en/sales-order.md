@@ -14,7 +14,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 It is usually a binding Contract with your Customer. Once your customer confirms the Quotation you can convert your Quotation into a Sales Order.
 
-![Sales Flow](https://docs.frappe.io/assets/a48077498267.png)
+![Sales Flow](../../../../../assets/a48077498267.png)
 
 To access Sales Order, go to:
 

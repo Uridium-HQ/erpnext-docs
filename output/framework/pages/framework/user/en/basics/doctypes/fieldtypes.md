@@ -12,7 +12,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 There are variety of fieldtypes available in Frappe Framework. Each one has its own use case and can be used to input and store different types of data in a document. Fieldtypes are used to render components in desk as well as web forms.
 
-![Field Types Dropdown Menu](https://docs.frappe.io/assets/f50235ce8e53.png)
+![Field Types Dropdown Menu](../../../../../../assets/f50235ce8e53.png)
 
 #### Data
 
@@ -29,7 +29,7 @@ You can enable validations for the following types of data:
 
 by setting the options to "Name", "Email", "Phone" or "URL" respectively.
 
-![Data field types](https://docs.frappe.io/assets/227969f6ec84.png)
+![Data field types](../../../../../../assets/227969f6ec84.png)
 
 Set the options to "IBAN" to enable formatting in blocks of 4 characters.
 
@@ -45,7 +45,7 @@ Dynamic Link field is one which can search and hold value of any document/doctyp
 
 This will enable you to have a checkbox here. You can set the `Default` value to 1 and it will be checked by default.
 
-![Check Field Preview](https://docs.frappe.io/assets/3bf89aa80144.png) ![Check Field Edit](https://docs.frappe.io/assets/71275f85dc91.png)
+![Check Field Preview](../../../../../../assets/3bf89aa80144.png) ![Check Field Edit](../../../../../../assets/71275f85dc91.png)
 
 #### Select
 
@@ -57,11 +57,11 @@ If you enable the _Sort Options_ checkbox, values will be displayed in alphabeti
 
 The following screenshot shows how a "Select" field can be defined in the **DocType** or via **Customize Form** :
 
-![define_select_field](https://docs.frappe.io/assets/6acfec2ee970.png)
+![define_select_field](../../../../../../assets/6acfec2ee970.png)
 
 And this is how it will be rendered in a new form:
 
-![use_select_field](https://docs.frappe.io/assets/744c2b8cac2f.png)
+![use_select_field](../../../../../../assets/744c2b8cac2f.png)
 
 #### Table
 
@@ -71,21 +71,21 @@ First, you'll have to choose or define a DocType that has the Checkbox _Is Child
 
 For example, ERPNext defines a child DocType called "Purchase Receipt Item" with _Is Child Table_ enabled:
 
-![define_child_table_doctype](https://docs.frappe.io/assets/d8167b1f776e.png)
+![define_child_table_doctype](../../../../../../assets/d8167b1f776e.png)
 
 Another DocType called "Purchase Receipt" has a field of type "Table", with _Options_ set to above child doctype "Purchase Receipt Item":
 
-![define_child_table_field](https://docs.frappe.io/assets/4ecb0e4dc86b.png)
+![define_child_table_field](../../../../../../assets/4ecb0e4dc86b.png)
 
 Finally, the child table will be rendered in the Purchase Receipt form:
 
-![child_table_in_form](https://docs.frappe.io/assets/614f6abd1f1b.png)
+![child_table_in_form](../../../../../../assets/614f6abd1f1b.png)
 
 #### Attach
 
 Attach field allows you to browse a field from the File Manager and attach the same herein.
 
-![Field Types](https://docs.frappe.io/assets/814d09169737.png)
+![Field Types](../../../../../../assets/814d09169737.png)
 
 #### Attach Image
 
@@ -95,13 +95,13 @@ Attach Image is a field wherein you will be allowed to attach Images of the form
 
 Text Editor is a text field and renders a **WYSIWYG** editor for input. It has various text-formatting options.
 
-![Field Types](https://docs.frappe.io/assets/e7740ecff390.png)
+![Field Types](../../../../../../assets/e7740ecff390.png)
 
 #### Date
 
 This field will enable you to enter the Date in this field.
 
-![Field Types](https://docs.frappe.io/assets/0734ba682518.png)
+![Field Types](../../../../../../assets/0734ba682518.png)
 
 #### Date and Time
 
@@ -111,7 +111,7 @@ This field will give you a date and time picker. The current date and time (as p
 
 In this field, you can specify the field as Barcode which will allow you to enter a Barcode number. Once you do that, the Barcode would automatically get generated against the number.
 
-![barcode](https://docs.frappe.io/assets/7d502678bacf.png)
+![barcode](../../../../../../assets/7d502678bacf.png)
 
 #### Button
 
@@ -135,13 +135,13 @@ Example of differences between `Python` and `PythonExpression`:
 
 
 
-![Field Types](https://docs.frappe.io/assets/801662b10b21.png)
+![Field Types](../../../../../../assets/801662b10b21.png)
 
 #### Color
 
 This will let the user input a color via a rendered color picker or directly input a hexadecimal color.
 
-![Field Types](https://docs.frappe.io/assets/33905b1cd889.png)
+![Field Types](../../../../../../assets/33905b1cd889.png)
 
 #### Column Break
 
@@ -149,11 +149,11 @@ This is a `'meta'` fieldtype that does not store any input data but can be used 
 
 For example,
 
-![Field Types](https://docs.frappe.io/assets/cd579a136ceb.png)
+![Field Types](../../../../../../assets/cd579a136ceb.png)
 
 will result into:
 
-![Field Types](https://docs.frappe.io/assets/041d6e40510c.png)
+![Field Types](../../../../../../assets/041d6e40510c.png)
 
 #### Currency
 
@@ -175,11 +175,11 @@ Note: Frappe uses the "Leaflet" library which stores coordinates as [latitude, l
 
 This will render the content entered in `Options` as HTML in the document form or view page. Here is an example:
 
-![Field Types](https://docs.frappe.io/assets/1c4ca13f87f7.png)
+![Field Types](../../../../../../assets/1c4ca13f87f7.png)
 
 will result into:
 
-![Field Types](https://docs.frappe.io/assets/5b25daf249c1.png)
+![Field Types](../../../../../../assets/5b25daf249c1.png)
 
 #### Image
 
@@ -187,11 +187,11 @@ Image field will render an image file selected in another attach field.
 
 For the Image field, under Option (in Doctype), a field name should be provided where the image file is attached. By referring to the value in that field, the image will be a reference in the Image field.
 
-![Field Types](https://docs.frappe.io/assets/51622c366e71.png)
+![Field Types](../../../../../../assets/51622c366e71.png)
 
 will result into:
 
-![Field Types](https://docs.frappe.io/assets/0a167c3eb12f.png)
+![Field Types](../../../../../../assets/0a167c3eb12f.png)
 
 #### Int (Integer)
 
@@ -213,11 +213,11 @@ This field type would allow you to add text in the field. The character limit in
 
 This field will allow you to add the text in markdown. This fieldtype also provides a `Preview` view of rendered HTML:
 
-![Field Types](https://docs.frappe.io/assets/ee3490ead367.png)
+![Field Types](../../../../../../assets/ee3490ead367.png)
 
 when preview is clicked:
 
-![Field Types](https://docs.frappe.io/assets/3ae3bf2fd6d2.png)
+![Field Types](../../../../../../assets/3ae3bf2fd6d2.png)
 
 #### Password
 
@@ -231,11 +231,11 @@ You can define the field as a Percentage field which in the background will be c
 
 This field can be used to display an interactive star rating input. The default star count shown is 5, however, this can easily be changed by entering a number ranging from 3 - 10 in the options field for that particular rating field.
 
-![Check Field Edit](https://docs.frappe.io/assets/b17ae4826e6e.png)
+![Check Field Edit](../../../../../../assets/b17ae4826e6e.png)
 
 You can also provide half ratings e.g 3.5 out of 5.
 
-![Half Rating](https://docs.frappe.io/assets/8d691f991e52.png)
+![Half Rating](../../../../../../assets/8d691f991e52.png)
 
 #### Read Only
 
@@ -245,13 +245,13 @@ Read Only field will carry data fetched from another form which will be non-edit
 
 Section Break is used to divide the form into multiple sections. Any fields that follow (and before any other `Section Break`) a `Section Break` field will be part of this new section.
 
-![Field Types](https://docs.frappe.io/assets/10b4918ae5e5.png)
+![Field Types](../../../../../../assets/10b4918ae5e5.png)
 
 ### Tab Break
 
 Tab Break is used to divide the form into multiple tabs. Any field that follow till the next `Tab Break` will be the part of this new tab.
 
-![Tabs](https://docs.frappe.io/assets/482e24763b6d.png)
+![Tabs](../../../../../../assets/482e24763b6d.png)
 
 **Note:** If the `fields` table of a DocType is not started with a Tab Break, a default Tab Break named `Details` will be used. This happens only if a DocType has atleast one `Tab Break` in the `fields` table.
 

@@ -20,7 +20,7 @@ The cost is recorded as an asset until such time as the underlying goods or serv
 
 Before you start using deferred accounting you should be aware of the below settings which will give you more control over how you manage your deferred accounting
 
-![Deferred Accounting Settings](https://docs.frappe.io/assets/c6ddf8e91967.png)
+![Deferred Accounting Settings](../../assets/c6ddf8e91967.png)
 
   1. **Automatically Process Deferred Accounting Entry:** This setting is enabled by default. In case you don't want the deferred accounting entries to be posted automatically, you can disable this setting. If this setting is disabled, deferred accounting will have to be processed manually using [Process Deferred Accounting](process-deferred-accounting.md)
 
@@ -54,13 +54,13 @@ Following is how you can configure Deferred Expense accounting in ERPNext to aut
 
 In the Item master, under Deferred Expense section, check field **Enable Deferred Expense**. In this section, you can also select a Deferred Expense account (Asset Account, preferably Current Asset) for this particular item and no. of months.
 
-![Item With Deferred Expense](https://docs.frappe.io/assets/bda0d01e74c2.png)
+![Item With Deferred Expense](../../assets/bda0d01e74c2.png)
 
 ### 2.2 Purchase Invoice
 
 On creation of Purchase Invoice for the Deferred Expense Item, instead of posting in the Expense Account, Deferred Expense account (Asset account) is Credited by the purchase amount. Let's consider a simple example of an Internet subscription here:
 
-![Invoice With Deferred Expense](https://docs.frappe.io/assets/208160042384.gif)
+![Invoice With Deferred Expense](../../assets/208160042384.gif)
 
 ### 2.3 Journal Entry
 

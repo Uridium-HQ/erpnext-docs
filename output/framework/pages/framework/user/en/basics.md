@@ -90,21 +90,21 @@ Frappe does not only manage the backend, it also comes with a feature rich admin
 
 The List View supports paging, filtering, sorting and bulk editing records.
 
-![List View](https://docs.frappe.io/assets/2aa0cce35352.png) _List View_
+![List View](../../../../assets/2aa0cce35352.png) _List View_
 
 The Form View used for editing records also supports file attachments, PDF format, comments, email, etc.
 
-![Form View](https://docs.frappe.io/assets/3c6bc21bca63.png) _Form View_
+![Form View](../../../../assets/3c6bc21bca63.png) _Form View_
 
 The Report Builder supports adding columns, grouping, filtering, sorting and saving it as a configuration.
 
-![Report Builder](https://docs.frappe.io/assets/160c89ef656b.png) _Report Builder_
+![Report Builder](../../../../assets/160c89ef656b.png) _Report Builder_
 
 ## Users, Roles and Permissions
 
 Frappe comes with User and Role management out of the box. A **User** is someone who can login to the system and perform authorized actions like creating, updating or deleting records. A **Role** is a mapping of DocTypes and actions allowed to perform on it.
 
-![Role Permission Manager](https://docs.frappe.io/assets/20ee27a1be15.png)
+![Role Permission Manager](../../../../assets/20ee27a1be15.png)
 
 ## Python, JS and MariaDB
 
@@ -153,15 +153,15 @@ Frappe also supports background job queuing based on Python RQ.
 
 Frappe supports sending and receiving emails, which can also be linked to individual documents.
 
-![Email](https://docs.frappe.io/assets/fa7ae91bd819.png)
+![Email](../../../../assets/fa7ae91bd819.png)
 
 ## Printing
 
 Frappe supports generating PDF print formats based on Jinja Templates. It also comes with a drag-and-drop Print Format Builder.
 
-![Print Preview](https://docs.frappe.io/assets/423168b7e717.png) _Print Preview_
+![Print Preview](../../../../assets/423168b7e717.png) _Print Preview_
 
-![Print Format Builder](https://docs.frappe.io/assets/aa79943f35af.png) _Print Format Builder_
+![Print Format Builder](../../../../assets/aa79943f35af.png) _Print Format Builder_
 
 ## Batteries Included
 

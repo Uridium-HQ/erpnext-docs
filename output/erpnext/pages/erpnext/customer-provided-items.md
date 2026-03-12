@@ -14,7 +14,7 @@ In Contract Manufacturing, in some cases, the Customer provides specific items a
 
 In this feature, Customer Provided Item is received through 'Stock Entry' with type 'Material Receipt' from a 'Material Request' with type 'Customer provided'. This feature is used when someone subcontracts the manufacturing process to you and supplies the raw materials.
 
-![Customer Provided Material Request](https://docs.frappe.io/assets/695e8b89e0c1.png)
+![Customer Provided Material Request](../../assets/695e8b89e0c1.png)
 
 Here are the steps on how to setup a 'Customer Provided' item.
 
@@ -28,7 +28,7 @@ Here are the steps on how to setup a 'Customer Provided' item.
 
 
 
-![Item Purchase Details](https://docs.frappe.io/assets/3bdbc21acddb.png)
+![Item Purchase Details](../../assets/3bdbc21acddb.png)
 
 How to receive a 'Customer Provided' Item?
 
@@ -36,13 +36,13 @@ How to receive a 'Customer Provided' Item?
 
 
 
-![Material Request in Production Plan](https://docs.frappe.io/assets/38667d31ce91.png)
+![Material Request in Production Plan](../../assets/38667d31ce91.png)
 
   2. Once a component in a BOM is set as 'Customer Provided' and 'Material Request' is created from a 'Production Plan', it will create both 'Material Request' with type 'Purchase' and 'Customer Provided'. From there, a 'Stock Entry' with purpose 'Material Receipt' can be created.
 
 
 
-![Stock Entry from Material Request](https://docs.frappe.io/assets/b20e54fcdd1b.png)
+![Stock Entry from Material Request](../../assets/b20e54fcdd1b.png)
 
   3. A 'Material Request' can have multiple 'Stock Entry' - Material Receipt. It will reflect it in the status.
 

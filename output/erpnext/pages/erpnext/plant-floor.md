@@ -28,11 +28,11 @@ After that you can see the status of machines and workstations using plant floor
 
 Using plant floor, users can visualize the stock of the corresponding plant floor. Using this feature user can add or move the stock.
 
-![stock-summary](https://docs.frappe.io/assets/84ade2971b15.png)
+![stock-summary](../../assets/84ade2971b15.png)
 
 ### Visualize Job Cards
 
-![job_cards](https://docs.frappe.io/assets/b5d156b7f13f.gif)
+![job_cards](../../assets/b5d156b7f13f.gif)
 
 [ Previous Page Job Card  ](job-card.md) [ Next Page Manufacturing Reports  ](https://docs.frappe.io/erpnext/manufacturing-reports)
 

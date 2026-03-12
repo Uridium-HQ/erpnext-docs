@@ -20,7 +20,7 @@ To access CRM Settings, go to:
 
 ## Lead
 
-![Screenshot 2024-06-03 at 12.48.00 PM](https://docs.frappe.io/assets/b7a8f4ea50b3.png)
+![Screenshot 2024-06-03 at 12.48.00 PM](../../assets/b7a8f4ea50b3.png)
 
 ### 1\. Campaign Naming By
 
@@ -36,7 +36,7 @@ The system will automatically create a new Contact on creation of a Lead.
 
 ## Opportunity
 
-![Screenshot 2024-06-03 at 12.54.38 PM](https://docs.frappe.io/assets/b857412115af.png)
+![Screenshot 2024-06-03 at 12.54.38 PM](../../assets/b857412115af.png)
 
 ### 1\. Close Replied Opportunity After Days
 
@@ -44,7 +44,7 @@ If there are many Opportunities having a status other than Open, then they will 
 
 ## Quotation
 
-![Screenshot 2024-06-03 at 12.56.40 PM](https://docs.frappe.io/assets/784b923ac861.png)
+![Screenshot 2024-06-03 at 12.56.40 PM](../../assets/784b923ac861.png)
 
 ### 1\. Default Quotation Validity Days
 
@@ -52,7 +52,7 @@ You can configure quotations to the customer to be valid only for certain days. 
 
 ## Other Settings
 
-![Screenshot 2024-06-03 at 12.58.09 PM](https://docs.frappe.io/assets/629009cfe2b4.png)
+![Screenshot 2024-06-03 at 12.58.09 PM](../../assets/629009cfe2b4.png)
 
 ### 1\. Carry Forward Communication and Comments
 

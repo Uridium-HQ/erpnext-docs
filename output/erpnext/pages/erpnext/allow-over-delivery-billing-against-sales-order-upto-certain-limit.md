@@ -14,7 +14,7 @@ When creating a Delivery Note, system validates if item's qty is same as in the 
 
 Considering the case fo sales, if you want to be able to deliver more items than mentioned in the Sales Order, you should update "Allow over delivery or receipt upto this percent" in the Item master.
 
-![Itemised Limit Percentage](https://docs.frappe.io/assets/40d7fb111a08.png)
+![Itemised Limit Percentage](../../assets/40d7fb111a08.png)
 
 When creating an invoice, item's rate is also validated based on the preceding transaction like Sales Order. This also applies when creating Purchase Receipt or Purchaes Invoice from Purchase Order. Updating "Allow over delivery or receipt upto this percent" will be affective in all sales and purchase transactions.
 

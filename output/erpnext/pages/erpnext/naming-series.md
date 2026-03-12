@@ -30,7 +30,7 @@ You can define or select the Naming Series pattern from:
 
   1. Select the transaction for which you want to make the series. The system will update the current series in the text box.
 
-  2. Edit the series as required with unique prefixes for each series. The first prefix will be the default prefix. Each new prefix Naming Series must be added on a new line. The newly added naming series will be available in the document. ![Multiple naming series](https://docs.frappe.io/assets/43b82a2454b5.gif)
+  2. Edit the series as required with unique prefixes for each series. The first prefix will be the default prefix. Each new prefix Naming Series must be added on a new line. The newly added naming series will be available in the document. ![Multiple naming series](../../assets/43b82a2454b5.gif)
 
   3. If you want the user to explicitly select a series instead of the default one, check the “User must always select” checkbox. There will be no default naming series if this is ticked.
 
@@ -51,7 +51,7 @@ Alternatively it is also possible to manually embed the fiscal year in the namin
 
 As you can see, in the following screenshot of a Sales Invoice, the year 2019 is listed:
 
-![Fiscal year in Naming Series](https://docs.frappe.io/assets/65644bb60ae4.png)
+![Fiscal year in Naming Series](../../assets/65644bb60ae4.png)
 
 ## 3\. Updating the current value for existing Naming Series
 

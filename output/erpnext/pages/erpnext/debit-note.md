@@ -20,14 +20,14 @@ A Debit is for your record of the debit against the Items your return.
 
 The user can make a Debit Note against the Purchase Invoice or they can directly make Debit Note from the Purchase Invoice without reference.
 
-  1. Go to the respective Purchase Invoice and click on **Create > Return / Debit Note**. ![Debit Note from Invoice](https://docs.frappe.io/assets/d5387dcd5c8c.png)
+  1. Go to the respective Purchase Invoice and click on **Create > Return / Debit Note**. ![Debit Note from Invoice](../../assets/d5387dcd5c8c.png)
   2. The Supplier and Item details will be fetched as set in the Purchase Invoice.
   3. If you had paid partially or fully, make a Payment Entry against the original Purchase Invoice.
   4. Save and Submit.
 
 
 
-![Debit Note](https://docs.frappe.io/assets/49cd7d0a243e.png)
+![Debit Note](../../assets/49cd7d0a243e.png)
 
 The other steps are similar to a [Purchase Invoice](purchase-invoice.md).
 
@@ -35,7 +35,7 @@ The other steps are similar to a [Purchase Invoice](purchase-invoice.md).
 
 The Debit Note will reverse the impact of the purchase invoice.
 
-![Debit Note Ledger](https://docs.frappe.io/assets/8db23c738f61.png)
+![Debit Note Ledger](../../assets/8db23c738f61.png)
 
 Refer the [Purchase Invoice](purchase-invoice.md) page for any other details.
 
@@ -49,7 +49,7 @@ From Supplier Blue Mills, you had purchased Cotton worth Rs 2400 + taxes and at 
 
 Debit Note with payment entry in ERPNext for above example is as below:
 
-![Creating Debit Note](https://docs.frappe.io/assets/ac793b7f52c1.gif)
+![Creating Debit Note](../../assets/ac793b7f52c1.gif)
 
 ### 3\. Related Topics
 

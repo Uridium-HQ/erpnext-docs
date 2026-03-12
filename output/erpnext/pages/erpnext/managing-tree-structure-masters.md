@@ -37,7 +37,7 @@ Following are the steps to manage and create record in the tree structured maste
 
 ####Step 2 : Parent Territory
 
-![Default Territories](https://docs.frappe.io/assets/06f73da9c9b6.png)
+![Default Territories](../../assets/06f73da9c9b6.png)
 
 When click on Parent territory, you will see option to add child territory under it. All default Territory groups will be listed under Parent group called "All Territories". You can add further Parent or child Territory Groups under it.
 
@@ -53,11 +53,11 @@ Territory will be saved with Territory Name provided here.
 
 If Group Node selected as Yes, then this Territory will be created as Parent, which means you can further create sub-territories under it. If select No, then it will become child Territory which you will be able to select in another masters.
 
-Only child Territory Groups are selectable in another masters and transactions. ![Default Territories](https://docs.frappe.io/assets/256c95e3f826.gif)
+Only child Territory Groups are selectable in another masters and transactions. ![Default Territories](../../assets/256c95e3f826.gif)
 
 Following is how Child Territories will be listed under a Parent Territory.
 
-![Adding new Territories](https://docs.frappe.io/assets/d7619a8ac5ee.png)
+![Adding new Territories](../../assets/d7619a8ac5ee.png)
 
 Following this steps, you can manage other tree masters as well in ERPNext.
 

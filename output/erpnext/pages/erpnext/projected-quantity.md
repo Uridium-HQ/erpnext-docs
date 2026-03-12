@@ -18,7 +18,7 @@ The projected inventory is used by the planning system to monitor the reorder po
 
 Having tight control of the projected inventory is crucial to determine shortages and to calculate the right order quantity.
 
-![Projected Quantity](https://docs.frappe.io/assets/36ec397e054a.png)
+![Projected Quantity](../../assets/36ec397e054a.png)
 
 The formula to calculate projected quantity is as follows:
 

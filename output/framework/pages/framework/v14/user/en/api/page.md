@@ -24,7 +24,7 @@ Creates a new Page and attaches it to parent.
     
 [/code]
 
-![New Page](https://docs.frappe.io/assets/90efcc16e8a6.png) _New Page_
+![New Page](../../../../../../assets/90efcc16e8a6.png) _New Page_
 
 ## Page methods
 
@@ -38,7 +38,7 @@ Set the page title along with the document title. The document title is shown in
     
 [/code]
 
-![Page Title](https://docs.frappe.io/assets/590d5dcf6286.png) _Page Title_
+![Page Title](../../../../../../assets/590d5dcf6286.png) _Page Title_
 
 ## page.set\\_title\\_sub
 
@@ -48,7 +48,7 @@ Set the secondary title of the page. It is shown on the right side of the page h
     
 [/code]
 
-![Page Subtitle](https://docs.frappe.io/assets/5347d8bfa25a.png) _Page Subtitle_
+![Page Subtitle](../../../../../../assets/5347d8bfa25a.png) _Page Subtitle_
 
 ## page.set_indicator
 
@@ -58,7 +58,7 @@ Set the indicator label and color.
     
 [/code]
 
-![Page Indicator](https://docs.frappe.io/assets/3f251dadfa3b.png) _Page Indicator_
+![Page Indicator](../../../../../../assets/3f251dadfa3b.png) _Page Indicator_
 
 ## page.clear_indicator
 
@@ -76,7 +76,7 @@ Set the primary action button label and handler. The third argument is the icon 
     
 [/code]
 
-![Page Primary Action](https://docs.frappe.io/assets/b14f09e3f71c.png) _Page Primary Action_
+![Page Primary Action](../../../../../../assets/b14f09e3f71c.png) _Page Primary Action_
 
 ## page.clear\\_primary_action
 
@@ -94,7 +94,7 @@ Set the secondary action button label and handler. The third argument is the ico
     
 [/code]
 
-![Page Secondary Action](https://docs.frappe.io/assets/a7cc8ec81903.png) _Page Secondary Action_
+![Page Secondary Action](../../../../../../assets/a7cc8ec81903.png) _Page Secondary Action_
 
 ## page.clear\\_secondary_action
 
@@ -116,7 +116,7 @@ Add menu items in the Menu dropdown.
     
 [/code]
 
-![Page Menu Dropdown](https://docs.frappe.io/assets/0eda3c66cef2.png) _Page Menu Dropdown_
+![Page Menu Dropdown](../../../../../../assets/0eda3c66cef2.png) _Page Menu Dropdown_
 
 ## page.clear_menu
 
@@ -135,7 +135,7 @@ Add menu items in the Actions dropdown.
     
 [/code]
 
-![Page Actions Dropdown](https://docs.frappe.io/assets/8b7b58e26b10.png) _Page Actions Dropdown_
+![Page Actions Dropdown](../../../../../../assets/8b7b58e26b10.png) _Page Actions Dropdown_
 
 ## page.clear\\_actions_menu
 
@@ -154,14 +154,14 @@ Add buttons in the inner toolbar.
     
 [/code]
 
-![Page Inner Button](https://docs.frappe.io/assets/d0afd5b2b10e.png) _Page Inner Button_
+![Page Inner Button](../../../../../../assets/d0afd5b2b10e.png) _Page Inner Button_
 [code] 
     // add a dropdown button in a group
     page.add_inner_button('New Post', () => new_post(), 'Make')
     
 [/code]
 
-![Page Inner Button Group](https://docs.frappe.io/assets/afbcfd582e33.png) _Page Inner Button Group_
+![Page Inner Button Group](../../../../../../assets/afbcfd582e33.png) _Page Inner Button Group_
 
 ### page.change\\_custom_button_type
 
@@ -215,7 +215,7 @@ Add a form control in the page form toolbar.
     
 [/code]
 
-![Page Form Toolbar](https://docs.frappe.io/assets/0ee0334beab0.png) _Page Form Toolbar_
+![Page Form Toolbar](../../../../../../assets/0ee0334beab0.png) _Page Form Toolbar_
 
 ## page.get\\_form_values
 

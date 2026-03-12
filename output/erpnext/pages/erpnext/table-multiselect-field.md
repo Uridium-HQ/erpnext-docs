@@ -14,7 +14,7 @@ The Table MultiSelect field is very similar to Link Field. The key difference is
 
 Let us consider an example to understand the same. Let's say you want to assign a ToDo to multiple users, as shown below:
 
-![Screenshot 2024-06-25 at 4.58.41 PM](https://docs.frappe.io/assets/b9b0e2b00275.png)
+![Screenshot 2024-06-25 at 4.58.41 PM](../../assets/b9b0e2b00275.png)
 
 You can add a Table MultiSelect Field by using the following steps:
 
@@ -24,13 +24,13 @@ Create a new DocType, enable 'Is Child Table' and 'Editable Grid' check-boxes an
 
 Set the link field as mandatory. Ensure that the field within the child table has "In List View" ticked.
 
-![Screenshot 2024-06-25 at 4.55.49 PM](https://docs.frappe.io/assets/475fe2bb06ff.png)
+![Screenshot 2024-06-25 at 4.55.49 PM](../../assets/475fe2bb06ff.png)
 
 ## Step 2: Add a field with type 'Table MultiSelect'.
 
 Create a field with type 'Table MultiSelect' and add the DocType created in first step in 'options'.
 
-![Screenshot 2024-06-25 at 4.57.08 PM](https://docs.frappe.io/assets/a33f876e6929.png)
+![Screenshot 2024-06-25 at 4.57.08 PM](../../assets/a33f876e6929.png)
 
 You can remove any selected value by clicking on the cross sign next to selected value or by placing the cursor next to the value and pressing Backspace.
 

@@ -30,7 +30,7 @@ To access the Asset Maintenance Team, go to:
 
 
 
-![Asset](https://docs.frappe.io/assets/c53b6b33bb8c.png)
+![Asset](../../assets/c53b6b33bb8c.png)
 
 ## Related Topics
 

@@ -28,7 +28,7 @@ With this, you generate detailed cash flow reports to your requirements. This mi
 
 Let's assume we have a fictitious company for which we want to generate a cash flow report. This is what the cash flow report looks like at the moment:
 
-![Default Cash Flow Report](https://docs.frappe.io/assets/6f53da6192a4.png)
+![Default Cash Flow Report](../../../../../assets/6f53da6192a4.png)
 
 We don't like the report for the following reasons:
 
@@ -41,15 +41,15 @@ We don't like the report for the following reasons:
 
 We wants the Cash Flow Report to look something similar to the format in the images below:
 
-![Custom Cash Flow Format](https://docs.frappe.io/assets/fde00cd36211.png)
+![Custom Cash Flow Format](../../../../../assets/fde00cd36211.png)
 
-![Custom Cash Flow Format](https://docs.frappe.io/assets/ec77690180aa.png)
+![Custom Cash Flow Format](../../../../../assets/ec77690180aa.png)
 
 #### Activate Customised Cash Flow Report
 
 Do this in Accounts Settings by checking the 'Use Custom Cash Flow Format' checkbox. This will cause ERPNext to only use your custom format for cash flow reports.
 
-![Enable Custom Cash Flow Report](https://docs.frappe.io/assets/52ee00ed7248.png)
+![Enable Custom Cash Flow Report](../../../../../assets/52ee00ed7248.png)
 
 Move to the next section to build the report.
 
@@ -57,7 +57,7 @@ Move to the next section to build the report.
 
 For each line, we need to create a Cash Flow Mapping document to represent it.
 
-![New Cash Flow Mapping](https://docs.frappe.io/assets/14fce7c45144.png)
+![New Cash Flow Mapping](../../../../../assets/14fce7c45144.png)
 
 You can think of the Cash Flow Mapping as a representation of each line in the cash flow report. A Cash Flow Mapping is a child of a Cash Flow Mapper which will be explained later.
 
@@ -81,7 +81,7 @@ The fields in the Cash Flow Mapping doctype are:
 
 With this information, let's go ahead and create the Cash Flow Mapping Document for the line 'Income taxes recognised in profit or loss'
 
-![Cash Flow Mapping for Income Tax Expense](https://docs.frappe.io/assets/7bb236d21889.png)
+![Cash Flow Mapping for Income Tax Expense](../../../../../assets/7bb236d21889.png)
 
 I have named it 'Income Tax Charge' and given it a label 'Income taxes recognised in profit or loss'. We want this line to reflect income tax charges from our profit or loss statement. The account where this happens in our chart of account is named 'Income Taxes' (an expense) so I have added 'Income Taxes' into the accounts table. If you have more accounts representing income tax expenses, you should add all of them here.
 
@@ -91,11 +91,11 @@ _For best results, let parent accounts have child accounts that have the same tr
 
 In the same way, I have created for the remaining two mappings.
 
-![Cash Flow Mapping for Finance Cost](https://docs.frappe.io/assets/f68bf9614dae.png)
+![Cash Flow Mapping for Finance Cost](../../../../../assets/f68bf9614dae.png)
 
 Finance costs also need to be adjusted so make sure to check the 'Is Finance Cost' checkbox.
 
-![Cash Flow Mapping for Depreciation](https://docs.frappe.io/assets/b9533b6567c5.png)
+![Cash Flow Mapping for Depreciation](../../../../../assets/b9533b6567c5.png)
 
 Next let's add Cash Flow Mapping for items that show changes in working capital:
 
@@ -107,15 +107,15 @@ Next let's add Cash Flow Mapping for items that show changes in working capital:
 
 
 
-![Cash Flow Mapping for Other Liabilities](https://docs.frappe.io/assets/ce80055b853a.png)
+![Cash Flow Mapping for Other Liabilities](../../../../../assets/ce80055b853a.png)
 
-![Cash Flow Mapping for Receivables](https://docs.frappe.io/assets/64cfd5299e04.png)
+![Cash Flow Mapping for Receivables](../../../../../assets/64cfd5299e04.png)
 
-![Cash Flow Mapping for Payables](https://docs.frappe.io/assets/49e87b138961.png)
+![Cash Flow Mapping for Payables](../../../../../assets/49e87b138961.png)
 
-![Cash Flow Mapping for Duties and Taxes](https://docs.frappe.io/assets/15f1d2b55053.png)
+![Cash Flow Mapping for Duties and Taxes](../../../../../assets/15f1d2b55053.png)
 
-![Cash Flow Mapping for Inventory](https://docs.frappe.io/assets/e1eb72a29083.png)
+![Cash Flow Mapping for Inventory](../../../../../assets/e1eb72a29083.png)
 
 Don't forget to tell ERPNext that these mappings represent changes in working capital by checking the 'Is Working Capital' checkbox.
 
@@ -133,7 +133,7 @@ Cash Flow Mappers represents the sections of the cash flow statement. A standard
 
 You will not be able to add or remove any of them but they are editable and can be renamed.
 
-![Cash Flow Mappers](https://docs.frappe.io/assets/a52e539b2b85.png)
+![Cash Flow Mappers](../../../../../assets/a52e539b2b85.png)
 
 Open the Operating Activities Cash Flow Mapper so we can add the Cash Flow Mappings we have created.
 
@@ -147,23 +147,23 @@ Open the Operating Activities Cash Flow Mapper so we can add the Cash Flow Mappi
 
 Now add all the Cash Flow Mappings you have created and Save. You should have something like this:
 
-![Operating Activity Cash Flow Mapper](https://docs.frappe.io/assets/5263621973b4.png)
+![Operating Activity Cash Flow Mapper](../../../../../assets/5263621973b4.png)
 
-Refresh the cash flow statement and view the changes. ![Updated Cash Flow Report](https://docs.frappe.io/assets/b562de4286b7.png)
+Refresh the cash flow statement and view the changes. ![Updated Cash Flow Report](../../../../../assets/b562de4286b7.png)
 
 Looks close to our requirements but we are not done yet. Create new mappings for 'Investing Activities' and 'Financing Activities' sections of the cash flow statement.
 
-![Cash Flow Mapping for Property](https://docs.frappe.io/assets/e98706fba831.png)
+![Cash Flow Mapping for Property](../../../../../assets/e98706fba831.png)
 
-![Cash Flow Mapping for Equity](https://docs.frappe.io/assets/42a64c1e6d92.png)
+![Cash Flow Mapping for Equity](../../../../../assets/42a64c1e6d92.png)
 
-![Cash Flow Mapping For Investing](https://docs.frappe.io/assets/6bef1e228182.png)
+![Cash Flow Mapping For Investing](../../../../../assets/6bef1e228182.png)
 
-![Cash Flow Mapping for Financing Activities](https://docs.frappe.io/assets/7952714664a1.png)
+![Cash Flow Mapping for Financing Activities](../../../../../assets/7952714664a1.png)
 
 Here's what our cash flow statement now looks like:
 
-![Custom Cash Flow Report](https://docs.frappe.io/assets/b45ffa8ab44a.png)
+![Custom Cash Flow Report](../../../../../assets/b45ffa8ab44a.png)
 
 [ Previous Page Invoice rounding issue ](../../../invoice-rounding-issue.md) [ Next Page Difference Entry  ](../../../difference-entry-button.md)
 

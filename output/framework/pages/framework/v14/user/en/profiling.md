@@ -24,7 +24,7 @@ Example use case: You've noticed that a certain doctype is taking too much time 
 
 You will now see a list of all the requests that were made. You can sort them by various columns to identify problematic requests.
 
-![Frappe recorder list view](https://docs.frappe.io/assets/d1f69d48aee7.png)
+![Frappe recorder list view](../../../../../assets/d1f69d48aee7.png)
 
 Click on a row to open the request for extra information. Following information is available in capture:
 
@@ -40,7 +40,7 @@ Click on a row to open the request for extra information. Following information 
 
 
 
-![Frappe recorder request view](https://docs.frappe.io/assets/3c03da8b9e6c.png)
+![Frappe recorder request view](../../../../../assets/3c03da8b9e6c.png)
 
 SQL Queries table can be sorted and grouped for duplicates to find the relevant queries. To know more about a particular query click on row to expand additional information. This includes the duration of the query, stack trace and SQL's `EXPLAIN` output for that query.
 

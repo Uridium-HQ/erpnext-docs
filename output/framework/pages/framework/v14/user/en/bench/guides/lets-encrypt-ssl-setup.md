@@ -60,15 +60,15 @@ After letsencrypt initializes, you will be prompted for some information. This e
 
 At the prompt, enter an email address that will be used for notices and lost key recovery:
 
-![](https://docs.frappe.io/assets/d869cc1f56a9.png)
+![](../../../../../../../assets/d869cc1f56a9.png)
 
 Then you must agree to the Let's Encrypt Subscribe Agreement. Select Agree:
 
-![](https://docs.frappe.io/assets/f57e5ffd21aa.png)
+![](../../../../../../../assets/f57e5ffd21aa.png)
 
 Then enter your domain name(s). Note that if you want a single cert to work with multiple domain names (e.g. example.com and www.example.com), be sure to include all of them:
 
-![](https://docs.frappe.io/assets/9dc0d334f831.png)
+![](../../../../../../../assets/9dc0d334f831.png)
 
 ### Certificate Files
 

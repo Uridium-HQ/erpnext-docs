@@ -14,7 +14,7 @@ The Rebuild Tree feature is a tool in ERPNext used to correct and refresh the st
 
 **Issue** :
 
-Sometime in the general Ledger report the user selects the Account but the data in the report shows for different account as shown below screenshot. ![Rebuild Issue](https://docs.frappe.io/assets/a24437785da7.png)
+Sometime in the general Ledger report the user selects the Account but the data in the report shows for different account as shown below screenshot. ![Rebuild Issue](../../assets/a24437785da7.png)
 
 In this case you can Use the **Rebuild Tree** so that the user can easily fix this issue
 
@@ -30,11 +30,11 @@ Accounting > Chart of Accounts
 
 **Step 3** : Select "Rebuild Tree" From the dropdown menu that appears, select the Rebuild Tree option
 
-![Screenshot 2025 10 16 at 1.27.11 PM](https://docs.frappe.io/assets/557636c944fd.png)
+![Screenshot 2025 10 16 at 1.27.11 PM](../../assets/557636c944fd.png)
 
 After Rebuild tree process is done you can check the GL report shows the correct data in the report
 
-![Screenshot 2025 10 16 at 1.11.56 PM](https://docs.frappe.io/assets/2157f0910ac9.png)
+![Screenshot 2025 10 16 at 1.11.56 PM](../../assets/2157f0910ac9.png)
 
 [ Previous Page Immutable Ledger ](immutable-ledger-in-erpnext.md) [ Next Page Common Party Accounting ](common_party_accounting.md)
 

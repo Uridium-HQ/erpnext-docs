@@ -34,7 +34,7 @@ This is a scenario where the customer purchased an item from you for which Sales
 
 
 
-![Create sales return](https://docs.frappe.io/assets/60b4f2db5ece.png)
+![Create sales return](../../assets/60b4f2db5ece.png)
 
 As per this entry, the sold items will be accepted back in your Warehouse. Also, the payment received from the Customer will be reversed.
 

@@ -34,7 +34,7 @@ We added `published`, `route` in the DocType
 
 **Note:** The field `route` is mandatory
 
-![Generator fields](https://docs.frappe.io/assets/7e98a463fcc7.png)
+![Generator fields](../../../../../../../assets/7e98a463fcc7.png)
 
 #### 2\. Added Website Generator to Hooks
 

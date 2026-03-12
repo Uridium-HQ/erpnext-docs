@@ -28,7 +28,7 @@ From the list of UOM, select UOM for which value in decimal place is to be restr
 
 In the UoOM master, you will find a field called "Must be whole number". Check this field to restrict user from enter value in decimal places in quantity field, for item having this UOM.
 
-![UoM Must be Whole No](https://docs.frappe.io/assets/8f7e0037cda0.png)
+![UoM Must be Whole No](../../assets/8f7e0037cda0.png)
 
 ### Validation
 
@@ -36,7 +36,7 @@ While creating transaction, if you enter value in fraction for item whose UOM ha
 
 `Quantity cannot be a fraction at row #`
 
-![UoM Validation Message](https://docs.frappe.io/assets/c57941a043ac.png)
+![UoM Validation Message](../../assets/c57941a043ac.png)
 
 [ Previous Page Change Valuation Method ](change-valuation-method.md) [ Next Page Serial Number Naming ](serial-no-naming.md)
 

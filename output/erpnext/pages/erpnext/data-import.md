@@ -28,7 +28,7 @@ Before starting the import process, make sure that all required data is prepared
 
 The Data Import Tool in ERPNext allows users to upload bulk records into the system using a predefined template. This document outlines the step-by-step process for importing new records.
 
-![](https://docs.frappe.io/assets/ef8deb606127.png)
+![](../../assets/ef8deb606127.png)
 
   1. Navigate to Data Import
   2. Select the Document Type and the Import Type as _Insert New Records_.

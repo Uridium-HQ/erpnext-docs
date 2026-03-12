@@ -30,7 +30,7 @@ To open System Settings, go to:
 
 
 
-![Screenshot 2024-05-27 at 10.39.34 AM](https://docs.frappe.io/assets/049f5c8b749a.png)
+![Screenshot 2024-05-27 at 10.39.34 AM](../../assets/049f5c8b749a.png)
 
 ### 1.2 Date and Number Format
 
@@ -45,7 +45,7 @@ To open System Settings, go to:
 
 
 
-![Screenshot 2024-05-27 at 10.41.54 AM](https://docs.frappe.io/assets/ea9ce9838abf.png)
+![Screenshot 2024-05-27 at 10.41.54 AM](../../assets/ea9ce9838abf.png)
 
 ### 1.3 Permissions
 
@@ -55,7 +55,7 @@ To open System Settings, go to:
 
 For example: If you set User Permissions for Territory and set the value as India. If the checkbox is unticked, all transactions (sales orders, quotations) with India and **blank** will be shown to the users. If the Apply Strict User Permissions checkbox is ticked, documents, where Territory is blank, will not be shown to the users.
 
-![Screenshot 2025 12 10 161147](https://docs.frappe.io/assets/944e10e7e165.png)
+![Screenshot 2025 12 10 161147](../../assets/944e10e7e165.png)
 
 ### 1.4 Session
 
@@ -66,7 +66,7 @@ For example: If you set User Permissions for Territory and set the value as Indi
 
 
 
-![Screenshot 2024-05-27 at 11.01.30 AM](https://docs.frappe.io/assets/5cbc7a060c07.png)
+![Screenshot 2024-05-27 at 11.01.30 AM](../../assets/5cbc7a060c07.png)
 
 ### 1.5 Login Methods
 
@@ -77,7 +77,7 @@ For example: If you set User Permissions for Territory and set the value as Indi
 
 
 
-![Screenshot 2024-05-27 at 11.04.17 AM](https://docs.frappe.io/assets/d37476c40597.png)
+![Screenshot 2024-05-27 at 11.04.17 AM](../../assets/d37476c40597.png)
 
 ### 1.6 Brute Force Security
 
@@ -86,7 +86,7 @@ For example: If you set User Permissions for Territory and set the value as Indi
 
 
 
-![Screenshot 2024-05-27 at 11.07.02 AM](https://docs.frappe.io/assets/5cb831d33eea.png)
+![Screenshot 2024-05-27 at 11.07.02 AM](../../assets/5cb831d33eea.png)
 
 ### 1.7 Two Factor Authentication
 
@@ -100,7 +100,7 @@ On ticking 'Enable Two Factor Auth', the following two options will be seen.
 
 
 
-![Screenshot 2024-05-27 at 11.08.39 AM](https://docs.frappe.io/assets/ec4057283e02.png)
+![Screenshot 2024-05-27 at 11.08.39 AM](../../assets/ec4057283e02.png)
 
 ### 1.8 Password
 
@@ -116,7 +116,7 @@ On ticking 'Enable Two Factor Auth', the following two options will be seen.
 
 
 
-![Screenshot 2024-05-27 at 11.10.51 AM](https://docs.frappe.io/assets/02267fbc87b0.png)
+![Screenshot 2024-05-27 at 11.10.51 AM](../../assets/02267fbc87b0.png)
 
 ### 1.9 Email
 
@@ -130,7 +130,7 @@ On ticking 'Enable Two Factor Auth', the following two options will be seen.
 
 
 
-![Screenshot 2024-05-27 at 11.14.14 AM](https://docs.frappe.io/assets/3b02b782fbc3.png)
+![Screenshot 2024-05-27 at 11.14.14 AM](../../assets/3b02b782fbc3.png)
 
 ### 1.10 File
 
@@ -142,7 +142,7 @@ On ticking 'Enable Two Factor Auth', the following two options will be seen.
 
 
 
-![Screenshot 2024-05-27 at 11.21.12 AM](https://docs.frappe.io/assets/c1cf004ae6b4.png)
+![Screenshot 2024-05-27 at 11.21.12 AM](../../assets/c1cf004ae6b4.png)
 
 ### 1.11 Updates
 
@@ -151,7 +151,7 @@ On ticking 'Enable Two Factor Auth', the following two options will be seen.
 
 
 
-![Screenshot 2024-05-27 at 11.25.02 AM](https://docs.frappe.io/assets/66a1c368fb0e.png)
+![Screenshot 2024-05-27 at 11.25.02 AM](../../assets/66a1c368fb0e.png)
 
 ### 1.12 Backups
 
@@ -165,7 +165,7 @@ This field shows the number of backups after which older ones will be deleted. B
 
 
 
-![Screenshot 2024-05-27 at 11.25.31 AM](https://docs.frappe.io/assets/3314473b37d6.png)
+![Screenshot 2024-05-27 at 11.25.31 AM](../../assets/3314473b37d6.png)
 
 ### 1.13 Advanced
 
@@ -176,7 +176,7 @@ This field shows the number of backups after which older ones will be deleted. B
 
 
 
-![Screenshot 2024-05-27 at 11.31.36 AM](https://docs.frappe.io/assets/51ebb17deda9.png)
+![Screenshot 2024-05-27 at 11.31.36 AM](../../assets/51ebb17deda9.png)
 
 ### 2\. Related Topics
 

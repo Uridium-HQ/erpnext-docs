@@ -90,7 +90,7 @@ You can use a server script as an internal method by setting `frappe.flags` valu
 
 You can diff two versions of server scripts using "Compare Versions" button.
 
-![Server script diff](https://docs.frappe.io/assets/ec616856949a.png)
+![Server script diff](../../../../../../../assets/ec616856949a.png)
 
   3. Examples
 

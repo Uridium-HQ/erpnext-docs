@@ -18,7 +18,7 @@ To access the Delivery Note list, go to:
 
 > Home > Stock > Stock Transactions > Delivery Note
 
-![Delivery Note flow](https://docs.frappe.io/assets/19bde2e628b3.png)
+![Delivery Note flow](../../assets/19bde2e628b3.png)
 
 ## Prerequisites
 

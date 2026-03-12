@@ -18,7 +18,7 @@ To create a new Query Report:
 
 ### 1\. Create a new Report
 
-![Query Report](https://docs.frappe.io/assets/a3e267a9d91e.png)
+![Query Report](../../../../../../../assets/a3e267a9d91e.png)
 
   1. Set type as "Query Report"
   2. Set the reference DocType - Users that have access to the reference DocType will have access to the report
@@ -39,7 +39,7 @@ SELECT `tabProduction Order`.name as "Production Order:Link/Production Order:200
 
 ### 3\. Check the Report
 
-![Query Report](https://docs.frappe.io/assets/cf8d1d7f9e21.png)
+![Query Report](../../../../../../../assets/cf8d1d7f9e21.png)
 
 ### 4\. Advanced (adding filters)
 

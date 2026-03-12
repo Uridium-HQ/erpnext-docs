@@ -22,13 +22,13 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 Select document type for which Sort Order is to be customized.
 
-![Sort Order field](https://docs.frappe.io/assets/fd3bb1e55692.png)
+![Sort Order field](../../assets/fd3bb1e55692.png)
 
 #### Step 3: Update Sort Details
 
 In the Customize Form, you will find these fields.
 
-![Sort Order Field](https://docs.frappe.io/assets/a3046f2656dc.png) ![Sort Order field](https://docs.frappe.io/assets/a6a7752ebb1f.png)
+![Sort Order Field](../../assets/a3046f2656dc.png) ![Sort Order field](../../assets/a6a7752ebb1f.png)
 
   1. Sort Field: Select the Field based on which sorting will be done. It will be "Item_Code" field in the scenario.
   2. Sort Order: Sort Order will be two possible options, **Asc** for ascending, and **Desc** for descending.

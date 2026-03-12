@@ -50,7 +50,7 @@ Creates a new Dialog instance.
     
 [/code]
 
-![Dialog](https://docs.frappe.io/assets/284438a62562.png) _frappe.ui.Dialog_
+![Dialog](../../../../../../assets/284438a62562.png) _frappe.ui.Dialog_
 
 ### frappe.msgprint
 
@@ -71,7 +71,7 @@ Show `message` in a modal.
     
 [/code]
 
-![Msgprint](https://docs.frappe.io/assets/d64f85fd6507.png) _frappe.msgprint_
+![Msgprint](../../../../../../assets/d64f85fd6507.png) _frappe.msgprint_
 
 You can also bind a primary action to this dialog by passing `action`(as a method) within `primary_action`. Alternatively, `primary_action` can contain `server_action` **or** `client_action`.
 
@@ -104,7 +104,7 @@ The `server_action` and `client_action` are dotted paths to the respective metho
     
 [/code]
 
-![Msgprint with Primary Action](https://docs.frappe.io/assets/52ab40264367.png) _frappe.msgprint with primary action bound_
+![Msgprint with Primary Action](../../../../../../assets/52ab40264367.png) _frappe.msgprint with primary action bound_
 
 ### frappe.throw
 
@@ -117,7 +117,7 @@ Show `error_message` in a modal and `throw` exception.
     
 [/code]
 
-![Throw](https://docs.frappe.io/assets/822429fb151c.png) _frappe.throw_
+![Throw](../../../../../../assets/822429fb151c.png) _frappe.throw_
 
 ### frappe.prompt
 
@@ -159,7 +159,7 @@ Prompt user for a value or list of values.
     
 [/code]
 
-![Prompt](https://docs.frappe.io/assets/d642bd777520.png) _frappe.prompt_
+![Prompt](../../../../../../assets/d642bd777520.png) _frappe.prompt_
 
 ### frappe.confirm
 
@@ -177,7 +177,7 @@ Show a confirmation modal, executes `if_yes` if confirmation is given else execu
     
 [/code]
 
-![Prompt](https://docs.frappe.io/assets/0a62d7d7f7e9.png) _frappe.confirm_
+![Prompt](../../../../../../assets/0a62d7d7f7e9.png) _frappe.confirm_
 
 ### frappe.warn
 
@@ -197,7 +197,7 @@ Show a warning modal, executes `proceed_actiion` if confirmation is given. It ca
     
 [/code]
 
-![Prompt](https://docs.frappe.io/assets/1f75f928f97d.png) _frappe.confirm_
+![Prompt](../../../../../../assets/1f75f928f97d.png) _frappe.confirm_
 
 ### frappe.show_alert
 
@@ -218,7 +218,7 @@ Its parameters include `message`, which can contain the indicator color as well,
     
 [/code]
 
-![Show Alert](https://docs.frappe.io/assets/4a65d9582f6e.png) _frappe.show_alert_
+![Show Alert](../../../../../../assets/4a65d9582f6e.png) _frappe.show_alert_
 
 ### frappe.show_progress
 
@@ -231,7 +231,7 @@ Displays a progress bar with `count` (as current progress) and `total` (as maxim
     
 [/code]
 
-![Show Progress](https://docs.frappe.io/assets/85efc9b0ed81.png) _frappe.show_progress_
+![Show Progress](../../../../../../assets/85efc9b0ed81.png) _frappe.show_progress_
 
 ### frappe.new_doc
 
@@ -348,7 +348,7 @@ Let us assume we want to fetch Material Requests into our dialog. We can then go
     
 [/code]
 
-![MultiSelectDialog](https://docs.frappe.io/assets/da2d9d44b0e7.png) _frappe.ui.form.MultiSelectDialog_
+![MultiSelectDialog](../../../../../../assets/da2d9d44b0e7.png) _frappe.ui.form.MultiSelectDialog_
 
 Here all the Material Requests that fulfill the filter criteria will be fetched into the selection area. The setter `company` is added to the filter fields along with its passed value. The `date_field` will be used to fetch and query dates from the DocType mentioned.
 
@@ -382,7 +382,7 @@ Now, if we want to only select particular item from a Material Request, then we 
     
 [/code]
 
-![MultiSelectDialog](https://docs.frappe.io/assets/bd38c4b31967.png) _frappe.ui.form.MultiSelectDialog_
+![MultiSelectDialog](../../../../../../assets/bd38c4b31967.png) _frappe.ui.form.MultiSelectDialog_
 
 Here you will see a checkbox **Select Individual Items** to toggle between child item selection & parent selection. Once you toggle it, all the individual Material Requests Items are listed from the all the queried Material Request, you can now filter these items for selection.
 

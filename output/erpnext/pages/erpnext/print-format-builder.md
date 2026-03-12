@@ -30,9 +30,9 @@ Or via a document.
 
   3. Let's see how to edit an existing Print Format in this section. To know about creating a new Print Format, see the next section.
 
-  4. Select the Print Format to edit. ![Select doctype for editing Print Format](https://docs.frappe.io/assets/d63f520a9df5.png)
+  4. Select the Print Format to edit. ![Select doctype for editing Print Format](../../assets/d63f520a9df5.png)
 
-  5. Click on the Edit button, you will be taken to the Print Format Builder UI. ![Print Format builder screen](https://docs.frappe.io/assets/899c6687779e.png)
+  5. Click on the Edit button, you will be taken to the Print Format Builder UI. ![Print Format builder screen](../../assets/899c6687779e.png)
 
   6. Here you can drag and drop fields from the sidebar to the page and vice versa.
 
@@ -47,7 +47,7 @@ Or via a document.
 
 
 
-![Send Email](https://docs.frappe.io/assets/81b55d8e91bb.gif)
+![Send Email](../../assets/81b55d8e91bb.gif)
 
   1. To add a field, just drag it from the left sidebar and add it in your layout. You can edit the layouts in sections or individual fields by clicking on the settings icon.
 

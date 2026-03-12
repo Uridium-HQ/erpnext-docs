@@ -14,11 +14,11 @@ The 'Disassembly Order' in ERPNext is used to dismantle finished goods and retur
 
 To create the "Disassembly Order", open the work order which are in **Completed** state or **Closed** state. Click on create button and after that "Disassembly Order"
 
-![work-order-disassembly-order](https://docs.frappe.io/assets/bc76c8496964.png)
+![work-order-disassembly-order](../../../../../assets/bc76c8496964.png)
 
 Once user clicked on the "Disassembly Order" button, the system will open the stock entry with type as "Disassemble"
 
-![stock-entry-disassembly-order](https://docs.frappe.io/assets/1e5337c9cdd1.png)
+![stock-entry-disassembly-order](../../../../../assets/1e5337c9cdd1.png)
 
   * Users can manually removed items which are not in a good condition
   * The system, by default, fetches the basic rate based on past transactions. If users want, they can edit the basic rate for the raw materials.

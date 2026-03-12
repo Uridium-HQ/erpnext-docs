@@ -16,19 +16,19 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 
 
-![Sales Graph](https://docs.frappe.io/assets/117ce6523c7c.png)
+![Sales Graph](../../assets/117ce6523c7c.png)
 
   1. You can set the **Sales Target** field to track progress against the graph:
 
 
 
-![Setting Sales Goal](https://docs.frappe.io/assets/751c77da4664.gif)
+![Setting Sales Goal](../../assets/751c77da4664.gif)
 
   1. The target progress is also shown in notifications:
 
 
 
-![Sales Notification](https://docs.frappe.io/assets/fcd8e6bb589d.png)
+![Sales Notification](../../assets/fcd8e6bb589d.png)
 
 ### Related Topics
 

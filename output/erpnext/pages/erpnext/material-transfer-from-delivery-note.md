@@ -39,7 +39,7 @@ When creating a Delivery Note for Material Transfer, for an item select source W
 
 In the Customer Warehouse, select a Warehouse where Material is to be transferred or select a target warehouse.
 
-![Delivery Note Material Transfer](https://docs.frappe.io/assets/a49b5cbd55dd.png)
+![Delivery Note Material Transfer](../../assets/a49b5cbd55dd.png)
 
 On the submission of a Delivery Note, item's stock will be deducted from "From Warehouse" and added to the "Customer Warehouse".
 
@@ -65,11 +65,11 @@ When creating a Purchase Receipt for Material Transfer, for an Item, select the 
 
 This is how you create an internal Purchase Receipt from an internal Delivery Note:
 
-![Purchase Receipt Material Transfer](https://docs.frappe.io/assets/f3fedf1fc072.png)
+![Purchase Receipt Material Transfer](../../assets/f3fedf1fc072.png)
 
 In the Supplier Warehouse, select a Warehouse from where Material is to be transferred.
 
-![Purchase Receipt Material Transfer](https://docs.frappe.io/assets/482fbddcb727.png)
+![Purchase Receipt Material Transfer](../../assets/482fbddcb727.png)
 
 On submission of the Purchase Receipt, item's stock will be deducted from "Supplier Warehouse" and added to the "Accepted Warehouse".
 

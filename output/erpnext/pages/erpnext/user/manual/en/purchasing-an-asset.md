@@ -49,7 +49,7 @@ Before purchasing a new asset, ensure the following are configured:
 
 
 
-![Auto create asset on purchase](https://docs.frappe.io/assets/0f7894d0454d.png)
+![Auto create asset on purchase](../../../../../assets/0f7894d0454d.png)
 
 ### 2.1 Accounting Entries
 

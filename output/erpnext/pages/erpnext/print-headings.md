@@ -28,15 +28,15 @@ To access Print Headings go to:
 
 
 
-![Print Heading](https://docs.frappe.io/assets/1fe68f41cb81.png)
+![Print Heading](../../assets/1fe68f41cb81.png)
 
 To use the print heading, select the created print heading in the 'Print Heading' field transaction, shown as follows:
 
-![Using a Print Heading](https://docs.frappe.io/assets/058c31dc0932.gif)
+![Using a Print Heading](../../assets/058c31dc0932.gif)
 
 Example of a change in print heading is shown as follows:
 
-![Print Heading](https://docs.frappe.io/assets/697df8024614.png)
+![Print Heading](../../assets/697df8024614.png)
 
 ## 2\. Video
 

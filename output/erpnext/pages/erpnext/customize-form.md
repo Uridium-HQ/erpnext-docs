@@ -22,7 +22,7 @@ To access Customize Form, go to:
 
 You can also go to the list view of any DocType and select Customize from the Menu options.
 
-![Customize Option in List View](https://docs.frappe.io/assets/d15fcea7f4ff.png)
+![Customize Option in List View](../../assets/d15fcea7f4ff.png)
 
   1. How to Customize a Form
 
@@ -36,7 +36,7 @@ You can also go to the list view of any DocType and select Customize from the Me
 
 
 
-![Select DocType in Customize Form](https://docs.frappe.io/assets/2026e0cc55c9.gif)
+![Select DocType in Customize Form](../../assets/2026e0cc55c9.gif)
 
 ### 1.1. Options While Customizing a Form
 
@@ -44,7 +44,7 @@ You can also go to the list view of any DocType and select Customize from the Me
 
 
 
-![Change Label](https://docs.frappe.io/assets/10b3b77479bc.png)
+![Change Label](../../assets/10b3b77479bc.png)
 
   2. **Title Field** : This field can be used to generate the title while viewing the lists. Any "Data" type field can be set as the Title Field while viewing the forms in the list view. E.g., if you wish to view the list of all your employees with the Title field as the 'Employee Code' instead of Employee Name, the same can be configured here. Check our article on [Document title](document-title.md) for more information.
 
@@ -59,7 +59,7 @@ _Learn more about field types_ [_here_](field-types.md) _._
 
 
 
-![Image Field in DocType](https://docs.frappe.io/assets/a6c18db5bbd5.png)
+![Image Field in DocType](../../assets/a6c18db5bbd5.png)
 
   5. **Max Attachments** : You can enter the maximum number of attachments that could be added to this DocType.
 
@@ -70,7 +70,7 @@ _Learn more about field types_ [_here_](field-types.md) _._
 
 
 
-![Sort Field](https://docs.frappe.io/assets/a3046f2656dc.png)
+![Sort Field](../../assets/a3046f2656dc.png)
 
   8. **Sort Order** : You can select whether you want the Sorting to be done in Ascending Order or Descending Order. To get more understanding on Sort Field and Sort Order, check out [Customizing Sorting Order in the List View](customizing-sorting-order-in-the-list-view.md).
 
@@ -92,7 +92,7 @@ _Learn more about field types_ [_here_](field-types.md) _._
 
 
 
-![Track Changes](https://docs.frappe.io/assets/fd9d4c50beaf.png)
+![Track Changes](../../assets/fd9d4c50beaf.png)
 
   * **Track Views** : This option will give you a trail of all the views towards this particular DocType.
 

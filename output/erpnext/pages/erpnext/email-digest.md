@@ -28,7 +28,7 @@ To set up Email Digest, go to:
 
 Example:
 
-![Email Digest](https://docs.frappe.io/assets/9c0dc4457161.png)
+![Email Digest](../../assets/9c0dc4457161.png)
 
 ### Related Topics
 

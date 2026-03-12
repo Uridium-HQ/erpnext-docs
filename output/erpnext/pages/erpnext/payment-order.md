@@ -36,9 +36,9 @@ Or
 
   1. Go to the Payment Order list and click on New.
   2. Select the Company bank account.
-  3. Click on the **Get from** button and select Payment Request. Apply filters if needed and select the Payment Requests. ![Payment Order Fetch](https://docs.frappe.io/assets/14f9ba9fdd1d.png)
-  4. The Payment Requests will be fetched into the Payment Order. ![Payment Order Fetch](https://docs.frappe.io/assets/2bc175f51f43.png)
-  5. Save and Submit the Payment Order. Now, you'll see a button to make the Payment Entries in bulk. ![Payment Order Fetch](https://docs.frappe.io/assets/5c7dc3e08b02.png)
+  3. Click on the **Get from** button and select Payment Request. Apply filters if needed and select the Payment Requests. ![Payment Order Fetch](../../assets/14f9ba9fdd1d.png)
+  4. The Payment Requests will be fetched into the Payment Order. ![Payment Order Fetch](../../assets/2bc175f51f43.png)
+  5. Save and Submit the Payment Order. Now, you'll see a button to make the Payment Entries in bulk. ![Payment Order Fetch](../../assets/5c7dc3e08b02.png)
 
 
 

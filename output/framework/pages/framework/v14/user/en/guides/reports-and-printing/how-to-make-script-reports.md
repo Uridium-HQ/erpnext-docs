@@ -20,7 +20,7 @@ Since these reports give you unrestricted access via Python scripts, they can on
 
 ### 1\. Create a new Report
 
-![Script Report](https://docs.frappe.io/assets/c0b925501525.png)
+![Script Report](../../../../../../../assets/c0b925501525.png)
 
   1. Set Report Type as "Script Report"
   2. Set "Is Standard" as "Yes"
@@ -73,7 +73,7 @@ In the `.py` file you can add the script for generating the report.
 
 ### 4\. Add link for your report on the module page
 
-![Module Page](https://docs.frappe.io/assets/24b36ba192b5.png)
+![Module Page](../../../../../../../assets/24b36ba192b5.png)
 
   1. In the module folder (for example if it is Accounts in ERPNext the folder will be `erpnext/config/accounts.py`) you will see labels and items for various sections. The new report can be added in the item list as show in the example:
 

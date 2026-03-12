@@ -24,7 +24,7 @@ You can create a new Package by creating a Package object. You can set a README 
 
 Once you have created a package, you can add your custom Module Defs to that package.
 
-![Package](https://docs.frappe.io/assets/b875c084ccc3.png)
+![Package](../../../../../../../assets/b875c084ccc3.png)
 
 ### Making a Package Release
 
@@ -32,7 +32,7 @@ A **Package Release** will export all the package modules in the `[bench]/sites/
 
 You can then download the package release and import it in another site
 
-![Package Release](https://docs.frappe.io/assets/9e99554159c5.png)
+![Package Release](../../../../../../../assets/9e99554159c5.png)
 
 ### Importing a Package
 
@@ -42,7 +42,7 @@ The system will then _migrate_ this package to the database similar to how an ap
 
 A log is created with the output.
 
-![Package Import](https://docs.frappe.io/assets/668949d5211f.png)
+![Package Import](../../../../../../../assets/668949d5211f.png)
 
 [ Previous Page Caching ](../caching.md) [ Next Page Email Notifications For Failed Background Jobs  ](email-notifications-for-failed-background-jobs.md)
 

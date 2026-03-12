@@ -70,13 +70,13 @@ ERPNext will create templates for a bunch of email accounts by default. Not all 
 
 There are two types of email accounts, outgoing and incoming. Outgoing email accounts use an SMTP service to send emails and emails are retrieved from your inbox using an IMAP or POP. Most email providers such as Gmail, Outlook, or Yahoo provide these services.
 
-![Defining Criteria](https://docs.frappe.io/assets/0d2260b14e9b.png)
+![Defining Criteria](../../assets/0d2260b14e9b.png)
 
 ### 3.2 Incoming Email Accounts
 
 To set up an incoming Email Account, check on **Enable Incoming** and set your POP3 settings, if you are using a popular email service, these will be preset for you.
 
-![Incoming EMail](https://docs.frappe.io/assets/d703353e27ab.png)
+![Incoming EMail](../../assets/d703353e27ab.png)
 
 The following options are available for incoming emails:
 
@@ -105,7 +105,7 @@ All emails sent from the system, either by the user to contact or via notificati
 
 To set up an outgoing Email Account, check on **Enable Outgoing** and set your SMTP server settings, if you are using a popular email service, these will be preset for you.
 
-![Outgoing EMail](https://docs.frappe.io/assets/c3a67ced764a.png)
+![Outgoing EMail](../../assets/c3a67ced764a.png)
 
 The following options are available for outgoing emails:
 

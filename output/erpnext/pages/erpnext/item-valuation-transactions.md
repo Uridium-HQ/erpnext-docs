@@ -20,11 +20,11 @@ In ERPNext, Item's stock valuation is updated on the creation of one of the foll
 
 You can select valuation method based on which item's value will be calculated. Valuation Method can be set globally for all the items from the Stock Settings.
 
-![Download Backup](https://docs.frappe.io/assets/50fe90c80445.png)
+![Download Backup](../../assets/50fe90c80445.png)
 
 You can also set Valuation Method in the item master, especially when a valuation method for an item is different from the default Method as seen in the following screenshot.
 
-![Download Backup](https://docs.frappe.io/assets/4fe4da9cef54.png)
+![Download Backup](../../assets/4fe4da9cef54.png)
 
 Note that once ledger entries are made for an item, this option will no longer be visible in the Item form.
 

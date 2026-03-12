@@ -25,13 +25,13 @@ To access the Opportunity list, go to:
 
 
 
-![Creating New Opportunity](https://docs.frappe.io/assets/ffe659c55bed.gif)
+![Creating New Opportunity](../../assets/ffe659c55bed.gif)
 
   1. You can also go to a Lead with 'Open' status and select “Opportunity” under **Create** dropdown as shown below.
 
 
 
-![Create Opportunity From Lead](https://docs.frappe.io/assets/76ac94509ae9.png)
+![Create Opportunity From Lead](../../assets/76ac94509ae9.png)
 
   1. In 'Opportunity From', select Customer if opportunity is from a customer.
 
@@ -44,7 +44,7 @@ To access the Opportunity list, go to:
 
 
 
-![Item Details in Opportunity](https://docs.frappe.io/assets/25d6181aa683.png)
+![Item Details in Opportunity](../../assets/25d6181aa683.png)
 
   1. Enter the Source of the opportunity in the SOURCE section.
 
@@ -62,7 +62,7 @@ It is important to reach out to opportunities from time to time and build the re
 
 You can define [Assignment Rules](https://docs.frappe.io/erpnext/assignment-rule) to automatically assign the opportunities to sales executives.
 
-![Opportunity Assignment](https://docs.frappe.io/assets/52c2d6a6db9a.png)
+![Opportunity Assignment](../../assets/52c2d6a6db9a.png)
 
 ### 2.3 Auto-close Opportunities
 
@@ -70,13 +70,13 @@ If you do not receive a response from an opportunity for a certain number of day
 
 You can set the number of days in [Selling Settings](selling-settings.md).
 
-![Auto Close Opportunities](https://docs.frappe.io/assets/ddcae3b7dc6f.png)
+![Auto Close Opportunities](../../assets/ddcae3b7dc6f.png)
 
 ### 2.4 Create a Quotation
 
 You can create a [Quotation](quotation.md) from the **Make** dropdown. Relevant field values will be copied over.
 
-![Create Quotation From Opportunity](https://docs.frappe.io/assets/6cf6007e6ecd.png)
+![Create Quotation From Opportunity](../../assets/6cf6007e6ecd.png)
 
 ### 2.5 Create a Supplier Quotation
 
@@ -88,7 +88,7 @@ You may need to get a quotation from your supplier against the customer requirem
 
 When an opportunity is lost, you can capture the reasons, competitors and detail reason for losing. This will help you to analyse the trends over a long period of time and identify the insights needed for improvements at various areas in the organisation.
 
-![Opportunity Lost Reason](https://docs.frappe.io/assets/bb0890537399.png)
+![Opportunity Lost Reason](../../assets/bb0890537399.png)
 
 ### 2.7 Minutes to First Response
 

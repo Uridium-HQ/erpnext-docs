@@ -22,11 +22,11 @@ Check [List of Renamable Documents](renaming-documents.md) for the list of all t
 
 **Step 2** : From the drop-down menu, select the option 'Rename'.
 
-![Document Renaming](https://docs.frappe.io/assets/9f48f3d874cb.gif)
+![Document Renaming](../../assets/9f48f3d874cb.gif)
 
 Alternatively, you can also click on the Title of the document, which will result in a pop-up, wherein you will be able to change the name of the document that you wish to rename.
 
-![Document Renaming](https://docs.frappe.io/assets/91de9d97ed20.gif)
+![Document Renaming](../../assets/91de9d97ed20.gif)
 
 ### Effect of Renaming
 

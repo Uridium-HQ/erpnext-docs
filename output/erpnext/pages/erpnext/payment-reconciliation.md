@@ -40,7 +40,7 @@ To access Payment Reconciliation, go to:
 
 
 
-![Payment Reconciliation Tool](https://docs.frappe.io/assets/14ebe2b33b48.gif)
+![Payment Reconciliation Tool](../../assets/14ebe2b33b48.gif)
 
   2. What happens on Payment Reconciliation
 

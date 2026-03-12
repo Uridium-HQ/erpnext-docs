@@ -18,7 +18,7 @@ To access the Currency list, go to:
 
 For example, this is how the Currency page for Euro:
 
-![EUR currency](https://docs.frappe.io/assets/79ee5384ea3b.png)
+![EUR currency](../../assets/79ee5384ea3b.png)
 
 ## Configurations
 

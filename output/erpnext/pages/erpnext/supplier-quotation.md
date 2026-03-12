@@ -14,7 +14,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 A Supplier Quotation may also contain terms of sale, terms of payment, and warranties. Acceptance of quotation by the buyer can be considered as an agreement binding on both parties.
 
-![Buying Flow](https://docs.frappe.io/assets/061c4ad7061b.png)
+![Buying Flow](../../assets/061c4ad7061b.png)
 
 To access Supplier Quotation, go to:
 
@@ -33,7 +33,7 @@ Before creating and using a Supplier Quotation, it is advised that you create th
 
 ### 2.1 Supplier Quotation from Material Request
 
-You can make a supplier quotation from a Material Request: ![Supplier Quotation from Material Receipt](https://docs.frappe.io/assets/192b30a1c42f.png)
+You can make a supplier quotation from a Material Request: ![Supplier Quotation from Material Receipt](../../assets/192b30a1c42f.png)
 
 Or:
 
@@ -53,7 +53,7 @@ The supplier can submit you a quotation himself via ERPNext. To know more about 
 
   1. Select the Supplier who sent you the quotation.
   2. The Address and Contact will be fetched if you've saved it in the supplier master.
-  3. Enter the Item code, select the quantity. Rate will be fetched if you've set the Standard Buying rate for the item in [Item Price](item-price.md). ![Supplier Quotation](https://docs.frappe.io/assets/a72c885287ce.png)
+  3. Enter the Item code, select the quantity. Rate will be fetched if you've set the Standard Buying rate for the item in [Item Price](item-price.md). ![Supplier Quotation](../../assets/a72c885287ce.png)
 
 
 

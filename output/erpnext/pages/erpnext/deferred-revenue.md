@@ -22,7 +22,7 @@ The company that receives the prepayment records the amount as Deferred Revenue 
 
 Before you start using deferred accounting you should be aware of the below settings which will give you more control over how you manage your deferred accounting
 
-![Deferred Accounting Settings](https://docs.frappe.io/assets/c6ddf8e91967.png)
+![Deferred Accounting Settings](../../assets/c6ddf8e91967.png)
 
   1. **Automatically Process Deferred Accounting Entry:** This setting is enabled by default. In case you don't want the deferred accounting entries to be posted automatically you can disable this setting. If this setting is disabled deferred accounting will have to be processed manually using [Process Deferred Accounting](process-deferred-accounting.md)
   2. **Book Deferred Entries Based On:** Deferred revenue amount can be booked based on two criteria. The default option here is "Days". If "Days" is selected, the deferred revenue amount will be booked based on the number of days in each month and if "Months" is selected, then it will be booked based on number of months. **For Eg:** If "Days" is selected and $12000 revenue has to be deferred over a period of 12 months, then $986.30 will be for the month having 30 days and $1019.17 will be booked for the month having 31 days. If "Months" is selected, $1000 deferred revenue will booked each month irrespective of the number of days in a month.
@@ -39,13 +39,13 @@ Internet and broadcasting service providers offer subscription plans on quarterl
 
 In the Item master created for the subscription plan, under Deferred Revenue section, check field **Enable Deferred Revenue**. You can also select a Deferred Revenue account for this particular item and number of months.
 
-![Item With Deferred Revenue](https://docs.frappe.io/assets/fb272390379f.png)
+![Item With Deferred Revenue](../../assets/fb272390379f.png)
 
 ### 2.2 Sales Invoice
 
 On creation of Sales Invoice for the Deferred Revenue Item, instead of posting in the Income Account, Deferred Revenue account is Credited by the sale amount. If you had set the account and period in Item, then the account and service start, end dates will be fetched automatically.
 
-![Invoice With Deferred Revenue](https://docs.frappe.io/assets/213d4e18b624.gif)
+![Invoice With Deferred Revenue](../../assets/213d4e18b624.gif)
 
 ### 2.3 Journal Entry
 
@@ -53,7 +53,7 @@ Based on the From Date and To Date set in the Sales Invoice Item table, Journal 
 
 Following is an example of Income for the Deferred Revenue Item booked via multiple Journal Entries.
 
-![Deferred Revenue GL](https://docs.frappe.io/assets/5ef036b57850.png)
+![Deferred Revenue GL](../../assets/5ef036b57850.png)
 
 ## 3\. Video
 

@@ -38,7 +38,7 @@ The Address Template checks the 'Country' field in the Address master to apply d
 
 
 
-![Screenshot 2024-05-23 at 4.29.42 PM](https://docs.frappe.io/assets/d155a31eaec4.png)
+![Screenshot 2024-05-23 at 4.29.42 PM](../../assets/d155a31eaec4.png)
 
 Note: The template engine is based on HTML and the [Jinja](https://jinja.palletsprojects.com/) system. All the fields (including Custom Fields) will be available for creating the template.
 

@@ -28,11 +28,11 @@ Here, we will select the Document Item.
 
 Update Warehouse field name in the Search By field.
 
-![Search By in Customize Form](https://docs.frappe.io/assets/65f02d0fce86.png) ![Search By in Customize Form](https://docs.frappe.io/assets/ed7ddf26cc81.png)
+![Search By in Customize Form](../../assets/65f02d0fce86.png) ![Search By in Customize Form](../../assets/ed7ddf26cc81.png)
 
 Once these settings have been updated, while creating a Sales Order, when you select the Item, you will also be able to the warehouse there.
 
-![Search By in Customize Form](https://docs.frappe.io/assets/918e77312140.png)
+![Search By in Customize Form](../../assets/918e77312140.png)
 
 [ Previous Page Sorting Order in List View ](customizing-sorting-order-in-the-list-view.md) [ Next Page Disable Rounded Total  ](https://docs.frappe.io/erpnext/disable-rounded-total)
 

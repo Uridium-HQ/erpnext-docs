@@ -23,7 +23,7 @@ A Material Request can have the following purposes:
 
 
 
-![Material Request](https://docs.frappe.io/assets/0f789b4c73c8.png)
+![Material Request](../../assets/0f789b4c73c8.png)
 
 To access the Material Request list, go to:
 
@@ -42,9 +42,9 @@ To access the Material Request list, go to:
 
 
 
-![Screenshot 2024-07-09 at 2.36.44 PM](https://docs.frappe.io/assets/ddcb2d9d3dcf.png) 5\. Select the Item and set the quantity. 6\. Select the Warehouse for which Items are required. 7\. You can change the Required By date for individual Items in this table. 8\. Save and Submit.
+![Screenshot 2024-07-09 at 2.36.44 PM](../../assets/ddcb2d9d3dcf.png) 5\. Select the Item and set the quantity. 6\. Select the Warehouse for which Items are required. 7\. You can change the Required By date for individual Items in this table. 8\. Save and Submit.
 
-![Screenshot 2024-07-09 at 2.40.52 PM](https://docs.frappe.io/assets/90894d85bb4d.png)
+![Screenshot 2024-07-09 at 2.40.52 PM](../../assets/90894d85bb4d.png)
 
 ### 1.1 Alternate ways of creating a Material Request
 
@@ -127,7 +127,7 @@ You can create the following documents:
 
 
 
-![Screenshot 2024-07-09 at 2.38.58 PM](https://docs.frappe.io/assets/b5ce3c6be230.png)
+![Screenshot 2024-07-09 at 2.38.58 PM](../../assets/b5ce3c6be230.png)
 
 ### 2.7 Automatically generate Material Requests
 

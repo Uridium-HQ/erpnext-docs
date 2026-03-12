@@ -29,13 +29,13 @@ To access, go to:
 
 
 
-![COA Import](https://docs.frappe.io/assets/af81f1798dee.png)
+![COA Import](../../assets/af81f1798dee.png)
 
   1. Once you download the template, fill in the details in the template as shown in the sample template below. Please make sure to make accounts for account types "Cost of Goods Sold", "Depreciation", "Fixed Asset", "Payable", "Receivable", "Stock Adjustment". Root types for these accounts must be one of Asset, Liability, Income, Expense, and Equity. o know more about "Account Types" and "Root Types" click here [click here](chart-of-accounts.md)
 
 
 
-![COA Import](https://docs.frappe.io/assets/3ca4f87c99fb.png)
+![COA Import](../../assets/3ca4f87c99fb.png)
 
 Click on "Attach" to upload the template.
 

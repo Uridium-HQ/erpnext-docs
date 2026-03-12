@@ -89,7 +89,7 @@ This will map `library.localhost` to `localhost`. Bench has a convenient command
 
 This will ask for your root password and will add an entry to your `/etc/hosts` file.
 
-![Site Login Page](https://docs.frappe.io/assets/ddf69e1c0d2f.png)
+![Site Login Page](../../../../../assets/ddf69e1c0d2f.png)
 
 Great, now you can access your site at `http://library.localhost:8000`. Congratulations for making it this far.
 
@@ -121,7 +121,7 @@ To create DocTypes in our app, we must log in to Desk. Go to http://library.loca
 
 Enter Administrator as the user and password that you set while creating the site.
 
-![Setup Wizard](https://docs.frappe.io/assets/3c0885225d03.png)
+![Setup Wizard](../../../../../assets/3c0885225d03.png)
 
 After successful login, you will see the setup wizard. This is a one-time setup wizard used to set up localization details for your site. Go ahead, select your language, and complete the wizard.
 
@@ -129,7 +129,7 @@ Good job making it this far!
 
 You should see the Desk that looks something like this:
 
-![Desk](https://docs.frappe.io/assets/716070b0661e.png)
+![Desk](../../../../../assets/716070b0661e.png)
 
 ## Site commands
 

@@ -114,13 +114,13 @@ Client side debugging is as simple as adding a `debugger` statement in your JS f
 
 To play with Client API, you can open your browser's console and use the globally available `frappe` object to explore and run methods and access properties.
 
-![Browser Console](https://docs.frappe.io/assets/e944bc7f066b.png) _Browser Console_
+![Browser Console](../../../../../assets/e944bc7f066b.png) _Browser Console_
 
 > Learn more about the Client API [here](api.md)
 
 ## Debugging in VS Code / Debug Adapter Protocol
 
-![vsc debugging](https://docs.frappe.io/assets/f5a79c3d34ff.png)
+![vsc debugging](../../../../../assets/f5a79c3d34ff.png)
 
 Checklist for proper functioning.
 

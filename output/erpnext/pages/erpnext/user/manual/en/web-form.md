@@ -20,15 +20,15 @@ To create a new **Web Form** go to:
 
 > Home > Website > Web Site > Web Form
 
-![New Web Form](https://docs.frappe.io/assets/b64c284687ac.png) _New Web Form_
+![New Web Form](../../../../../assets/b64c284687ac.png) _New Web Form_
 
 Select the **DocType** based on which you want to build your Web Form. The **Route** will be set based on the **Title** of your Web Form. You can also add an Introduction text to show a friendly message above your form.
 
 Add fields to your Web Form. These are the fields from the DocType you have selected. You can change the Label for these fields. Try to keep number of fields to be minimum as long forms are cumbersome to fill.
 
-![Web Form Fields](https://docs.frappe.io/assets/ce4a5847168c.png) _Web Form Fields_
+![Web Form Fields](../../../../../assets/ce4a5847168c.png) _Web Form Fields_
 
-Click on **See on Website** in the sidebar to view your Web form. ![Web Form](https://docs.frappe.io/assets/86a5613ad3a2.png) _Web Form_
+Click on **See on Website** in the sidebar to view your Web form. ![Web Form](../../../../../assets/86a5613ad3a2.png) _Web Form_
 
 Here is an explanation of each of the checkboxes on the right.
 
@@ -63,31 +63,31 @@ Here is an explanation of each of the checkboxes on the right.
 
 You can also show contextual links in a sidebar on your Web Form. Set it up in **Sidebar Settings**.
 
-![Web Form Sidebar](https://docs.frappe.io/assets/3038a839c3c2.png) _Web Form Sidebar_
+![Web Form Sidebar](../../../../../assets/3038a839c3c2.png) _Web Form Sidebar_
 
-![Web Form with Sidebar](https://docs.frappe.io/assets/80b89c062609.png) _Web Form with Sidebar_
+![Web Form with Sidebar](../../../../../assets/80b89c062609.png) _Web Form with Sidebar_
 
 ### 2.2 Creating Web Forms with Child Table
 
 You can add child tables to your web forms, just like regular forms.
 
-![Web form Grid](https://docs.frappe.io/assets/f4f8113dd1c6.png)
+![Web form Grid](../../../../../assets/f4f8113dd1c6.png)
 
 ### 2.3 Payment Gateway Integration
 
 You can now add a Payment Gateway to the web form, so that you can ask users to pay against a web form. A good example for this is a conference ticket.
 
-![Web form payment](https://docs.frappe.io/assets/9b483d312173.png)
+![Web form payment](../../../../../assets/9b483d312173.png)
 
 ### 2.4 Portal User
 
 We have also introduced roles for Website users. Before version 11, if you assigned any 'Role' to a user he would get access to 'Desk View'. From version 11 you can assign a 'Role' but still disallow access to 'Desk View' by unchecking 'Desk Access' in Role.
 
-![Disallow Desk Access](https://docs.frappe.io/assets/3d0d62f1503f.png)
+![Disallow Desk Access](../../../../../assets/3d0d62f1503f.png)
 
 In Portal Settings, you can set a role against each menu item so that only users with that role will be allowed to see that item.
 
-![portal settings](https://docs.frappe.io/assets/7c5add720b9d.png)
+![portal settings](../../../../../assets/7c5add720b9d.png)
 
 ### 2.5 Custom Script
 
@@ -103,7 +103,7 @@ You can customize the look and feel of your Web Form by writing your own Custom 
 
 You can add the text in 'Success Message' field and this text will be shown to user once he successfully submits the web form . And the user is redirected to the URL given at 'Success URL' when clicked on 'Continue' button. This is only applicable to webforms accessible without the user login(webforms with 'Login Required' checkbox unchecked).
 
-![Success Message](https://docs.frappe.io/assets/21fa2cc614fa.png)
+![Success Message](../../../../../assets/21fa2cc614fa.png)
 
 ### 2.8 Result
 

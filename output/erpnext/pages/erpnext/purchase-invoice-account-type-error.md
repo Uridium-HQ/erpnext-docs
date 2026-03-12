@@ -12,7 +12,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 **Question:** On saving the Purchase Invoice, I am getting a validation message that Credit To Account must be a Balance Sheet account.
 
-![Credit To Account in Purchase Invoice](https://docs.frappe.io/assets/47eae35613b5.png)
+![Credit To Account in Purchase Invoice](../../assets/47eae35613b5.png)
 
 **Answer: **On submission of a Purchase Invoice, payable is updated towards the Supplier. As per the accounting standards, Payable Account is aligned under Current Liability (credit side of Balance Sheet).
 

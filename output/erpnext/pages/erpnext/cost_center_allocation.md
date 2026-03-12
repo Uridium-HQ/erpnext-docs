@@ -28,13 +28,13 @@ In ERPNext, we just need to define the allocation between multiple cost centers 
 
 
 
-![Screenshot 2024-06-24 at 12.26.59 PM](https://docs.frappe.io/assets/6eb34b7a2111.png)
+![Screenshot 2024-06-24 at 12.26.59 PM](../../assets/6eb34b7a2111.png)
 
 ### 2\. GL Entries against Transaction
 
 While booking any transaction against the main cost center, the system automatically split the GL Entry against it and posts multiple gl entries based on the applicable cost center allocation record.
 
-![Screenshot 2024-06-24 at 12.31.26 PM](https://docs.frappe.io/assets/f8ce53eb27c2.png)
+![Screenshot 2024-06-24 at 12.31.26 PM](../../assets/f8ce53eb27c2.png)
 
 (GL Entries against a Sales Invoice has been splitted based on Cost Center Allocation)
 

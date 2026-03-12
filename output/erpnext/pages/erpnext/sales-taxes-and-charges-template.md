@@ -38,7 +38,7 @@ Before creating a new template, note that templates are already created for many
   8. On Item Quantity: Tax will be calculated as Tax Rate * Item Quantity. For example, if Tax Rate is 2% and number of Items is 1, then Tax Rate will be 4, if number of Items are 5, Tax Rate will be 10, and so on.
   9. Select an account head which has pre set tax rates or create your own.
   10. Selecting default will apply this template by default for new Sales transactions.
-  11. Save. ![Sales taxes](https://docs.frappe.io/assets/684f845a9944.png)
+  11. Save. ![Sales taxes](../../assets/684f845a9944.png)
 
 
 
@@ -50,7 +50,7 @@ Before creating a new template, note that templates are already created for many
 
   * **Consider Tax or Charge for** : Total - for the total of all items. Valuation - for each item. Valuation and total - apply tax/charge to both. [Check out this article](difference-in-total-and-valuation-in-tax-and-charges.md) to know the difference.
 
-  * **Reference Row #** : If tax is based on "Previous Row Total" you can select the row number which will be taken as a base for this calculation (default is the previous row). ![Sales taxes table](https://docs.frappe.io/assets/0dfc5c15233f.png)
+  * **Reference Row #** : If tax is based on "Previous Row Total" you can select the row number which will be taken as a base for this calculation (default is the previous row). ![Sales taxes table](../../assets/0dfc5c15233f.png)
 
   * **Is this Tax included in Basic Rate?** : If checked, the tax amount will be considered as already included in the Print Rate / Print Amount in the Item table of a transaction. This is useful when you want to give tax inclusive price to your customers. To account for tax inclusive rates, the system calculates the Net Amount by deducting the amount of tax to be applied then calculates the tax on it.
 

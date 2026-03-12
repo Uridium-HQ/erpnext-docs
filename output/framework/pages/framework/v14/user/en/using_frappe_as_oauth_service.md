@@ -67,11 +67,11 @@ Once you have logged into your site and completed the getting started process fo
 
 For accessing the `OAuth Client` doctype, you can use the awesomebar or press `Ctrl + G` to invoke the awesomebar and type in "OAuth Client", the autocomplete will show you the list of options.
 
-![Dropdown for OAuth Client](https://docs.frappe.io/assets/07303feab16d.png)
+![Dropdown for OAuth Client](../../../../../assets/07303feab16d.png)
 
 Select "New OAuth Client" from the dropdown, and you'll be taken to a page for adding the OAuth scopes and settings for the application you want to add OAuth for.
 
-![New OAuth Client](https://docs.frappe.io/assets/56137cf4a8dc.png)
+![New OAuth Client](../../../../../assets/56137cf4a8dc.png)
 
 Here, you have to configure the:
 
@@ -87,7 +87,7 @@ The redirect URI for Grafana from their docs is `/login/generic_oauth`.
 
 Once you have added the details in the respective fields, you will receive an `App Client ID` and `App Client Secret`. These will be used in the Grafana configuration for the OAuth setup.
 
-![OAuth Client details added](https://docs.frappe.io/assets/1a07d9ab0471.png)
+![OAuth Client details added](../../../../../assets/1a07d9ab0471.png)
 
 ### Configuring Grafana for OAuth
 
@@ -125,11 +125,11 @@ to restart Grafana on an Ubuntu/Debian system.
 
 That is mostly it. Now reload your Grafana site, and you'll be able to see a "Sign in with Frappe" button on the login page.
 
-![Signin with Frappe Grafana](https://docs.frappe.io/assets/cca1f71f5f78.png)
+![Signin with Frappe Grafana](../../../../../assets/cca1f71f5f78.png)
 
 If you have done everything correctly, you'll be logged into Grafana with the credentials from your Frappe site.
 
-![Logging in with Frappe GIF](https://docs.frappe.io/assets/e4e69c4036c4.gif)
+![Logging in with Frappe GIF](../../../../../assets/e4e69c4036c4.gif)
 
 [ Previous Page Token based authentication  ](guides/integration/how_to_set_up_token_based_auth.md) [ Next Page Introduction  ](guides/integration/rest_api.md)
 

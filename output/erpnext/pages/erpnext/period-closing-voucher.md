@@ -35,7 +35,7 @@ To access the Period Closing Voucher list, go to:
   2. Set a posting date.
   3. Select the account, usually this is the 'Reserves and Surplus' account.
   4. Enter any remarks.
-  5. Save and Submit. ![Period Closing Voucher](https://docs.frappe.io/assets/b012e4d5cb76.png)
+  5. Save and Submit. ![Period Closing Voucher](../../assets/b012e4d5cb76.png)
 
 
 
@@ -54,11 +54,11 @@ The Period Closing Voucher will make accounting entries (GL Entry). This will ma
 
 You should select a liability account like Reserves and Surplus, or Any Revenue Reserve account or into Owners Capital account as Closing Account.
 
-![Period Closing Voucher ledger](https://docs.frappe.io/assets/c4ac2126bd82.png)
+![Period Closing Voucher ledger](../../assets/c4ac2126bd82.png)
 
 If **Book Cost Center Wise Profit/Loss** is enabled, the net profit & loss will be booked according to the individual transaction's cost center. Below is the closing entry made for two sales transaction having different cost center.
 
-![Cost Center-wise Period Closing Voucher](https://docs.frappe.io/assets/8d2c5259a6f9.png)
+![Cost Center-wise Period Closing Voucher](../../assets/8d2c5259a6f9.png)
 
 > **Note:** If accounting entries are made in a closing Fiscal Year, even after Period Closing Voucher was created for that Fiscal Year, you should create another Period Closing Voucher. Later voucher will only transfer the pending P&L balance into Closing Account Head.
 

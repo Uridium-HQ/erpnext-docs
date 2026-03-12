@@ -12,7 +12,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 The BOM Creator enables users to create multi-level BOMs using a single screen.
 
-![bom_creator_tree](https://docs.frappe.io/assets/841fc8641273.png)
+![bom_creator_tree](../../assets/841fc8641273.png)
 
 ### Why use the BOM Creator?
 
@@ -26,19 +26,19 @@ Here's how it works:
 
 
 
-![bom-creator](https://docs.frappe.io/assets/4ac4b20dcb3c.png)
+![bom-creator](../../assets/4ac4b20dcb3c.png)
 
   * In the form, users will find an option to add Raw Materials and Sub-assembly items related to the Final Product.
 
 
 
-![toolbar_bom_creator](https://docs.frappe.io/assets/d651a2c5615f.png)
+![toolbar_bom_creator](../../assets/d651a2c5615f.png)
 
   * If a user wants to convert Raw Materials into Sub-assembly items, they need to click on the item first and then click the "Convert to Sub-Assembly" button.
 
 
 
-![convert_to_sub_assembly](https://docs.frappe.io/assets/7fe056f704f2.gif)
+![convert_to_sub_assembly](../../assets/7fe056f704f2.gif)
 
   * Users can edit the Quantity as needed.
 
@@ -48,7 +48,7 @@ Here's how it works:
 
 One the BOM structure has made using the tree component, user has to submit the BOM Creator. On Submission of the BOM Creator, system will generate the BOMs using the background job.
 
-![submit-bom](https://docs.frappe.io/assets/fe64ac201548.gif)
+![submit-bom](../../assets/fe64ac201548.gif)
 
 [ Previous Page BOM Comparison Tool  ](bom-comparison-tool.md) [ Next Page Production Plan ](production-plan.md)
 

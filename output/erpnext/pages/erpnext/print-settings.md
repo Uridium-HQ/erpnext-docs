@@ -18,7 +18,7 @@ To edit Print Settings, go to:
 
 > Home > Settings > Print Settings
 
-![Print Settings](https://docs.frappe.io/assets/c2713e0be0e6.png)
+![Print Settings](../../assets/c2713e0be0e6.png)
 
 There are various configurations available in the Print Settings. Let's learn about them.
 
@@ -50,9 +50,9 @@ As per this setting, there will be only four columns in the Print Format, namely
 
 The values of other columns (like name, description, image, serial nos. etc.) are concatenated in the Description column.
 
-When the checkbox is unticked, the print format looks like this: ![Incompact Print Format Settings](https://docs.frappe.io/assets/831836f4c242.png)
+When the checkbox is unticked, the print format looks like this: ![Incompact Print Format Settings](../../assets/831836f4c242.png)
 
-This is what the Compact Print Format looks like: ![Compact Print Format Settings](https://docs.frappe.io/assets/53b995c1f17c.png)
+This is what the Compact Print Format looks like: ![Compact Print Format Settings](../../assets/53b995c1f17c.png)
 
 ### 2.3 Allow Print for Draft
 

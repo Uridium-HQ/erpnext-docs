@@ -18,7 +18,7 @@ To access the Purchase Invoice list, go to:
 
 > Home > Accounting > Accounts Payable > Purchase Invoice
 
-![PI Flow](https://docs.frappe.io/assets/d92141239e9d.png)
+![PI Flow](../../assets/d92141239e9d.png)
 
   1. Prerequisites
 
@@ -361,27 +361,27 @@ In many situations, a service is received and the expense is incurred but the Pu
 
 
 
-![](https://docs.frappe.io/assets/5ae6dcecc5f5.png)
+![](../../assets/5ae6dcecc5f5.png)
 
   1. Make a Purchase Receipt for a non-stock item
 
 
 
-![](https://docs.frappe.io/assets/e467b44a2e47.png)
+![](../../assets/e467b44a2e47.png)
 
 Accounting entries against the Purchase Receipt will be as follows
 
-![](https://docs.frappe.io/assets/79e27af086a8.png)
+![](../../assets/79e27af086a8.png)
 
   1. Make a Purchase Invoice against the Purchase Receipt Accounting entries against the Purchase Invoice will be posted as usual
 
 
 
-![](https://docs.frappe.io/assets/4993ef41efb1.png)
+![](../../assets/4993ef41efb1.png)
 
 On posting a purchase invoice accounting entries against the purchase receipt will be reversed
 
-![](https://docs.frappe.io/assets/7821262d8935.png)
+![](../../assets/7821262d8935.png)
 
 ### 5\. Related Topics
 

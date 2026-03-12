@@ -14,7 +14,7 @@ A Separate Ledger that only records transactions on **Receivable** and **Payable
 
 #### **Ex:**
 
-A Sales Invoice of ₹1000 and a Payment Entry against that invoice will look like below. ![Screenshot 2022 05 18 at 11.13.28 AM](https://docs.frappe.io/assets/02c2175694a0.png)
+A Sales Invoice of ₹1000 and a Payment Entry against that invoice will look like below. ![Screenshot 2022 05 18 at 11.13.28 AM](../../assets/02c2175694a0.png)
 
 ### Usage
 

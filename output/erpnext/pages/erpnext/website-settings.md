@@ -24,7 +24,7 @@ You can also set a [Web Page](web-page.md) as the landing page.
 
 If you want to use the ERPNext [Homepage](homepage.md), you must set it as `home`.
 
-![Website Settings - Landing Page](https://docs.frappe.io/assets/2b458f0ac3d4.png) _Website Settings - Landing Page_
+![Website Settings - Landing Page](../../assets/2b458f0ac3d4.png) _Website Settings - Landing Page_
 
 You can also set the **Title Prefix** here. It will be appended to the browser title on every page. You can put your company name here.
 
@@ -38,43 +38,43 @@ Create a personalized theme for your Website and set it here. Learn more about c
 
 You can set the brand logo for your website in this section. Upload the Brand Image first and then click on "Set Banner from Image" button. It will generate a Banner HTML with your uploaded logo.
 
-![Website Settings - Banner Image](https://docs.frappe.io/assets/928001bfb0a2.png) _Website Settings - Banner Image_
+![Website Settings - Banner Image](../../assets/928001bfb0a2.png) _Website Settings - Banner Image_
 
 ### 3.2 Favicon
 
 You can also set the favicon of your website in this section. It appears on the left side of the browser tab.
 
-![Website Settings - Favicon](https://docs.frappe.io/assets/ec7beb6bb3ae.png) _Website Settings - Favicon_
+![Website Settings - Favicon](../../assets/ec7beb6bb3ae.png) _Website Settings - Favicon_
 
 View your website by clicking on **View Website** in the action bar on top right.
 
-![Website with Brand and Favicon](https://docs.frappe.io/assets/8e8b77bea307.png) _Website with Brand and Favicon_
+![Website with Brand and Favicon](../../assets/8e8b77bea307.png) _Website with Brand and Favicon_
 
 ## 4\. Top Bar
 
 You can customize the menu items in the navbar of your website from the **Top Bar** section.
 
-![Website Setting - Top Bar](https://docs.frappe.io/assets/0d7994841328.png) _Website Setting - Top Bar_
+![Website Setting - Top Bar](../../assets/0d7994841328.png) _Website Setting - Top Bar_
 
-![Website Navbar Items](https://docs.frappe.io/assets/96d1682d532e.png) _Website Navbar Items_
+![Website Navbar Items](../../assets/96d1682d532e.png) _Website Navbar Items_
 
 ## 5\. Banner
 
 You can add a persistent banner to your website which will be shown above the navbar on all web pages. You can write any valid Bootstrap 4 markup here.
 
-![Website Settings - Banner](https://docs.frappe.io/assets/6c1cdfe691b9.png) _Website Settings - Banner_
+![Website Settings - Banner](../../assets/6c1cdfe691b9.png) _Website Settings - Banner_
 
-![Website Banner](https://docs.frappe.io/assets/f48ba8251a35.png) _Website Banner_
+![Website Banner](../../assets/f48ba8251a35.png) _Website Banner_
 
 ## 6\. Footer
 
 You can add address information and categorized links to your footer in the **Footer** section.
 
-![Website Settings - Footer Address](https://docs.frappe.io/assets/a4b7043e31fd.png) _Website Settings - Footer Address_
+![Website Settings - Footer Address](../../assets/a4b7043e31fd.png) _Website Settings - Footer Address_
 
-![Website Settings - Footer Links](https://docs.frappe.io/assets/70173e97fe61.png) _Website Settings - Footer Links_
+![Website Settings - Footer Links](../../assets/70173e97fe61.png) _Website Settings - Footer Links_
 
-![Website Footer](https://docs.frappe.io/assets/2ec178330940.png) _Website Footer_
+![Website Footer](../../assets/2ec178330940.png) _Website Footer_
 
 #### Configuring "Powered by" Section
 
@@ -99,7 +99,7 @@ In order to allow ERPNext to request Google crawlers to index a web page, you ne
 
 
 
-![Google Integrations](https://docs.frappe.io/assets/258b23cd3ecc.png) _Google Integrations_
+![Google Integrations](../../assets/258b23cd3ecc.png) _Google Integrations_
 
 ### 7.2 Google Analytics
 
@@ -111,13 +111,13 @@ By default, Google Analytics will collect the full IP address of your website vi
 
 You can use this section to set meta tags across all of your web pages. A common use case is to add Google site verification tags.
 
-![Website Settings - Header](https://docs.frappe.io/assets/540a76305e81.png) _Website Settings - Header_
+![Website Settings - Header](../../assets/540a76305e81.png) _Website Settings - Header_
 
 ## 9\. Robots
 
 You can define `robots.txt` rules in this section. This information is used by web crawlers to decide which pages to index and which to skip.
 
-![Website Settings - Robots](https://docs.frappe.io/assets/6f9bd8106691.png) _Website Settings - Robots_
+![Website Settings - Robots](../../assets/6f9bd8106691.png) _Website Settings - Robots_
 
 > Learn more about `robots.txt` at [Moz - Robots.txt](https://moz.com/learn/seo/robotstxt)
 
@@ -127,7 +127,7 @@ You can define a mapping of route redirects here. The mappings in the following 
 
 ERPNext will raise a `301 Permanent Redirect` response for these routes.
 
-![Website Settings - Routes Redirects](https://docs.frappe.io/assets/152f9c1a64fe.png) _Website Settings - Routes Redirects_
+![Website Settings - Routes Redirects](../../assets/152f9c1a64fe.png) _Website Settings - Routes Redirects_
 
 > If you are migrating your existing website to ERPNext based website, you can map your old routes to new ones here and these redirects will be picked up by Google and will help you maintain your SEO rankings.
 

@@ -39,11 +39,11 @@ Before creating and using Email Campaign, these need to be created first:
 
 
 
-![Email Campaign](https://docs.frappe.io/assets/9222bd8f0a90.png)
+![Email Campaign](../../assets/9222bd8f0a90.png)
 
 The above Email Campaign is for the following Campaign:
 
-![Campaign Schedule](https://docs.frappe.io/assets/6d4f4a08e492.png)
+![Campaign Schedule](../../assets/6d4f4a08e492.png)
 
 **Note** : The **Send After (days)** field in Campaign specifies the day on which email is to be sent relative to the **Start Date** of **Email Campaign**. Notice the 'End Date' in the above Email Campaign. It is '26-07-2019', which is 4 days after the 'Start Date', '22-07-2029', as the Campaign Schedule ends on day 4.
 
@@ -56,7 +56,7 @@ You can also create new Email Campaigns for different Leads or Contacts for the 
 
 
 
-![Email Campaigns from Dashboard](https://docs.frappe.io/assets/5d8325a193c6.png)
+![Email Campaigns from Dashboard](../../assets/5d8325a193c6.png)
 
 ## 3\. Features
 
@@ -64,27 +64,27 @@ You can also create new Email Campaigns for different Leads or Contacts for the 
 
 When emails are sent to the respective leads or contacts, Communication is linked to the Email Campaign document. You can view all the emails sent in your document.
 
-![Linked Communication](https://docs.frappe.io/assets/958f608d691c.png)
+![Linked Communication](../../assets/958f608d691c.png)
 
 ### 3.2 Unsubscribe from Email Campaign
 
 If a lead or contact does not want to continue getting emails regarding the campaign, he or she can unsubscribe from the Email Campaign via the unsubscribe link sent with the email.
 
-![Unsubscribe Link](https://docs.frappe.io/assets/f5122ef6441d.png)
+![Unsubscribe Link](../../assets/f5122ef6441d.png)
 
 When the lead or contact unsubscribes, the status of the Email Campaign document changes to 'Unsubscribed'.
 
-![Unsubscribed](https://docs.frappe.io/assets/d51b7cff877f.png)
+![Unsubscribed](../../assets/d51b7cff877f.png)
 
 ### 3.3 Use Lead or Contact fields in Email Template
 
 The Email Template has the context of the document you have specified in the 'Email Campaign For' field. If you want to display the fields from your Lead or Contact document in your Email Template you will have to use `doc.fieldname` for the same. For example, if 'Email Campaign For' is 'Contact', you can mention the 'first name' of your Contact as `doc.first_name` in the Email Template as shown below:
 
-![Email Template Document](https://docs.frappe.io/assets/8cabbd097163.png)
+![Email Template Document](../../assets/8cabbd097163.png)
 
 Then the emails sent would look like this:
 
-![Email Campaign Doc Data](https://docs.frappe.io/assets/7cf003ee43cb.png)
+![Email Campaign Doc Data](../../assets/7cf003ee43cb.png)
 
 ### 3.4 Status indication
 
@@ -97,7 +97,7 @@ Status indicates the state of the Email Campaign, the various Statuses are:
 
 
 
-![Email Campaign Status](https://docs.frappe.io/assets/7c9588797aef.png)
+![Email Campaign Status](../../assets/7c9588797aef.png)
 
 ## 4\. Related Topics
 

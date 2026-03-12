@@ -73,7 +73,7 @@ To create a new Client Script, go to
 
 **Home > Customization > Client Script > New**
 
-![New Client Script](https://docs.frappe.io/assets/b13ec742b32d.png) _New Client Script for Form_
+![New Client Script](../../../../../../assets/b13ec742b32d.png) _New Client Script for Form_
 
 ## Form Events
 
@@ -277,7 +277,7 @@ Color can be 'blue', 'red', 'orange', 'green' or 'yellow'. Default is blue.
     
 [/code]
 
-![Intro text example](https://docs.frappe.io/assets/33a32f3e676f.png) _Intro Text Example_
+![Intro text example](../../../../../../assets/33a32f3e676f.png) _Intro Text Example_
 
 ### frm.add\\_custom_button
 

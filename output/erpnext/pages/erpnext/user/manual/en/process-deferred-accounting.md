@@ -38,7 +38,7 @@ Before creating and using a Process Deferred Accounting, it is advised to create
 
 
 
-![Process Deferred Revenue](https://docs.frappe.io/assets/790aaae392a1.png)
+![Process Deferred Revenue](../../../../../assets/790aaae392a1.png)
 
 ## 3\. Features
 
@@ -56,7 +56,7 @@ To access Accounts Settings go to:
 
 > Home > Accounting > Accounting Masters > Accounts Settings
 
-![Deferred Accounting Settings](https://docs.frappe.io/assets/c6ddf8e91967.png)
+![Deferred Accounting Settings](../../../../../assets/c6ddf8e91967.png)
 
 [ Previous Page Deferred Accounting ](../../../deferred-accounting.md) [ Next Page Currency  ](../../../currency.md)
 

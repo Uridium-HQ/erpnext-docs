@@ -12,7 +12,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 **A Country list can be maintained in the system and an appropriate country can be tagged to different entities and transactions as per the need.**
 
-![Screenshot 2024-08-28 at 2.44.03 PM](https://docs.frappe.io/assets/73cda39410a9.png)
+![Screenshot 2024-08-28 at 2.44.03 PM](../../assets/73cda39410a9.png)
 
 ## **How to add a Country?**
 
@@ -26,7 +26,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 
 
-![Screenshot 2023-12-29 at 4.18.27 PM](https://docs.frappe.io/assets/f36cec276d35.png)
+![Screenshot 2023-12-29 at 4.18.27 PM](../../assets/f36cec276d35.png)
 
 [ Previous Page Company ](company-setup.md) [ Next Page System Settings ](system-settings.md)
 

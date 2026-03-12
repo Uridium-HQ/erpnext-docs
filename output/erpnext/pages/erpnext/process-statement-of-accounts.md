@@ -50,7 +50,7 @@ To access _Process Statement Of Accounts_ list you can either search in the navb
 
 
 
-![New Process Statement of Accounts](https://docs.frappe.io/assets/240d754c7cd3.png)
+![New Process Statement of Accounts](../../assets/240d754c7cd3.png)
 
   4. In the "Customers" section, you have an option to select customers in the child table and fetch their primary and billing emails.
 
@@ -61,7 +61,7 @@ To access _Process Statement Of Accounts_ list you can either search in the navb
 
 
 
-![Customer](https://docs.frappe.io/assets/b906a29e0a33.png)
+![Customer](../../assets/b906a29e0a33.png)
 
   5. In "Print Preferences" section you can select 2 things:
 
@@ -71,13 +71,13 @@ To access _Process Statement Of Accounts_ list you can either search in the navb
 
 
 
-![Print Preference](https://docs.frappe.io/assets/263a37ac3bd4.png)
+![Print Preference](../../assets/263a37ac3bd4.png)
 
   6. The "Email Settings" section lets you configure how you want the emails to be sent. There are two subsections in this:
 
 
 
-![Email Settings](https://docs.frappe.io/assets/d4eb27c8c070.png)
+![Email Settings](../../assets/d4eb27c8c070.png)
 
   * On selecting "Enable Auto Email" you will see the options to send automated periodic reports to the customers in the entry.
   * You can select the "Frequency" at which the emails will be sent after the "Start Date" to the customers. The available options are weekly, monthly, and quarterly.
@@ -102,7 +102,7 @@ On creating an entry, there is a button seen at the top called "Download" which 
 
 On creating an entry, there is a button seen at the top called "Send Emails" which lets you trigger email sending manually to the customers. The emails are queued via a background job, which you can track in the "Email Queue" doctype with the DocType and Document references. You can do this even if "Enable Auto Email" is on.
 
-![Send Email and Download](https://docs.frappe.io/assets/931486f28ab1.png)
+![Send Email and Download](../../assets/931486f28ab1.png)
 
 ### 3.3 Using dynamic values in the Email Subject and Body
 
@@ -116,15 +116,15 @@ You can use Jinja tags to enter dynamic values from:
 
 They can be used as shown below:
 
-![Template](https://docs.frappe.io/assets/9425b97590d9.png)
+![Template](../../assets/9425b97590d9.png)
 
 Resulting Email:
 
-![Email](https://docs.frappe.io/assets/37ea1ee2e0ed.png)
+![Email](../../assets/37ea1ee2e0ed.png)
 
 Report PDF:
 
-![Report](https://docs.frappe.io/assets/1f9a8a38fb71.png)
+![Report](../../assets/1f9a8a38fb71.png)
 
 ## 4\. Related Topics
 

@@ -65,7 +65,7 @@ To access the Lead list, go to:
 
 
 
-![Lead](https://docs.frappe.io/assets/c158dcb67135.png)
+![Lead](../../assets/c158dcb67135.png)
 
 You can also record the details of the conversation in the NOTES section.
 
@@ -89,7 +89,7 @@ It is important to reach out to leads from time to time and build the relationsh
 
 In Busines-to-business(B2B) scenario, in order to close a sales deal, you will have to contact multiple people working in the prospective company. You can add the details of all such people in the same lead. Once you save a Lead, you will get the option to add [Contact](contact.md) details by clicking on 'New Contact' button. Similarly, you can add the [Address](address.md) details by clicking on 'New Address'.
 
-![Multiple Contacts and Addresses in Lead](https://docs.frappe.io/assets/c22a1b3c48f9.png)
+![Multiple Contacts and Addresses in Lead](../../assets/c22a1b3c48f9.png)
 
 ### 2.3 Recording Comments, Emails and Events
 
@@ -109,7 +109,7 @@ You can create an Opportunity, Customer or a Quotation from the Make dropdown. R
 
 You can define [Assignment Rules](https://docs.frappe.io/erpnext/assignment-rule) to automatically assign the leads to sales executives.
 
-![Lead Assignment Rule](https://docs.frappe.io/assets/f8525ad25eb6.png)
+![Lead Assignment Rule](../../assets/f8525ad25eb6.png)
 
   3. Adding Custom Fields
 

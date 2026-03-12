@@ -36,7 +36,7 @@ To access the Share Transfer list, go to:
 
 
 
-![Share Transfer](https://docs.frappe.io/assets/bde742b067da.png)
+![Share Transfer](../../assets/bde742b067da.png)
 
 After submitting, a Journal Entry can be created to update the ledger using the **Create Journal Entry** button.
 

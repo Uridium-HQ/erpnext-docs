@@ -16,7 +16,7 @@ Sales Invoice is an accounting transaction. On submission of Sales Invoice, the 
 
 To access the Sales Invoice list, go to: > Home > Accounting > Accounts Receivable > Sales Invoice
 
-![SO Flow](https://docs.frappe.io/assets/a75f83ced82c.png)
+![SO Flow](../../assets/a75f83ced82c.png)
 
 ## Prerequisites
 

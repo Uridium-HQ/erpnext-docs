@@ -56,9 +56,9 @@ A Production Plan can also be created manually where you can select the Items to
 
 
 
-![Production Plan fetch items](https://docs.frappe.io/assets/0cf4140bc1ef.png) 2\. Click on Get Sales Orders to fetch sales orders based on the above filters.
+![Production Plan fetch items](../../assets/0cf4140bc1ef.png) 2\. Click on Get Sales Orders to fetch sales orders based on the above filters.
 
-![Sales Order Filters](https://docs.frappe.io/assets/e878508d9604.png) 3\. Click on 'Get Items for Work Order' to fetch the items from the above Sales Orders. Items only for which a BOM is present will be fetched. ![Get items for Production Plan](https://docs.frappe.io/assets/fd9e3eac3738.png) 4\. On expanding a row in the Items to Manufacture table, you'll see an option to 'Include Exploded Items'. Ticking this includes raw materials of the sub-assembly items in the production process. 5\. If "Consolidate Items" is ticked and saved, items with the same BOM are combined into a single item with the combined total planned quantity. ![Get items Combined for Production Plan](https://docs.frappe.io/assets/88ea059b2087.png)
+![Sales Order Filters](../../assets/e878508d9604.png) 3\. Click on 'Get Items for Work Order' to fetch the items from the above Sales Orders. Items only for which a BOM is present will be fetched. ![Get items for Production Plan](../../assets/fd9e3eac3738.png) 4\. On expanding a row in the Items to Manufacture table, you'll see an option to 'Include Exploded Items'. Ticking this includes raw materials of the sub-assembly items in the production process. 5\. If "Consolidate Items" is ticked and saved, items with the same BOM are combined into a single item with the combined total planned quantity. ![Get items Combined for Production Plan](../../assets/88ea059b2087.png)
 
 ### 2.2 Production Against Material Requests
 
@@ -66,15 +66,15 @@ A Production Plan can also be created manually where you can select the Items to
 
 
 
-![Material Request Filters](https://docs.frappe.io/assets/dfdbd43bdd65.png) 2\. Click on 'Get Material Request' to fetch material requests based on the above filters.
+![Material Request Filters](../../assets/dfdbd43bdd65.png) 2\. Click on 'Get Material Request' to fetch material requests based on the above filters.
 
-![Material Requests](https://docs.frappe.io/assets/8161deaa73e7.png) 3\. Click on Get Items for Work Order to fetch the items from the above material requests.
+![Material Requests](../../assets/8161deaa73e7.png) 3\. Click on Get Items for Work Order to fetch the items from the above material requests.
 
-![Material Request Item](https://docs.frappe.io/assets/9bcfa60bbfbf.png)
+![Material Request Item](../../assets/9bcfa60bbfbf.png)
 
 ### 2.3 Fetching Sub Assembly Items
 
-Clicking on 'Get Sub Assembly Items' will fetch Sub Assembly Items from the BOM of the Finished Good Items, in the table above. ![Get Sub Assembly Items](https://docs.frappe.io/assets/2f6b40306790.png)
+Clicking on 'Get Sub Assembly Items' will fetch Sub Assembly Items from the BOM of the Finished Good Items, in the table above. ![Get Sub Assembly Items](../../assets/2f6b40306790.png)
 
 #### 2.3.1 Sub Assembly Items
 
@@ -90,7 +90,7 @@ If user wants to make Material Request for their Sub-assembly items as well thei
 
 If there are Finished Goods that share the same Sub Assembly Item, the Sub Assembly Items can be combined. The criteria for combination would be to have the same Item, Warehouse, BOM and Manufacturing Type.
 
-![Combine Sub Assemby Items](https://docs.frappe.io/assets/9c52a449df72.png)
+![Combine Sub Assemby Items](../../assets/9c52a449df72.png)
 
 In this way a common Work Order can be made to bulk create Sub Assemblies for various Finished Goods.
 
@@ -158,7 +158,7 @@ Use the following checkboxes to perform certain actions:
 
 On click of "Download Material Request Plan" button the User will get the Excel sheet with the raw materials that are needed to complete this Production Plan. User can select the Warehouse to check the available quantity in the respective Warehouse. On click of "Download Material Request Plan" a popup will open to select warehouses. If user wants to Run plan for multiple warehouses then they can select those warehouses in the Popup to download the plan in the excel sheet format. Excel sheet will look similar to:
 
-![Material Request Plan](https://docs.frappe.io/assets/338c790d5fe1.png)
+![Material Request Plan](../../assets/338c790d5fe1.png)
 
 ### 2.5 After Submitting
 
@@ -177,7 +177,7 @@ There could be occurrences where a Production Plan is partially complete and is 
 
 In cases like these, Users can set the Production Plan status to **Closed** , so that no new Work Orders or Material Requests are created against it.
 
-![Closing a Production Plan](https://docs.frappe.io/assets/8f4c9388300a.gif)
+![Closing a Production Plan](../../assets/8f4c9388300a.gif)
 
 The same can be **Re-opened**.
 

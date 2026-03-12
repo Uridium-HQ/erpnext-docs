@@ -14,7 +14,7 @@ ERPNext allows you to configure various settings and configurations that help st
 
 ## Naming Series and Price Defaults
 
-![Screenshot 2024-08-29 at 1.23.09 PM](https://docs.frappe.io/assets/28697f14c493.png)
+![Screenshot 2024-08-29 at 1.23.09 PM](../../assets/28697f14c493.png)
 
 ### 1\. Supplier Naming By
 
@@ -47,7 +47,7 @@ This setting specifies which user roles have the permission to override the "Sto
 
 ## Transaction Settings
 
-![Screenshot 2024-08-29 at 1.24.53 PM](https://docs.frappe.io/assets/3f49c4b23ba6.png)
+![Screenshot 2024-08-29 at 1.24.53 PM](../../assets/3f49c4b23ba6.png)
 
 ### 1\. Is Purchase Order Required for Purchase Invoice & Receipt Creation?
 
@@ -125,7 +125,7 @@ While making Purchase Invoice from Purchase Order, use Exchange Rate on Invoice'
 
 ## Subcontracting Settings
 
-![Screenshot 2024-08-29 at 1.32.06 PM](https://docs.frappe.io/assets/8ccb598d29e6.png)
+![Screenshot 2024-08-29 at 1.32.06 PM](../../assets/8ccb598d29e6.png)
 
 ### 1\. Backflush Raw Materials of Subcontract Based On
 

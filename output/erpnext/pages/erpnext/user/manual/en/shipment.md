@@ -41,7 +41,7 @@ To create a Shipment manually, follow these steps:
 
 
 
-![Unsaved Shipment](https://docs.frappe.io/assets/94bcb09ac0c3.png)
+![Unsaved Shipment](../../../../../assets/94bcb09ac0c3.png)
 
   1. Select an option in the **Pickup from** field. On selecting one of the three options, you will be prompted to select a Company/Supplier/Customer based on your selection.
   2. If you select 'Company' in the **Pickup from** field, along with the Address you must also select a **Pickup Contact Person** who will be a user from your organization, in ERPNext. Make sure the Last Name, Email Address and Phone Number are set for this user.
@@ -55,7 +55,7 @@ To create a Shipment manually, follow these steps:
 
 
 
-![Submitted Shipment](https://docs.frappe.io/assets/2db80ff3de7c.png)
+![Submitted Shipment](../../../../../assets/2db80ff3de7c.png)
 
 ### 2.1. Shipment from Delivery Note
 
@@ -65,7 +65,7 @@ To create a Shipment from a Delivery Note:
 
 
 
-![Submitted Shipment](https://docs.frappe.io/assets/54d9bfd64f2a.png)
+![Submitted Shipment](../../../../../assets/54d9bfd64f2a.png)
 
   1. Fill the form as mentioned in the previous section.
 
@@ -79,7 +79,7 @@ You can specify the length, width, height and, weight of a parcel in the Shipmen
 
 To automatically fetch frequently used parcel dimensions, a Parcel Template can be created and set in the **Parcel Template** field. After adding the template, click on the **Add template** button.
 
-![Submitted Shipment](https://docs.frappe.io/assets/944cc95d0ab0.png)
+![Submitted Shipment](../../../../../assets/944cc95d0ab0.png)
 
 ### 3.2. Shipment Information / Details
 

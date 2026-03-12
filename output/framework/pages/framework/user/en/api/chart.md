@@ -57,7 +57,7 @@ The `label` key specifies the label to be appended in the Chart. The `points` ke
 
 This would produce a Chart like
 
-![RealtimeChart](https://docs.frappe.io/assets/68db90190cd7.png)
+![RealtimeChart](../../../../../assets/68db90190cd7.png)
 
 ### frappe.ui.RealtimeChart.start_updating
 
@@ -69,7 +69,7 @@ Start listening to the specified socket event and update the RealtimeChart accor
     
 [/code]
 
-![RealtimeChart](https://docs.frappe.io/assets/7b2a1202c69d.gif) _frappe.ui.RealtimeChart.start_updating_
+![RealtimeChart](../../../../../assets/7b2a1202c69d.gif) _frappe.ui.RealtimeChart.start_updating_
 
 ### frappe.ui.RealtimeChart.stop_updating
 

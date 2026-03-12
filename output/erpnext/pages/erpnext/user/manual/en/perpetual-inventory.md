@@ -99,11 +99,11 @@ Customs Duty | 150 | Valuation
   
 **Stock Ledger**
 
-![Perpetual Inventory](https://docs.frappe.io/assets/6a7d91a1322f.png)
+![Perpetual Inventory](../../../../../assets/6a7d91a1322f.png)
 
 **General Ledger**
 
-![Perpetual Inventory](https://docs.frappe.io/assets/a99c69e8fe12.png)
+![Perpetual Inventory](../../../../../assets/a99c69e8fe12.png)
 
 As stock balance increases through Purchase Receipt, "Store" accounts are debited and a temporary account "Stock Receipt But Not Billed" account is credited, to maintain double-entry accounting system. At the same time, the negative expense is booked in account head having category as "Valuation" or "Total and Valuation" in taxes and charges table for the amount added for valuation purpose, to avoid double expense booking.
 
@@ -113,7 +113,7 @@ On receiving Bill from supplier, for the above Purchase Receipt, you will make P
 
 **General Ledger**
 
-![Perpetual Inventory](https://docs.frappe.io/assets/2d1a9ad44a6b.png)
+![Perpetual Inventory](../../../../../assets/2d1a9ad44a6b.png)
 
 Here "Stock Received But Not Billed" account is debited and nullified the  
 effect of Purchase Receipt.
@@ -139,11 +139,11 @@ VAT | 100
   
 **Stock Ledger**
 
-![Perpetual Inventory](https://docs.frappe.io/assets/928e4e774bb4.png)
+![Perpetual Inventory](../../../../../assets/928e4e774bb4.png)
 
 **General Ledger**
 
-![Perpetual Inventory](https://docs.frappe.io/assets/4afd4e45cf6a.png)
+![Perpetual Inventory](../../../../../assets/4afd4e45cf6a.png)
 
 As an item is delivered from "Stores" warehouse, "Stores" account is credited and  
 an equal amount is debited to the expense account "Cost of Goods Sold". The  
@@ -163,11 +163,11 @@ of the Sales Invoice are same as the above Delivery Note.
 
 **Stock Ledger**
 
-![Perpetual Inventory](https://docs.frappe.io/assets/5c49f8eda6c7.png)
+![Perpetual Inventory](../../../../../assets/5c49f8eda6c7.png)
 
 **General Ledger**
 
-![Perpetual Inventory](https://docs.frappe.io/assets/54c551daa162.png)
+![Perpetual Inventory](../../../../../assets/54c551daa162.png)
 
 Here, apart from normal account entries for an invoice, "Stores" and "Cost of  
 Goods Sold" accounts are also affected based on the valuation amount.
@@ -182,11 +182,11 @@ RM0001 | Stores | 50 | 220 | 11000
   
 **Stock Ledger**
 
-![Perpetual Inventory](https://docs.frappe.io/assets/89ad174d8cb8.png)
+![Perpetual Inventory](../../../../../assets/89ad174d8cb8.png)
 
 **General Ledger**
 
-![Perpetual Inventory](https://docs.frappe.io/assets/0c1e2e1ae5d6.png)
+![Perpetual Inventory](../../../../../assets/0c1e2e1ae5d6.png)
 
 #### 2.7 Stock Entry (Material Issue)
 
@@ -198,11 +198,11 @@ RM0001 | Stores | 10 | 220 | 2200
   
 **Stock Ledger**
 
-![Perpetual Inventory](https://docs.frappe.io/assets/a48ef3c697fa.png)
+![Perpetual Inventory](../../../../../assets/a48ef3c697fa.png)
 
 **General Ledger**
 
-![Perpetual Inventory](https://docs.frappe.io/assets/8ab15705af67.png)
+![Perpetual Inventory](../../../../../assets/8ab15705af67.png)
 
 #### 2.8 Stock Entry (Material Transfer)
 
@@ -214,11 +214,11 @@ RM0001 | Stores | Work In Progress | 10 | 220 | 2200
   
 **Stock Ledger**
 
-![Perpetual Inventory](https://docs.frappe.io/assets/f6fbd788ce65.png)
+![Perpetual Inventory](../../../../../assets/f6fbd788ce65.png)
 
 **General Ledger**
 
-![Perpetual Inventory](https://docs.frappe.io/assets/2856c63d118f.png)
+![Perpetual Inventory](../../../../../assets/2856c63d118f.png)
 
 #### 3\. Related Topics
 

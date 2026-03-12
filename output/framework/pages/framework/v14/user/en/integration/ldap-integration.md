@@ -191,7 +191,7 @@ No | LDAP Group | Role
 
 After setting up and enabling LDAP, on the login screen, the system enables **Login Via LDAP** option.
 
-![Log into frappe](https://docs.frappe.io/assets/5c511d4a15e5.png) _Figure 1. Frappe app login screen when LDAP has been configured and enabled._
+![Log into frappe](../../../../../../assets/5c511d4a15e5.png) _Figure 1. Frappe app login screen when LDAP has been configured and enabled._
 
 ## 3\. Troubleshooting
 

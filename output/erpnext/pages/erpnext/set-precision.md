@@ -18,11 +18,11 @@ To change the precision globally, go to:
 
 > Home > Settings > System Settings
 
-![Global Precision](https://docs.frappe.io/assets/05c63aa13bb5.png)
+![Global Precision](../../assets/05c63aa13bb5.png)
 
 Alternatively, you can also set field specific precision. To do that go to [Customize Form](customize-form.md) and select the DocType there. Then go to the specific field row and change precision. Precision field is only visible if field-type is one of the Float, Currency and Percent.
 
-![Field-wise Precision](https://docs.frappe.io/assets/9e7a8b0da21c.png)
+![Field-wise Precision](../../assets/9e7a8b0da21c.png)
 
 [ Previous Page Set Language ](https://docs.frappe.io/erpnext/set-language) [ Next Page Show or Hide Modules  ](show-hide-modules.md)
 

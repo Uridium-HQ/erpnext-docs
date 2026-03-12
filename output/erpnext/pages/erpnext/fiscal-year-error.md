@@ -28,13 +28,13 @@ Read [Fiscal Year](fiscal-year.md) to learn more.
 
 After Fiscal Year is saved, you will find option to set that Fiscal year as Default.
 
-![Set Fiscal Year as Default](https://docs.frappe.io/assets/6a9f21400ab1.png)
+![Set Fiscal Year as Default](../../assets/6a9f21400ab1.png)
 
 Default Fiscal Year will be updated in the Global Default setting as well. You can manually update Default Fiscal Year from:
 
 `Settings > Core > Global Default`
 
-![Current Fiscal Year Setting in Global Defaults](https://docs.frappe.io/assets/b17ec02728b2.png)
+![Current Fiscal Year Setting in Global Defaults](../../assets/b17ec02728b2.png)
 
 Save Global Default, and Reload your ERPNext account. Then, default Fiscal Year will be auto-updated in your transactions.
 

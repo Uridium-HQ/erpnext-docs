@@ -25,19 +25,19 @@ To access Terms and Conditions template go to:
 
 
 
-![Terms and Conditions](https://docs.frappe.io/assets/1de118dd4a2a.png)
+![Terms and Conditions](../../assets/1de118dd4a2a.png)
 
 ### 1.1. Select in Transaction
 
 In transactions, you will find a section of Terms and Conditions where you will be able to search and fetch the required Terms and Condition master.
 
-![Terms and Conditions, Select in document](https://docs.frappe.io/assets/f1a044efac3a.png)
+![Terms and Conditions, Select in document](../../assets/f1a044efac3a.png)
 
 ### 1.2 Terms and Conditions when printing
 
 Once the Terms and Conditions are set in a Sales/Purchase transaction, it will appear when printing:
 
-![Terms and Conditions in print](https://docs.frappe.io/assets/4050f5000b17.png)
+![Terms and Conditions in print](../../assets/4050f5000b17.png)
 
 ### 1.3 What should Terms and Conditions contain?
 

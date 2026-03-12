@@ -16,7 +16,7 @@ ERPNext is business management software that helps companies stay on top of thei
 
 Most ERPs are clunky, expensive, and a headache to customize. ERPNext is different. It is open-source, cloud-ready, and built to be flexible. You get the power of an enterprise system without the usual complications.
 
-![ERPNext](https://docs.frappe.io/assets/baf441869daf.png)
+![ERPNext](../../assets/baf441869daf.png)
 
 ## Why ERPNext?
 

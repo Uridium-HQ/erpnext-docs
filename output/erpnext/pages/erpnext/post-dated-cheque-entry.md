@@ -24,7 +24,7 @@ To open new journal voucher go to:
 
 Assuming your Cheque Date is 31st December, 2016 (or any future date). As a result, this posting in your bank ledger will appear on Posting Date updated.
 
-![Screenshot 2024-07-30 at 12.33.43 PM](https://docs.frappe.io/assets/efdd1cfde018.png)
+![Screenshot 2024-07-30 at 12.33.43 PM](../../assets/efdd1cfde018.png)
 
 Note: Payment Entry Reference Date should equal to or less than Posting Date.
 

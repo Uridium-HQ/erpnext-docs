@@ -48,7 +48,7 @@ Before creating and using a Product Bundle, it is advised that you create the fo
 
 
 
-![Screenshot 2024-08-29 at 11.41.56 AM](https://docs.frappe.io/assets/05ae22f2a72b.png)
+![Screenshot 2024-08-29 at 11.41.56 AM](../../assets/05ae22f2a72b.png)
 
 ### 2.1 Selecting Parent Item
 
@@ -72,11 +72,11 @@ In the Items table, you have to list all the child items for which we maintain s
 
 When making Sales transactions (Sales Invoice, Sales Order, Delivery Note) the Parent Item will be selected in the main item table.
 
-![Screenshot 2024-08-29 at 11.42.41 AM](https://docs.frappe.io/assets/20a1348366ca.png)
+![Screenshot 2024-08-29 at 11.42.41 AM](../../assets/20a1348366ca.png)
 
 On selection of a Parent Item in the main item table, its child items will be fetched in Packing List table of the transaction. If child item is the serialized item, you will be able to specify its Serial No. in packing List table itself. On submission of the transaction, the system will reduce the stock level of child items from warehouse specified in Packing List table.
 
-![Screenshot 2024-08-29 at 11.44.47 AM](https://docs.frappe.io/assets/189ea340ece7.png)
+![Screenshot 2024-08-29 at 11.44.47 AM](../../assets/189ea340ece7.png)
 
 **Use Product Bundle to Manage Offers/Schemes:**  
 This was discovered when a customer dealing into nutrition products asked for a feature to manage offers like "Buy One Get One Free".

@@ -12,7 +12,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 Web Forms are a powerful way to add forms to your website. Web forms are powerful and scriptable and from Version 7.1+ they also include tables, paging and other utilities
 
-![Web Form](https://docs.frappe.io/assets/0d736e72df51.png)
+![Web Form](../../../../../../../assets/0d736e72df51.png)
 
 ### Standard Web Forms
 

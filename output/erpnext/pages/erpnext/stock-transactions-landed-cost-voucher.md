@@ -55,13 +55,13 @@ We will then use the **Landed Cost Voucher** to decrease the costs recorded thro
 
 
 
-![Landed Cost Voucher](https://docs.frappe.io/assets/9f25f68485c3.png)
+![Landed Cost Voucher](../../assets/9f25f68485c3.png)
 
 In the document, you can select multiple Purchase Receipts/Invoices and fetch all items from those Purchase Receipts. Then you should add applicable charges in “Taxes and Charges” table. You can easily delete an item if the added charges do not apply to that item.
 
 The added charges are proportionately distributed among all the items based their amount or quantity. If you selected based on the amount, the Item with the highest amount will be allocated the highest proportion of the charges. In case of quantity, Item with the highest quantity will be allocated most of the charges and the other Items will be allocated lesser amounts. This is shown in the following screenshot:
 
-![Landed Cost Voucher](https://docs.frappe.io/assets/733154e41c3d.png)
+![Landed Cost Voucher](../../assets/733154e41c3d.png)
 
   3. Related Actions
 

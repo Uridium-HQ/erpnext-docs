@@ -29,11 +29,11 @@ To access Web Page go to:
 
 
 
-![New Web Page](https://docs.frappe.io/assets/da80174f2809.png) _New Web Page_
+![New Web Page](../../assets/da80174f2809.png) _New Web Page_
 
 View your Web Page by clicking on **See on Website** in the side bar.
 
-![Web Page](https://docs.frappe.io/assets/d46000ef7d71.png) _Web Page_
+![Web Page](../../assets/d46000ef7d71.png) _Web Page_
 
 ### 1.1 Tips on making a good Web Page
 
@@ -51,7 +51,7 @@ You can write your content in Rich Text, Markdown or HTML. If you want to make s
 
 For Rich Text Content, you can directly embed images using the editor. For Markdown and HTML, you must attach the images to the document first. Now get the URL of your image by right-clicking on your attachment and copying the address.
 
-![Image Link](https://docs.frappe.io/assets/ecee2ecc2b1b.png)
+![Image Link](../../assets/ecee2ecc2b1b.png)
 
 Now, add them to your Markdown or HTML using the appropriate syntax.
 [code] 
@@ -99,39 +99,39 @@ You can add CSS styling to your Web Page in the **Style** section. Inspect the e
 
 You can add a Website Sidebar with custom links on your Web Page. In the **Sidebar and Comments** section enable **Show Sidebar**. Select an existing Website Sidebar or create a new one.
 
-![Web Page Sidebar](https://docs.frappe.io/assets/43ff0fea354d.png) _Web Page Sidebar_
+![Web Page Sidebar](../../assets/43ff0fea354d.png) _Web Page Sidebar_
 
-Add links and their route in the Sidebar Items table. ![Website Sidebar](https://docs.frappe.io/assets/287d4c76932e.png) _Website Sidebar_
+Add links and their route in the Sidebar Items table. ![Website Sidebar](../../assets/287d4c76932e.png) _Website Sidebar_
 
-![Web Page with Sidebar](https://docs.frappe.io/assets/854af8d839b8.png) _Web Page with Sidebar_
+![Web Page with Sidebar](../../assets/854af8d839b8.png) _Web Page with Sidebar_
 
 ### 2.5 Comments
 
 You can enable comments on your Web Page where people can leave a comment with their Name and Email. Enable comments from the **Sidebar and Comments** section.
 
-![Web Page Comments](https://docs.frappe.io/assets/f55201be33db.gif) _Web Page Comments_
+![Web Page Comments](../../assets/f55201be33db.gif) _Web Page Comments_
 
 ### 2.6 Header
 
 You can add a custom HTML for the header section of the page. This will override the title of the Web Page.
 
-![Web Page Header](https://docs.frappe.io/assets/21ef3071f9a9.png) _Web Page Header_
+![Web Page Header](../../assets/21ef3071f9a9.png) _Web Page Header_
 
-![Web Page with Custom Header](https://docs.frappe.io/assets/3b9eef25707b.png) _Web Page with Custom Header_
+![Web Page with Custom Header](../../assets/3b9eef25707b.png) _Web Page with Custom Header_
 
 ### 2.7 Breadcrumbs
 
 You can add a list of breadcrumbs on your Web Page. These will be shown on top before the header.
 
-![Web Page Breadcrumbs](https://docs.frappe.io/assets/89663d233833.png) _Web Page Breadcrumbs_
+![Web Page Breadcrumbs](../../assets/89663d233833.png) _Web Page Breadcrumbs_
 
-![Web Page with Breadcrumbs](https://docs.frappe.io/assets/84c41c7db634.png) _Web Page with Breadcrumbs_
+![Web Page with Breadcrumbs](../../assets/84c41c7db634.png) _Web Page with Breadcrumbs_
 
 ### 2.8 Meta Tags
 
 You can also add Meta Tags to your Web Page. You must add the property key and its value in the Meta Tag Table and it will auto-generate HTML `meta` tags on your Web Page.
 
-![Web Page Meta Tags](https://docs.frappe.io/assets/2cebb01c481e.gif) _Web Page Meta Tags_
+![Web Page Meta Tags](../../assets/2cebb01c481e.gif) _Web Page Meta Tags_
 
 [ Previous Page Website Components ](website-components.md) [ Next Page Web Page Builder  ](web-page-builder.md)
 

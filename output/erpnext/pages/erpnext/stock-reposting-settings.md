@@ -10,7 +10,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about this page
 
-![Screenshot 2024-04-24 at 12.54.08 PM](https://docs.frappe.io/assets/4d0bd251b517.png)
+![Screenshot 2024-04-24 at 12.54.08 PM](../../assets/4d0bd251b517.png)
 
 ### **Limit timeslot for Stock Reposting**
 
@@ -34,7 +34,7 @@ If reposting fails due to any issues, the system sends emails to the system mana
 
 ### **Enable Parallel Reposting**
 
-![Screenshot 2025 12 10 at 5.54.21 PM](https://docs.frappe.io/assets/f411830f9d58.png)
+![Screenshot 2025 12 10 at 5.54.21 PM](../../assets/f411830f9d58.png)
 
 Allows the system to use multiple background workers to repost stock entries in parallel per item. This setting is effective only when Item-Based Reposting is enabled.
 

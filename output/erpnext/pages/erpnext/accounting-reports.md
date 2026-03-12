@@ -26,7 +26,7 @@ The General Ledger is a detailed report for all transactions posted to each acco
 
 The report is based on the table GL Entry and can be filtered by many pre-defined filters like Account, Cost Centers, Party, Project and Period etc. This helps you to get a full update for all entries posted in a period against any account. The result can be grouped by Account, Voucher/Transaction and Party with opening and closing balances for each group. In case of multi-currency accounting, there is also an option to check the amounts in any other currency than company's base currency.
 
-![General Ledger](https://docs.frappe.io/assets/6895a3d8fc1c.png)
+![General Ledger](../../assets/6895a3d8fc1c.png)
 
   2. Accounting Statements
 
@@ -40,7 +40,7 @@ Go to: **Accounts > Accounting Statements > Accounts Receivable**.
 
 These reports help you to track the outstanding amount of Customers and Suppliers. It also provides ageing analysis i.e. a break-up of outstanding amount based on the period for which the amount is outstanding.
 
-![Accounts Receivable](https://docs.frappe.io/assets/829da8dc39c3.png)
+![Accounts Receivable](../../assets/829da8dc39c3.png)
 
 #### 2.1.1 Accounts Receivables based on Payment terms
 
@@ -48,11 +48,11 @@ You can also see Accounts Receivables based on [Payment Terms](payment-terms.md)
 
 Accounts Receivable report based on payment terms can be seen by clicking the checkbox 'Based On Payment Terms' as shown in the following screenshot.
 
-![Accounts Receivable Based on Payment Terms](https://docs.frappe.io/assets/5a8a68fa64ff.png)
+![Accounts Receivable Based on Payment Terms](../../assets/5a8a68fa64ff.png)
 
 Outstanding amount against each payment term can be seen. **Invoiced Amount** shows each payment term amount and **Paid Amount** shows paid amount against each payment term. Payment against each term is allocated in FIFO order.
 
-![Accounts Receivable](https://docs.frappe.io/assets/fbf65a533101.png)
+![Accounts Receivable](../../assets/fbf65a533101.png)
 [code] 
     ![](https://docs.frappe.io/erpnext/v13/assets/img/accounts/)
       
@@ -81,7 +81,7 @@ A Trial Balance is an accounting report which lists account balances for all you
 
 There are some other options as well to include or exclude Period Closing Entries, show / hide accounts with zero balance and to show unclosed previous fiscal year's P&L (Income & Expenses) balances. All the figures in the report are shown in company's base currency.
 
-![Trial Balance](https://docs.frappe.io/assets/33f7d376ac84.png)
+![Trial Balance](../../assets/33f7d376ac84.png)
 
 ### 2.3 Balance Sheet
 
@@ -91,7 +91,7 @@ A Balance Sheet is the financial statement of a company which states assets, lia
 
 The Balance Sheet in ERPNext gives you more flexibility to analyse your financial position. You can run the report across multiple year to compare values. You can check values for a specific Finance Book or Cost Center. You can also choose any other currency to display the balances.
 
-![Balance Sheet](https://docs.frappe.io/assets/62e4215c6094.png)
+![Balance Sheet](../../assets/62e4215c6094.png)
 
 ### 2.4 Cash Flow Statement
 
@@ -99,7 +99,7 @@ Go to: **Accounts > Accounting Statements > Cash Flow**.
 
 A Cash Flow is a financial statement which shows the incoming and outgoing of cash or cash-equivalents for a company. It is used to analyse the liquidity position of the company.
 
-![Cash Flow](https://docs.frappe.io/assets/3140a4ed272c.png)
+![Cash Flow](../../assets/3140a4ed272c.png)
 
 ### 2.5 Profit and Loss Statement
 
@@ -109,7 +109,7 @@ A Profit and Loss Statement is a financial statement which summarizes all the re
 
 In ERPNext, you can run the report across multiple year / period to compare the values. You can also check values for a specific Finance Book, Project or Cost Center. You can also choose any other currency to display the balances. If you are running the report to see quarterly / monthly balances, you can choose whether you want to show accumulated balances or only for each period.
 
-![Profit and Loss Report](https://docs.frappe.io/assets/12b71b0f9f0e.png)
+![Profit and Loss Report](../../assets/12b71b0f9f0e.png)
 
 ### 2.6 Consolidated Financial Statements
 
@@ -117,7 +117,7 @@ Go to: **Accounts > Accounting Statements > Consolidated Financial Statement**.
 
 The report shows a consolidated view of Balance Sheet, Profit and Loss Statement and Cash Flow for a group company, by merging financial statements of all the subsidary companies. It shows balances for all individual company and as well as accumulated balances for a group company.
 
-![Consolidated Financial Statements](https://docs.frappe.io/assets/f7212438b1f2.png)
+![Consolidated Financial Statements](../../assets/f7212438b1f2.png)
 
 ### 2.7 Financial Ratios Report
 
@@ -151,9 +151,9 @@ Requires 2 types of accounts:
 
 
 
-![](https://docs.frappe.io/assets/697f36d429c4.png) 2\. Current Liability(e.g)
+![](../../assets/697f36d429c4.png) 2\. Current Liability(e.g)
 
-![](https://docs.frappe.io/assets/6635ed43cc8d.png)
+![](../../assets/6635ed43cc8d.png)
 
 As soon as you will set your account types for the relevant account in your “Chart of Accounts”, both Current Ratio and Quick Ratio will show the correct value.
 
@@ -173,7 +173,7 @@ Consists of:
 
 For Gross Profit Ratio and Net Profit Ratio to show the correct data we need to add the relevant account type to “Direct Income” (as direct income is treated as Net Sales). (e.g.)
 
-![](https://docs.frappe.io/assets/f2f49d1cf8dd.png)
+![](../../assets/f2f49d1cf8dd.png)
 
 ### 2.7.3 Turnover Ratios
 
@@ -203,7 +203,7 @@ Go to: **Accounts > Taxes > Sales Register _or_ Purchase Register**.
 
 The Sales and Purchase Register report shows all the Sales and Purchase transactions for a given period with invoiced amount and tax details. In this report, each taxes has a separate column, so you can easily get total taxes collected / paid for a period for each individual tax type, which helps to pay the taxes to government.
 
-![Sales Register](https://docs.frappe.io/assets/609c38c69874.png)
+![Sales Register](../../assets/609c38c69874.png)
 
   4. Budget and Cost Center
 
@@ -217,7 +217,7 @@ Go to: **Accounts > Budget and Cost Center > Budget Variance Report**.
 
 In ERPNext, you can assign expense budget for an expense account against any specific cost center. This report gives a comparison between budgeted and actual expenses and the variance (the difference between the two) in monthly / quarterly / yearly view.
 
-![Budget Variance](https://docs.frappe.io/assets/36c6deb1c19d.png)
+![Budget Variance](../../assets/36c6deb1c19d.png)
 
   5. Tax reports for India
 
@@ -231,7 +231,7 @@ Go to: **Accounts > Goods and Services Tax (GST India) > GSTR-1**.
 
 The GSTR-1 report helps Indian users to file monthly return of outward supplies. This report shows all the sales transactions of the company in Govt specified format. The output of the report is changed based on the selected type of business (B2B, B2C Large, B2C Small, CDNR and Export).
 
-![GSTR-1](https://docs.frappe.io/assets/2eaf3fa00f01.png)
+![GSTR-1](../../assets/2eaf3fa00f01.png)
 
 ### 5.2 GSTR-2 (India)
 
@@ -239,7 +239,7 @@ Go to: **Accounts > Goods and Services Tax (GST India) > GSTR-2**.
 
 The GSTR-2 report helps Indian users to file monthly return of inward supplies. The report gives the details of all inward supplies of goods or services received during a month, in Govt specified format.
 
-![GSTR-2](https://docs.frappe.io/assets/c23d09b3ad73.png)
+![GSTR-2](../../assets/c23d09b3ad73.png)
 
   6. Analytics
 
@@ -253,11 +253,11 @@ Go to: **Accounts > Analytics > Item-wise Sales Register _or_ Item-wise Purchase
 
 The Item Wise Sales and Purchase Register report shows all the Sales and Purchase transactions for a given period with item rate, quantity, amount and tax details. In this report, taxes has a separate column, so you can easily get individual taxes for each individual item. From this report you can have a look of which items are sold or purchase most.
 
-![Item Wise Sales Register](https://docs.frappe.io/assets/05160b2a257f.png)
+![Item Wise Sales Register](../../assets/05160b2a257f.png)
 
 More detailed analysis can also be done by using the 'Group By' filter which gives sales data for a specific Customer, Supplier, Territory, etc. You can find out which Item is more popular in which region or which Customer is buying which Item more.
 
-![Group By Sales Register](https://docs.frappe.io/assets/a65878e7ae97.png)
+![Group By Sales Register](../../assets/a65878e7ae97.png)
 
 ### 6.2 Sales or Purchase Invoice Trends
 
@@ -265,7 +265,7 @@ Go to: **Accounts > Analytics > Sales Invoice Trends _or_ Purchase Invoice Trend
 
 Another very useful report is invoice trends, From this report you can easily get the trending items on monthly, quaterly, half yearly or yearly basis. You will get the idea of sales and purchase both in quantity and amount.
 
-![Sales Invoice Trends](https://docs.frappe.io/assets/0016bad8d1e7.png)
+![Sales Invoice Trends](../../assets/0016bad8d1e7.png)
 
   7. To Bill
 
@@ -289,13 +289,13 @@ Another very useful report is invoice trends, From this report you can easily ge
 
 Go to: **Accounts > Other Reports > Trial Balance for Party**. Usually you might need to see the trial balance for your customesrs and suppliers. You can easily get for all of your customers or suppliers and also for individual.
 
-![Trial Balance for Party](https://docs.frappe.io/assets/a006291e02ea.png)
+![Trial Balance for Party](../../assets/a006291e02ea.png)
 
 ### 8.2 Customer Credit Balance
 
 The report shows the credit limit, outstanding and credit balance for each customer.
 
-![Customer Credit Balance](https://docs.frappe.io/assets/86e7af122b42.png)
+![Customer Credit Balance](../../assets/86e7af122b42.png)
 
 [ Previous Page Period Closing Voucher  ](period-closing-voucher.md) [ Next Page General Ledger ](general-ledger.md)
 

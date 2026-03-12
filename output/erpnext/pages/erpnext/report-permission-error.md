@@ -12,7 +12,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 **Question:** User has roles like Account User and Account Manager assigned. Still, when accessing Account Receivable report, User is getting an error message of no permission the territory master.
 
-![Screenshot 2024-06-21 at 2.31.40 PM](https://docs.frappe.io/assets/1d2105cc88b5.png)
+![Screenshot 2024-06-21 at 2.31.40 PM](../../assets/1d2105cc88b5.png)
 
 **Answer:**
 
@@ -24,7 +24,7 @@ As per the permission system in ERPNext, for the User to be able to access a for
 
 
 
-![Screenshot 2024-06-21 at 2.26.27 PM](https://docs.frappe.io/assets/b8a715d9c191.png)
+![Screenshot 2024-06-21 at 2.26.27 PM](../../assets/b8a715d9c191.png)
 
 As per this permission update, User should be able to access Account Receivable report fine.
 

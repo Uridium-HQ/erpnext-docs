@@ -22,7 +22,7 @@ Below are the steps to insert Custom Dynamic Field. For instance, we will insert
 
 First, we will create a link field that will be linked to the DocType.
 
-![Custom Link Field](https://docs.frappe.io/assets/7a1da50a6d05.gif)
+![Custom Link Field](../../assets/7a1da50a6d05.gif)
 
 By **DocType** mentioned in the Option field, we mean parent DocType. So, just like Quotation is one DocType, which has multiple Quotation under it. Same way, DocType is also a DocType which has Sales Order, Purchase Order and other doctypes created as DocType records.
 
@@ -44,17 +44,17 @@ By **DocType** mentioned in the Option field, we mean parent DocType. So, just l
 
 So linking this field with parent DocType will list all the DocType records.
 
-![journal Voucher Link Field](https://docs.frappe.io/assets/63ad39910d2c.png)
+![journal Voucher Link Field](../../assets/63ad39910d2c.png)
 
 #### Step 2: Insert Dynamic Link Field
 
 This custom field's type will be "Dynamic Link". In the Option field, the name of the Doctype link field will be mentioned.
 
-![Custom Dynamic Field](https://docs.frappe.io/assets/046099c47372.gif)
+![Custom Dynamic Field](../../assets/046099c47372.gif)
 
 This field will allow selecting document id, based on the value selected in the Doctype link field. For example, if we select Sales Order in the prior field, the Dynamic Link field will list all the Sales Orders ids.
 
-![Custom Dynamic Field](https://docs.frappe.io/assets/e28410432475.gif)
+![Custom Dynamic Field](../../assets/e28410432475.gif)
 
 **Customizing options in the Doctype Link field**
 

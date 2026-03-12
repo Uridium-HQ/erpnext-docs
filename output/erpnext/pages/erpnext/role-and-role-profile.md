@@ -33,7 +33,7 @@ To access Role, go to:
 
 You can add two factor authentication for the role and also restrict it to a specific domain. From here, you can go to the Roles Permission Manager and set permissions for the role across different DocTypes.
 
-![Permissions for new Role](https://docs.frappe.io/assets/76dd34ed62ce.png)
+![Permissions for new Role](../../assets/76dd34ed62ce.png)
 
 ## 2\. How to add a Role Profile
 

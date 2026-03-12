@@ -33,7 +33,7 @@ To access Print Format, go to:
 
 
 
-![Print Format menu](https://docs.frappe.io/assets/d2bb83dfaea1.png)
+![Print Format menu](../../assets/d2bb83dfaea1.png)
 
   1. Save.
 
@@ -49,13 +49,13 @@ If developer mode is enabled, you can select Standard as yes to contribute a pri
 
 Fields in the transactions and their child tables can be hidden/shown using Customize Form. For example, if you want to hide the 'Item Code' when printing a Quotation, click on the print icon to enter the print screen.
 
-Go to Menu > Customize, select Quotation Item in the 'Enter Form Type' field. ![Print Format Customize](https://docs.frappe.io/assets/223ac0f1dee7.png)
+Go to Menu > Customize, select Quotation Item in the 'Enter Form Type' field. ![Print Format Customize](../../assets/223ac0f1dee7.png)
 
 To know more, visit the [Customize Print Format](print-format.md) page.
 
-In the fields table, expand the 'Item Code' row, scroll down and tick the 'Print Hide' checkbox. ![Print Format Print Hide](https://docs.frappe.io/assets/388adea04ae1.png)
+In the fields table, expand the 'Item Code' row, scroll down and tick the 'Print Hide' checkbox. ![Print Format Print Hide](../../assets/388adea04ae1.png)
 
-A newly created Print Format can be selected on the print screen of a transaction. From there you can see how it looks and proceed to print. ![Selecting a Print Format](https://docs.frappe.io/assets/287593356be0.png)
+A newly created Print Format can be selected on the print screen of a transaction. From there you can see how it looks and proceed to print. ![Selecting a Print Format](../../assets/287593356be0.png)
 
 ## 2\. Video
 

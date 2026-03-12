@@ -18,7 +18,7 @@ You can set default settings for your stock related transactions from the Stock 
 
 * * *
 
-![Stock Settings](https://docs.frappe.io/assets/849f86923197.png)
+![Stock Settings](../../assets/849f86923197.png)
 
 By default, the Item Name is set as per the Item Code entered. If you want Items to be named by a set [Naming Series](naming-series.md) choose the 'Naming Series' option .
 
@@ -40,7 +40,7 @@ The default unit of measure for stock is set as numbers (Nos), it can be changed
 
 Set the default Warehouse from which the stock transactions are done. This will be fetched into the Default Warehouse in the Item master:
 
-![Stock Settings](https://docs.frappe.io/assets/f2c95ce5ebae.png)
+![Stock Settings](../../assets/f2c95ce5ebae.png)
 
 ### 2.4 Sample Retention Warehouse
 
@@ -92,7 +92,7 @@ If you want to control your description, views, and allow any HTML to be embedde
 
 * * *
 
-![Stock Settings](https://docs.frappe.io/assets/8019bdd128cb.png)
+![Stock Settings](../../assets/8019bdd128cb.png)
 
 ### 7.1 Auto insert Price List rate if missing
 
@@ -132,7 +132,7 @@ The quantity of items will be set according to the serial numbers. For example, 
 
 * * *
 
-![Stock Settings](https://docs.frappe.io/assets/4426a7c1e2c9.png)
+![Stock Settings](../../assets/4426a7c1e2c9.png)
 
 ### 10.1 Raise Material Request when the stock reaches re-order level
 
@@ -148,7 +148,7 @@ An email will be sent to notify the User with the role 'Purchase Manager' when a
 
 * * *
 
-![Delivery Note Material Transfer](https://docs.frappe.io/assets/3baf4196b637.png)
+![Delivery Note Material Transfer](../../assets/3baf4196b637.png)
 
 ### 11.1 Enable customer warehouse for material transfer from Delivery Note and Sales Invoice
 
@@ -168,7 +168,7 @@ To know more about inter warehouse material transfer via Delivery Note and Purch
 
 The User will not be allowed to make stock postings beyond this date.
 
-![Stock Settings](https://docs.frappe.io/assets/e4ff8832bcb5.png)
+![Stock Settings](../../assets/e4ff8832bcb5.png)
 
   * **Stock Frozen Upto** : A threshold date till which stocks will be frozen.
   * **Freeze Stocks Older Than [Days]** : Stocks older than x days will be frozen. This is calculated based on the creation date of the item.
@@ -191,7 +191,7 @@ Global setting for batches of stocks to be identified by a [Naming Series](namin
 
 Enable "Allow to Edit Stock UOM Qty for Sales Documents / Allow to Edit Stock UOM Qty for Purchase Documents" in the stock settings.
 
-![stock_settings_edit_stock_qty](https://docs.frappe.io/assets/18a0f8489fb7.png)
+![stock_settings_edit_stock_qty](../../assets/18a0f8489fb7.png)
 
 **Why to Edit Stock Qty / Qty as Per Stock UOM**
 
@@ -201,7 +201,7 @@ If you're using multi-uom and your stock uom is a whole number, then you might f
 
 User will set the Stock Quantity and system will calculate the conversion factor
 
-![stock_qty_editable](https://docs.frappe.io/assets/83f3b111faa4.gif)
+![stock_qty_editable](../../assets/83f3b111faa4.gif)
 
   15. Allow UOM with Conversion Rate Defined in Item
 
@@ -211,7 +211,7 @@ User will set the Stock Quantity and system will calculate the conversion factor
 
 If enabled, the system will allow selecting UOMs in sales and purchase transactions only if the conversion rate is set in the item master.
 
-![UOM Restriction](https://docs.frappe.io/assets/20f5dcc5298c.png)
+![UOM Restriction](../../assets/20f5dcc5298c.png)
 
 [ Previous Page Opening Stock ](opening-stock.md) [ Next Page Accounting Of Inventory Stock ](accounting-of-inventory-stock.md)
 

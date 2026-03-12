@@ -16,7 +16,7 @@ The system uses the **Email Address** supplied by these services to **match with
 
 #### Login screen with Social Logins enabled
 
-![Login screen with Social Logins enabled](https://docs.frappe.io/assets/9eac19fe106f.png)
+![Login screen with Social Logins enabled](../../../../../../../assets/9eac19fe106f.png)
 
 To enable these signups, you need to have **Client ID** and **Client Secret** from these authentication services for your Frappe site. The Client ID and Client Secret are to be set in **Desktop > Integration > Authentication > Social Login Key > Client ID** and **Desktop > Integration > Authentication > Social Login Key > Client Secret**. Here are the steps to obtain these credentials.
 

@@ -60,7 +60,7 @@ Update valuation rate, which will be per unit value of item. If different units 
 
 As per perpetual inventory valuation system, accounting entry is created for every stock transaction. Double entry accounting system requires Total Debit matching with Total Credit in an entry. On the submission of Stock Entry, system debits Warehouse account by total value of items. To balance the same, we use Temporary Opening account as a Difference Account.
 
-![Difference Account](https://docs.frappe.io/assets/53c19fe6d585.png)
+![Difference Account](../../assets/53c19fe6d585.png)
 
 #### Step 9: Save and Submit Stock Entry
 

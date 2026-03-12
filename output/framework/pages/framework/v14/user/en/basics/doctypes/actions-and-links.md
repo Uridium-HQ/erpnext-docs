@@ -14,7 +14,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 Action and Links (also called Connections) are two ways to provide the end user more interaction with the document. The image below shows what they are :
 
-![Action and Link View](https://docs.frappe.io/assets/a6a86a41c875.png)
+![Action and Link View](../../../../../../../assets/a6a86a41c875.png)
 
 ## Actions
 
@@ -27,7 +27,7 @@ A DocType may have some `DocType Action` that will result in a button creation o
 
 ### Configuration of Action
 
-![Action Configuraton](https://docs.frappe.io/assets/268fd4a83844.png)
+![Action Configuraton](../../../../../../../assets/268fd4a83844.png)
 
 ### Configuration of Action in custom app
 
@@ -50,7 +50,7 @@ This code should go somewhere inside you app, typically in a file like `apps/my_
 
 And then, configure the correspondant Action path :
 
-![Custom Action Configuraton](https://docs.frappe.io/assets/f28f7b205945.png)
+![Custom Action Configuraton](../../../../../../../assets/f28f7b205945.png)
 
 ## Connections (Linked Documents)
 
@@ -60,9 +60,9 @@ These links also support adding internal links (links to DocType in child tables
 
 ### Configuration Connections
 
-![Link Configuration](https://docs.frappe.io/assets/99d212626347.png)
+![Link Configuration](../../../../../../../assets/99d212626347.png)
 
-![Internal Link](https://docs.frappe.io/assets/1e8860ad70f8.png)
+![Internal Link](../../../../../../../assets/1e8860ad70f8.png)
 
 ### Customization of Actions and Links
 

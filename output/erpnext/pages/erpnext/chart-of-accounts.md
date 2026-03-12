@@ -50,7 +50,7 @@ ERPNext comes with a standard set Chart of Accounts. Instead of creating/modifyi
 
 Here you can open group accounts which contain other accounts. There are options to “Add Child” in an account, Edit or Delete the account.
 
-![Screenshot 2024-06-25 at 5.32.27 PM](https://docs.frappe.io/assets/9265b8730c13.png) 2\. The option to create a child account will only appear if you click on a Group (folder) type Account. 3\. Enter a name for the account. 4\. Enter a number for the account. 5\. Tick 'Is Group' if you want this to be a group account which can contain other accounts. 6\. Select the Account Type. Selecting this is important as some fields allow selecting only specific type of accounts. 7\. Change the currency if this account will be used for transactions with different currency. By default, it's the Company's currency. To know more, visit the [Multi Currency Accounting](multi-currency-accounting.md) page. 8\. Click on **Create New**.
+![Screenshot 2024-06-25 at 5.32.27 PM](../../assets/9265b8730c13.png) 2\. The option to create a child account will only appear if you click on a Group (folder) type Account. 3\. Enter a name for the account. 4\. Enter a number for the account. 5\. Tick 'Is Group' if you want this to be a group account which can contain other accounts. 6\. Select the Account Type. Selecting this is important as some fields allow selecting only specific type of accounts. 7\. Change the currency if this account will be used for transactions with different currency. By default, it's the Company's currency. To know more, visit the [Multi Currency Accounting](multi-currency-accounting.md) page. 8\. Click on **Create New**.
 
 Typically, you might want to create Accounts for:
 
@@ -61,7 +61,7 @@ Typically, you might want to create Accounts for:
 
 
 
-![Chart of Accounts](https://docs.frappe.io/assets/6ac310fc12aa.png)
+![Chart of Accounts](../../assets/6ac310fc12aa.png)
 
 > Tip: Accounts with different currencies are created when you receive or make payments to or from different currencies. For example if you are based in India and transact with USA, you may need to create accounts like 'Debtors US', 'Creditors US', etc.
 
@@ -95,7 +95,7 @@ Unlike Balance Sheet accounts, Profit and Loss accounts (or PL accounts) do not 
 
 In ERPNext it is easy to keep track of Profit and Loss via the Profit and Loss chart.
 
-![Profit and Loss Report](https://docs.frappe.io/assets/12b71b0f9f0e.png)
+![Profit and Loss Report](../../assets/12b71b0f9f0e.png)
 
 Note that, on the first day of the year you have not made any profit or loss, but you still have assets, hence balance sheet accounts never become zero at the beginning or end of a period.
 
@@ -109,7 +109,7 @@ Accounting Transactions can only be made against Ledger Accounts (not Groups)
 
 > Note: An Account “Ledger” is also sometimes called as Account “Head”.
 
-![Groups and Ledgers in CoA](https://docs.frappe.io/assets/e286550c1700.png)
+![Groups and Ledgers in CoA](../../assets/e286550c1700.png)
 
 ### 2.4 Other Account Types
 
@@ -157,9 +157,9 @@ An Example of various financial statement are given below:
 
 
 
-![Cash Flow](https://docs.frappe.io/assets/8d87d1a2e90d.png) 2\. Profit and Loss Report: ![Profit and Loss Report](https://docs.frappe.io/assets/12b71b0f9f0e.png) 3\. Balance Sheet Report:
+![Cash Flow](../../assets/8d87d1a2e90d.png) 2\. Profit and Loss Report: ![Profit and Loss Report](../../assets/12b71b0f9f0e.png) 3\. Balance Sheet Report:
 
-![Balance Sheet](https://docs.frappe.io/assets/0e516fea0b08.png)
+![Balance Sheet](../../assets/0e516fea0b08.png)
 
 ### 2.6 Account Number
 
@@ -167,7 +167,7 @@ A standard Chart of Accounts is organized according to a numerical system. Each 
 
 You can assign a number while creating an account from Chart of Accounts page. You can also edit a number from account record, by clicking **Update Account Name / Number** button. On updating account number, the system renames the account name automatically to embed the number in the account name.
 
-![Account Number](https://docs.frappe.io/assets/8e934d56a530.png)
+![Account Number](../../assets/8e934d56a530.png)
 
   3. Video
 

@@ -14,17 +14,17 @@ To prevent stockouts, you can track item's reorder level. When stock level goes 
 
 In ERPNext, you can update item's Reorder Level and Reorder Qty in the Item master. If same item has different reorder level, you can also update warehouse-wise reorder level and reorder qty.
 
-![reorder level](https://docs.frappe.io/assets/5c8e20603f38.png)
+![reorder level](../../../../../assets/5c8e20603f38.png)
 
 With reorder level, you can also define what should be the next action. Either new purchase or transfer from another warehouse. Based on setting in Item master, purpose will be updated in the Material Request as well.
 
-![reorder level next action](https://docs.frappe.io/assets/55794eb9e5be.png)
+![reorder level next action](../../../../../assets/55794eb9e5be.png)
 
 When item's stock reaches reorder level, Material Request is auto-created automatically. You can enable this feature from:
 
 `Stock > Setup > Stock Settings`
 
-![active auto-material request](https://docs.frappe.io/assets/a24ea9ef52c1.png)
+![active auto-material request](../../../../../assets/a24ea9ef52c1.png)
 
 A separate Material Request will be created for each item. User with Purchase Manager's role will receive email alert about these Material Requests.
 

@@ -26,11 +26,11 @@ To access the Opportunity Type, go to:
 
 
 
-![Screenshot 2023-12-28 at 11.14.56 AM](https://docs.frappe.io/assets/c26c75fa37bf.png)
+![Screenshot 2023-12-28 at 11.14.56 AM](../../assets/c26c75fa37bf.png)
 
 The system allows you to maintain a list of different Opportunity Types.
 
-![Screenshot 2023-12-28 at 11.15.46 AM](https://docs.frappe.io/assets/34db6eda8e66.png)
+![Screenshot 2023-12-28 at 11.15.46 AM](../../assets/34db6eda8e66.png)
 
 [ Previous Page Lead Source ](https://docs.frappe.io/erpnext/lead_source) [ Next Page Campaign  ](campaign.md)
 

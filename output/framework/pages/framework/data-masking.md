@@ -42,7 +42,7 @@ Data Masking can be enabled directly from the Doctype or through the Customize F
 
 Once enabled, users who do not have the Mask permission for that field will see masked or hidden data, while users with the appropriate permission will see the actual value.
 
-Here's a quick demo showing how to enable Data Masking: ![Enable Data Masking](https://docs.frappe.io/assets/96c51d1f1d23.gif)
+Here's a quick demo showing how to enable Data Masking: ![Enable Data Masking](../../assets/96c51d1f1d23.gif)
 
 #### Supported Field Types
 

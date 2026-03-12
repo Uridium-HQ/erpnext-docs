@@ -25,7 +25,7 @@ Let's consider a Sales Invoice, where your base currency is USD and party curren
 
 
 
-![Accounts Frozen Date](https://docs.frappe.io/assets/6a1ad7c8097d.png)
+![Accounts Frozen Date](../../../../assets/6a1ad7c8097d.png)
 
   1. Update other details like Item, Taxes, Terms. In the Taxes and other Charges table. Charges of type Actual should be updated in the Customer's currency.
 
@@ -34,7 +34,7 @@ Let's consider a Sales Invoice, where your base currency is USD and party curren
 
 
 
-![Accounts Frozen Date](https://docs.frappe.io/assets/1f782580cb21.png)
+![Accounts Frozen Date](../../../../assets/1f782580cb21.png)
 
 ## Currency Exchange Masters
 

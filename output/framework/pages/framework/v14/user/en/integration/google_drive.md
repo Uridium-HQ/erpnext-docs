@@ -28,7 +28,7 @@ If you haven't done so already, create your application's API key by clicking **
 
 
 
-![API Key configuration](https://docs.frappe.io/assets/2ee65a03a950.png)
+![API Key configuration](../../../../../../assets/2ee65a03a950.png)
 
 If you haven't done so already, create your OAuth 2.0 credentials by clicking **Create credentials > OAuth client ID**.
 
@@ -37,7 +37,7 @@ If you haven't done so already, create your OAuth 2.0 credentials by clicking **
 
 
 
-![OAuth Client configuration](https://docs.frappe.io/assets/55645a684235.png)
+![OAuth Client configuration](../../../../../../assets/55645a684235.png)
 
 After you've created the credentials, you can see your client ID on the [Credentials page](https://console.cloud.google.com/apis/credentials).
 
@@ -59,23 +59,23 @@ Now that the Google Picker API is enabled and we have the necessary credentials 
 
 
 
-![Google Settings](https://docs.frappe.io/assets/73c84ac0f9d2.png)
+![Google Settings](../../../../../../assets/73c84ac0f9d2.png)
 
 Now when you click "Attach file" in the sidebar you should see the Google Drive icon.
 
-![Attach File Dialog](https://docs.frappe.io/assets/1aea9f9454ed.png)
+![Attach File Dialog](../../../../../../assets/1aea9f9454ed.png)
 
 If you click on it the first time you have to authorize the Frappe app to access your Google Drive files.
 
-![Google Sign In](https://docs.frappe.io/assets/96479fe573d3.png)
+![Google Sign In](../../../../../../assets/96479fe573d3.png)
 
 Then the Google Drive Picker opens where you can choose a file.
 
-![Google Drive Picker](https://docs.frappe.io/assets/00ad8dba54b3.png)
+![Google Drive Picker](../../../../../../assets/00ad8dba54b3.png)
 
 Click the blue button on the bottom left to attach a link to this file to the current DocType.
 
-![File Attached to DocType](https://docs.frappe.io/assets/94f7c8ddae80.png)
+![File Attached to DocType](../../../../../../assets/94f7c8ddae80.png)
 
 > In case you're looking for technical details, Google Drive was introduced in [Pull Request #12715](https://github.com/frappe/frappe/pull/12715).
 

@@ -31,11 +31,11 @@ You can find Auto Email Report at:
 
 
 
-![With Filters](https://docs.frappe.io/assets/d839d0a40957.png) 5\. Save.
+![With Filters](../../assets/d839d0a40957.png) 5\. Save.
 
 You can test the report by clicking on "Download" or "Send Now". Here is an example of the email you will receive for a general ledger report:
 
-![Report by Email](https://docs.frappe.io/assets/9c42910f5a71.png)
+![Report by Email](../../assets/9c42910f5a71.png)
 
   2. Features
 
@@ -55,7 +55,7 @@ You can test the report by clicking on "Download" or "Send Now". Here is an exam
 
 If your report has filters, you will be able to see them. Click on the table to edit it:
 
-![Edit Filters](https://docs.frappe.io/assets/2ae01d42fe78.png)
+![Edit Filters](../../assets/2ae01d42fe78.png)
 
 For example, if the email is on the report 'Project Billing Summary' select the Project. The date range here is the date range of the 'Project Billing Summary'.
 

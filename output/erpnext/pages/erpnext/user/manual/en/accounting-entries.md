@@ -12,7 +12,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 Accounting Entries The concept of accounting is explained with an example given below: We will take a "Tea Stall" as a company and see how to book accounting entries for the business.
 
-Mama (The Tea-stall owner) invests Rs. 25000 to start the business. ![JE](https://docs.frappe.io/assets/65d038e4d105.png)
+Mama (The Tea-stall owner) invests Rs. 25000 to start the business. ![JE](../../../../../assets/65d038e4d105.png)
 
 ## 1\. Investment
 
@@ -20,7 +20,7 @@ Mama invested Rs. 25000 in Company, hoping to get some profit. In other words, c
 
 The company needs equipments (stove, teapot, cups, etc.) and raw materials (tea, sugar, milk, etc.) immediately. He decides to buy them from the nearest general store, "Super Bazaar" whose owner is a friend, so that he gets some credit. Equipments cost him Rs. 2800 and raw materials Rs. 2200. He pays Rs. 2000 out of the total cost which is Rs. 5000. This can be recorded in ERPNext using a [Payment Entry](../../../payment-entry.md).
 
-![JE](https://docs.frappe.io/assets/7b9160b50630.png)
+![JE](../../../../../assets/7b9160b50630.png)
 
 ## 2\. Assets
 
@@ -28,7 +28,7 @@ Equipments are "Fixed Assets" (because they have a long life) and raw materials 
 
 Mama (who takes care of all entries) decides to book sales at the end of every day, so that he can analyze daily sales. At the end of the very first day, the tea stall sells 325 cups of tea, which gives net sales of Rs. 1625. The owner happily books his first day sales.
 
-![JE](https://docs.frappe.io/assets/85a4e74c99c1.png)
+![JE](../../../../../assets/85a4e74c99c1.png)
 
 ## 3\. Income
 
@@ -36,7 +36,7 @@ Income has been booked in "Sales of Tea" account which has been credited to incr
 
 At the end of the month, the company paid the rent amount of stall (Rs. 5000) and salary of one employee (Rs. 8000), who joined from the very first day.
 
-![JE](https://docs.frappe.io/assets/3729bd08be10.png)
+![JE](../../../../../assets/3729bd08be10.png)
 
 ## 4\. Booking Profit
 

@@ -16,7 +16,7 @@ Each ERPNext account website automatically generated from it. On a website, logo
 
 For the exact steps on how to upload a Website Banner and resize it, please refer to the help given below.
 
-![Website Banner image](https://docs.frappe.io/assets/bb4d0a1f6358.gif)
+![Website Banner image](../../assets/bb4d0a1f6358.gif)
 
 [ Previous Page Website Home Page ](website-home-page.md) [ Next Page 3 Step SEO for your ERPNext Website ](https://docs.frappe.io/erpnext/how-to-setup-seo-for-your-website-on-erpnext)
 

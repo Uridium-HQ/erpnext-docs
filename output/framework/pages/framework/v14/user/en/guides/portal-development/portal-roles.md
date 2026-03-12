@@ -20,7 +20,7 @@ Roles can be assigned to Website Users and they will see menu based on their rol
 
 
 
-![Portal Settings](https://docs.frappe.io/assets/7c5add720b9d.png)
+![Portal Settings](../../../../../../../assets/7c5add720b9d.png)
 
 #### Rules for Default Role
 

@@ -26,7 +26,7 @@ To access the Email Template list, go to:
 
 
 
-![Email Template](https://docs.frappe.io/assets/7ac315087172.png)
+![Email Template](../../assets/7ac315087172.png)
 
 **DocType Associated:** (optional) The DocType associated with this template.
 

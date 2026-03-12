@@ -22,7 +22,7 @@ A Data Migration Plan encapsulates a set of mappings.
 
 Let's make a new _Data Migration Plan_. Set the plan name as 'Atlas Sync'. We also need to add mappings in the mappings child table.
 
-![New Data Migration Plan](https://docs.frappe.io/assets/483c1481dcf9.png)
+![New Data Migration Plan](../../../../../../../assets/483c1481dcf9.png)
 
 ### Data Migration Mapping
 
@@ -40,7 +40,7 @@ To define a mapping, we need to put in some values that define the structure of 
 
 
 
-![New Data Migration Mapping](https://docs.frappe.io/assets/179d877ad24c.png)
+![New Data Migration Mapping](../../../../../../../assets/179d877ad24c.png)
 
 #### Specifying field mappings:
 
@@ -48,11 +48,11 @@ The most basic form of a field mapping would be to specify fieldnames of the rem
 
 Let's add the field mappings and save:
 
-![Add fields in Data Migration Mapping](https://docs.frappe.io/assets/0fcd9c84c00f.png)
+![Add fields in Data Migration Mapping](../../../../../../../assets/0fcd9c84c00f.png)
 
 We can now add the 'Item to Atlas Item' mapping to our Data Migration Plan and save it.
 
-![Save Atlas Sync Plan](https://docs.frappe.io/assets/0c831ff57720.png)
+![Save Atlas Sync Plan](../../../../../../../assets/0c831ff57720.png)
 
 #### Additional layer of control with pre and post process:
 
@@ -60,25 +60,25 @@ Migrating data frequently involves more steps in addition to one-to-one mapping.
 
 In our case, an `item_to_atlas_item` module is created under the `data_migration_mapping` directory in `Integrations` (module for the 'Atlas Sync' plan).
 
-![Mapping <strong>init</strong>.py](https://docs.frappe.io/assets/c24d85cde06e.png)
+![Mapping <strong>init</strong>.py](../../../../../../../assets/c24d85cde06e.png)
 
 You can implement the `pre_process` (receives the source doc) and `post_process` (receives both source and target docs, as well as any additional arguments) methods, to extend the mapping process. Here's what some operations could look like:
 
-![Pre and Post Process](https://docs.frappe.io/assets/c9313366704b.png)
+![Pre and Post Process](../../../../../../../assets/c9313366704b.png)
 
 ### Data Migration Connector
 
 Now, to connect to the remote source, we need to create a _Data Migration Connector_.
 
-![New Data Migration Connector](https://docs.frappe.io/assets/22661430b03c.png)
+![New Data Migration Connector](../../../../../../../assets/22661430b03c.png)
 
 We only have two connector types right now, let's add another Connector Type in the Data Migration Connector DocType.
 
-![Add Connector Type in Data Migration Connector](https://docs.frappe.io/assets/58965ec269e3.png)
+![Add Connector Type in Data Migration Connector](../../../../../../../assets/58965ec269e3.png)
 
 Now, let's create a new Data Migration Connector.
 
-![Atlas Connector](https://docs.frappe.io/assets/50ed02e7d840.png)
+![Atlas Connector](../../../../../../../assets/50ed02e7d840.png)
 
 As you can see we chose the Connector Type as Atlas. We also added the hostname, username and password for our Atlas instance so that we can authenticate.
 
@@ -88,11 +88,11 @@ Create a new file called `atlas_connection.py` in `frappe/data_migration/doctype
 
 We just have to implement the `insert`, `update` and `delete` methods for our atlas connector. We also need to write the code to connect to our Atlas instance in the `__init__` method. Just see `frappe_connection.py` for reference.
 
-![Atlas Connection file](https://docs.frappe.io/assets/5e11842c57a5.png)
+![Atlas Connection file](../../../../../../../assets/5e11842c57a5.png)
 
 After creating the Atlas Connector, we also need to import it into `data_migration_connector.py`
 
-![Edit Connector file](https://docs.frappe.io/assets/4f2ee6e5d9cb.png)
+![Edit Connector file](../../../../../../../assets/4f2ee6e5d9cb.png)
 
 ### Data Migration Run
 
@@ -100,7 +100,7 @@ Now that we have our connector, the last thing to do is to create a new _Data Mi
 
 A Data Migration Run takes a Data Migration Plan and Data Migration Connector and execute the plan according to our configuration. It takes care of queueing, batching, delta updates and more.
 
-![Data Migration Run](https://docs.frappe.io/assets/be72aef666b6.png)
+![Data Migration Run](../../../../../../../assets/be72aef666b6.png)
 
 Just click Run. It will now push our Items to the remote Atlas instance and you can see the progress which updates in realtime.
 

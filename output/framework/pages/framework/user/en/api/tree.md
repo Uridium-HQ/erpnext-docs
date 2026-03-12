@@ -12,7 +12,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 The Tree View is generated for all DocTypes that has Is Tree enabled.
 
-![Tree View](https://docs.frappe.io/assets/ffd6443ebdda.png) _Tree View_
+![Tree View](../../../../../assets/ffd6443ebdda.png) _Tree View_
 
 ## Standard Tree JS
 

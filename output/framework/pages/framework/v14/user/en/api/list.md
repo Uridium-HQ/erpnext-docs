@@ -22,7 +22,7 @@ The List view is packed with features. Some of them are:
 
 
 
-![List View](https://docs.frappe.io/assets/2aa0cce35352.png) _List View_
+![List View](../../../../../../assets/2aa0cce35352.png) _List View_
 
 ## Standard List JS
 
@@ -98,11 +98,11 @@ To create a new Client Script, go to
 
 **Home > Customization > Client Script > New**
 
-![New Client Script](https://docs.frappe.io/assets/06a48dd86e9b.png) _New Client Script for List_
+![New Client Script](../../../../../../assets/06a48dd86e9b.png) _New Client Script for List_
 
 The above customization will result in a list view that looks like this:
 
-![List View Customized](https://docs.frappe.io/assets/d12c5c0349f7.png) _List View Customized_
+![List View Customized](../../../../../../assets/d12c5c0349f7.png) _List View Customized_
 
 [ Previous Page Controls  ](controls.md) [ Next Page Page API  ](page.md)
 

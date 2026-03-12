@@ -20,7 +20,7 @@ To create a new Maintenance Schedule go to:
 
 A Maintenance Schedule is usually created from a Sales Order of type 'Maintenance'.
 
-![SO Maintenance Schedule](https://docs.frappe.io/assets/ab93610612b0.png)
+![SO Maintenance Schedule](../../assets/ab93610612b0.png)
 
 ## 1\. Prerequisites
 
@@ -43,7 +43,7 @@ A Maintenance Schedule is usually created from a Sales Order of type 'Maintenanc
 
 
 
-![Maintenance Schedule](https://docs.frappe.io/assets/69807d8fe15e.png)
+![Maintenance Schedule](../../assets/69807d8fe15e.png)
 
 The **Generate Schedule** button will generate a separate row for each maintenance activity. Each Item in a Maintenance Schedule is allocated to a Sales Person.
 

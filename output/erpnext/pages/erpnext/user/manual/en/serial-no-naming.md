@@ -24,11 +24,11 @@ If received items already has its Serial No. barcoded, you can simply scan that 
 
 On submission of Purchase Receipt or Stock entry for the serialized item, Serial Nos. will be auto-generated.
 
-![Serial Nos Entry](https://docs.frappe.io/assets/2fbd0ead0e8f.png)
+![Serial Nos Entry](../../../../../assets/2fbd0ead0e8f.png)
 
 Generated Serial numbers will be updated for each item.
 
-![Serial Nos Created](https://docs.frappe.io/assets/8aa066e5f830.png)
+![Serial Nos Created](../../../../../assets/8aa066e5f830.png)
 
 ###2. Serializing Manufacturing Item
 
@@ -38,13 +38,13 @@ To Serialize Manufacturing Item, you can define Series for Serial No. Generation
 
 When Item is set as serialized, it will allow you to mentioned Series for it.
 
-![Serial Nos Created](https://docs.frappe.io/assets/4b0005b4ee09.png)
+![Serial Nos Created](../../../../../assets/4b0005b4ee09.png)
 
 ####2.2 Production Entry for Serialized Item
 
 On submission of production entry for manufacturing item, system will automatically generate Serial Nos. following Series as specified in the Item master.
 
-![Serial Nos Created](https://docs.frappe.io/assets/9d00e599ca03.png)
+![Serial Nos Created](../../../../../assets/9d00e599ca03.png)
 
 [ Previous Page Managing Fractions in UOM  ](../../../managing-fractions-in-uom.md) [ Next Page Delivery Note Negative Stock Error  ](../../../delivery-note-stock-error.md)
 

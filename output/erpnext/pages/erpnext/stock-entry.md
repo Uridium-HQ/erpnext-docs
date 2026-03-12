@@ -61,7 +61,7 @@ Stock Entries for Manufacturing purposes are usually created from a [Work Order]
 
 
 
-![Stock Entry](https://docs.frappe.io/assets/735d7b58dbe0.png)
+![Stock Entry](../../assets/735d7b58dbe0.png)
 
 Usually, "Source Warehouse" and "Target Warehouse" both are set for recording a movement.
 
@@ -78,7 +78,7 @@ Usually, "Source Warehouse" and "Target Warehouse" both are set for recording a 
 
 You can also create a Stock Entry Type where only the name will be different, for example 'Scrap Entry'. The purpose will be Material Transfer but the name will be different. This is useful if you want certain Users to have access only to specific actions related to stock.
 
-![Stock Entry Type](https://docs.frappe.io/assets/0245be81f2f2.png)
+![Stock Entry Type](../../assets/0245be81f2f2.png)
 
   3. Features
 
@@ -116,11 +116,11 @@ To add additional costs:
 
 
 
-![Stock Entry Additional Costs](https://docs.frappe.io/assets/6931caa2d56d.png)
+![Stock Entry Additional Costs](../../assets/6931caa2d56d.png)
 
 The added Additional Costs will be distributed among the receiving items (where the Target Warehouse mentioned) proportionately based on the Basic Amount of the items. And the distributed additional cost will be added to the basic rate of the item, to calculate Valuation Rate.
 
-Quantity and Rate is shown as follows when you expand the Items table. ![Stock Entry Item Valuation Rate](https://docs.frappe.io/assets/22e8a606b0e3.png)
+Quantity and Rate is shown as follows when you expand the Items table. ![Stock Entry Item Valuation Rate](../../assets/22e8a606b0e3.png)
 
 ### 3.4 Accounting Dimensions
 
@@ -149,13 +149,13 @@ Purchase Receipt headings can also be changed when printing the document. You ca
 
 If the perpetual inventory system is enabled, additional costs will be booked in Expense Account mentioned in the Additional Costs table .
 
-![Additional Costs General Ledger](https://docs.frappe.io/assets/2b833e89c694.png) ![Additional Costs General Ledger](https://docs.frappe.io/assets/dff7d635ead3.png)
+![Additional Costs General Ledger](../../assets/2b833e89c694.png) ![Additional Costs General Ledger](../../assets/dff7d635ead3.png)
 
 ### 3.8 After Submitting
 
 After submitting a Stock Entry, you can go to the stock ledger or the accounting ledger from the dashboard.
 
-![Additional Costs General Ledger](https://docs.frappe.io/assets/3131ad0e1b13.png)
+![Additional Costs General Ledger](../../assets/3131ad0e1b13.png)
 
   4. Add to Transit
 

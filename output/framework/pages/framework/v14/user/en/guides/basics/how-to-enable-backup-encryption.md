@@ -31,7 +31,7 @@ Most Linux distributions already have GnuPG installed, and the current version w
 
 
 
-![Encrypt Backup option\(Enabled\)](https://docs.frappe.io/assets/e0822295b9ce.png)
+![Encrypt Backup option\(Enabled\)](../../../../../../../assets/e0822295b9ce.png)
 
 The system uses an auto-generated key supplied by the **Site config**. If no such key is found, **a new key is generated**. Any Administrator can later look it from the `https://{site}/app/backups` page.
 
@@ -59,7 +59,7 @@ It encrypts the public and private files as well as the partial backup files.
 
 
 
-![Encrypt Backup option\(Enabled\)](https://docs.frappe.io/assets/5bf2c857809f.png)
+![Encrypt Backup option\(Enabled\)](../../../../../../../assets/5bf2c857809f.png)
 
 Copy the key to restore the encrypted backup files.
 

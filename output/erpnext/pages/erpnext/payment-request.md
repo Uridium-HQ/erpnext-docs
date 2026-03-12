@@ -37,31 +37,31 @@ A Payment Request cannot be created manually, it is created from a Sales/Purchas
 
 In a Sales Order, click on Create and then click on Payment to make an advance payment. To know more about advance payment, visit the [Advance Payment Entry](advance-payment-entry.md) page.
 
-![Payment Request From Sales Order](https://docs.frappe.io/assets/29f5a13a7a68.png)
+![Payment Request From Sales Order](../../assets/29f5a13a7a68.png)
 
 ### 2.2 Creating Payment Request via Sales Invoice
 
 In a Sales Invoice, click on Create and then click on Payment to make payment against the invoice.
 
-![Payment Request From Sales Invoice](https://docs.frappe.io/assets/4d7c520e4f60.png)
+![Payment Request From Sales Invoice](../../assets/4d7c520e4f60.png)
 
 Select appropriate Payment Gateway Account on Payment Request for accounts posting. Account head specified on payment gateway will be considered to create a Journal Entry.
 
 > Note: Invoice/Order currency and 'Payment Gateway Account' currency should be the same.
 
-![Payment Request Details](https://docs.frappe.io/assets/a92f97002b29.png)
+![Payment Request Details](../../assets/a92f97002b29.png)
 
 ### 2.3 Notifying the Customer
 
 You can notify customer from Payment Request using [Print Format](print-format.md). If the customer contact email is set, it will be fetched automatically. If not so you can set an email address in Payment Request.
 
-![Payment Request Details](https://docs.frappe.io/assets/756ac9300ba0.png)
+![Payment Request Details](../../assets/756ac9300ba0.png)
 
 ### 2.4 Request Mail
 
 Here is an example request email. The URL is generated automatically if you've set up the respective payment integration. To know more about integrations, [visit this page](erpnext_integration.md).
 
-![Payment Request](https://docs.frappe.io/assets/dedd7e6a7865.png)
+![Payment Request](../../assets/dedd7e6a7865.png)
 
 ### 2.5 Payment Request without using any Gateway
 

@@ -20,7 +20,7 @@ Note: `frappe.db.*` calls work only with site's database connection. You'll need
 
 To create a Virtual DocType, just select the Virtual DocType checkbox while creating the DocType:
 
-![Virtual DocType](https://docs.frappe.io/assets/a417eb44f1f0.png)
+![Virtual DocType](../../../../../../assets/a417eb44f1f0.png)
 
 #### Creating a Custom Controller
 
@@ -103,7 +103,7 @@ You can read about the interface requriements and explanation in the [interface 
 
 The frontend for Virtual DocTypes remain unchanged
 
-![Virtual DocType Form](https://docs.frappe.io/assets/4cf8fd4d9425.png)
+![Virtual DocType Form](../../../../../../assets/4cf8fd4d9425.png)
 
 All the /api/resource methods defined by the framework are compatible with Virtual DocTypes.
 

@@ -12,13 +12,13 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 In ERPNext you can send any document as email (with a PDF attachment) by clicking on Menu > Email after opening any document.
 
-![Send Email](https://docs.frappe.io/assets/00837fdadb04.gif)
+![Send Email](../../assets/00837fdadb04.gif)
 
 **Note:** You must have outgoing [Email Accounts](email-account.md) set up for this.
 
 After you click on send, the email gets added to the email queue. It will be in the Sending status until it is Sent. The status of the email is displayed in the queue, if sending has failed, it can be sent by clicking on Send Now.
 
-![Email Queue](https://docs.frappe.io/assets/16ab4799dd3f.png)
+![Email Queue](../../assets/16ab4799dd3f.png)
 
 The following options are available when sending an Email.
 
@@ -36,7 +36,7 @@ The following options are available when sending an Email.
 
 The following two fields are the fields which appear on the print screen:
 
-![Email Print Options](https://docs.frappe.io/assets/ed00ab9569ed.png)
+![Email Print Options](../../assets/ed00ab9569ed.png)
 
   * **Select Print Format** : The print format of the document. Know more about Print Format [here](print-format.md).
   * **Select Languages** : The language in which the PDF is to be generated.

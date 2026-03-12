@@ -14,13 +14,13 @@ In ERPNext, Sales Person master is maintained in [tree structure](managing-tree-
 
 Sales Persons can be updated in the Customer master as well. On selection of Customer in the transactions, Sales Persons as updated in the Customer will fetch into sales transaction.
 
-![Sales Person Customer](https://docs.frappe.io/assets/ae4a0ca6ecf4.png)
+![Sales Person Customer](../../assets/ae4a0ca6ecf4.png)
 
 ####Sales Person Contribution
 
 If more than one sales persons are working together on an order, then contribution (%) should be set for each Sales Person.
 
-![Sales Person Order](https://docs.frappe.io/assets/3fc0c46a4af4.png)
+![Sales Person Order](../../assets/3fc0c46a4af4.png)
 
 On saving transaction, based on the Net Total and Contriution (%), `Contribution to Net Total` will be calculated for each Sales Person.
 
@@ -34,7 +34,7 @@ Check Sales Person's Transaction report from:
 
 This report can be generated based on Sales Order, Delivery Note and Sales Invoice. It will give you total amount of sale made by an employe.
 
-![Sales Person Report](https://docs.frappe.io/assets/c0f08347c983.png)
+![Sales Person Report](../../assets/c0f08347c983.png)
 
 ####Sales Person wise Commission
 

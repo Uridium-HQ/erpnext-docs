@@ -26,7 +26,7 @@ To access the Homepage page in ERPNext, go to:
 
 
 
-![Homepage](https://docs.frappe.io/assets/617e6279783d.png) _Homepage_
+![Homepage](../../assets/617e6279783d.png) _Homepage_
 
 > Make sure your default 'Home Page' is set as `home` in Website Settings for this to work.
 
@@ -44,21 +44,21 @@ There are three ways in which you can customize the way the Hero Section looks:
 
 After you set your Tag Line, Description and Hero Image you'll have a decent looking front page. You can also change the URL for the Explore button under **URL for "All Products"**.
 
-![Website Homepage](https://docs.frappe.io/assets/b69e3808e9ce.png) _Website Homepage_
+![Website Homepage](../../assets/b69e3808e9ce.png) _Website Homepage_
 
 ### 2.2 Homepage Slideshow
 
 Set the **Hero Section Based On** to **Slideshow** and the **Homepage Slideshow** field will appear.
 
-![Homepage Slideshow Setting](https://docs.frappe.io/assets/d9677393ab87.png) _Homepage Slideshow Setting_
+![Homepage Slideshow Setting](../../assets/d9677393ab87.png) _Homepage Slideshow Setting_
 
 Now, select an existing Slideshow or create a new one shown as follows:
 
-![Website Slideshow](https://docs.frappe.io/assets/dd8b35f014fa.png) _Website Slideshow_
+![Website Slideshow](../../assets/dd8b35f014fa.png) _Website Slideshow_
 
 > For best results, make sure all of your slideshow images have same height and their width is greater than the height.
 
-![Website Homepage with Slideshow](https://docs.frappe.io/assets/832014f39dc1.gif)
+![Website Homepage with Slideshow](../../assets/832014f39dc1.gif)
 
 ### 2.3 Custom Hero Section
 
@@ -68,21 +68,21 @@ Set **Hero Section Based On** to **Hero Section**.
 
 Now create a new Hero Section. Set **Section Based On** as **Custom HTML**. Write your custom HTML in the Section HTML field.
 
-![Homepage Settings](https://docs.frappe.io/assets/02a5fbf799ee.png) _Homepage Settings_
+![Homepage Settings](../../assets/02a5fbf799ee.png) _Homepage Settings_
 
 You can write any valid [Bootstrap 4](https://getbootstrap.com/) markup here.
 
-![New Hero Section](https://docs.frappe.io/assets/b8ce7f54776c.png) _New Hero Section_
+![New Hero Section](../../assets/b8ce7f54776c.png) _New Hero Section_
 
-It will look something like this: ![Homepage Hero Custom](https://docs.frappe.io/assets/a54456cdf94f.png) _Homepage Hero Custom_
+It will look something like this: ![Homepage Hero Custom](../../assets/a54456cdf94f.png) _Homepage Hero Custom_
 
 ## 3\. Featured Products
 
 You can also show featured products on your Homepage by adding them to the Products table.
 
-![Homepage Products Table](https://docs.frappe.io/assets/2a50eb7d3286.png) _Homepage Products Table_
+![Homepage Products Table](../../assets/2a50eb7d3286.png) _Homepage Products Table_
 
-It will look something like this: ![Featured Products on Homepage](https://docs.frappe.io/assets/41071457338d.png) _Featured Products on Homepage_
+It will look something like this: ![Featured Products on Homepage](../../assets/41071457338d.png) _Featured Products on Homepage_
 
 ## 4\. Homepage Section
 
@@ -92,11 +92,11 @@ You can add custom sections on your Homepage by creating new Homepage Sections.
 
 A homepage section can consist of cards or Custom HTML. Set **Section Based On** to **Cards**.
 
-![New Homepage Section](https://docs.frappe.io/assets/a7f60a5dae3b.png) _New Homepage Section_
+![New Homepage Section](../../assets/a7f60a5dae3b.png) _New Homepage Section_
 
 Add details for each card like Title, Subtitle, Image, Content and Route in the Section Cards table.
 
-It will look something like this: ![Homepage Section](https://docs.frappe.io/assets/bde3bb397717.png) _Homepage Section_
+It will look something like this: ![Homepage Section](../../assets/bde3bb397717.png) _Homepage Section_
 
 You can also control the order in which these sections appear by setting the **Section Order**. 0 will be shown first, followed by 1, and so on.
 

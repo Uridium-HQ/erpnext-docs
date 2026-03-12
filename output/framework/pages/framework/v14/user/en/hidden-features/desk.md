@@ -17,7 +17,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 
 
-![Frappe List View](https://docs.frappe.io/assets/1b6dbb0a74c2.gif)
+![Frappe List View](../../../../../../assets/1b6dbb0a74c2.gif)
 
 [ Previous Page UI Testing  ](../ui-testing.md) [ Next Page Debugging  ](../debugging.md)
 

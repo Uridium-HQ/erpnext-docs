@@ -24,19 +24,19 @@ For example, you have 322 Sales Orders created in your old system with SO00322 a
 
 #### Update Series Section
 
-![Update Series Section](https://docs.frappe.io/assets/975e4744e59b.png)
+![Update Series Section](../../assets/975e4744e59b.png)
 
 #### Select Prefix
 
 Considering our scenario, prefix for Sales Order will be "SO".
 
-![Series Prefix](https://docs.frappe.io/assets/fba7d0e15af9.png)
+![Series Prefix](../../assets/fba7d0e15af9.png)
 
 #### Current Value
 
 If you have currently 12 Sales Orders created in your account, then current value updated will be 12. You can edit Current Value to 322, and then click on Update Series Number.
 
-![Series Current Value](https://docs.frappe.io/assets/a3262eb7338d.png)
+![Series Current Value](../../assets/a3262eb7338d.png)
 
 With this setting, you will have numbering for the New Sales Orders starting with #323.
 

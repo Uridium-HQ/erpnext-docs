@@ -18,11 +18,11 @@ The system allows you to use any combination of filters including a Date Range t
 
 **List View**
 
-![Screenshot 2024-06-25 at 5.09.42 PM](https://docs.frappe.io/assets/acd85d9f0f61.png)
+![Screenshot 2024-06-25 at 5.09.42 PM](../../assets/acd85d9f0f61.png)
 
 **Report View**
 
-![Screenshot 2024-06-25 at 5.08.19 PM](https://docs.frappe.io/assets/3c857e033814.png)
+![Screenshot 2024-06-25 at 5.08.19 PM](../../assets/3c857e033814.png)
 
 [ Previous Page Personal Data Deletion  ](https://docs.frappe.io/erpnext/personal-data-deletion) [ Next Page Adding Users ](adding-users.md)
 

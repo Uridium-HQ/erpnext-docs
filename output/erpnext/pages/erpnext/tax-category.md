@@ -35,7 +35,7 @@ Creating a Tax Category is simple, go to the Tax Category list, click on New and
 
 
 
-![Tax Category in Sales Invoice](https://docs.frappe.io/assets/d1321d7a8f24.gif)
+![Tax Category in Sales Invoice](../../assets/d1321d7a8f24.gif)
 
 > Tip: One Tax Category can be assigned to multiple Tax Rules. So you can create different combinations to apply taxes automatically to transactions.
 
@@ -45,7 +45,7 @@ Tax Category is automatically determined in a transaction by either the Party Ad
 
   1. [Customer](customer.md)
   2. [Supplier](supplier.md)
-  3. [Address](address.md) Billing or Shipping. You can select whether Billing Address or Shipping Address gets preference by changing the 'Determine Address Tax Category From' option in Accounts Settings. Tax Category is determined from Party Address first. If the Address is not assigned any Tax Category, then the Party's Tax Category is used. ![Tax Cat Address](https://docs.frappe.io/assets/1c3174df32fa.png)
+  3. [Address](address.md) Billing or Shipping. You can select whether Billing Address or Shipping Address gets preference by changing the 'Determine Address Tax Category From' option in Accounts Settings. Tax Category is determined from Party Address first. If the Address is not assigned any Tax Category, then the Party's Tax Category is used. ![Tax Cat Address](../../assets/1c3174df32fa.png)
   4. [Item](item.md)
   5. You can also manually select the Tax Category in a transaction.
 

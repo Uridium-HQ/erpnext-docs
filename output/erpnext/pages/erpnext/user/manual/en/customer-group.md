@@ -29,7 +29,7 @@ You can define a price a list which will be automatically applied to all custome
 
 > Tip: If you think all this is too much effort, you can leave it at “Default Customer Group”. But all this effort, will pay off when you start getting reports. An example of a sample report is given below:
 
-![Sales Analytics Customer Group](https://docs.frappe.io/assets/9e818a9f2cb7.gif)
+![Sales Analytics Customer Group](../../../../../assets/9e818a9f2cb7.gif)
 
 ### Features
 

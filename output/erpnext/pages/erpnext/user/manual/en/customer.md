@@ -46,7 +46,7 @@ You can also upload customer details via the Data Import Tool.
 
 General flow of transactions for a customer is as following:
 
-![Sales Flowchart](https://docs.frappe.io/assets/bb6420dfb831.jpeg)
+![Sales Flowchart](../../../../../assets/bb6420dfb831.jpeg)
 
 > Note: Customers are separate from Contacts and Addresses. A Customer can have multiple Contacts and Addresses.
 

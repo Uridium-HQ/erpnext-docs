@@ -50,7 +50,7 @@ In ERPNext, Tax Withholding Categories for most cases are available by default, 
 
 
 
-![Tax withholding Category](https://docs.frappe.io/assets/ea74f726ffdd.png)
+![Tax withholding Category](../../assets/ea74f726ffdd.png)
 
 Under accounting details, the TDS account is added for each Company in the system.
 
@@ -58,7 +58,7 @@ Under accounting details, the TDS account is added for each Company in the syste
 
 After saving, it can be assigned to a Supplier:
 
-![Tax withholding Category in Supplier](https://docs.frappe.io/assets/9a0a46a1edf1.png)
+![Tax withholding Category in Supplier](../../assets/9a0a46a1edf1.png)
 
 ### 2.2 How does the threshold work?
 
@@ -82,15 +82,15 @@ In the following example, we have selected 'TDS - 194C - Individual' which has a
 
 
 
-![Tax Withholding Category in Purchase Invoice](https://docs.frappe.io/assets/838b950e1ff1.png)
+![Tax Withholding Category in Purchase Invoice](../../assets/838b950e1ff1.png)
 
   1. Let's create an invoice for 90,000. Saving the invoice automatically calculates tax and appends it in the taxes table.
 
 
 
-![Tax Withholding Category in Purchase Invoice](https://docs.frappe.io/assets/d7dfb8c2a213.png) 2\. To see the effect of Cumulative threshold, let's create an invoice with of amount 10,000 and submit it.
+![Tax Withholding Category in Purchase Invoice](../../assets/d7dfb8c2a213.png) 2\. To see the effect of Cumulative threshold, let's create an invoice with of amount 10,000 and submit it.
 
-![Tax Withholding Category Cumulative Threshhold](https://docs.frappe.io/assets/bc90903ffacb.png)
+![Tax Withholding Category Cumulative Threshhold](../../assets/bc90903ffacb.png)
 
 Although the invoice amount didn't cross the Single threshold (30,000), we see that tax has been charged. This is because the previous and the current invoice adds up to be 1,10,000 which exceeds the Cumulative threshold. Hence, tax based on the rate provided in the **Tax Withholding Category** is applied accordingly.
 
@@ -111,7 +111,7 @@ Although the invoice amount didn't cross the Single threshold (30,000), we see t
 
 
 
-![Tax Withholding Payment Entry](https://docs.frappe.io/assets/b6931cfbd67c.png)
+![Tax Withholding Payment Entry](../../assets/b6931cfbd67c.png)
 
   3. Create a Purchase Invoice against this order and enable "Set Advances and Allocate(FIFO)" so that payment linked to the corresponsing order is automatically applied. No Tax will be withheld in the Purchase Invoice if the Tax paid on advance in more than or equal to the tax amount in Invoice. Tax Will be withheld only for the excess amount if applicable.
 
@@ -137,21 +137,21 @@ In the following example, we have create a Tax Withholding Category for [TCS - S
 
 
 
-![Tax Withholding Category For TCS](https://docs.frappe.io/assets/deb2d8302364.png)
+![Tax Withholding Category For TCS](../../assets/deb2d8302364.png)
 
   1. If a **Customer** is expected to crosses the sales threshold of 50 Lakh in current Fiscal Year, then we can set the Tax Withholding Category of the customer to TCS - Section 20C(1H) for automatically calculation TCS on sale of goods against the customer's invoices.
 
 
 
-![TCS in Customer](https://docs.frappe.io/assets/7d0e704e02e3.png) 2\. Let's create an invoice for 50 Lakhs against the eligible customer. Saving the invoice automatically calculates tax and appends it in the taxes table.
+![TCS in Customer](../../assets/7d0e704e02e3.png) 2\. Let's create an invoice for 50 Lakhs against the eligible customer. Saving the invoice automatically calculates tax and appends it in the taxes table.
 
-![TCS Calculation in Sales Invoice](https://docs.frappe.io/assets/1561e3d3cd88.png)
+![TCS Calculation in Sales Invoice](../../assets/1561e3d3cd88.png)
 
 Since the invoice cross the Cumulative threshold (50 Lakhs), we see that tax has been charged. Hence, tax based on the rate provided in the **Tax Withholding Category** is applied accordingly. Note that, as per the scheme, the TCS is calculated on the amount exceeding the threshold i.e 0.075 % of 10 Lakhs.
 
 ### 3.4 Advanced options in Tax Withholding Category
 
-![Advance TDS Options](https://docs.frappe.io/assets/515b694b1a63.png)
+![Advance TDS Options](../../assets/515b694b1a63.png)
 
   1. **Consider Entire Party Ledger Amount** : In many situations threshold has to be calculated on the entire party ledger amount instead of the sum of the net total of specific invoices. On enabling this check cumulative threshold will be checked against the sum of the grand total of all the invoices against a particular Supplier/Customer.
   2. **Only Deduct Tax On Excess Amount** : On enabling this tax will be deducted only on the amount exceeding the threshold and not the entire amount. For example, if the cumulative threshold is 50000 and if the cumulative amount goes till 52000 the tax will be applied only on 2000 and not the entire 52000.

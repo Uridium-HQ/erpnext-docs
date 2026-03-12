@@ -12,7 +12,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 **A Work Order is a document given to the manufacturing shop floor by the Production Planner as a signal to manufacture a certain quantity of a certain Item.**
 
-![Work Order](https://docs.frappe.io/assets/26bb676052de.png)
+![Work Order](../../assets/26bb676052de.png)
 
 The Work Order also helps generate the material requirements (Stock Entry) for the Item to be produced from its **Bill of Materials**.
 
@@ -51,7 +51,7 @@ Before creating and using a Work Order, it is advised that you create the follow
 
   5. If the selected BOM has Operations mentioned in it, the system will fetch all Operations from BOM, these values can be changed. Refer [section 3.2](work-order.md) to know more.
 
-  6. Set the Planned Start Date (an Estimated Date at which you want the Production to begin). ![Work Order](https://docs.frappe.io/assets/b9b10e201cee.png)
+  6. Set the Planned Start Date (an Estimated Date at which you want the Production to begin). ![Work Order](../../assets/b9b10e201cee.png)
 
   7. **Use Multi-Level BOM** : This is enabled by default. If you want to plan materials for sub-assemblies of the Item you're manufacturing leave this enabled. If you plan and manufacture the sub-assemblies separately, you can disable this checkbox. To know more, visit [this page](managing-multi-level-bom.md).
 
@@ -76,7 +76,7 @@ A Work Order can also be directly created from a [Sales Order](sales-order.md).
   * **Project** : Link the Work Order to a Project to track progress in cases like engineer to order.
   * **Allow Alternative Item** : Sometimes when manufacturing a finished good, specific materials may not be available. For example, using plastic beads instead of plastic crystals. The finished good itself could be different. Ticking this checkbox will allow you the select an Alternative Item. To know more, visit [this page](item-alternative.md).
   * **Skip Material Transfer to WIP Warehouse** : Usually, a Stock Entry is created when the raw materials are transferred to a Work In Progress Warehouse. In this case, the raw material is considered to be consumed hence the Stock Entry is skipped. The next option will be shown if you tick this checkbox.
-  * **Backflush Raw Materials From Work-in-Progress Warehouse** : Ticking this checkbox will automatically create a Stock Entry with the type 'Manufacture'. This means that the raw materials were consumed from the Source Warehouse, used to manufacture finished goods and another Stock Entry was created for your Target Warehouse. ![Options when creating WO](https://docs.frappe.io/assets/1660d30fff01.png)
+  * **Backflush Raw Materials From Work-in-Progress Warehouse** : Ticking this checkbox will automatically create a Stock Entry with the type 'Manufacture'. This means that the raw materials were consumed from the Source Warehouse, used to manufacture finished goods and another Stock Entry was created for your Target Warehouse. ![Options when creating WO](../../assets/1660d30fff01.png)
 
 
   3. Features
@@ -110,7 +110,7 @@ Once the Work Order is saved the following two fields will also show the availab
 
 
 
-![WO material Qty](https://docs.frappe.io/assets/716ef7eea46f.png)
+![WO material Qty](../../assets/716ef7eea46f.png)
 
 ### 3.2 Operations table
 
@@ -118,8 +118,8 @@ Materials can be transferred against a Work Order or a Job Card. This is usually
 
 The following will be fetched from the BOM:
 
-  * In the Operations table: The Workstations where the Operations will be performed ![PO Opeartions](https://docs.frappe.io/assets/352bca536e03.png)
-  * In the Items table: The Operations which will be performed on the Items ![PO reassigning Operations](https://docs.frappe.io/assets/ac9f3121280a.png)
+  * In the Operations table: The Workstations where the Operations will be performed ![PO Opeartions](../../assets/352bca536e03.png)
+  * In the Items table: The Operations which will be performed on the Items ![PO reassigning Operations](../../assets/ac9f3121280a.png)
 
 
 
@@ -149,7 +149,7 @@ In this section, the following are shown:
 
 These values are calculated as per the Job Cards.
 
-![Work Order Operation Costs](https://docs.frappe.io/assets/78fb9ad35270.png)
+![Work Order Operation Costs](../../assets/78fb9ad35270.png)
 
 ### 3.4 More Information
 
@@ -165,20 +165,20 @@ When a Work Order is created from a [Material Request](material-request.md), it'
 
 
 
-![Transfer Materials](https://docs.frappe.io/assets/4d1fd548f9b0.png)
+![Transfer Materials](../../assets/4d1fd548f9b0.png)
 
   * Mention the quantity of materials to be transferred in this run.
 
 
 
-![Material Transfer Qty](https://docs.frappe.io/assets/331705fc1687.png)
+![Material Transfer Qty](../../assets/331705fc1687.png)
 
   * You'll be taken to a Stock Entry for 'Material Transfer for Manufacture'. Submit it.
   * Material Transferred for Manufacturing will be updated in the Work Order based on the Stock Entry.
 
 
 
-![Stock Entry for PO](https://docs.frappe.io/assets/dc5a51aa7c3b.png)
+![Stock Entry for PO](../../assets/dc5a51aa7c3b.png)
 
   * **Note:** User can only transfer items which has "Include Item In Manufacturing" enabled in the item master
 
@@ -213,7 +213,7 @@ To know more about Job Cards, visit [this page](job-card.md).
 
 
 
-![Update Finished Goods](https://docs.frappe.io/assets/4e00406a16f0.png)
+![Update Finished Goods](../../assets/4e00406a16f0.png)
 
   * Mention the quantity of materials to be transferred.
 
@@ -238,21 +238,21 @@ When you stop a Work Order its status is changed to Stopped indicating that all 
 
 To stop a Work Order, click on the 'Stop' button.
 
-![PO - stop](https://docs.frappe.io/assets/2c654e981569.png)
+![PO - stop](../../assets/2c654e981569.png)
 
 You can also re-open the stopped Work Order.
 
-![Reopen Work Order](https://docs.frappe.io/assets/5b79a6a6fbce.png)
+![Reopen Work Order](../../assets/5b79a6a6fbce.png)
 
 ### 4.1 Return Non Consumed Materials to the Stores from WIP Warehouse
 
 If you have transferred extra materials to the Work In Progress warehouse and after completion of the work order you want to return it to the Store warehouse. Then you have to goto the Work Order and click on Return Components. After that system creates the return stock entry with type as Material Transfer for Manufacture.
 
-![Return Components](https://docs.frappe.io/assets/b33fb601aebf.png)
+![Return Components](../../assets/b33fb601aebf.png)
 
 You can also checks the returned components against the work order using Work Order Consumed Materials report
 
-![Return Components Qty](https://docs.frappe.io/assets/228fa554fe26.png)
+![Return Components Qty](../../assets/228fa554fe26.png)
 
 ### 4.2 Transfer Addtional Materials
 

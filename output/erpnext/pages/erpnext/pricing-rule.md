@@ -51,7 +51,7 @@ Before creating and using a Pricing Rule, it is advisable to create the followin
 
   3. Select what to Apply On from Item Code, Item Group, Brand, or Transaction.
 
-  4. Select whether you want to apply Price discount or Product discount. If you want to give free products then select the product discount. ![Pricing Rule](https://docs.frappe.io/assets/cc4cd1a35c8c.png)
+  4. Select whether you want to apply Price discount or Product discount. If you want to give free products then select the product discount. ![Pricing Rule](../../assets/cc4cd1a35c8c.png)
 
   5. For a single item, select Item Code and select the items.
 
@@ -113,7 +113,7 @@ This can be useful to give discounts if a Customer buys an Item multiple times a
 
 This feature checks condition on first Item but applies rule on another Item.
 
-![Apply Pricing Rule on Other Item](https://docs.frappe.io/assets/682117210aec.png)
+![Apply Pricing Rule on Other Item](../../assets/682117210aec.png)
 
 For example, set Item1 and Item2 in the 'Apply Rule On' table and set 'Apply Rule On Other' on Item3. Now, if the transaction has Item1, Item2, and Item3, the Pricing Rule will apply on Item3 since the first two Items were present in the transaction.
 
@@ -139,17 +139,17 @@ Specify minimum qty, maximum qty, minimum amount, or maximum amount of an Item w
 
 Note that if the quantity or amount falls short or exceeds the limits set here, the Pricing Rule will not be applied at all. However, it will be applied if you have enabled the options Mixed Conditions or Cumulative.
 
-![Pricing Rule Quantity and Amount](https://docs.frappe.io/assets/0aa57111515b.png)
+![Pricing Rule Quantity and Amount](../../assets/0aa57111515b.png)
 
 ### 3.4 Validity
 
 You can also set a date interval for when the Pricing Rule will be valid. This is useful for a sales promotion. On leaving the dates blank the Pricing Rule will not have any time frame limit.
 
-![Pricing Rule Period Settings](https://docs.frappe.io/assets/c4bc3d57ed58.png)
+![Pricing Rule Period Settings](../../assets/c4bc3d57ed58.png)
 
 ### 3.5 Margin
 
-![Pricing Rule Margin](https://docs.frappe.io/assets/b345732e7703.png)
+![Pricing Rule Margin](../../assets/b345732e7703.png)
 
   * **Margin Type** : When selling an Item, you may sell it for a certain margin. If you don't want to add selling prices to Items every time and would like to automatically set a margin, it can be done with this feature.
 
@@ -164,7 +164,7 @@ Read [adding margin](adding-margin.md) for more details.
 
 The actual rule to be applied is set in this section.
 
-![Pricing Rule Discount](https://docs.frappe.io/assets/49fc1921116c.png)
+![Pricing Rule Discount](../../assets/49fc1921116c.png)
 
   * **Rate** : This will be the new rate for an Item. For example, if you sell an Item for 100 and want to sell it for 112 for a specific party, then select Rate and set the Rate as 112.
   * **Discount Percentage** : A specific discount percentage can be set. The discount percentage can be set to a specific [Price List](price-lists.md). Leaving the 'For Price List' blank will apply the Pricing Rule to all Price Lists.
@@ -174,7 +174,7 @@ The actual rule to be applied is set in this section.
 
 ### 3.7 Advanced Settings
 
-![Pricing Rule Advanced Settings](https://docs.frappe.io/assets/c7324ce21051.png)
+![Pricing Rule Advanced Settings](../../assets/c7324ce21051.png)
 
   * **Threshold for Suggestion** : This is the threshold based on which the system will notify you to adjust Item Quantity for discount. For example, if the Min Quantity is 10 and the Threshold is 9, the system will notify to add 1 more Item for the discount to be applicable. This also applies to the amount set.
 
@@ -202,19 +202,19 @@ This is useful when the top distributor in the hierarchy decides the discount/ra
 
 
 
-![Price Discount Scheme Rate](https://docs.frappe.io/assets/3cdd978cf13c.png)
+![Price Discount Scheme Rate](../../assets/3cdd978cf13c.png)
 
   1. Discount Percentage can be applied for a specific Price List (Selling or Buying). To apply it for both, leave the 'For Price List' field blank.
 
 
 
-![Price Discount Scheme Discount](https://docs.frappe.io/assets/262e2fcf5cb3.png)
+![Price Discount Scheme Discount](../../assets/262e2fcf5cb3.png)
 
   1. Discount can also be set in terms of amount.
 
 
 
-![Price Discount Scheme Amount](https://docs.frappe.io/assets/b1b7ab3104ae.png)
+![Price Discount Scheme Amount](../../assets/b1b7ab3104ae.png)
 
 ### 4.2 Product Discount
 
@@ -222,13 +222,13 @@ This is useful when the top distributor in the hierarchy decides the discount/ra
 
 
 
-![Pricing Rule Product Discount](https://docs.frappe.io/assets/8b9a26a949e8.png)
+![Pricing Rule Product Discount](../../assets/8b9a26a949e8.png)
 
   1. "Buy 2 quantities get 1 free quantity of the another item." To configure such type of rules. Set the Price or Product Discount as Product discount, untick the 'Same Item' checkbox and set the 'Free Item' and quantity.
 
 
 
-![Pricing Rule Other Product Free](https://docs.frappe.io/assets/291ba43b66e3.png)
+![Pricing Rule Other Product Free](../../assets/291ba43b66e3.png)
 
 **New Feature - Don't Enforce Free Item Qty**
 

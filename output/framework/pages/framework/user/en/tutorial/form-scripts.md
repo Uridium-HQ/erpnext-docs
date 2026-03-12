@@ -37,7 +37,7 @@ We can make this process easier. Write the following code in **library_member.js
 
 Now, refresh your page and go to the Library Member form. You should see two buttons on the top right. Click on them to try them out. They will automatically set the Library Member in each of those documents making the process easier.
 
-![Library Member Form Actions](https://docs.frappe.io/assets/b0f2a96c07b6.png)
+![Library Member Form Actions](../../../../../assets/b0f2a96c07b6.png)
 
 We have only scratched the surface here. You can do a lot more with Form Scripts. Learn more about the API at [Form Scripts API](../../../v14/user/en/api/form.md).
 

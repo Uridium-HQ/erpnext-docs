@@ -16,7 +16,7 @@ It is similar to a Sales Order but instead of sending it to an external party, y
 
 > Home > Buying > Purchasing > Purchase Order
 
-![Buying Flow](https://docs.frappe.io/assets/910d22e596d5.png)
+![Buying Flow](../../../../../assets/910d22e596d5.png)
 
   1. Prerequisites
 
@@ -133,14 +133,14 @@ For example, if you have bought your raw material in large quantities with UOM -
 
 
 
-![Purchase Order - UOM](https://docs.frappe.io/assets/dd06914f7544.png)
+![Purchase Order - UOM](../../../../../assets/dd06914f7544.png)
 
   1. Mention the UOM conversion factor. For example, (1); If one box has 1 kilo.
   2. Notice that the stock quantity will be updated accordingly.
 
 
 
-![Purchase Order - UOM](https://docs.frappe.io/assets/1fcc5e9a7455.png)
+![Purchase Order - UOM](../../../../../assets/1fcc5e9a7455.png)
 
 ### 3.6 Taxes and Charges
 
@@ -158,7 +158,7 @@ Make sure to mark all your taxes in the Taxes and Charges table correctly for an
 
 A Shipping Rule helps set the cost of shipping an Item. The cost will usually increase with the distance of shipping. To know more, visit the [Shipping Rule](../../../shipping-rule.md) page.
 
-![Purchase Order Taxes](https://docs.frappe.io/assets/a52150500763.png)
+![Purchase Order Taxes](../../../../../assets/a52150500763.png)
 
 For example, you buy Items worth X and sell them for 1.3X. So, your Customer pays 1.3 times the tax you pay your Supplier. Since you have already paid tax to your Supplier for X, what you owe your government is only the tax on 0.3X.
 

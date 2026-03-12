@@ -27,7 +27,7 @@ In ERPNext, managing naming conventions systematically helps maintain consistenc
 
 🔹 Higher priority rules (e.g., 10) are applied before lower ones (e.g., 5). 🔹 If multiple rules match, the one with the highest priority is used.
 
-![Selsct a DocType](https://docs.frappe.io/assets/ecbc889a8194.png)
+![Selsct a DocType](../../assets/ecbc889a8194.png)
 
   3. Add Rule Conditions ➕ You can add multiple conditions per rule. The rule is applied only when all conditions are satisfied.
 

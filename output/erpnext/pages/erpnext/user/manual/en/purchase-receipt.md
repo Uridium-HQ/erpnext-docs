@@ -18,7 +18,7 @@ To access the Purchase Receipt list, go to:
 
 > Home > Stock > Stock Transactions > Purchase Receipt
 
-![Purchase Receipt flow](https://docs.frappe.io/assets/5dadcd91b023.png)
+![Purchase Receipt flow](../../../../../assets/5dadcd91b023.png)
 
 ## 1\. Prerequisites
 
@@ -98,7 +98,7 @@ The following Warehouses set will apply to all Items in the Items table of the P
 
 
 
-![Purchase Receipt Items table](https://docs.frappe.io/assets/e9df5c3b3d1c.png)
+![Purchase Receipt Items table](../../../../../assets/e9df5c3b3d1c.png)
 
   * **Rate** : The Rate is fetched if set in the Price List and the total Amount is calculated.
   * **Item Tax Template** : You can set an Item Tax Template to apply a specific Tax amount to this particular Item. To know more, visit this page.
@@ -131,12 +131,12 @@ After enabling Inspection Criteria in the Item form for Purchase and attaching a
 
 To know more, visit the Quality Inspection page.
 
-![Quality Inspection](https://docs.frappe.io/assets/ec97ff958cb0.png)
+![Quality Inspection](../../../../../assets/ec97ff958cb0.png)
 
 ### 3.5 Raw Materials Consumed
 
   * The **Consumed Items** table contains the Raw Materials consumed by the Supplier in order to receive the Finished Item.
-  * The **Get Current Stock** button will fetch the current stock of the Consumed Items from the Supplier Warehouse. ![Purchase Receipt](https://docs.frappe.io/assets/8926488e51bc.png)
+  * The **Get Current Stock** button will fetch the current stock of the Consumed Items from the Supplier Warehouse. ![Purchase Receipt](../../../../../assets/8926488e51bc.png)
 
 
 
@@ -189,7 +189,7 @@ After submitting the Purchase Receipt, the following can be created:
 
 
 
-![Purchase Receipt submit](https://docs.frappe.io/assets/c90a7ac568f5.png)
+![Purchase Receipt submit](../../../../../assets/c90a7ac568f5.png)
 
 ### 3.11 Returning a Purchase Order
 

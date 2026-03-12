@@ -27,7 +27,7 @@ In ERPNext transactions, there are two fields that pertain to Incoterms: the "In
 
 
 
-![after](https://docs.frappe.io/assets/b073d8fc34a7.png)
+![after](../../assets/b073d8fc34a7.png)
 
 ### Further reading
 

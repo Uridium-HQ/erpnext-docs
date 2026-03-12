@@ -18,7 +18,7 @@ Job Card allows each Operation's workstation to issue a “Material Request” a
 
 Job Card completion will change the production status in Work Order, we can track the completion of production progress for each of the Operations defined in the Work Order.
 
-![Work Order](https://docs.frappe.io/assets/a59e7e10773e.png)
+![Work Order](../../assets/a59e7e10773e.png)
 
 To access the Job Card list, go to:
 
@@ -41,7 +41,7 @@ Job Card for Operations is automatically created when a Work Order is submitted.
 
 This is what a Job Card looks like:
 
-![Job Card](https://docs.frappe.io/assets/0c89c1f0c4f0.png)
+![Job Card](../../assets/0c89c1f0c4f0.png)
 
 To use a Job Card follow these steps:
 
@@ -60,7 +60,7 @@ Each Job Card created will have Workstation & Operations assigned. The raw mater
 
 On submitting a Work Order, Job Cards will be auto-created based on the values in the Operations table.
 
-![Create Shareholder](https://docs.frappe.io/assets/5765c26be9a8.gif)
+![Create Shareholder](../../assets/5765c26be9a8.gif)
 
 ### 2.1 Select Work Order with Item to Manufacture
 
@@ -68,31 +68,31 @@ You can select 'Transfer Material Against' as 'Job Card' on the Bill of Material
 
 In the Work Order, you can select the option:
 
-![Create Shareholder](https://docs.frappe.io/assets/5ba4832f2015.png)
+![Create Shareholder](../../assets/5ba4832f2015.png)
 
 ### 2.3 Using a Job Card
 
 Employee assignment and timing detail will also be defined in Job Card. The time taken to do a job can be recorded. If multiple employees are working on the same Operation, add new job cards by clicking on the 'Create Job' Card button.
 
-![Create Shareholder](https://docs.frappe.io/assets/ac68ed6686b3.png)
+![Create Shareholder](../../assets/ac68ed6686b3.png)
 
 ### 2.4 Material Request against Job Card
 
 A Material Request will be raised from the Job Card as a basis/order to prepare raw material required for the manufacturing process. The Material Request raised will have its reference to the original Job Card number.
 
-![Create Shareholder](https://docs.frappe.io/assets/6ebd8dc9b0fd.png)
+![Create Shareholder](../../assets/6ebd8dc9b0fd.png)
 
 Track the Manufacturing Progress in The Work Order by The Completion of Each Operations defined in Work Order.
 
 Job Card completion allows you to track the manufacturing progress inside the Work Order by looking at the completion of each Operation related to the Work Order.
 
-![Work Order Job Card Completion](https://docs.frappe.io/assets/c5d17816b4b3.png)
+![Work Order Job Card Completion](../../assets/c5d17816b4b3.png)
 
 ### 2.5 Scrap Items
 
 While completing the operations, there might be chances that some scrap materials will be produced. This scrap materials are required to be added in the inventory. For that user needs to put the details of the scrap items in the job card. User can also set the defective materials / broken materials in the scrap items table.
 
-![Work Order Job Card Completion](https://docs.frappe.io/assets/0a542e18fcc9.png)
+![Work Order Job Card Completion](../../assets/0a542e18fcc9.png)
 
 ## 3\. Features
 
@@ -102,7 +102,7 @@ While completing the operations, there might be chances that some scrap material
 
 For production orders, the quality of in-process (semi-finished) goods also needs to be tracked. It is defined by the process (operation) performed on it which is in turn defined in the Job Card. In-process tests are different than incoming and outgoing material tests. Monitoring quality during manufacturing helps to make sure that the finished product produced is of the desired quality. You can create a Quality Inspection for the Production Item against the Job Card.
 
-![Quality Inspection Against Job Card](https://docs.frappe.io/assets/3d924a99a8d0.png) ![Quality Inspection link in Job Card](https://docs.frappe.io/assets/44d12ac958d2.png)
+![Quality Inspection Against Job Card](../../assets/3d924a99a8d0.png) ![Quality Inspection link in Job Card](../../assets/44d12ac958d2.png)
 
 For more details, refer the [Quality Inspection](quality-inspection.md) page.
 

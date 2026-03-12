@@ -81,7 +81,7 @@ Let's edit **article.html** first. Frappe uses Bootstrap 4 by default for it's w
 
 Now, go to any Article and click on **See on Website**. If you have filled in all fields of your Article, you should see a page like this:
 
-![Article Portal Page](https://docs.frappe.io/assets/2e8b9c529a49.png)
+![Article Portal Page](../../../../../../assets/2e8b9c529a49.png)
 
 Now, open http://library.test:8000/articles. This should show the list of articles, but it is also pretty barebones. Let's customize the HTML.
 
@@ -102,7 +102,7 @@ Edit the **article\\_row.html** and add the following HTML:
 
 Now, the articles list should look prettier. You can click on any article to view it's details.
 
-![Articles Portal Page](https://docs.frappe.io/assets/a6b1b0d3a687.png)
+![Articles Portal Page](../../../../../../assets/a6b1b0d3a687.png)
 
 Good job on following the tutorial so far.
 

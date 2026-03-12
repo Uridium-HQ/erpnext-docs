@@ -30,7 +30,7 @@ To access Payment Term go to:
 
 > Home > Accounting > Accounting Masters > Payment Term
 
-![Payment Terms](https://docs.frappe.io/assets/ef7fc88ba768.png)
+![Payment Terms](../../assets/ef7fc88ba768.png)
 
 ## 1\. How to create a Payment Term
 
@@ -71,7 +71,7 @@ You can set up a discounted payment terms such that if payment is done within th
 
 
 
-![Payment Terms with Discount](https://docs.frappe.io/assets/14608fbb5cd3.png)
+![Payment Terms with Discount](../../assets/14608fbb5cd3.png)
 
 You can now link the Payment Terms with an Invoice and on creating the payment against such invoice, the discount will be applied automatically.
 
@@ -87,7 +87,7 @@ For ease of use, you can also set a Payment Terms Template and simply reselect i
 
 Once you have composed the Payment Terms Template, you can use them in sales and purchase transactions. Based on the value defined for Payment Terms and transaction value, the payment schedule will be defined, with a Due Date for each payment slab.
 
-![Payment Schedule](https://docs.frappe.io/assets/f1b2baaa749c.png)
+![Payment Schedule](../../assets/f1b2baaa749c.png)
 
 Note: The Payment Schedule can be shown in the Print View using the [Print Format Builder](print-format-builder.md).
 

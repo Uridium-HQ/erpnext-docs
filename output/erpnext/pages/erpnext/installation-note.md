@@ -29,7 +29,7 @@ An Installation Note is usually created from a Delivery Note. You can also creat
 
 
 
-![Installation Note](https://docs.frappe.io/assets/721c004f9fdb.png)
+![Installation Note](../../assets/721c004f9fdb.png)
 
 Any additional remarks about the installation can be added. If the Item is serialized, the serial numbers can be added in Items table.
 

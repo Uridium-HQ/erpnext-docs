@@ -25,7 +25,7 @@ To create a Script Report, type "new report" in the awesomebar and hit enter.
 
 
 
-![New Script Report](https://docs.frappe.io/assets/f0517c6c9be8.png) _New Script Report_
+![New Script Report](../../../../../../../assets/f0517c6c9be8.png) _New Script Report_
 
 ### Standard and Custom Reports
 
@@ -41,7 +41,7 @@ You can configure the columns and filters in the Report document. Here you can s
 
 Filters can be used as formatting variables in the query. For example a filters of type `customer` can be used as `%(customer)s` in the query.
 
-![Standard Columns and Filters](https://docs.frappe.io/assets/0fd1169ebf3a.png)
+![Standard Columns and Filters](../../../../../../../assets/0fd1169ebf3a.png)
 
 ### Writing the script
 

@@ -29,7 +29,7 @@ Let's assume that you have a multi company setup spanning across different count
 
 
 
-![Screenshot 2024-05-30 at 1.07.03 PM](https://docs.frappe.io/assets/8f0925e63931.png)
+![Screenshot 2024-05-30 at 1.07.03 PM](../../assets/8f0925e63931.png)
 
 ### 1.2 Set up the Session Default Values
 
@@ -37,23 +37,23 @@ Let's assume that you have a multi company setup spanning across different count
 
 
 
-![Screenshot 2024-05-30 at 1.23.34 PM](https://docs.frappe.io/assets/f2a2e2aff4ee.png) 2\. A 'Session Defaults' prompt will appear. Set the default values for the respective fields and Save.
+![Screenshot 2024-05-30 at 1.23.34 PM](../../assets/f2a2e2aff4ee.png) 2\. A 'Session Defaults' prompt will appear. Set the default values for the respective fields and Save.
 
-![Screenshot 2024-05-30 at 1.09.45 PM](https://docs.frappe.io/assets/03c58b5bcc1f.png)
+![Screenshot 2024-05-30 at 1.09.45 PM](../../assets/03c58b5bcc1f.png)
 
 After saving, the default values will be set everywhere.
 
 You can open a new Sales Order and check. The company field is set to the default Company.
 
-![Screenshot 2024-05-30 at 1.12.02 PM](https://docs.frappe.io/assets/189ae5f4fda5.png)
+![Screenshot 2024-05-30 at 1.12.02 PM](../../assets/189ae5f4fda5.png)
 
 The default currency is also set to INR as defined in the Session Defaults
 
-![Screenshot 2024-05-30 at 1.13.50 PM](https://docs.frappe.io/assets/bf17990e1419.png)
+![Screenshot 2024-05-30 at 1.13.50 PM](../../assets/bf17990e1419.png)
 
 Once you open any report, the default company and currency will be Cooper Hospital and INR respectviely.
 
-![Screenshot 2024-05-30 at 1.15.45 PM](https://docs.frappe.io/assets/b8956600b470.png)
+![Screenshot 2024-05-30 at 1.15.45 PM](../../assets/b8956600b470.png)
 
   2. Features
 
@@ -69,7 +69,7 @@ The default values are set for that particular user for the ongoing session. Onc
 
 The Settings button is only visible to the System Manager or to a person having permission to access 'Session Default Settings'. This button navigates you to Session Default Settings where you can add or remove the document types for which you want to set Session Defaults.
 
-![Screenshot 2024-05-30 at 1.21.51 PM](https://docs.frappe.io/assets/e090e8e860e8.png)
+![Screenshot 2024-05-30 at 1.21.51 PM](../../assets/e090e8e860e8.png)
 
 ### 3\. Related Topics
 

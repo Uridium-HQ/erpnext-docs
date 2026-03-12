@@ -28,7 +28,7 @@ Here Accounting Period can be used to limit the time period within which transac
 
 ### 1.1 What is the "Closed" option for the selected transactions used for?
 
-![Accounting Period Child Table](https://docs.frappe.io/assets/784a3a07d68e.png)
+![Accounting Period Child Table](../../assets/784a3a07d68e.png)
 
 The "Closed" option in the child table for transaction doctypes is used to select which of them are to be restricted after the end of the Accounting Period.
 
@@ -37,11 +37,11 @@ Do note that if the Accounting Period ends and if any of the selected transactio
   1. Enter a name for the Accounting Period.
   2. Define a time frame by setting Start and End Dates.
   3. Add or remove transactions from the table. Note that all transactions listed in the table with "Closed" option checked will be restricted after the accounting period ends.
-  4. Save and Submit. ![Accounting Period](https://docs.frappe.io/assets/1bef9ac36540.png)
+  4. Save and Submit. ![Accounting Period](../../assets/1bef9ac36540.png)
 
 
 
-If you try to save a closed transaction after its Accounting Period ends, you will see a validation error preventing you from doing so. ![Accounting Period](https://docs.frappe.io/assets/f327166bfee0.png)
+If you try to save a closed transaction after its Accounting Period ends, you will see a validation error preventing you from doing so. ![Accounting Period](../../assets/f327166bfee0.png)
 
 > Note: No role can save or submit transactions defined in the Accounting Period, even the Role set in 'Role Allowed to Set Frozen Accounts & Edit Frozen Entries' in [Account Settings](accounts-settings.md).
 

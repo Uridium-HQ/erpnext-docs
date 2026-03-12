@@ -39,7 +39,7 @@ To access User Permissions, go to: > Home > User and Permissions > User Permissi
 
 
 
-![Creating a new user permission](https://docs.frappe.io/assets/e16f5d21b85c.png)
+![Creating a new user permission](../../assets/e16f5d21b85c.png)
 
 > Note: Only a single user permission can be set as default for a particular document type for a specific user.
 
@@ -57,7 +57,7 @@ In Advanced Control, you can have better command over where the User Permission 
 
 You can optionally apply user permissions only for specific document type by setting the Document Type after unchecking the Apply To All Document Types checkbox. Setting **Applicable For** option will make the current user permission applicable only under the selected Document Type master.
 
-![Applicable For](https://docs.frappe.io/assets/13fb30f5504f.png)
+![Applicable For](../../assets/13fb30f5504f.png)
 
 In the above User Permission, the user will be able to access only Sales Orders of the selected company.
 
@@ -71,7 +71,7 @@ Let's assume **For Value** , 'Unico Plastics Inc.', has a child company 'Unico T
 
 **Hide Descendants** is visible only on selecting a Tree View DocType. By enabling this checkbox, permissions for descendants of **For Value** will not be granted.
 
-![Hide Descendant Permissions](https://docs.frappe.io/assets/6bc82acdbb66.png)
+![Hide Descendant Permissions](../../assets/6bc82acdbb66.png)
 
 A user that can view records of 'Unico Plastics Inc.' will not be able to view those of 'Unico Toys'.
 
@@ -81,7 +81,7 @@ Another way of allowing documents to be seen by everyone that have been restrict
 
 For example, you don't want Assets to be restricted for any user, then select **Asset** in form type. Under the fields table, expand the Company field and tick on "Ignore User Permissions".
 
-![Ignore User Permissions on specific properties](https://docs.frappe.io/assets/5829d4376291.png)
+![Ignore User Permissions on specific properties](../../assets/5829d4376291.png)
 
 ### 2.3 Strict Permissions
 
@@ -102,11 +102,11 @@ Finally, once you have created your air-tight permission model, and you want to 
 
 Ticking on the Show Permissions checkbox will show the read/write/submit and other access levels.
 
-![Permitted Documents for User report](https://docs.frappe.io/assets/b8c88ca0b6bb.png)
+![Permitted Documents for User report](../../assets/b8c88ca0b6bb.png)
 
 Note: If you cannot access Sales Order or any other document type in this list, make sure you've set the [roles](role-based-permissions.md) correctly.
 
-For example, the user, Bruce is restricted to Company 'Unico Plastics Inc.' ![User restricted to Company](https://docs.frappe.io/assets/d9eb4cc5d20d.png)
+For example, the user, Bruce is restricted to Company 'Unico Plastics Inc.' ![User restricted to Company](../../assets/d9eb4cc5d20d.png)
 
 ### 3\. Related Topics
 

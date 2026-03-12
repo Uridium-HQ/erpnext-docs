@@ -22,19 +22,19 @@ Bank accounts in foreign currencies can be for other branches of your own compan
 
 To get started with multi-currency accounting, you need to assign accounting currency in the Account record. You can define Currency from [Chart of Accounts](chart-of-accounts.md) while creating an Account.
 
-![Set Currency in Account](https://docs.frappe.io/assets/2edd2dd06678.png)
+![Set Currency in Account](../../assets/2edd2dd06678.png)
 
 ### 1.2 New account with different currency
 
 You can also assign/modify the currency by opening specific Account records for existing Accounts.
 
-![Update Currency in Ledger](https://docs.frappe.io/assets/701b29475429.png)
+![Update Currency in Ledger](../../assets/701b29475429.png)
 
 ### 1.3 Currency for Customer/Supplier
 
 For Customer/Supplier (Party), you can also define its billing currency in the party record. If the party's accounting currency is different from Company Currency, you should mention Default Receivable/Payable Account in that currency.
 
-![Billing Currency in Customer](https://docs.frappe.io/assets/764640c35c83.png)
+![Billing Currency in Customer](../../assets/764640c35c83.png)
 
 ### 1.4 After setup
 
@@ -71,7 +71,7 @@ Now, in Invoice, Paid Amount will be entered in transaction currency, instead of
 
 Outstanding Amount and Advance Amount will always be calculated and shown in Customer's Account Currency. The paid amounts will be reflected in the [Payment Entry](payment-entry.md):
 
-![Multi-currency in Payment Entry](https://docs.frappe.io/assets/56e1ae8c2704.png)
+![Multi-currency in Payment Entry](../../assets/56e1ae8c2704.png)
 
 ### 3.2 Purchase Invoice
 
@@ -81,11 +81,11 @@ Similarly, in a Purchase Invoice, accounting entries will be made based on Suppl
 
 In Journal Entry, you can make transactions in different currencies. There is a checkbox 'Multi Currency', to enable multi-currency entries. Only when 'Multi Currency' option selected, you will be able to select accounts which have different currencies.
 
-![Multi-currency in Journal Entry](https://docs.frappe.io/assets/d316e68c0e86.png)
+![Multi-currency in Journal Entry](../../assets/d316e68c0e86.png)
 
 In the Accounts table, on the selection of a foreign currency account, the system will show the Currency section and fetch Account Currency and Exchange Rate automatically. You can change/modify the Exchange Rate later manually. Debit/Credit amount should be entered in Account Currency, the system will calculate and show the Debit/Credit amount in Company Currency automatically.
 
-![Company and Transaction Currency in Journal ENtry](https://docs.frappe.io/assets/0688704b97d0.png)
+![Company and Transaction Currency in Journal ENtry](../../assets/0688704b97d0.png)
 
 ## 4\. Reports
 
@@ -93,13 +93,13 @@ In the Accounts table, on the selection of a foreign currency account, the syste
 
 In General Ledger, the system shows debit/credit amount in party currency **if filtered** by an Account and that Account Currency is different from Company Currency.
 
-![Multi-currency in General Ledger](https://docs.frappe.io/assets/45cd89d60f72.png)
+![Multi-currency in General Ledger](../../assets/45cd89d60f72.png)
 
 ### 4.2 Accounts Receivable/Payable
 
 In Accounts Receivable/Payable report, the system shows all the amounts in Party/Account Currency.
 
-![Multi-currency in Accounts Receivables](https://docs.frappe.io/assets/d9e2507a4716.png)
+![Multi-currency in Accounts Receivables](../../assets/d9e2507a4716.png)
 
 ### 5\. Related Topics
 

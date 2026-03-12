@@ -28,7 +28,7 @@ In order to give ERPNext access to Plaid, you need to add the following three pa
 
 In order to activate Plaid on an instance, click on the button "Enable" in the Plaid Settings DocType.
 
-![Enable Plaid](https://docs.frappe.io/assets/7c08b92ae818.gif)
+![Enable Plaid](../../assets/7c08b92ae818.gif)
 
 Once activated, you can create a new account directly from the Bank Reconciliation dashboard.
 
@@ -36,13 +36,13 @@ Once activated, you can create a new account directly from the Bank Reconciliati
 
 In order to link one of your existing bank accounts to ERPNext, click on "Link a new bank account" and follow the steps proposed by Plaid.
 
-![Link your bank account](https://docs.frappe.io/assets/945bd375e5d6.gif)
+![Link your bank account](../../assets/945bd375e5d6.gif)
 
 ## Bank synchronization
 
 In order to synchronize a bank account with ERPNext, select an account and click on the "Action" button to select "Synchronize this account".
 
-![Synchronize your bank account](https://docs.frappe.io/assets/1e56eed9f33f.gif)
+![Synchronize your bank account](../../assets/1e56eed9f33f.gif)
 
 The synchronization is based on the "Last integration date" available in the "Bank Account" doctype.
 

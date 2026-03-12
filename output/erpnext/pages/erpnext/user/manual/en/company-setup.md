@@ -36,7 +36,7 @@ The abbreviation also appears in various accounts, cost centers, taxes templates
 
 You can also attach a company logo and add a description for the company.
 
-![Company Master](https://docs.frappe.io/assets/1eb992cffc7f.png)
+![Company Master](../../../../../assets/1eb992cffc7f.png)
 
 ### Multi Company Structure
 

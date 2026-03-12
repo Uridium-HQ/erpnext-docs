@@ -16,16 +16,16 @@ Stock reservation, also known as inventory reservation, refers to the practice o
 
 ### 1\. Prerequisites
 
-  * Enable Stock Reservation in Stock Settings. ![stock-settings](https://docs.frappe.io/assets/7baa0fc176cd.png)
+  * Enable Stock Reservation in Stock Settings. ![stock-settings](../../../../../assets/7baa0fc176cd.png)
 
 
 
 ### 2\. Stock Reservation against Sales Order
 
-  * Create a Sales Order. ![sales-order](https://docs.frappe.io/assets/cb2eff6eddc4.png)
-  * Check the reserve stock for items you want to reserve. ![sales-order-item](https://docs.frappe.io/assets/2eb76435a814.png)
-  * Click on **Stock Reservation** , then select **Reserve**. Choose the warehouse and quantity, then click on the **Reserve Stock** button. ![sales-order-reserve](https://docs.frappe.io/assets/6903f1491277.gif)
-  * Stock reservation entries are created against the sales order items. ![stock-reservation-entries](https://docs.frappe.io/assets/1b87da5d34fd.gif)
+  * Create a Sales Order. ![sales-order](../../../../../assets/cb2eff6eddc4.png)
+  * Check the reserve stock for items you want to reserve. ![sales-order-item](../../../../../assets/2eb76435a814.png)
+  * Click on **Stock Reservation** , then select **Reserve**. Choose the warehouse and quantity, then click on the **Reserve Stock** button. ![sales-order-reserve](../../../../../assets/6903f1491277.gif)
+  * Stock reservation entries are created against the sales order items. ![stock-reservation-entries](../../../../../assets/1b87da5d34fd.gif)
 
 
 
@@ -33,7 +33,7 @@ Stock reservation, also known as inventory reservation, refers to the practice o
 
   * Create a Sales Order.
   * Create a Pick List for the Sales Order.
-  * In Pick List click on **Stock Reservation** , then select **Reserve** , the Stock Reservation Entries will be created against the Pick List. ![sales-order-pick-list-reserve](https://docs.frappe.io/assets/0aae757a42c4.gif)
+  * In Pick List click on **Stock Reservation** , then select **Reserve** , the Stock Reservation Entries will be created against the Pick List. ![sales-order-pick-list-reserve](../../../../../assets/0aae757a42c4.gif)
 
 
 
@@ -53,11 +53,11 @@ There are two ways to unreserve the stock.
 
   1. Stock Unreservation from Sales Order or Pick List:
 
-     * Open a document and click on **Stock Reservation > Unreserve** button, the listed Stock Reservation Entries get cancelled. ![sales-order-unreserve](https://docs.frappe.io/assets/856f93ce56eb.gif)
+     * Open a document and click on **Stock Reservation > Unreserve** button, the listed Stock Reservation Entries get cancelled. ![sales-order-unreserve](../../../../../assets/856f93ce56eb.gif)
   2. Unreserve the stock from the Stock Reservation Entry DocType:
 
-     * 2.1 Open a Stock Reservation Entry and cancel it by clicking the **Cancel** button. ![stock-reservation-entry-cancel](https://docs.frappe.io/assets/bdf5deefa69f.gif)
-     * 2.2 Go to the Stock Reservation Entry List, select the entries you wish to cancel, and then click on **Actions > Cancel**. ![stock-reservation-entries-cancel](https://docs.frappe.io/assets/3e8b405065ef.gif)
+     * 2.1 Open a Stock Reservation Entry and cancel it by clicking the **Cancel** button. ![stock-reservation-entry-cancel](../../../../../assets/bdf5deefa69f.gif)
+     * 2.2 Go to the Stock Reservation Entry List, select the entries you wish to cancel, and then click on **Actions > Cancel**. ![stock-reservation-entries-cancel](../../../../../assets/3e8b405065ef.gif)
 
 
 

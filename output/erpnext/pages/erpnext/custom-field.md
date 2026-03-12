@@ -20,7 +20,7 @@ To access Custom Field, go to:
 
 You can also go to the list view of any DocType and select Customize from the Menu options.
 
-![Customize Option in List View](https://docs.frappe.io/assets/d15fcea7f4ff.png)
+![Customize Option in List View](../../assets/d15fcea7f4ff.png)
 
   1. How to create a Custom Field
 
@@ -36,13 +36,13 @@ You can also go to the list view of any DocType and select Customize from the Me
 
 
 
-![New Custom Field](https://docs.frappe.io/assets/21adae573182.png)
+![New Custom Field](../../assets/21adae573182.png)
 
 _Learn more about Field types_ [_here_](field-types.md) _._
 
 You can also go to [Customize Form](customize-form.md) and add, edit or remove a Field in a particular Form.
 
-![Add Custom Field From Customize Form](https://docs.frappe.io/assets/2026e0cc55c9.gif)
+![Add Custom Field From Customize Form](../../assets/2026e0cc55c9.gif)
 
 ### 1.1. Additional Details
 
@@ -50,11 +50,11 @@ You can also go to [Customize Form](customize-form.md) and add, edit or remove a
 
 
 
-![Custom Field with Fieldtype as Select](https://docs.frappe.io/assets/ae39e82c2527.png) 2\. **Fetch From** : When you want your Custom Field to be 'Link Field', you would be required to specify the Form to which this Field is to be linked. E.g., you want to create a Custom Field 'Project' in the DocType 'Item'. You would be required to enter to specify your Field Type as 'Link' and enter 'Project' in the Fetch From Field to ensure that the Field is updated with the list of all the required DocTypes. 3\. **Fetch If Empty** : This check-box will ensure that this Field will be not overwritten based on Fetch From if a value already exists. 4\. **Default Value** : Enter the default value of the Field which you would want to be fetched for this Field. 5\. **Depends On** : You can define a condition here for the Field to be displayed. E.g., in the DocType Item, two fields 'Asset Category' and 'Asset Naming Series' will only appear if the Field 'Is Fixed Asset' is checked. The dependency condition here would be `is_fixed_asset`.
+![Custom Field with Fieldtype as Select](../../assets/ae39e82c2527.png) 2\. **Fetch From** : When you want your Custom Field to be 'Link Field', you would be required to specify the Form to which this Field is to be linked. E.g., you want to create a Custom Field 'Project' in the DocType 'Item'. You would be required to enter to specify your Field Type as 'Link' and enter 'Project' in the Fetch From Field to ensure that the Field is updated with the list of all the required DocTypes. 3\. **Fetch If Empty** : This check-box will ensure that this Field will be not overwritten based on Fetch From if a value already exists. 4\. **Default Value** : Enter the default value of the Field which you would want to be fetched for this Field. 5\. **Depends On** : You can define a condition here for the Field to be displayed. E.g., in the DocType Item, two fields 'Asset Category' and 'Asset Naming Series' will only appear if the Field 'Is Fixed Asset' is checked. The dependency condition here would be `is_fixed_asset`.
 
-![Depends On Option](https://docs.frappe.io/assets/a32cd1eda083.png) 6\. **Field Description** : You can add the description of the Field here which can be displayed below this Field.
+![Depends On Option](../../assets/a32cd1eda083.png) 6\. **Field Description** : You can add the description of the Field here which can be displayed below this Field.
 
-![Custom Field Description](https://docs.frappe.io/assets/f658c5dde66f.png) 7\. **Permission Level** : This will allow you to specify which roles within your organization will be able to edit this Field. You can go through [Role Based Permissions](role-based-permissions.md) for more understanding on this. 8\. **In Preview** : If [Show Preview Popup](customize-form.md) for the document type is checked, the Field will be included in the popup that appears on hovering over links of the document type (in list view and other link fields). 9\. **Width** : This will define the width allocated to this Field while viewing the Form in a Grid View.
+![Custom Field Description](../../assets/f658c5dde66f.png) 7\. **Permission Level** : This will allow you to specify which roles within your organization will be able to edit this Field. You can go through [Role Based Permissions](role-based-permissions.md) for more understanding on this. 8\. **In Preview** : If [Show Preview Popup](customize-form.md) for the document type is checked, the Field will be included in the popup that appears on hovering over links of the document type (in list view and other link fields). 9\. **Width** : This will define the width allocated to this Field while viewing the Form in a Grid View.
 
 ### 1.2. More Properties
 

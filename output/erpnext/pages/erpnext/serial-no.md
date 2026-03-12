@@ -33,7 +33,7 @@ To access the Serial Number list, go to: > Home > Stock > Serial No and Batch > 
 Before creating and using a Serial Number, it is advised that you create the following first:
 
   * [Item](item.md)
-  * Enable 'Has Serial No' in the Item master ![Serial No Enabled](https://docs.frappe.io/assets/80975ba1731c.png)
+  * Enable 'Has Serial No' in the Item master ![Serial No Enabled](../../assets/80975ba1731c.png)
 
 
   2. How to create a Serial Number
@@ -46,7 +46,7 @@ Usually, Serial Numbers are auto-created when transactions are made against a se
 
 For example, a series was set for the following Item as 'PB2L.#####'. Then a Stock Entry was submitted to receive the Item. The Serial Numbers were created accordingly.
 
-![Serial No Created](https://docs.frappe.io/assets/abc30c713250.png)
+![Serial No Created](../../assets/abc30c713250.png)
 
 However, if you want to create a Serial No _manually_ follow these steps:
 
@@ -60,7 +60,7 @@ However, if you want to create a Serial No _manually_ follow these steps:
 
 Inventory of an Item can only be affected if the Serial No is transacted via a Stock transaction (Stock Entry, Purchase Receipt, Delivery Note, Sales Invoice). When a new Serial No is created directly, its Warehouse cannot be set.
 
-![Serial Number](https://docs.frappe.io/assets/990fc06a0a7b.png)
+![Serial Number](../../assets/990fc06a0a7b.png)
 
 ### 2.1 Notes about Serial Number
 

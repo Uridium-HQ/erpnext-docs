@@ -46,7 +46,7 @@ You can use this method to show a progress bar in a dialog:
     
 [/code]
 
-![frappe publish realtime](https://docs.frappe.io/assets/f1336f0d91fa.png)
+![frappe publish realtime](../../../../../../assets/f1336f0d91fa.png)
 
 [ Previous Page Form Tours  ](../form-tours.md) [ Next Page Background Jobs ](background_jobs.md)
 

@@ -31,7 +31,7 @@ To access the Shareholder list, go to:
 
 
 
-![Shareholder](https://docs.frappe.io/assets/0cf5d044abbb.png)
+![Shareholder](../../assets/0cf5d044abbb.png)
 
 A Shareholder can avail the features (operations) in the [Share Transfer](share-transfer.md) process. Only after shares are issued to them, a Folio Number and the shares will be visible.
 

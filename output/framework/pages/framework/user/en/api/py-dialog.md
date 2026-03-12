@@ -42,7 +42,7 @@ The argument list includes:
     
 [/code]
 
-![frappe.msgprint](https://docs.frappe.io/assets/633b09d2189d.png) _frappe.msgprint_
+![frappe.msgprint](../../../../../assets/633b09d2189d.png) _frappe.msgprint_
 
 `primary_action` can contain a `server_action` **or** `client_side` action which must contain dotted paths to the respective methods. The JavaScript function must be a globally available function. You can also pass `hide_on_success` to close the message after the action is successfully completed.
 [code] 
@@ -63,7 +63,7 @@ The argument list includes:
     
 [/code]
 
-![frappe.msgprint with primary action](https://docs.frappe.io/assets/38f40115a00e.png) _frappe.msgprint with primary action_
+![frappe.msgprint with primary action](../../../../../assets/38f40115a00e.png) _frappe.msgprint with primary action_
 
 ### frappe.throw
 
@@ -83,7 +83,7 @@ This method will raise an exception as well as show a message in Desk. It is ess
     
 [/code]
 
-![Throw-py](https://docs.frappe.io/assets/633b09d2189d.png) _frappe.throw_
+![Throw-py](../../../../../assets/633b09d2189d.png) _frappe.throw_
 
 [ Previous Page FullTextSearch API ](full-text-search.md) [ Next Page Query Builder  ](query-builder.md)
 

@@ -34,13 +34,13 @@ When you login, you're presented with the Desk, it features a persistent sidebar
 
 [About Workspace →](../../v14/user/en/desk/workspace.md)
 
-![Desktop](https://docs.frappe.io/assets/8c1069121528.png)
+![Desktop](../../../../assets/8c1069121528.png)
 
 ## Awesomebar
 
 Awesomebar helps you to navigate anywhere in the system, create new records, search in documents and even perform math operations.
 
-![Awesomebar](https://docs.frappe.io/assets/545258ec0613.png) _Navigating ToDo using Awesomebar_
+![Awesomebar](../../../../assets/545258ec0613.png) _Navigating ToDo using Awesomebar_
 
 ## List View
 
@@ -62,11 +62,11 @@ The List view is packed with features. Some of them are:
 
 Form view is used to view the records in a Form Layout. This view has a lot of things going on. But the primary purpose of it is to view and edit records. A document can be assigned to or shared with other users and it can have arbitrary attachments and tags, all of which can be seen in the form sidebar.
 
-![Form View](https://docs.frappe.io/assets/3c6bc21bca63.png) _Form View_
+![Form View](../../../../assets/3c6bc21bca63.png) _Form View_
 
 When you scroll down to the bottom of the form, you will see the form timeline. The form timeline shows emails, comments, edits and other events in a reverse chronological order.
 
-![Form View](https://docs.frappe.io/assets/0453c15207cd.png) _Form Timeline_
+![Form View](../../../../assets/0453c15207cd.png) _Form Timeline_
 
 > Learn more about the [Form API](../../v14/user/en/api/form.md).
 
@@ -74,25 +74,25 @@ When you scroll down to the bottom of the form, you will see the form timeline. 
 
 Grid view is used as a table in the form view to insert multiple records. User can configure the columns of the grid view from the form.
 
-![Grid View](https://docs.frappe.io/assets/267cfe97254f.gif)
+![Grid View](../../../../assets/267cfe97254f.gif)
 
 ## Report Builder
 
 Report Builder is a generic tool to customize and build tabular data from a DocType. You can select columns to show, filters to apply, sort order and save this configuration by giving your report a name. You can also show Child Table data and also filter documents by their child records. You can also apply _Group By_ on a column with aggregation methods like Count, Sum and Average.
 
-![Report Builder](https://docs.frappe.io/assets/4cf24f6d595a.gif) _Report Builder Features_
+![Report Builder](../../../../assets/4cf24f6d595a.gif) _Report Builder Features_
 
 ## Tree View
 
 Frappe also supports tree structured records using the [Nested set model](https://en.wikipedia.org/wiki/Nested_set_model). If a doctype is configured to be a tree structure, it can be viewed in the Tree view.
 
-![Tree View](https://docs.frappe.io/assets/937983c32e79.png) _Tree View_
+![Tree View](../../../../assets/937983c32e79.png) _Tree View_
 
 ## Calendar View
 
 Calendar view can be configured for DocTypes with a start date and end date.
 
-![Calendar View](https://docs.frappe.io/assets/736f18a4c76d.png) _Calendar View_
+![Calendar View](../../../../assets/736f18a4c76d.png) _Calendar View_
 
 The configuration file should be named `{doctype}_calendar.js` and should exist in the doctype directory.
 
@@ -147,21 +147,21 @@ In case certain settings need to be overridden for the Event DocType's Gantt vie
     
 [/code]
 
-![Gantt View](https://docs.frappe.io/assets/83828d679b10.png) _Gantt View_
+![Gantt View](../../../../assets/83828d679b10.png) _Gantt View_
 
 ## Kanban View
 
 Kanban view can be created for any DocType that has a Select field with options. These options become the column names for the Kanban Board.
 
-![Kanban View](https://docs.frappe.io/assets/dffa49fcda67.png)
+![Kanban View](../../../../assets/dffa49fcda67.png)
 
 ## Dark Theme
 
-![Dark Theme](https://docs.frappe.io/assets/83f3f5b01af2.png)
+![Dark Theme](../../../../assets/83f3f5b01af2.png)
 
 Frappe Framework has a first class support of dark theme. To switch the theme, click on your avatar on top right of the screen and click on "Toggle Theme". Once you click "Toggle Theme", you'll see following modal from which you can easily switch between available themes. To switch to dark theme select "Timeless Night".
 
-![Desk Theme Modal](https://docs.frappe.io/assets/ee0bbe463807.png)
+![Desk Theme Modal](../../../../assets/ee0bbe463807.png)
 
 **Note:** You can also press CTRL + SHIFT + G to open this modal.
 

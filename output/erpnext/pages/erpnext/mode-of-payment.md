@@ -26,11 +26,11 @@ To access the Mode of Payment list, go to:
 
 
 
-![Mode of Payment](https://docs.frappe.io/assets/6dc25cf28b06.png)
+![Mode of Payment](../../assets/6dc25cf28b06.png)
 
 > **Tip** : Setting the default Account will this account fetched into [Payment Entries](payment-entry.md).
 
-![Mode of Payment](https://docs.frappe.io/assets/cf94489e8e99.gif)
+![Mode of Payment](../../assets/cf94489e8e99.gif)
 
 > **Note** : When making Payment Entries, the default bank account will be fetched in the following order if set:
 

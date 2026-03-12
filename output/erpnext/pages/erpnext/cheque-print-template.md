@@ -20,7 +20,7 @@ Using the Cheque Print Template you can generate a new Print Format for cheques.
 
 A sample cheque:
 
-![Sample Cheque](https://docs.frappe.io/assets/87cbdc450c30.jpg)
+![Sample Cheque](../../assets/87cbdc450c30.jpg)
 
   1. How to create a Cheque Print Template
 
@@ -36,7 +36,7 @@ A sample cheque:
 
 In the Cheque Print Template, for each value (say Payee, Date), exact coordinates are provided based on where that value should be printed on a cheque. Co-ordinates are provided in centimeters. Here is a representation the structure:
 
-![Sample Cheque](https://docs.frappe.io/assets/499a717bdf80.png)
+![Sample Cheque](../../assets/499a717bdf80.png)
 
 ### 1.1 New Format by Scanning
 
@@ -52,13 +52,13 @@ You can manually provide the co-ordinate for each value based on where you want 
 
 Based on coordinates provided for all the values, a preview will be shown as to how the values will be printed on the cheque.
 
-![Sample Cheque](https://docs.frappe.io/assets/48f9be9b8ca3.png)
+![Sample Cheque](../../assets/48f9be9b8ca3.png)
 
 ### 1.3 Printing Cheques
 
 New print format generated for the cheque will be visible in the Payment Entry form. After creating the payment entry, you will be able to print transaction details on the cheque.
 
-![Sample Cheque](https://docs.frappe.io/assets/547cafe5abb0.gif)
+![Sample Cheque](../../assets/547cafe5abb0.gif)
 
 ### 2\. Related Topics
 

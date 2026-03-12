@@ -18,7 +18,7 @@ To access the Journal Entry Template, go to:
 
 ## 1\. How to Create and use a Journal Entry Template:
 
-![Journal Entry Template](https://docs.frappe.io/assets/876dc8bcacaa.png)
+![Journal Entry Template](../../assets/876dc8bcacaa.png)
 
   1. Go to the Journal Entry Template List and click on New.
   2. Add the following details:
@@ -41,7 +41,7 @@ To access the Journal Entry Template, go to:
 
 
 
-![Creating Journal Entry From Template](https://docs.frappe.io/assets/41a65f732dfe.gif)
+![Creating Journal Entry From Template](../../assets/41a65f732dfe.gif)
 
 ## 3\. Related Topics
 

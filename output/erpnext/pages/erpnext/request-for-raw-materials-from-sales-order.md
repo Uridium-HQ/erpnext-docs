@@ -20,13 +20,13 @@ To do so, you can follow the below steps.
 
 
 
-![Request For Raw Materials](https://docs.frappe.io/assets/3641c0a18a34.png)
+![Request For Raw Materials](../../assets/3641c0a18a34.png)
 
   * It will open a dialog and display all the Finished Items having a BOM.
 
 
 
-![Request For Raw Materials Dialog](https://docs.frappe.io/assets/a0b481d7a201.png)
+![Request For Raw Materials Dialog](../../assets/a0b481d7a201.png)
 
   * Here, you can change the BOM as you want and choose the necessary options.
 
@@ -38,11 +38,11 @@ Suppose, enabling the **Include Exploded Items** will fetch the Raw Materials fr
 
 
 
-![Submitted Material Request](https://docs.frappe.io/assets/ad09d50855e0.png)
+![Submitted Material Request](../../assets/ad09d50855e0.png)
 
 Material Request generated for the Raw Material of the finished Item present in Sales Order.
 
-![Material Request](https://docs.frappe.io/assets/8a27d53c72f4.png)
+![Material Request](../../assets/8a27d53c72f4.png)
 
 [ Previous Page Drop Ship Between Subsidiary Companies ](assistance-sales-purchase-between-companies.md) [ Next Page Applying a Discount  ](applying-discount.md)
 

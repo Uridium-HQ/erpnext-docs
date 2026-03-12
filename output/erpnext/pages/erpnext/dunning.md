@@ -58,13 +58,13 @@ A Dunning is created against a list of overdue scheduled payments. You can creat
 
 
 
-![Dunning example](https://docs.frappe.io/assets/5809b4a38655.png)
+![Dunning example](../../assets/5809b4a38655.png)
 
 ### 2.1 What is a Dunning Type
 
 Dunning Type stores default values for dunning fee, interest rate and text blocks to be included. For example, a Dunning Type "First Notice" will not have any fees, but Dunning Type "Second Notice" will have a dunning fee and interest charged on the outstanding amount.
 
-![Dunning Type](https://docs.frappe.io/assets/f5c5abe4d26d.png)
+![Dunning Type](../../assets/f5c5abe4d26d.png)
 
 ### 2.2 Statuses
 
@@ -81,7 +81,7 @@ These are the statuses that are auto-assigned to Dunning.
 
 When you receive a full payment, including interest and fees, please open the unresolved **Dunning** and click on "Create > Payment". This will create a **Payment Entry** against the outstanding scheduled payments and record the interest and fees as "Payment Deductions or Loss". The **Payment Entry** will automatically set the **Dunning** 's status to resolved.
 
-![Dunning Payment](https://docs.frappe.io/assets/4994f13d5fb7.png)
+![Dunning Payment](../../assets/4994f13d5fb7.png)
 
 ## 4\. Related Topics
 

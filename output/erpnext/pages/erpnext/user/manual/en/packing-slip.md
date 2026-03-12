@@ -44,7 +44,7 @@ Usually, you should create a Packing Slip from a Delivery Note when it is in the
 
 Most of these details will be fetched if you create the Packing Slip from the Delivery Note.
 
-![Packing Slip](https://docs.frappe.io/assets/33850bad0a3f.png)
+![Packing Slip](../../../../../assets/33850bad0a3f.png)
 
 ### 1.1 Additional options when creating a Packing Slip
 

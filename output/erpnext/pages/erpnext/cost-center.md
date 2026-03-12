@@ -69,9 +69,9 @@ To access the Chart of Cost Centers, go to:
 
 Selecting a different Company will display the Cost Centers for that Company.
 
-![Cost Center](https://docs.frappe.io/assets/c342f1e86dc1.png)
+![Cost Center](../../assets/c342f1e86dc1.png)
 
-![Chart of Cost Centers](https://docs.frappe.io/assets/417d23fdf7c5.png)
+![Chart of Cost Centers](../../assets/417d23fdf7c5.png)
 
 ### 3\. Related Topics
 

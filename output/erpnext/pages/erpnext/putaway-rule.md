@@ -33,13 +33,13 @@ Before creating and using a Putaway Rule, it is advised that you create the foll
 
 ## 2\. How to create a Putaway Rule
 
-  1. Go to the Putaway Rule list, click on New. ![Unsaved Putaway Rule](https://docs.frappe.io/assets/5bb8e3899c8f.png)
+  1. Go to the Putaway Rule list, click on New. ![Unsaved Putaway Rule](../../assets/5bb8e3899c8f.png)
 
   2. Set the Company and Select an Item.
 
   3. Select the Warehouse on which this rule is applicable.
 
-  4. Set the Capacity. You can also select a UOM if you want to set the Capacity in a different UOM. The Capacity in Stock UOM will be set automatically. ![Multi UOM Putaway Rule](https://docs.frappe.io/assets/7d8bd5d0de39.png)
+  4. Set the Capacity. You can also select a UOM if you want to set the Capacity in a different UOM. The Capacity in Stock UOM will be set automatically. ![Multi UOM Putaway Rule](../../assets/7d8bd5d0de39.png)
 
   5. Set the Priority. This can begin from 1 onwards, 1 being the highest priority.
 
@@ -65,19 +65,19 @@ The rule is unique to each Item-Warehouse combination.
 
 As mentioned before, the Putaway Rules are applied on **Purchase Receipts** and **Stock Entries** (Material Receipt & Material Transfer).
 
-A checkbox called **Apply Putaway Rule** will allocate items to Warehouses based on the Putaway Rules. ![Apply Putaway Rule checkbox](https://docs.frappe.io/assets/169cdad00324.png)
+A checkbox called **Apply Putaway Rule** will allocate items to Warehouses based on the Putaway Rules. ![Apply Putaway Rule checkbox](../../assets/169cdad00324.png)
 
 Putaway Rules are applied on checking this checkbox. They are also re-applied on save if this checkbox is enabled.
 
 Let us see the same in action:
 
-  1. Here is a Purchase Order with a requirement of 5 Cartons (60 Nos) of Mineral Water. ![Purchase Order](https://docs.frappe.io/assets/0232911cdcc9.png)
+  1. Here is a Purchase Order with a requirement of 5 Cartons (60 Nos) of Mineral Water. ![Purchase Order](../../assets/0232911cdcc9.png)
 
-  2. Two active Putaway Rules have been created below with capacity 4 Cartons (48 Nos) each. One has a higher priority than the other. ![Active Putaway Rules List](https://docs.frappe.io/assets/c95bfe6e1d63.png)
+  2. Two active Putaway Rules have been created below with capacity 4 Cartons (48 Nos) each. One has a higher priority than the other. ![Active Putaway Rules List](../../assets/c95bfe6e1d63.png)
 
   3. A Purchase Receipt is created from this Purchase Order.
 
-  4. On checking **Apply Putaway Rule** , one row of 5 Cartons is split and assigned according to the rules. ![Putaway Rules applied in a Purchase Receipt](https://docs.frappe.io/assets/8eafa7e934b1.gif)
+  4. On checking **Apply Putaway Rule** , one row of 5 Cartons is split and assigned according to the rules. ![Putaway Rules applied in a Purchase Receipt](../../assets/8eafa7e934b1.gif)
 
   5. First, 4 out of 5 Cartons are accommodated in the 'Finished Goods - UPI' Warehouse. Once this Warehouse is at capacity, it assigns the rest (1 Carton) to the 'Stores - UPI' Warehouse.
 
@@ -90,7 +90,7 @@ The **Warehouse Capacity Summary** Report shows Warehouse capacities and their r
 
 Only Warehouses having Putaway Rules will be listed here. The **Edit Capacity** button gives provision to edit the Putaway Rule capacity.
 
-![Warehouse Capacity Summary](https://docs.frappe.io/assets/eddd4006b7b5.png)
+![Warehouse Capacity Summary](../../assets/eddd4006b7b5.png)
 
 ## 6\. Types of Putaway Application
 

@@ -64,7 +64,7 @@ Here is how the General Ledger Report is built:
 
 Here is what the report looks like:
 
-![General Ledger](https://docs.frappe.io/assets/6895a3d8fc1c.png)
+![General Ledger](../../../../../../../assets/6895a3d8fc1c.png)
 
 ##### Comments:
 

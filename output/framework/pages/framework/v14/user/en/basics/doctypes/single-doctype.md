@@ -12,7 +12,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 A Single DocType is a DocType that has only one instance in the database. It is useful for persisting things like _System Settings_ , which don't make sense to have multiple records.
 
-![Single DocType](https://docs.frappe.io/assets/a04976c286df.png)
+![Single DocType](../../../../../../../assets/a04976c286df.png)
 [code] 
     >>> settings = frappe.get_doc('System Settings')
     >>> settings.notification_frequency

@@ -33,7 +33,7 @@ To access Letter Head, go to:
 
 
 
-![Print Heading](https://docs.frappe.io/assets/1f6a4a92b363.png)
+![Print Heading](../../assets/1f6a4a92b363.png)
 
 > If you want to make this the default Letter Head, click on "Default Letter Head".
 
@@ -43,11 +43,11 @@ To access Letter Head, go to:
 
 You can set the Letter Head based on HTML to make changes to it:
 
-![Letter Head based on](https://docs.frappe.io/assets/dcc897892187.gif)
+![Letter Head based on](../../assets/dcc897892187.gif)
 
 This is how the Letter Head looks in a document's print.
 
-![Print Heading](https://docs.frappe.io/assets/319a53761dc9.png)
+![Print Heading](../../assets/319a53761dc9.png)
 
 > Note that Footer will be visible only when the document's print is seen in the PDF. Footer will not be visible in the HTML based print preview.
 

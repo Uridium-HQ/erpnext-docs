@@ -28,7 +28,7 @@ To use the BOM Comparison Tool, go to:
 
 
 
-![BOM Comparison Tool](https://docs.frappe.io/assets/588a4ef5b3fb.png)
+![BOM Comparison Tool](../../assets/588a4ef5b3fb.png)
 
 [ Previous Page BOM Update Tool  ](https://docs.frappe.io/erpnext/bom-update-tool) [ Next Page Multi-level BOM Creator ](bom-creator.md)
 

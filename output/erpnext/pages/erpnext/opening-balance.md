@@ -69,7 +69,7 @@ To create a new Asset:
 
 
 
-![Opening Stock Balance](https://docs.frappe.io/assets/33a373df7230.png)
+![Opening Stock Balance](../../assets/33a373df7230.png)
 
 **Step 2. Create Journal Entry to Update the Ledgers**
 
@@ -85,7 +85,7 @@ To create a new Journal Entry:
 
 
 
-![Journal Entry Fixed Asset Opening](https://docs.frappe.io/assets/983e6c91d674.png)
+![Journal Entry Fixed Asset Opening](../../assets/983e6c91d674.png)
 
 ### 2.2 Update Stock Assets
 
@@ -115,7 +115,7 @@ To import details of current assets:
 
 > To know about Journal Enter in detail, [visit this page](journal-entry.md).
 
-![Opening Balance Current Assets](https://docs.frappe.io/assets/eb5638acf54e.png)
+![Opening Balance Current Assets](../../assets/eb5638acf54e.png)
 
 ## 3\. Opening Balance of Liabilities
 
@@ -133,7 +133,7 @@ To import details of capital accounts:
 
 
 
-![Opening Entry Capital Accounts](https://docs.frappe.io/assets/fdc02ec378b9.png)
+![Opening Entry Capital Accounts](../../assets/fdc02ec378b9.png)
 
 ### 3.2 Update Current Liabilities
 
@@ -149,7 +149,7 @@ To import details of current liabilities:
 
 
 
-![Opening Balance Current Liabilities](https://docs.frappe.io/assets/f92df98ddde6.png)
+![Opening Balance Current Liabilities](../../assets/f92df98ddde6.png)
 
 ### 3.3 Update Accounts Payable
 

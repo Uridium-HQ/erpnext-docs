@@ -20,21 +20,21 @@ Scopes describe what information can be accessed. The Authorization URI is where
 
 > To automatically populate all the URI fields, enter the `openid_configuration` endpoint of any provider and click "Get OpenID Configuration". For example, Google's OpenID configuration can be found at `https://accounts.google.com/.well-known/openid-configuration`.
 
-![Create a new Connected App](https://docs.frappe.io/assets/1abeecef279d.png)
+![Create a new Connected App](../../../../../../../assets/1abeecef279d.png)
 
 Once the **Connected App** has been created, you can see the Redirect URI. (Note that the last part of it is specific to your **Connected App**.)
 
-![Get the redirect URI](https://docs.frappe.io/assets/7a4d4b9c6781.png)
+![Get the redirect URI](../../../../../../../assets/7a4d4b9c6781.png)
 
 Copy the Redirect URI, head to the third party service and create new OAuth 2.0 client credentials. You will need to specify the authorized JavaScript origins and the Redirect URI you just copied. Enter the domain name of your frappe instance as authorized JavaScript origin. On a production server this might be `https://erp.mycompany.com`. For local development you can use something like `http://localhost:8000`.
 
 > It is crucial that the authorized JavaScript origins and the authorized redirect URIs are correct. Otherwise you will not be able to connect.
 
-![Create OAuth 2.0 client credentials](https://docs.frappe.io/assets/6ee02a52bcb9.png)
+![Create OAuth 2.0 client credentials](../../../../../../../assets/6ee02a52bcb9.png)
 
 Copy the client ID and secret from the third party service to your **Connected App** and save. Now you and your users can click on "Connect to ..." on the top right. This will open a new browser tab that shows the third party service's consent screen. After this, you will be redirected to your frappe instance.
 
-![Connect to the third party service](https://docs.frappe.io/assets/d76fc82715f7.png)
+![Connect to the third party service](../../../../../../../assets/d76fc82715f7.png)
 
 In the backend, your server will exchange a code that it obtained during the redirect for a temporary access token. This can then be used to access the third party service on your behalf.
 

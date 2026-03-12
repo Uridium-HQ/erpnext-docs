@@ -25,15 +25,15 @@ While it is true that the Stock Ledger will disclude transactions from any activ
 
 > Stock > Stock Reports > Stock Projected Quantity
 
-![Stock Projected Quantity Report](https://docs.frappe.io/assets/8ca84ab8ab0c.png)
+![Stock Projected Quantity Report](../../assets/8ca84ab8ab0c.png)
 
 In the above image, the "Actual Qty" column represents the value of the stock ledger. The "Reserved for POS Transactions" represents the "Actual Qty" less what quantities are currently reserved because of active POS sessions that have not yet made entries on the Stock Ledger because the sessions have not been closed. Note also that "Projected Qty" ("Active Qty" less quantities reserved for the POS, production, etc.) adds a quantity of 100 to the first line item because of an order for 100 units that has yet to be received.
 
 Within the Point of Sale, however, quantities on order but not received will not be reflected in the "Available Qty at Warehouse" field in the Item Details view. In the instance below, as there's not enough quantity on-hand, the transaction won't be permitted. This applies to any and all open POS sessions active at any time and is applied globally (as in, the transaction from one session affects the quantities available for all other open sessions).
 
-![Available Quanity at Warehouse](https://docs.frappe.io/assets/63ec5b642183.png)
+![Available Quanity at Warehouse](../../assets/63ec5b642183.png)
 
-![Item Unavailable](https://docs.frappe.io/assets/643371707beb.png)
+![Item Unavailable](../../assets/643371707beb.png)
 
 [ Previous Page POS Workflows ](https://docs.frappe.io/erpnext/pos-workflows) [ Next Page Loyalty points redemption in POS ](loyalty-points-redemption-in-pos.md)
 

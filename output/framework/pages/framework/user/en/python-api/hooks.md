@@ -657,7 +657,7 @@ Some Portal views are shown with a sidebar with links to quickly jump to pages. 
 
 The above configuration will add two sidebar links for users with the role Customer.
 
-![Portal Sidebar](https://docs.frappe.io/assets/f05a38a8c785.png)
+![Portal Sidebar](../../../../../assets/f05a38a8c785.png)
 
 These sidebar items are hardcoded in your app so they are not customizable from Desk. For e.g., if you want to hide a sidebar link temporarily you will have to make changes in your code.
 
@@ -676,7 +676,7 @@ There is another hook called `standard_portal_menu_items` which allows you to do
 
 The above configuration will sync sidebar items to the Portal Settings which can later be edited by any System User.
 
-![Portal Settings](https://docs.frappe.io/assets/f65520ab3514.png)
+![Portal Settings](../../../../../assets/f65520ab3514.png)
 
 ## Brand HTML
 
@@ -757,7 +757,7 @@ The calendar hook is a list of doctype names which are shown as menu items for q
     
 [/code]
 
-![Event Menu Shortcuts](https://docs.frappe.io/assets/d31e662f3266.png)
+![Event Menu Shortcuts](../../../../../assets/d31e662f3266.png)
 
 ## Clear Cache
 

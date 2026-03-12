@@ -29,19 +29,19 @@ A tool for viewing the changes made to a submittable doctype across multiple ame
 
 Values for the fields changed across the different versions.
 
-![Screenshot 2023-12-03 at 5.32.42 PM](https://docs.frappe.io/assets/691340104d6c.png)
+![Screenshot 2023-12-03 at 5.32.42 PM](../../../../assets/691340104d6c.png)
 
 **Rows Updated**
 
 Values for the child table fields changed across the different versions.
 
-![Screenshot 2023-12-03 at 5.32.57 PM](https://docs.frappe.io/assets/8e93d618eaef.png)
+![Screenshot 2023-12-03 at 5.32.57 PM](../../../../assets/8e93d618eaef.png)
 
 **Rows Added / Rows Removed**
 
 Rows added or removed for every child table across the different versions.
 
-![Screenshot 2023-12-03 at 5.33.08 PM](https://docs.frappe.io/assets/1e1cb30d04db.png)
+![Screenshot 2023-12-03 at 5.33.08 PM](../../../../assets/1e1cb30d04db.png)
 
 [ Previous Page Configuration ](https://docs.frappe.io/framework/user/en/basics/site_config) [ Next Page Docstatus ](basics/doctypes/frameworktatus.md)
 

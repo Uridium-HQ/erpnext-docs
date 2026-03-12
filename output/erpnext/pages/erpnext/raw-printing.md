@@ -39,7 +39,7 @@ To create a new print format for Raw Printing:
 
 
 
-![Raw Commands Print Format](https://docs.frappe.io/assets/0303c547da84.png)
+![Raw Commands Print Format](../../assets/0303c547da84.png)
 
 Currently, any string-based printer languages can be used in the `Raw Commands` field in the print format. Writing raw commands requires knowledge of the printer's native language provided by the printer manufacturer. Please refer to the developer manual provided by the printer manufacturer on how to write their native commands.
 
@@ -66,20 +66,20 @@ To print a raw command print format from the Document print view:
   3. Please allow the connection prompt from the QZ Tray for the actions that you initiated (Keyboard Shortcut: Alt + A).
 
 
-  * ![QZ Tray Prompt](https://docs.frappe.io/assets/c9b0278a7b66.png)
+  * ![QZ Tray Prompt](../../assets/c9b0278a7b66.png)
 
 
   4. You may be asked to select the "print format - printer mapping".
 
 
   * This mapping is used to send the print commands to the appropriate printer.
-  * The printer needs to be installed on your computer to be able to map it to a print format. ![print format - printer mapping](https://docs.frappe.io/assets/906f6e6842f7.png)
+  * The printer needs to be installed on your computer to be able to map it to a print format. ![print format - printer mapping](../../assets/906f6e6842f7.png)
   * This mapping is stored locally on the same computer and will have to be set on each client machine.
   * You can also edit this by clicking on the **Printer Settings** button.
 
 
 
-![Raw Printing from Print View](https://docs.frappe.io/assets/1758f8e6c242.gif)
+![Raw Printing from Print View](../../assets/1758f8e6c242.gif)
 
 ### 2.2 Calling Raw Print functions from a client script
 

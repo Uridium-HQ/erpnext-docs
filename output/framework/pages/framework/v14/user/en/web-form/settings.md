@@ -66,25 +66,25 @@ It will allow submission of forms even if mandatory fields are not populated.
 
 ## List Settings
 
-![Web Form](https://docs.frappe.io/assets/7a315ed2ff8d.png)
+![Web Form](../../../../../../assets/7a315ed2ff8d.png)
 
 ### Show List
 
-It will enable `List View` where you can see all the submitted forms. You can only open the form that you own. ![Web Form](https://docs.frappe.io/assets/3a2016a3368d.png)
+It will enable `List View` where you can see all the submitted forms. You can only open the form that you own. ![Web Form](../../../../../../assets/3a2016a3368d.png)
 
 > If `apply_document_permissions` is enabled you can open other forms.
 
 ### Title & List Columns
 
-You can change the title of the list and also can add/remove/arrange list view columns ![Web Form](https://docs.frappe.io/assets/13c69696ca1c.png) ![Web Form](https://docs.frappe.io/assets/9443a6bc4540.png)
+You can change the title of the list and also can add/remove/arrange list view columns ![Web Form](../../../../../../assets/13c69696ca1c.png) ![Web Form](../../../../../../assets/9443a6bc4540.png)
 
 ## Sidebar Settings
 
-![Web Form](https://docs.frappe.io/assets/d927739822b4.png)
+![Web Form](../../../../../../assets/d927739822b4.png)
 
 ### Show Sidebar
 
-Show webform with sidebar. Select or create a website sidebar where you can add link to current webform and other related webforms or webpages. ![Web Form](https://docs.frappe.io/assets/3af2dddcb74f.png)
+Show webform with sidebar. Select or create a website sidebar where you can add link to current webform and other related webforms or webpages. ![Web Form](../../../../../../assets/3af2dddcb74f.png)
 
 [ Previous Page Web Form ](../web-form.md) [ Next Page Customization ](customization.md)
 

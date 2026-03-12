@@ -32,19 +32,19 @@ User authentication system in Frappe comes with a lot of features out of the box
 
 A User record represents an authenticated user who can perform authorized actions in the system. A User can have multiple roles assigned to it. A Role describes what actions a User can perform on a DocType.
 
-![User Roles](https://docs.frappe.io/assets/37da185d3d60.png) _User Roles_
+![User Roles](../../../../../assets/37da185d3d60.png) _User Roles_
 
 For example, the role **Blogger** has read, write and create permission on the doctype **Blog Post** , but only read permission on **Blog Category**.
 
-![Role Blogger](https://docs.frappe.io/assets/2649711672bf.png) _Role Blogger_
+![Role Blogger](../../../../../assets/2649711672bf.png) _Role Blogger_
 
 ## DocType Permissions
 
 DocTypes can have a default set of Roles applied when you install your app. To configure roles for a DocType you must add them in the Permissions table in DocType.
 
-![DocType Permissions](https://docs.frappe.io/assets/5df5c60005f7.png) _DocType Permissions_
+![DocType Permissions](../../../../../assets/5df5c60005f7.png) _DocType Permissions_
 
-If you expand the row, you will see many more options that can be configured. ![DocType Permissions Row](https://docs.frappe.io/assets/eeb4a778ca76.png) _DocType Permissions_
+If you expand the row, you will see many more options that can be configured. ![DocType Permissions Row](../../../../../assets/eeb4a778ca76.png) _DocType Permissions_
 
 Here is a list of them with their explanation:
 
@@ -71,13 +71,13 @@ Email | Allow user to send emails for that document
 
 Permission Levels can be used to group fields in a document and apply separate roles to each level. By default all fields have permlevel set as 0.
 
-![Permission Level](https://docs.frappe.io/assets/bf1297e10b97.png) _Permission Level_
+![Permission Level](../../../../../assets/bf1297e10b97.png) _Permission Level_
 
 ## Role Permissions Manager
 
 Role Permissions Manager is a user tool to manage role permissions. The default set of permissions show up here and can be overridden.
 
-![Role Permissions Manager](https://docs.frappe.io/assets/0d531f9394e1.gif)
+![Role Permissions Manager](../../../../../assets/0d531f9394e1.gif)
 
 ## User Permissions
 
@@ -85,11 +85,11 @@ User Permissions are another set of rules that can be applied per user basis. It
 
 For example, to restrict the User John such that he can only view **Blog Post** s that were created by him, i.e, Blogger **John**. A user permission record with the following values should be created.
 
-![User Permissions Example](https://docs.frappe.io/assets/072721df1c97.png) _User Permission Record_
+![User Permissions Example](../../../../../assets/072721df1c97.png) _User Permission Record_
 
 After creating the user permission configuration, when the User logs in to see the Blog Post list, he will have a restricted view of blog posts that were created by him.
 
-![Restricted Blog Post List](https://docs.frappe.io/assets/4274f1057df8.png) _Restricted Blog Post List_
+![Restricted Blog Post List](../../../../../assets/4274f1057df8.png) _Restricted Blog Post List_
 
 ## Automatic Roles
 
@@ -106,13 +106,13 @@ Certain roles are automatically hidden to users, this simplifies writing doctype
 
 Frappe Framework allows you to configure what modules, doctypes and views are visible to the user. To configure which modules are shown to a user go to the **Allow Modules** section of the User form.
 
-![Allow Modules in User](https://docs.frappe.io/assets/fb84964c93ab.png)
+![Allow Modules in User](../../../../../assets/fb84964c93ab.png)
 
 To hide a doctype from a User, remove the read permission from a Role using the Role Permissions Manager.
 
 To control permissions for Pages and Reports, use the **Role Permission for Page and Report** tool.
 
-![Role Permission for Page and Report](https://docs.frappe.io/assets/4859f72b608a.png)
+![Role Permission for Page and Report](../../../../../assets/4859f72b608a.png)
 
 ## Password Hashing
 
@@ -134,13 +134,13 @@ Frappe handles password hashing out of the box. They are encrypted and saved in 
 
 Frappe also supports password strength checking. It can be enabled from **System Settings** in the Security section. The Minimum Password Score field validates how strong the password should be.
 
-![Password Policy](https://docs.frappe.io/assets/b078a084d4f1.png) _Password Policy_
+![Password Policy](../../../../../assets/b078a084d4f1.png) _Password Policy_
 
 ## Login Attempts
 
 Frappe allows you to configure how many consecutive login attempts should be allowed before locking the account for a set time period.
 
-![Login Attempts](https://docs.frappe.io/assets/2d74de9d69d7.png)
+![Login Attempts](../../../../../assets/2d74de9d69d7.png)
 
 ## Third Party Authentication
 

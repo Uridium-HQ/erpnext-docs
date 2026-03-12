@@ -12,15 +12,15 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 A Virtual DocField is a dynamic attribute of a given Document (or Record). It's a calculated attribute that isn't stored in the site database. This could be used for representing values that may be functions of other static Document attributes.
 
-![Person Record](https://docs.frappe.io/assets/2d11ba1ee417.png) _Person Form_
+![Person Record](../../../../../assets/2d11ba1ee417.png) _Person Form_
 
 The age of a person is a function of their date of birth ie if you know a person's birth day, you can figure out their age. Age is also a continuous value; it may change every year, or month, or day, even hour depending on what type of granularity you wish to have. Another attribute is a Person's name. Most common implementations will have a First, Middle and a Last Name, and for the view it would be all of them together like "Jon Raphael Doe". Although saving the full name as a separate attribute may not make so much sense when the strings can be easily concatenated. These are a couple of instances where Virtual DocFields make more sense.
 
-![Person DocType](https://docs.frappe.io/assets/fce5e5508bdc.png) _Person DocType_
+![Person DocType](../../../../../assets/fce5e5508bdc.png) _Person DocType_
 
 Here we've added three fields to Person; two for First and Last names which are stored in the site database, and one that utilizes this data to populate the third field "Full Name". In this instance, the options field takes input for the return value of the respective virtual field.
 
-![Full Name - Virtual DocField](https://docs.frappe.io/assets/a27d8666fb4f.png) _Person DocType - DocField_
+![Full Name - Virtual DocField](../../../../../assets/a27d8666fb4f.png) _Person DocType - DocField_
 
 We discussed the possibility of fields that depend on attributes in the system so far. But this could easily extend to something that doesn't depend on your DocType data alone. You may also want to fetch the statuses of multiple external services in their place, or anything else that you can map here instead.
 

@@ -52,7 +52,7 @@ To enable rapid application development, Frappe Framework follows some standard 
 
 The standard way to create a DocType is by typing _new doctype_ in the search bar in the **Desk**.
 
-![ToDo DocType](https://docs.frappe.io/assets/838c76d142f0.png) _ToDo DocType_
+![ToDo DocType](../../../../../assets/838c76d142f0.png) _ToDo DocType_
 
 A DocType not only stores fields, but also other information about how your data behaves in the system. We call this **Meta**. Since this meta-data is also stored in a database table, it makes it easy to change meta-data on the fly without writing much code. Learn more about Meta.
 
@@ -60,11 +60,11 @@ A DocType not only stores fields, but also other information about how your data
 
 After creating a DocType, Frappe can provide many features out-of-the-box. If you go to `/app/todo` you will be routed to the List View in the desk.
 
-![ToDo List](https://docs.frappe.io/assets/2aa0cce35352.png) _ToDo List_
+![ToDo List](../../../../../assets/2aa0cce35352.png) _ToDo List_
 
 Similarly, you get a Form View at the route `/app/todo/000001`. The Form is used to create new docs and view them.
 
-![ToDo Form](https://docs.frappe.io/assets/3c6bc21bca63.png) _ToDo Form_
+![ToDo Form](../../../../../assets/3c6bc21bca63.png) _ToDo Form_
 
 [ Previous Page Sites ](sites.md) [ Next Page Users and Permissions ](users-and-permissions.md)
 

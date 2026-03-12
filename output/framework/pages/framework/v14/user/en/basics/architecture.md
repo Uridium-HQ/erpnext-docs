@@ -16,7 +16,7 @@ Frappe framework is based on Python, so it uses the `virtualenv` to setup isolat
 
 The following diagram closely resembles the `frappe-bench` directory structure and its interface with different parts of the stack.
 
-![Architecture](https://docs.frappe.io/assets/5eeb62024a66.png) _Architecture_
+![Architecture](../../../../../../assets/5eeb62024a66.png) _Architecture_
 
 To setup a Frappe based site, you need to first install Bench. If you haven't installed it already, check out the [Installation](../installation.md) page.
 

@@ -44,7 +44,7 @@ The first doctype we will create is **Article**. To create it, click on New.
 
 Refer the following GIF to check how it should be done:
 
-![Article DocType](https://docs.frappe.io/assets/24aee239a326.gif)
+![Article DocType](../../../../../../assets/24aee239a326.gif)
 
 After adding the fields, click on Save.
 
@@ -54,7 +54,7 @@ Let's create some records. But before that, we need to clear the Desk cache. Cli
 
 Now, you should see the **New** button. Click on it and you will see the Form view of the Article doctype. Fill in the form and click on Save. You have created your first Article document. Go back to the list view and you should see one record.
 
-![Article New Form](https://docs.frappe.io/assets/061cf74eb460.gif)
+![Article New Form](../../../../../../assets/061cf74eb460.gif)
 
 ### What happened when you created the Article DocType?
 

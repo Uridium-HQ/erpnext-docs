@@ -20,7 +20,7 @@ To access the Quotation list, go to:
 
 A typical sales flow looks like:
 
-![Make Quotation from Opportunity](https://docs.frappe.io/assets/345f1868069e.png)
+![Make Quotation from Opportunity](../../../../../assets/345f1868069e.png)
 
 A Quotation contains details about:
 

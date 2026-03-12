@@ -44,19 +44,19 @@ Before creating an Inter Company Journal Entry, you need the following:
 
 
 
-![Inter Company Journal Entry](https://docs.frappe.io/assets/25ccaaa6b6ae.png)
+![Inter Company Journal Entry](../../assets/25ccaaa6b6ae.png)
 
   1. Click on the button. Now, you will be asked to select the Company against which you wish to create the linked Journal Entry.
 
 
 
-![Company Master](https://docs.frappe.io/assets/e816aca66d3f.png)
+![Company Master](../../assets/e816aca66d3f.png)
 
   1. On selecting the Company, you will be routed to another Journal Entry where the relevant fields will be mapped, i.e. Company, Voucher Type, Inter Company Journal Entry Reference etc.
 
 
 
-![Auto Generated Inter Company Journal Entry](https://docs.frappe.io/assets/54eb10b8a795.png)
+![Auto Generated Inter Company Journal Entry](../../assets/54eb10b8a795.png)
 
   1. Select the Internal accounts for the second Company in the table.
   2. Submit the Journal Entry.

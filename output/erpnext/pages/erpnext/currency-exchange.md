@@ -31,7 +31,7 @@ To access the Currency Exchange list, go to:
 
 
 
-![Screenshot 2024-06-24 at 1.16.07 PM](https://docs.frappe.io/assets/f7db594bc8cd.png)
+![Screenshot 2024-06-24 at 1.16.07 PM](../../assets/f7db594bc8cd.png)
 
   2. Related Topics
 

@@ -12,7 +12,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 Frappe provides an easy way to generate form tutorials for your complex doctype with very little configuration.
 
-![Form Tour](https://docs.frappe.io/assets/084a398abd53.png)
+![Form Tour](../../../../assets/084a398abd53.png)
 
 ## Creating a Form Tour
 
@@ -25,7 +25,7 @@ To create a Form Tour, type "new form tour" in awesomebar and hit enter.
 
 
 
-![Custom Field Form Tour](https://docs.frappe.io/assets/ea36ca6af085.png) _A Tour to explain creation of Custom Fields_
+![Custom Field Form Tour](../../../../assets/ea36ca6af085.png) _A Tour to explain creation of Custom Fields_
 
 ## Configuration Options
 

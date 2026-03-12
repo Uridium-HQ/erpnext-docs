@@ -12,7 +12,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 Frappe provides an easy way to generate forms for your website with very little configuration. These forms may be public (anyone can fill them up) or can be configured to require login.
 
-![Web Form](https://docs.frappe.io/assets/3196f9899505.png)
+![Web Form](../../../../../assets/3196f9899505.png)
 
 ## Creating a Web Form
 
@@ -26,7 +26,7 @@ To create a Web Form, type "new web form" in awesomebar and hit enter.
 
 
 
-![Create Web Form](https://docs.frappe.io/assets/bfbb22115f3d.png) ![Web Form Fields](https://docs.frappe.io/assets/5d373f41113a.png)
+![Create Web Form](../../../../../assets/bfbb22115f3d.png) ![Web Form Fields](../../../../../assets/5d373f41113a.png)
 
 [Customize Web Form →](web-form/customization.md)
 

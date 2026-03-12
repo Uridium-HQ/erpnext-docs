@@ -35,7 +35,7 @@ A default Print Style, can be set from [Print Settings](print-settings.md).
 
 All Print Format styles are based on Bootstrap (Version 3) CSS Framework.
 
-![Screenshot 2023-12-29 at 12.08.10 PM](https://docs.frappe.io/assets/8518f43897f7.png)![Screenshot 2023-12-29 at 12.08.10 PM](https://docs.frappe.io/assets/8518f43897f7.png)
+![Screenshot 2023-12-29 at 12.08.10 PM](../../assets/8518f43897f7.png)![Screenshot 2023-12-29 at 12.08.10 PM](../../assets/8518f43897f7.png)
 
 If you have enabled developer mode and tick on Standard then system will generate the JSON file for the Print Style. You can contribute a default print style with this.
 

@@ -64,7 +64,7 @@ Dr. Expense Account (COGS) .................. XXX
 
 
 
-![Perpetual Inventory](https://docs.frappe.io/assets/fc31a2501a97.png)
+![Perpetual Inventory](../../assets/fc31a2501a97.png)
 
 #### 2\. Related Topics
 

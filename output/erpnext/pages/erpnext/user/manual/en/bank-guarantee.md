@@ -23,7 +23,7 @@ To access the Bank Guarantee list, go to:
   5. The Customer/Supplier and the Amount will be fetched automatically.
   6. Select a Bank and the Bank Account.
   7. Enter a Bank Guarantee number and name of the beneficiary.
-  8. Save and Submit. ![Bank Guarantee](https://docs.frappe.io/assets/89928b650a52.png)
+  8. Save and Submit. ![Bank Guarantee](../../../../../assets/89928b650a52.png)
 
 
 

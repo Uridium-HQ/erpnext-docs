@@ -28,7 +28,7 @@ To create a new DocType, go to:
 
 
 
-![Custom DocType](https://docs.frappe.io/assets/441ef8d5a3df.png)
+![Custom DocType](../../assets/441ef8d5a3df.png)
 
 ### 1.1. Additional Details
 
@@ -38,7 +38,7 @@ To create a new DocType, go to:
 
 You can choose to add as many fields as you want. The Label, Field Type, Mandatory Fields and other associated Options can also be added here. Learn more about field types [here](field-types.md).
 
-![Fields in Custom DocType](https://docs.frappe.io/assets/5a281f32d02c.png)
+![Fields in Custom DocType](../../assets/5a281f32d02c.png)
 
   1. **Naming**
 
@@ -46,7 +46,7 @@ You can choose to add as many fields as you want. The Label, Field Type, Mandato
 
 Here you can choose if you would want each of your forms within this DocType to be named automatically. As given in the description, you can select the pattern for naming of the forms. The same can be a Field within the DocType, Naming Series, Prompt, A defined Naming Series, or a Format based Name. For Naming, you can also add a Description and the Name Case (as a Title Case or UPPER CASE)for your convenience.
 
-![Naming Custom DocType](https://docs.frappe.io/assets/3589bcd877c2.png)
+![Naming Custom DocType](../../assets/3589bcd877c2.png)
 
   1. **Form Settings**
 
@@ -54,7 +54,7 @@ Here you can choose if you would want each of your forms within this DocType to 
 
 Additional Settings for the Form, Image Fields, Attachments, Timeline etc. can be configured here. To know more about Form, visit [Customize Form](customize-form.md).
 
-![Custom DocType Form Settings](https://docs.frappe.io/assets/1af5beb8a038.png)
+![Custom DocType Form Settings](../../assets/1af5beb8a038.png)
 
   1. **View Settings**
 
@@ -68,7 +68,7 @@ Here, you can define the View settings for the DocType, like, Search Fields, Def
 
 You can define the Permission Rules for the DocType here, and configure which users would be able to use or make changes to this DocType. Learn more about [Users and Permissions](users-and-permissions.md) here.
 
-![Custom DocType Permissions](https://docs.frappe.io/assets/eb63660f82df.png)
+![Custom DocType Permissions](../../assets/eb63660f82df.png)
 
   1. **Web View**
 
@@ -85,7 +85,7 @@ You can select whether you would want a Web View of this DocType or no. Having a
 
 
 
-![DocType Tree View](https://docs.frappe.io/assets/ebcb2602cca8.png)
+![DocType Tree View](../../assets/ebcb2602cca8.png)
 
   1. **Quick Entry** : You can select if you want a Quick Entry to be made for this DocType. This will allow you to enter only a few mandatory details and save the DocType, so that a Quick Entry is made. For example, check Quick Entry in [Journal Entry](journal-entry.md).
   2. **Track Changes** : You can select this option if you want to maintain a log of the changes made to each Form. Check Out [Document Versioning](document-versioning.md) for more understanding on this.
@@ -94,7 +94,7 @@ You can select whether you would want a Web View of this DocType or no. Having a
 
 
 
-![DocType Tree View](https://docs.frappe.io/assets/f87d285b9630.png)
+![DocType Tree View](../../assets/f87d285b9630.png)
 
   1. **Custom?** : This field will be checked by default when adding Custom Doctype. Similarly, if you are customizing a DocType which already exists in the system, this field by default would be unchecked.
 

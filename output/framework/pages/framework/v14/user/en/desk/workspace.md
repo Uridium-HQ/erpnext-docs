@@ -23,7 +23,7 @@ Let's build one and check out some cool features.
 
 
 
-![Create Workspace](https://docs.frappe.io/assets/7c36739496a5.gif)
+![Create Workspace](../../../../../../assets/7c36739496a5.gif)
 
 ###Create Child Workspace
 
@@ -33,15 +33,15 @@ Let's build one and check out some cool features.
 
 
 
-![Create Child Workspace](https://docs.frappe.io/assets/8c0dbc593f43.gif)
+![Create Child Workspace](../../../../../../assets/8c0dbc593f43.gif)
 
 ###Workspace Blocks The workspace block is a building block for the workspace page. These blocks can be placed in different variations to build an ideal workspace for a specific use case.
 
 [Learn More →](workspace/blocks.md)
 
-![Workspace Blocks](https://docs.frappe.io/assets/f255b7b8bbc9.gif) ###Sidebar
+![Workspace Blocks](../../../../../../assets/f255b7b8bbc9.gif) ###Sidebar
 
-![Workspace Sidebar](https://docs.frappe.io/assets/7bffb6803e26.png)
+![Workspace Sidebar](../../../../../../assets/7bffb6803e26.png)
 
 There are two sections in the sidebar `MY WORKSPACES` & `PUBLIC`.
 

@@ -28,21 +28,21 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 
 
-![New Web Page with Page Builder](https://docs.frappe.io/assets/4e2557ccb147.png) _New Web Page with Page Builder_
+![New Web Page with Page Builder](../../assets/4e2557ccb147.png) _New Web Page with Page Builder_
 
-![Page Builder Edit Values Dialog](https://docs.frappe.io/assets/bcf098de1d51.png) _Page Builder Edit Values Dialog_
+![Page Builder Edit Values Dialog](../../assets/bcf098de1d51.png) _Page Builder Edit Values Dialog_
 
 View your Web Page by clicking on **See on Website** in the sidebar.
 
-![Web Page](https://docs.frappe.io/assets/400a68191f31.png) _Web Page with Page Builder_
+![Web Page](../../assets/400a68191f31.png) _Web Page with Page Builder_
 
 ### 1.1 Add Sections
 
 You can add more sections to your page by adding more rows in the Page Building Blocks table. The framework comes with a great set of Web Templates for you to create all sorts of pages.
 
-![More Sections](https://docs.frappe.io/assets/3dbb84d578df.png) _Web Page with another section_
+![More Sections](../../assets/3dbb84d578df.png) _Web Page with another section_
 
-![More Sections - Preview](https://docs.frappe.io/assets/cf0f01e4b88f.png) _Web Page with another section - Preview_
+![More Sections - Preview](../../assets/cf0f01e4b88f.png) _Web Page with another section - Preview_
 
 ### 1.2 Section Options
 
@@ -57,7 +57,7 @@ If you click to expand a row in the Page Building Blocks table, you have the fol
 
 
 
-![Section Options](https://docs.frappe.io/assets/2ec2e5229f63.png) _Section Options_
+![Section Options](../../assets/2ec2e5229f63.png) _Section Options_
 
 [ Previous Page Web Page ](web-page.md) [ Next Page Web Forms ](web-form.md)
 

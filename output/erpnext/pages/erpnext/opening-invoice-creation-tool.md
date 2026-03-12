@@ -27,7 +27,7 @@ To access the Opening Invoice Creation Tool, go to:
 
 
 
-![Opening Invoice Creation Tool](https://docs.frappe.io/assets/8b1963c5adf4.png)
+![Opening Invoice Creation Tool](../../assets/8b1963c5adf4.png)
 
   4. Fill up the Invoices table. It consists of the following fields:
 

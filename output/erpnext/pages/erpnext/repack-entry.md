@@ -35,7 +35,7 @@ For raw-material/input item, only Source Warehouse will be provided.
 
 For repacked/output items, only Target Warehouse will be provided. You will have to provide valuation for the repack items.
 
-![Repack Entry](https://docs.frappe.io/assets/78bf991e73d9.png)
+![Repack Entry](../../assets/78bf991e73d9.png)
 
 Update Qty for all the items selected.
 
@@ -43,7 +43,7 @@ Update Qty for all the items selected.
 
 On submitting Stock Entry, stock of input item will be reduced from Source Warehouse, and stock of repack/output item will be added in the Target Warehouse.
 
-![Repack Stock Entry](https://docs.frappe.io/assets/b409e823569e.png)
+![Repack Stock Entry](../../assets/b409e823569e.png)
 
 [ Previous Page Stock Entry Purpose  ](stock-entry-purpose.md) [ Next Page Delivery from Sales Invoice  ](https://docs.frappe.io/erpnext/update-stock-option-in-sales-invoice)
 

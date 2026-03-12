@@ -24,7 +24,7 @@ Let's discuss each type and how to build them using Frappe.
 
 For both Query Reports and Script Reports the same UI view is used to render them. So, both of them benefit from the UI features like Print, PDF, Export to Excel/CSV, Auto Email Report, etc.
 
-![Query Report Features](https://docs.frappe.io/assets/180ccc7041b7.png) _Query Report Features_
+![Query Report Features](../../../../../../assets/180ccc7041b7.png) _Query Report Features_
 
 [ Previous Page Desk  ](../desk.md) [ Next Page Printing  ](printing.md)
 

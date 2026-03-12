@@ -26,7 +26,7 @@ frappe.ui.form.on('User', { refresh: function(frm) { ... frm.add_custom_button(_
 
 You should be seeing a button on user form as shown below,
 
-![Custom Button](https://docs.frappe.io/assets/5b58d6e47056.png)
+![Custom Button](../../../../../../../assets/5b58d6e47056.png)
 
 [ Previous Page Running Background Jobs  ](running-background-jobs.md) [ Next Page Trigger Event On Deletion Of Grid Row  ](trigger-event-on-deletion-of-grid-row.md)
 

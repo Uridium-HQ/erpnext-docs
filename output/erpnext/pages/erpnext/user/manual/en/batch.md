@@ -31,7 +31,7 @@ To access the Batch No list, go to: > Home > Stock > Serial No and Batch > Batch
 Before creating and using a Batch, it is advised that you create the following first:
 
   * [Item](../../../item.md)
-  * Enable 'Has Batch No' in the Item master ![Batch No Enabled](https://docs.frappe.io/assets/16504506d77f.png)
+  * Enable 'Has Batch No' in the Item master ![Batch No Enabled](../../../../../assets/16504506d77f.png)
 
 
   2. How to create a new Batch
@@ -58,7 +58,7 @@ When Batches are enabled for an Item, the option to [retain sample stock](../../
 
 If you want automatic batch creation at the time of Purchase Receipt, you must tick 'Automatically Create New Batch' in the Item master:
 
-![Item Setup for Batches](https://docs.frappe.io/assets/77499be19f26.png)
+![Item Setup for Batches](../../../../../assets/77499be19f26.png)
 
   3. Features
 
@@ -70,14 +70,14 @@ If you want automatic batch creation at the time of Purchase Receipt, you must t
 
 When you open a batch, you will see all the quantities that belong to that batch on the page.
 
-![Batch View](https://docs.frappe.io/assets/5b91c2ca1bb9.png)
+![Batch View](../../../../../assets/5b91c2ca1bb9.png)
 
   * To move the batch from one Warehouse to another, you can click on the **Move** button.
   * You can also split the batch into smaller one by clicking on the **Split** button. This will create a new Batch based on this Batch and the quantities will be split between the batches.
 
 
 
-![Split Batch](https://docs.frappe.io/assets/8e38b4b8fbfa.png)
+![Split Batch](../../../../../assets/8e38b4b8fbfa.png)
 
   * If you set expiry date, the Batch will show 'Not Expired' until the expiry date, after which it'll show 'Expired'. If a date is not set, the Batch will show 'Not Set'.
 

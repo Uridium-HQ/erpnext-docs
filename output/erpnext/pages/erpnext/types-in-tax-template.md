@@ -12,7 +12,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 In the Sales Taxes and Purchase Taxes master, you will find a column called Type. Following a brief on a meaning of each Type and how you can use it.
 
-![Calculate Tax Based On](https://docs.frappe.io/assets/917aebe80f79.png)
+![Calculate Tax Based On](../../assets/917aebe80f79.png)
 
 **Actual:** This allows you to enter expense amount directly. For example, Rs. 500 incurred for Shipping.
 

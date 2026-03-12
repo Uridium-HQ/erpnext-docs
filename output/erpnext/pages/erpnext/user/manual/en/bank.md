@@ -16,7 +16,7 @@ To access Bank, go to:
 
 > Home > Accounting > Bank Statement > Bank
 
-![Bank](https://docs.frappe.io/assets/77c38b569cc8.png)
+![Bank](../../../../../assets/77c38b569cc8.png)
 
 ## 1\. How to create a Bank
 

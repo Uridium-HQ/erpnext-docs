@@ -33,7 +33,7 @@ Before creating a new template, note that templates are already created for many
   7. On Previous Row Total: Same as above but applied on the total bill and not just the amount of an item.
   8. Select an account head which has pre set tax rates or create your own.
   9. Selecting default will apply this template by default for new Purchase transactions.
-  10. Save. ![Purchase taxes](https://docs.frappe.io/assets/618e6a0cdecc.png)
+  10. Save. ![Purchase taxes](../../assets/618e6a0cdecc.png)
 
 
 
@@ -47,7 +47,7 @@ Is Inter State: For India. On selection of a customer in Sales Invoice or Delive
 
   * **Add or Deduct:** Whether you want to add or deduct the tax from the item.
 
-  * **Reference Row #** : If tax is based on "Previous Row Total" you can select the row number which will be taken as a base for this calculation (default is the previous row). ![Purchase taxes table](https://docs.frappe.io/assets/29ae059b426a.png)
+  * **Reference Row #** : If tax is based on "Previous Row Total" you can select the row number which will be taken as a base for this calculation (default is the previous row). ![Purchase taxes table](../../assets/29ae059b426a.png)
 
   * **Is this Tax included in Basic Rate?** : If checked, the tax amount will be considered as already included in the Print Rate / Print Amount.
 

@@ -20,7 +20,7 @@ If you receive payment in the slab of 30-70, then you can define Payment Term fo
 
 In the Payment Terms Template, you can select all the Payment Terms and define a template which can be easily applied in the sales and purchase transactions.
 
-![Payment Terms Template](https://docs.frappe.io/assets/0aa9abf96558.png)
+![Payment Terms Template](../../assets/0aa9abf96558.png)
 
   1. Prerequisites
 
@@ -64,9 +64,9 @@ You should use it if you have a set of standard Payment Terms or for ease of use
 
 If 'Allocate Payment Based On Payment Terms' is enabled on a template, Payments made against the Invoice through Create->Payment will have allocation based on the Terms.
 
-  1. Template with 'Allocate Payment Based on Payment Terms' enabled. ![Screenshot 2023-08-01 at 10.30.32 AM](https://docs.frappe.io/assets/0754759b55c6.png)
-  2. Invoice made with above template. ![Screenshot 2023-08-01 at 10.32.01 AM](https://docs.frappe.io/assets/eb6fed44a5e9.png)
-  3. Payment created against above invoice. ![Screenshot 2023-08-01 at 10.32.31 AM](https://docs.frappe.io/assets/16018e015450.png)
+  1. Template with 'Allocate Payment Based on Payment Terms' enabled. ![Screenshot 2023-08-01 at 10.30.32 AM](../../assets/0754759b55c6.png)
+  2. Invoice made with above template. ![Screenshot 2023-08-01 at 10.32.01 AM](../../assets/eb6fed44a5e9.png)
+  3. Payment created against above invoice. ![Screenshot 2023-08-01 at 10.32.31 AM](../../assets/16018e015450.png)
 
 
 

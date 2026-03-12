@@ -28,7 +28,7 @@ To access the Fiscal Year list, go to:
 
   1. Go to the Fiscal Year list.
   2. To set the Fiscal Year as default, click on the **Set as Default** button.
-  3. In case you have multiple companies sharing the same Fiscal Year, you can add it as shown in the following screenshot: ![Fiscal Year](https://docs.frappe.io/assets/0b0a3cdba9e0.png)
+  3. In case you have multiple companies sharing the same Fiscal Year, you can add it as shown in the following screenshot: ![Fiscal Year](../../assets/0b0a3cdba9e0.png)
 
 
 

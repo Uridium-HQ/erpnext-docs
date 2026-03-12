@@ -46,7 +46,7 @@ The repository for app is hosted on GitHub: <http://github.com/frappe/ecommerce_
 
 > To access Zenoti Settings, go to: Awesome search bar > Zenoti Settings.
 
-![Zenoti setting page](https://docs.frappe.io/assets/1d37d80eb65c.png)
+![Zenoti setting page](../../assets/1d37d80eb65c.png)
 
   1. **Last Sync:** Date and time of when the invoices were synced last.
   2. **API Key:** API Key from Zenoti. If you do not have an API Key, you can easily generate one by going to Admin > Setup > API section.

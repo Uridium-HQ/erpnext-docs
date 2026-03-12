@@ -40,7 +40,7 @@ bench --site site1.local set-limit users 5
 
 You can check your usage by opening the "Usage Info" page from the toolbar / AwesomeBar. A limit will only show up on the page if it has been set.
 
-![Doctype Saved](https://docs.frappe.io/assets/dfc58bd9146d.png)
+![Doctype Saved](../../../../../../../assets/dfc58bd9146d.png)
 
 [ Previous Page Using Let's Encrypt to setup HTTPS  ](lets-encrypt-ssl-setup.md) [ Next Page Setup Multitenancy  ](setup-multitenancy.md)
 

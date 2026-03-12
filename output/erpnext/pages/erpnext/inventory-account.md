@@ -12,15 +12,15 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 In ERPNext, users can either set up a Warehouse-wise Inventory Account or use the default Inventory Account from the Company master, which is 'Stock In Hand.'
 
-![warehouse inventory account](https://docs.frappe.io/assets/85aba1764fc9.png)
+![warehouse inventory account](../../assets/85aba1764fc9.png)
 
 From the Version 16, users can also able to set the Item-wise Inventory Account. To do this, they need to enable the option 'Enable Item-wise Inventory Account' in the Company master.
 
-![company configuration](https://docs.frappe.io/assets/282388cd2645.png)
+![company configuration](../../assets/282388cd2645.png)
 
 After enabling it, users can define the Default Inventory Account in the Item master. Alternatively, they can set a Default Inventory Account at the Item Group or Brand level if they do not wish to define it for each item individually.
 
-![item inventory account](https://docs.frappe.io/assets/17e1be4b244d.png)
+![item inventory account](../../assets/17e1be4b244d.png)
 
 Users can choose to use either item-wise or warehouse-wise inventory accounts, but not both.
 

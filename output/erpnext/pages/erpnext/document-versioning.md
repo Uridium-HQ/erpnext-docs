@@ -14,7 +14,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 This feature comes handy while conducting an Audit Tail to check on what changes were made in a document along with the time of change and the stakeholder responsible.
 
-![Document Versioning](https://docs.frappe.io/assets/4572c70c8687.png)
+![Document Versioning](../../assets/4572c70c8687.png)
 
 ## How to Enable Document Versioning
 
@@ -35,7 +35,7 @@ For each document that has Document Versioning enabled, a Version Log is created
 
 When you click on these links, you will be directed to a log of all the fields and the changes made therein.
 
-![Document Versioning](https://docs.frappe.io/assets/5d1bbe353db9.gif)
+![Document Versioning](../../assets/5d1bbe353db9.gif)
 
 [ Previous Page Creating Custom Link Field ](creating-custom-link-field.md) [ Next Page Renaming Documents  ](renaming-documents.md)
 

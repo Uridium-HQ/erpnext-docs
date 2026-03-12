@@ -16,11 +16,11 @@ Workspace has two modes **Read Only Mode** and **Edit Mode**. You can start cust
 
 Let's see what all customizations we can do:
 
-###Edit workspace details You can update the title, and icon, make it parent or child and can make it public or private. ![Edit Workspace Details](https://docs.frappe.io/assets/3029f8779eb4.gif) ###Create Duplicate You can create a duplicate of an existing workspace and can add or remove some blocks from it as per your need. ![Duplicate Workspace](https://docs.frappe.io/assets/86fab015002c.gif) ###Delete Workspace Delete an existing workspace. ![Delete Workspace](https://docs.frappe.io/assets/b4fef30f374e.gif) ###Hide Workspace Hide your private workspaces. ![Hide Workspace As User](https://docs.frappe.io/assets/03e187de3ff8.gif)
+###Edit workspace details You can update the title, and icon, make it parent or child and can make it public or private. ![Edit Workspace Details](../../../../../../../assets/3029f8779eb4.gif) ###Create Duplicate You can create a duplicate of an existing workspace and can add or remove some blocks from it as per your need. ![Duplicate Workspace](../../../../../../../assets/86fab015002c.gif) ###Delete Workspace Delete an existing workspace. ![Delete Workspace](../../../../../../../assets/b4fef30f374e.gif) ###Hide Workspace Hide your private workspaces. ![Hide Workspace As User](../../../../../../../assets/03e187de3ff8.gif)
 
-Only `Workspace Manager` can hide public workspaces. ![Hide Workspace As Workspace Manager](https://docs.frappe.io/assets/a71c5346b646.gif)
+Only `Workspace Manager` can hide public workspaces. ![Hide Workspace As Workspace Manager](../../../../../../../assets/a71c5346b646.gif)
 
-###Rearrange Position: You can drag & drop the workspace from the sidebar to change its position or make it a child/parent workspace. ![Rearrage Workspace](https://docs.frappe.io/assets/5596f195cfbc.gif)
+###Rearrange Position: You can drag & drop the workspace from the sidebar to change its position or make it a child/parent workspace. ![Rearrage Workspace](../../../../../../../assets/5596f195cfbc.gif)
 
 > **Save/Discard** buttons are only used to save workspace page customizations. All workspace changes done from the sidebar get saved as you make them.
 
@@ -28,7 +28,7 @@ Only `Workspace Manager` can hide public workspaces. ![Hide Workspace As Workspa
 
 Let's see what all customizations we can do:
 
-###Add a new block ![Add Block](https://docs.frappe.io/assets/adae48f4051f.gif) ###Edit an existing block ![Edit Block](https://docs.frappe.io/assets/ea29a1df5396.gif) ###Remove or delete an existing block ![Delete Block](https://docs.frappe.io/assets/25f70fc2850a.gif) ###Resize the width of a block ![Resize Block](https://docs.frappe.io/assets/9de7fa19d043.gif) ###Rearrange the position of a block ![Rearrange Block](https://docs.frappe.io/assets/db42b2a6c6e9.gif)
+###Add a new block ![Add Block](../../../../../../../assets/adae48f4051f.gif) ###Edit an existing block ![Edit Block](../../../../../../../assets/ea29a1df5396.gif) ###Remove or delete an existing block ![Delete Block](../../../../../../../assets/25f70fc2850a.gif) ###Resize the width of a block ![Resize Block](../../../../../../../assets/9de7fa19d043.gif) ###Rearrange the position of a block ![Rearrange Block](../../../../../../../assets/db42b2a6c6e9.gif)
 
 [ Previous Page Workspace ](../workspace.md) [ Next Page Blocks ](blocks.md)
 

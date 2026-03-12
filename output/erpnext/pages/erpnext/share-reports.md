@@ -20,7 +20,7 @@ To access the Share Balance report, go to:
 
 > Home > Accounting > Share Management > Share Balance
 
-![Share Balance Report](https://docs.frappe.io/assets/15f524ef02af.png)
+![Share Balance Report](../../assets/15f524ef02af.png)
 
 ## 2\. Share Ledger
 
@@ -30,7 +30,7 @@ To access the Share Ledger report, go to:
 
 > Home > Accounting > Share Management > Share Ledger
 
-![Share Ledger Report](https://docs.frappe.io/assets/7fe9916d0dd0.png)
+![Share Ledger Report](../../assets/7fe9916d0dd0.png)
 
 [ Previous Page Share Transfer  ](share-transfer.md) [ Next Page Budget ](budget.md)
 

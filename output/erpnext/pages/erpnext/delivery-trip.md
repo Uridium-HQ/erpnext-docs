@@ -25,13 +25,13 @@ A Delivery Trip can be created from a [Delivery Note](delivery-note.md) by click
 
 
 
-![Delivery](https://docs.frappe.io/assets/79cae0c5db70.png)
+![Delivery](../../assets/79cae0c5db70.png)
 
   1. Save and submit.
 
 
 
-![Delivery](https://docs.frappe.io/assets/08d5910c48a5.png)
+![Delivery](../../assets/08d5910c48a5.png)
 
 ## 2\. Features
 

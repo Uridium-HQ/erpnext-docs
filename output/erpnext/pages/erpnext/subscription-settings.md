@@ -23,7 +23,7 @@ To access the Subscription list, go to:
 
 
 
-![Subscription](https://docs.frappe.io/assets/33c9e7fb70c1.png)
+![Subscription](../../assets/33c9e7fb70c1.png)
 
 [ Previous Page Accounts Settings ](accounts-settings.md) [ Next Page Currency Exchange Settings ](currency-exchange-settings.md)
 

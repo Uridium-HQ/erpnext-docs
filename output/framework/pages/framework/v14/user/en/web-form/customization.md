@@ -14,7 +14,7 @@ You can customize your webform to make it more unique and enable functionalities
 
 ## Fields Layout
 
-You can add `Column Breaks` & `Section Breaks` in webform fields table to change the layout of the form fields. ![Web Form Field Layout](https://docs.frappe.io/assets/6034eeb19640.png) ![Web Form Layout](https://docs.frappe.io/assets/18c0790c9e2f.png)
+You can add `Column Breaks` & `Section Breaks` in webform fields table to change the layout of the form fields. ![Web Form Field Layout](../../../../../../assets/6034eeb19640.png) ![Web Form Layout](../../../../../../assets/18c0790c9e2f.png)
 
 ## Multi Step Webform
 
@@ -22,17 +22,17 @@ Updating the layout makes webform look better but still if webform has many fiel
 
 > You can add maximum 9 Page Breaks which will only allow 10 Pages.
 
-![Web Form Page Break](https://docs.frappe.io/assets/cc0b32910c3e.png) ![Step Web Form Page 1](https://docs.frappe.io/assets/7e4063c002d7.png) ![Step Web Form Page 2](https://docs.frappe.io/assets/a07227a01866.png)
+![Web Form Page Break](../../../../../../assets/cc0b32910c3e.png) ![Step Web Form Page 1](../../../../../../assets/7e4063c002d7.png) ![Step Web Form Page 2](../../../../../../assets/a07227a01866.png)
 
 > All the customization options mentioned below can be done from the Customization Tab of webform document.
 
 ## Submit Button Label
 
-You can change the label of submit button on the webform. ![Web Form Submit Label](https://docs.frappe.io/assets/8dd9cfccffcc.png)
+You can change the label of submit button on the webform. ![Web Form Submit Label](../../../../../../assets/8dd9cfccffcc.png)
 
 ## Banner Image
 
-You can now add banner image on webform. ![Banner Image](https://docs.frappe.io/assets/479a350eee47.png)
+You can now add banner image on webform. ![Banner Image](../../../../../../assets/479a350eee47.png)
 
 ## Breadcrumbs
 
@@ -40,11 +40,11 @@ You can customize the breadcrumbs in a Web Form by adding JSON object.
 
 > Breadcrumbs are only visible if the webform [`list view`](settings.md) is enabled.
 
-Example: ![Custom Breadcrumbs](https://docs.frappe.io/assets/da059f192a9e.png) ![Webform Breadcrumbs](https://docs.frappe.io/assets/3fcb5b9032bd.png)
+Example: ![Custom Breadcrumbs](../../../../../../assets/da059f192a9e.png) ![Webform Breadcrumbs](../../../../../../assets/3fcb5b9032bd.png)
 
 ## After Submit Page
 
-You can give custom success title and message which will appear after user has submitted the webform. ![Webform Success Title & Message](https://docs.frappe.io/assets/0d6a75f2fa8c.png) ![Webform Success Page](https://docs.frappe.io/assets/cecf02527bf9.png)
+You can give custom success title and message which will appear after user has submitted the webform. ![Webform Success Title & Message](../../../../../../assets/0d6a75f2fa8c.png) ![Webform Success Page](../../../../../../assets/cecf02527bf9.png)
 
 Based on the access extra buttons will be visible on the submit page like
 
@@ -56,9 +56,9 @@ View your response &
 
 Submit another response
 
-![Webform Success Page](https://docs.frappe.io/assets/3ffd911b49f5.png)
+![Webform Success Page](../../../../../../assets/3ffd911b49f5.png)
 
-Configure your webform to redirect to a specific URL after 5 seconds after it has been submitted by setting `success_url` field. ![Webform Breadcrumbs](https://docs.frappe.io/assets/9b5fe9876286.gif)
+Configure your webform to redirect to a specific URL after 5 seconds after it has been submitted by setting `success_url` field. ![Webform Breadcrumbs](../../../../../../assets/9b5fe9876286.gif)
 
 ## Custom CSS
 
@@ -86,7 +86,7 @@ Example:
     
 [/code]
 
-![Web Form Custom CSS](https://docs.frappe.io/assets/b838c7a74385.png)
+![Web Form Custom CSS](../../../../../../assets/b838c7a74385.png)
 
 ## Client Script
 

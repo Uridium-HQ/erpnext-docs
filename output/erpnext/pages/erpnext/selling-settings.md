@@ -18,7 +18,7 @@ To access Selling Settings, go to:
 
 ## Customer Defaults
 
-![Screenshot 2024-08-29 at 12.29.37 PM](https://docs.frappe.io/assets/64af4b8e80c0.png)
+![Screenshot 2024-08-29 at 12.29.37 PM](../../assets/64af4b8e80c0.png)
 
 ### 1\. Customer Naming By
 
@@ -42,7 +42,7 @@ Quotations can be created for the Customers as well as for the Leads. When conve
 
 ## Item Price Settings
 
-![Item Price Settings as of 2025-09-23 in v16](https://docs.frappe.io/assets/8ffbced80281.png)
+![Item Price Settings as of 2025-09-23 in v16](../../assets/8ffbced80281.png)
 
 ### 1\. Default Price List
 
@@ -100,7 +100,7 @@ Enable this option to permit the use of negative rates for items in sales transa
 
 ## Transaction Settings
 
-![Screenshot 2024-08-29 at 12.41.21 PM](https://docs.frappe.io/assets/84746d0453df.png)
+![Screenshot 2024-08-29 at 12.41.21 PM](../../assets/84746d0453df.png)
 
 ### 1\. Is Sales Order Required for Sales Invoice & Delivery Note Creation?
 

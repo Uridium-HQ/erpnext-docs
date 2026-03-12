@@ -12,11 +12,11 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 Rate and Qty in Purchase Order can now be amended after Submit using the `Update Items` button.
 
-![Update Items](https://docs.frappe.io/assets/49ff64dae5be.png)
+![Update Items](../../assets/49ff64dae5be.png)
 
 To Update Rate and Qty in a Submitted Purchase Order, click on the `Update Items` button. A dialog will pop up to let you make the change.
 
-![Update Items](https://docs.frappe.io/assets/88aec8f41ef3.gif)
+![Update Items](../../assets/88aec8f41ef3.gif)
 
 Please Note the following validations and usecases:
 

@@ -24,7 +24,7 @@ Here are a few key points about the Geolocation field in ERPNext:
 
 
 
-![geolocation field](https://docs.frappe.io/assets/c570b9ac3d40.gif)
+![geolocation field](../../assets/c570b9ac3d40.gif)
 
 [ Previous Page Field Types ](field-types.md) [ Next Page Table MultiSelect Field ](table-multiselect-field.md)
 

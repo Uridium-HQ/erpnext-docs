@@ -33,25 +33,25 @@ Or
 
 
 
-![Original Purchase Receipt](https://docs.frappe.io/assets/88503c37c12b.png)
+![Original Purchase Receipt](../../assets/88503c37c12b.png)
 
   1. Click on 'Create > Return', it will open a new Purchase Receipt with 'Is Return' checked. Items, Rate, and taxes will negative numbers.
 
 
 
-![Return Against Purchase Receipt](https://docs.frappe.io/assets/2982a0f7f002.png)
+![Return Against Purchase Receipt](../../assets/2982a0f7f002.png)
 
   1. On submission of Return Purchase Return, the system will decrease item quantity from the mentioned Warehouse. To maintain correct stock valuation, stock balance will also go up according to the original purchase rate of the returned items.
 
 
 
-![Return Stock Ledger](https://docs.frappe.io/assets/f178491f59df.png)
+![Return Stock Ledger](../../assets/f178491f59df.png)
 
   1. In the Accounting Ledger, the Stock In Hand account will be credited and the Stock Received but Not Billed account will be debited.
 
 
 
-![Return Stock Ledger](https://docs.frappe.io/assets/e4682e82cd5f.png)
+![Return Stock Ledger](../../assets/e4682e82cd5f.png)
 
 If Perpetual Inventory enabled, the system will also post accounting entry against warehouse account to sync warehouse account balance with stock balance as per Stock Ledger.
 
@@ -61,7 +61,7 @@ On Creating a Purchase Return against a Purchase Receipt:
 
   * The **Returned Quantity** in the original Purchase Receipt along with any Purchase Order linked to it, is updated.
 
-  * The original Purchase Receipt's status is changed to **Return Issued** if 100% returned: ![Return Issued](https://docs.frappe.io/assets/4ac875a9ff97.png)
+  * The original Purchase Receipt's status is changed to **Return Issued** if 100% returned: ![Return Issued](../../assets/4ac875a9ff97.png)
 
 
 

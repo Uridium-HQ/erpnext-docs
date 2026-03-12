@@ -14,7 +14,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 For example, the default title on a Quotation is the customer name, but if you are dealing with only a few customers and sending lots of quotations to each customer, you may want to customize.
 
-![Document Title](https://docs.frappe.io/assets/363951aec49d.png)
+![Document Title](../../assets/363951aec49d.png)
 
 ## Setting Title Fields
 
@@ -32,17 +32,17 @@ You can set the default value of that property by using Python style string form
 
 You can define the title by setting document properties in braces `{}`. For example, if your document has fields `customer_name`, you can specify that as the Title of the Form.
 
-![Set Document Title](https://docs.frappe.io/assets/245861d67784.gif)
+![Set Document Title](../../assets/245861d67784.gif)
 
 Alternatively, you can also define a particular field as the 'Title Field' in Customize Form.
 
-![Title Field](https://docs.frappe.io/assets/24ba79c09c39.png)
+![Title Field](../../assets/24ba79c09c39.png)
 
 ## Fixed or Editable Titles
 
 If your title is generated as a default title, it can be edited by the user by clicking on the heading of the document.
 
-![Editable Title](https://docs.frappe.io/assets/173a06e4f49c.gif)
+![Editable Title](../../assets/173a06e4f49c.gif)
 
 If you want a fixed title, you can set the rule in the **Options** property. In this way, the title will be automatically updated every time the document is updated.
 

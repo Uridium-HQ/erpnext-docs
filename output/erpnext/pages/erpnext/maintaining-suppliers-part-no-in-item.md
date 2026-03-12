@@ -16,7 +16,7 @@ For each item, code assigned might differ from the code your supplier has given 
 
 In the Item master, under Supplier Details section, enter Item Code as given by the Supplier to this item.
 
-![Supplier Item Code](https://docs.frappe.io/assets/8c31bf20ac03.png)
+![Supplier Item Code](../../assets/8c31bf20ac03.png)
 
 #### 2\. Supplier's Item Code In Transactions
 
@@ -24,11 +24,11 @@ Each purchase transaction has field in the Item table where Supplier's Item Code
 
 Go to print view, click on Menu > customize, enter a new print format name, look for the Items table, click on the **Select columns** button in it. You'll see the following screen. Now select the "Supplier Part Number" checkbox.
 
-![Supplier item part print format](https://docs.frappe.io/assets/2e85deb25357.png)
+![Supplier item part print format](../../assets/2e85deb25357.png)
 
 Supplier Item Code will only be fetched in the purchase transaction, if both Supplier and Item Code selected in purchase transaction is mapped with value mentioned in the Item master.
 
-![Supplier Item Code in transaction](https://docs.frappe.io/assets/a4e0407f2645.png)
+![Supplier Item Code in transaction](../../assets/a4e0407f2645.png)
 
 [ Previous Page Procurement Tracker Report  ](procurement-tracker-report.md) [ Next Page Purchasing in Different UoM ](purchasing-in-different-unit.md)
 

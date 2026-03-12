@@ -30,7 +30,7 @@ It can also be accessed from: Home > CRM > Settings > Sales Person
 
 
 
-![Sales Person Tree](https://docs.frappe.io/assets/afdf3bfae76c.gif)
+![Sales Person Tree](../../assets/afdf3bfae76c.gif)
 
 ## 2\. Features
 

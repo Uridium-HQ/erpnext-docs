@@ -27,29 +27,29 @@ In the Purchase Order, you will find two UoM fied.
 
 In both fields, the default UoM of an item will be fetched by default. You should edit UoM field, and select Purchase UoM (Box in this case). Updating Purchase UoM is mainly for the reference of the supplier. In the print format, you will see item qty in the Purchase UoM.
 
-![Item Purchase UoM](https://docs.frappe.io/assets/1528a34e3ef3.gif)
+![Item Purchase UoM](../../assets/1528a34e3ef3.gif)
 
 #### Step 2: Update UoM Conversion Factors
 
 In one Box, if you get 20 Nos. of Pen, UoM Conversion Factor will be 20.
 
-![Item Conversion Factor](https://docs.frappe.io/assets/30d6adf36bde.png)
+![Item Conversion Factor](../../assets/30d6adf36bde.png)
 
 Based on the Qty and Conversion Factor, qty will be calculated in the Stock UoM of an item. If you purchase just one Box, then the Qty in the stock UoM will be set as 20.
 
-![Purchase Qty in Default UoM](https://docs.frappe.io/assets/e16dc3212fa5.png)
+![Purchase Qty in Default UoM](../../assets/e16dc3212fa5.png)
 
 ### Stock Ledger Posting
 
 Irrespective of the Purchase UoM selected, stock ledger posting will be done in the Default UoM of an item. Hence, you should ensure that the conversion factor is entered correctly while purchasing an item in a different UoM.
 
-![Print Format in Purchase UoM](https://docs.frappe.io/assets/e1033595ae30.png)
+![Print Format in Purchase UoM](../../assets/e1033595ae30.png)
 
 ### Set Conversion Factor in Item
 
 In the Item master, under the Purchase section, you can list all the possible UOM purchases of an item, with its UoM Conversion Factor.
 
-![Purchase UoM master](https://docs.frappe.io/assets/89233ddda0da.png)
+![Purchase UoM master](../../assets/89233ddda0da.png)
 
 [ Previous Page Maintaining Supplier's Item Code In the Item master  ](maintaining-suppliers-part-no-in-item.md) [ Next Page Amending Purchase Order after Submit  ](amending-purchase-order-after-submit.md)
 

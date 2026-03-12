@@ -27,7 +27,7 @@ To access Website Route Meta go to:
 
 
 
-![New Website Route Meta](https://docs.frappe.io/assets/128189fecb28.png) _New Website Route Meta_
+![New Website Route Meta](../../../../../assets/128189fecb28.png) _New Website Route Meta_
 
 Now if you check the page source of your web page, the meta tags will look something like this:
 [code] 

@@ -20,13 +20,13 @@ You can set the name by the `autoname` property of the DocType.
 
 The `doc` name is fetched from the value of the field provided.
 
-![naming by field](https://docs.frappe.io/assets/e9a21d0fc001.png)
+![naming by field](../../../../../../../assets/e9a21d0fc001.png)
 
 #### 2\. [series]
 
 You can provide a naming pattern which will be incremented automatically. For e.g, if you set it as `PRE.#####`, the first document created will have the `name` as **PRE00001** , and second one will be **PRE00002** and so on.
 
-![naming by series](https://docs.frappe.io/assets/37afc4c8760c.png)
+![naming by series](../../../../../../../assets/37afc4c8760c.png)
 
 #### 3\. naming_series:
 
@@ -34,13 +34,13 @@ The naming pattern is derived from a field in the document. For e.g, you have a 
 
 > This works only if you have a field called `naming_series` in your DocType.
 
-![naming by series by field](https://docs.frappe.io/assets/eb566cdff45a.png)
+![naming by series by field](../../../../../../../assets/eb566cdff45a.png)
 
 #### 4\. Prompt
 
 If you set it as **Prompt** , the name is required to be filled in manually.
 
-![naming by prompt](https://docs.frappe.io/assets/e2313e2c31cd.png)
+![naming by prompt](../../../../../../../assets/e2313e2c31cd.png)
 
 #### 5\. Format
 
@@ -52,7 +52,7 @@ Let's say we have
     
 [/code]
 
-![naming by format](https://docs.frappe.io/assets/c2d6fe7e4589.png)
+![naming by format](../../../../../../../assets/c2d6fe7e4589.png)
 
 Everything outside the curly braces are plain text. Keywords inside the curly braces will be evaluated based on what they represent. In this case:
 
@@ -82,7 +82,7 @@ You can also define a name programatically by declaring an `autoname` method in 
 
 You can also create rules for naming DocTypes by creating **Document Naming Rule**
 
-![Document Naming Rule](https://docs.frappe.io/assets/886878341a46.png)
+![Document Naming Rule](../../../../../../../assets/886878341a46.png)
 
 You can create multiple Document Naming Rules for a particular doctype that can be applied selectively based on filters.
 

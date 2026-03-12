@@ -37,7 +37,7 @@ Or
   1. Go to the Tax Rule list and click on New.
   2. Under Tax Type select whether the tax will be applied at Sales or Purchase.
   3. Select the Tax Template to be applied.
-  4. Save. ![Tax Rule](https://docs.frappe.io/assets/d4c17db55a58.png)
+  4. Save. ![Tax Rule](../../assets/d4c17db55a58.png)
 
 
 
@@ -75,15 +75,15 @@ Let us configure Tax Rule so that system automatically applies specific tax rate
 
 Create a Sales Taxes and Charges Template as shown below.
 
-![City Specific To Zipcode](https://docs.frappe.io/assets/f4fccafeeac7.png)
+![City Specific To Zipcode](../../assets/f4fccafeeac7.png)
 
 Create a Tax Rule as shown below.
 
-![Tax Rule](https://docs.frappe.io/assets/d4c17db55a58.png)
+![Tax Rule](../../assets/d4c17db55a58.png)
 
 Once you select a customer and a billing address of that customer with city as 'Malibu', system automatically applies the appropriate taxes.
 
-![Tax Rule in Sales Invoice](https://docs.frappe.io/assets/863e2d6116cb.gif)
+![Tax Rule in Sales Invoice](../../assets/863e2d6116cb.gif)
 
 ### 5\. Related Topics
 

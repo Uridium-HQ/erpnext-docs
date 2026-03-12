@@ -14,13 +14,13 @@ Frappe framework has first class support for generating print formats for docume
 
 ## Print View
 
-The Print View can be accessed from the form view of any document. A Standard print format is generated for all DocTypes based on the form layout and mandatory fields in it. ![Print View](https://docs.frappe.io/assets/423168b7e717.png) _Print View_
+The Print View can be accessed from the form view of any document. A Standard print format is generated for all DocTypes based on the form layout and mandatory fields in it. ![Print View](../../../../../../assets/423168b7e717.png) _Print View_
 
 ## Print Format Builder
 
 To Customize a print format you need to create a copy of the Standard Print format and customize it using the Print Format Builder. These print formats are user editable and are not bundled with the app as files.
 
-![Print Format Builder](https://docs.frappe.io/assets/bf1fb302c5f7.gif) _Print Format Builder_
+![Print Format Builder](../../../../../../assets/bf1fb302c5f7.gif) _Print Format Builder_
 
 #### Custom HTML
 
@@ -28,7 +28,7 @@ You can also add Custom HTML to your Print Format. Just drag and drop the Custom
 
 In the Custom HTML field you can use any valid HTML with [Bootstrap 3 classes](https://getbootstrap.com/docs/3.3/css/) for styling. You can also use [Jinja Templating](http://jinja.pocoo.org/docs/2.10/) to add dynamic content to your HTML. See [list of methods](../api/jinja.md) available to use in Jinja templates.
 
-![Custom HTML](https://docs.frappe.io/assets/84206410c281.png) _Custom HTML_
+![Custom HTML](../../../../../../assets/84206410c281.png) _Custom HTML_
 
 #### Custom CSS
 
@@ -36,9 +36,9 @@ To change styling in your Print Format you can also add custom CSS.
 
 > Click on Customize > Edit Properties to add Custom CSS
 
-![Custom CSS](https://docs.frappe.io/assets/0781a648a046.png) _Custom CSS_
+![Custom CSS](../../../../../../assets/0781a648a046.png) _Custom CSS_
 
-![Custom CSS Preview](https://docs.frappe.io/assets/b2fbb92e0ab9.png) _Custom CSS Preview_
+![Custom CSS Preview](../../../../../../assets/b2fbb92e0ab9.png) _Custom CSS Preview_
 
 ## Advanced Print Formats
 
@@ -56,7 +56,7 @@ To create a new Print Format, type "new print format" in awesomebar and hit ente
 
 > If you set Standard as "Yes" and Developer Mode is enabled, then a JSON file will be generated for your Print Format and you will have to check it in to your version control with your app.
 
-![Custom HTML in Print Format](https://docs.frappe.io/assets/aead0da20433.png) _Custom HTML in Print Format_
+![Custom HTML in Print Format](../../../../../../assets/aead0da20433.png) _Custom HTML in Print Format_
 
 ## Print Formats for Reports
 

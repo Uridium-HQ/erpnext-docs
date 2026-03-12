@@ -26,7 +26,7 @@ Let's create another doctype: **Library Membership**. It will have the following
 
 It will have **Is Submittable** enabled. It will have Naming set as **LMS.#####** and restricted to **Librarian** role. Also, the Title Field should be set to `full_name` in the View Settings section.
 
-![Library Membership DocType](https://docs.frappe.io/assets/991db5337678.gif)
+![Library Membership DocType](../../../../../../assets/991db5337678.gif)
 
 The Link field **Library Member** is similar to a Foreign Key column in other frameworks. It will let you link the value to a record in another DocType. In this case, it links to a record of Library Member DocType.
 
@@ -74,7 +74,7 @@ We wrote our logic in the `before_submit` method which will run before we submit
 
 Now, try creating a Library Membership with an overlapping period and you should see an error when you submit the document.
 
-![Library Membership Validation](https://docs.frappe.io/assets/2a901e3a04a4.png)
+![Library Membership Validation](../../../../../../assets/2a901e3a04a4.png)
 
 ## Library Transaction
 
@@ -91,7 +91,7 @@ This doctype will be called **Library Transaction** and will have the following 
 
 This doctype will also be a Submittable doctype.
 
-![Library Transaction Doctype](https://docs.frappe.io/assets/2ab90ee8dec1.gif)
+![Library Transaction Doctype](../../../../../../assets/2ab90ee8dec1.gif)
 
 ### Validation for Transaction
 
@@ -162,7 +162,7 @@ Let's create the last doctype for our app: **Library Settings**. It will have th
 
 Since we don't need to have multiple records for these settings, we will enable **Is Single** for this doctype.
 
-![Library Settings Doctype](https://docs.frappe.io/assets/5190cd560b44.gif)
+![Library Settings Doctype](../../../../../../assets/5190cd560b44.gif)
 
 After creating the doctype, click on **Go to Library Settings** , to go to the form and set the values for **Loan Period** and **Maximum Number of Issued Articles**.
 

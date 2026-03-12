@@ -12,11 +12,11 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 Rate and Qty in Sales Order can now be amended after Submit using the `Update Items` button.
 
-![Update Items](https://docs.frappe.io/assets/0662feaa84d6.png)
+![Update Items](../../assets/0662feaa84d6.png)
 
 To Update Rate and Qty in a Submitted Sales Order, click on the `Update Items` button. A dialog will pop up to let you make the change.
 
-![Update Items](https://docs.frappe.io/assets/ea942ddca8bd.gif)
+![Update Items](../../assets/ea942ddca8bd.gif)
 
 Please Note the following validations and usecases:
 

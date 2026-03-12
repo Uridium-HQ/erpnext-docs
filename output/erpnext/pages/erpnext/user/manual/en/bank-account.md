@@ -18,7 +18,7 @@ To access Bank Account, go to:
 
 > Home > Accounting > Bank Statement > Bank Account
 
-![Bank Account](https://docs.frappe.io/assets/3f80028951b4.png)
+![Bank Account](../../../../../assets/3f80028951b4.png)
 
 ## 1\. Prerequisites
 

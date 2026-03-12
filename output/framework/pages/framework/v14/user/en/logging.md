@@ -145,7 +145,7 @@ Most logging doctypes in Frappe support configurable retention period with sane 
 
 "Log Settings" doctype lets you configure retention period for default logging doctypes.
 
-![Log Settings](https://docs.frappe.io/assets/e43e4e770cf5.png)
+![Log Settings](../../../../../assets/e43e4e770cf5.png)
 
 You can also register your custom logging doctype with log settings by adding a single static method to your doctype controller like this. Custom logging doctypes which implement this method will automatically show up in Log Settings.
 [code] 

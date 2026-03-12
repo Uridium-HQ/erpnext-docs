@@ -39,7 +39,7 @@ Before creating and using a Supplier Group, it is advised that you create the fo
 
 
 
-![Supplier Group](https://docs.frappe.io/assets/df037d0a280c.png)?
+![Supplier Group](../../../../../assets/df037d0a280c.png)?
 
 You can classify your suppliers from a range of choices available in ERPNext. Choose from a set of given options like Distributor, Electrical, Hardware, Local, Pharmaceutical, Raw Material, Services etc. Classifying your supplier into different types facilitates accounting and payments.
 
@@ -49,7 +49,7 @@ You can also construct Supplier Group in the form of a tree hierarchy, similar t
 
 To view the Tree structure, click on **Tree** from the sidebar. To go back to the list view, simply select: **Menu > View List**.
 
-![Supplier Group](https://docs.frappe.io/assets/a50f480eddb7.png)
+![Supplier Group](../../../../../assets/a50f480eddb7.png)
 
 With the new [User Permissions](../../../users-and-permissions.md) in place, you can now apply hierarchy based permissions. That is, if a User is permitted to view parent node of Supplier Group, he/she automatically qualifies to view the child nodes of that parent node.
 

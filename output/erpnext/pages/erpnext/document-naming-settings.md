@@ -35,7 +35,7 @@ You can define or select the Naming Series pattern from:
 
 
 
-![document naming settings](https://docs.frappe.io/assets/e75e661cb7ae.gif)
+![document naming settings](../../assets/e75e661cb7ae.gif)
 
   3. If you want the user to explicitly select a series instead of the default one, check the “User must always select” checkbox. here will be no default naming series if this is ticked.
   4. You can also update the starting point of a series by entering the series name and the starting point in the “Update Series” section.
@@ -51,7 +51,7 @@ You can also show the financial year in the Naming Series. By default, if you en
 
 As you can see, in the following screenshot of a Sales Invoice, the year 2019 is listed:
 
-![Fiscal year in Naming Series](https://docs.frappe.io/assets/65644bb60ae4.png)
+![Fiscal year in Naming Series](../../assets/65644bb60ae4.png)
 
 ## 3\. Updating the current value for existing Naming Series
 
@@ -95,7 +95,7 @@ To configure the naming of amended documents:
 
 
 
-![Amended Naming Series](https://docs.frappe.io/assets/4b7cab82e980.png)
+![Amended Naming Series](../../assets/4b7cab82e980.png)
 
   3. Click "Update Amendment Counter" to save your changes.
 

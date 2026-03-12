@@ -20,7 +20,7 @@ To access the Inventory Dimension list, go to:
 
 ## Create Inventory Dimension
 
-![new inventory dimension](https://docs.frappe.io/assets/001c43171903.png)
+![new inventory dimension](../../assets/001c43171903.png)
 
   * Create a new record and select the Reference Document which you want to use as a custom Inventory Dimension.
   * You can select any non-child document in the reference document.
@@ -32,7 +32,7 @@ To access the Inventory Dimension list, go to:
 
 ### Apply to All Inventory Documents
 
-![inventory dimension applicable for all inventory documents](https://docs.frappe.io/assets/09ec3fc4ea9f.png)
+![inventory dimension applicable for all inventory documents](../../assets/09ec3fc4ea9f.png)
 
   * It will be used to select the custom Dimension in the inventory-related documents.
   * For example, the user has created Inventory Dimension with the name "Shelf" and enabled "Apply to All Inventory Document Types". Then the system will create the custom link field with the name "Shelf" in the inventory documents where Batch No and Serial No fields exist.
@@ -41,7 +41,7 @@ To access the Inventory Dimension list, go to:
 
 ### Apply to Specific Document
 
-![inventory dimension applicable for](https://docs.frappe.io/assets/9083f7dd7b04.png)
+![inventory dimension applicable for](../../assets/9083f7dd7b04.png)
 
   * If the user wants to add Inventory Dimension to a specific document then they have to disable the checkbox "Apply to All Inventory Document Types" and select the respective document in the "Applicable to Document" field.
   * Also if you want to add Inventory Dimension for a specific condition like for stock entry type Issue you want separate dimension as "From Shelf" and stock entry type Material Receipt you want separate dimension as "To Shelf" then that can be possible using "Applicable Condition"
@@ -58,7 +58,7 @@ Users can set the 'Fetch Value From' field to fetch data from a field that exist
 
 ## Use of Inventory Dimension
 
-![inventory dimension on transaction](https://docs.frappe.io/assets/d310a455d50d.png)
+![inventory dimension on transaction](../../assets/d310a455d50d.png)
 
   * Once the Inventory Dimension is created system will create the custom field in respective documents
   * User gets an option to select the Inventory Dimension in the respective transaction.
@@ -83,11 +83,11 @@ If user has enabled the "Validate Negative Stock" checkbox in the inventory dime
 
 ### Stock Balance Report
 
-![inventory dimension stock balance](https://docs.frappe.io/assets/a489dc4077f7.png)
+![inventory dimension stock balance](../../assets/a489dc4077f7.png)
 
 ### Stock Ledger Report
 
-![inventory dimension stock ledger](https://docs.frappe.io/assets/825574c8e431.png)
+![inventory dimension stock ledger](../../assets/825574c8e431.png)
 
 Note:
 

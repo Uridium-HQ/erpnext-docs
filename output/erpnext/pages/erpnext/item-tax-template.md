@@ -42,7 +42,7 @@ Before creating and using an Item Tax Template, it is advised to create the foll
 
 Now the Item Tax Template is ready to be assigned to an Item. To do this, go the Item, Item Tax section and select an Item Tax Template:
 
-![Item Tax In Item](https://docs.frappe.io/assets/cb400c7a7252.png)
+![Item Tax In Item](../../assets/cb400c7a7252.png)
 
 > Note: It is advised to not use the Sales/Purchase Template selected here in [Tax Rule](tax-rule.md), it may cause interference. If you want to use same tax rates for Tax Rule and Item Tax Template, use a different name for the Sales/Purchase Tax Templates.
 
@@ -50,11 +50,11 @@ Now the Item Tax Template is ready to be assigned to an Item. To do this, go the
 
 Tax templates are preset with values. For items which have a different tax rate than the others, you need to change it in the Item master. Go to the tax table in the Item, add a row, select the tax type and change the rate. Now, this new rate will over ride the template when creating an order/invoice. For example, in the below screenshot you can see that the tax rate is set as 5 and that's the rate which will be applied in transactions.
 
-![Item-wise Tax](https://docs.frappe.io/assets/f4568beb0d72.png)
+![Item-wise Tax](../../assets/f4568beb0d72.png)
 
 For the Item which is exempted from tax entirely, mention 0% as tax rate in the Item master.
 
-![Tax Exempted Item](https://docs.frappe.io/assets/52d45f89808f.png)
+![Tax Exempted Item](../../assets/52d45f89808f.png)
 
 > Note: For Item Tax Template to work, you need to ensure that the tax types (accounts) set in Item Tax Template (with changed tax rates) are present in the Sales Taxes and Charges Template.
 
@@ -66,25 +66,25 @@ In sales transactions like Quotation, Sales Order, and Sales Invoice the taxes o
 
 For example, in the following screenshot, you can see that taxes are calculated at 3% even though the rate as per Sales Taxes and Charges Template is 6.25%.
 
-![Tax Calculation](https://docs.frappe.io/assets/4bd3001efac9.png)
+![Tax Calculation](../../assets/4bd3001efac9.png)
 
 ### 2.3 Item Tax Template for each Items
 
 You can also manually select a different Item Tax Template for each Item in a transaction:
 
-![Slect Item Tax Template](https://docs.frappe.io/assets/ad372b0b1f96.png)
+![Slect Item Tax Template](../../assets/ad372b0b1f96.png)
 
 ### 2.4 Item wise tax on an Item Group
 
 You can assign the Item Tax Template to an Item Group by modifying the Item Tax table in the Item Tax section within the Item Group document.
 
-![Item Tax Template in Item Group](https://docs.frappe.io/assets/793c64e481e1.png)
+![Item Tax Template in Item Group](../../assets/793c64e481e1.png)
 
 Item Tax Template applied on an Item Group will apply to all Items in that group unless an individual Item in the Item Group has its own Item Tax Template assigned to it.
 
 ### 2.5 Validity of Item Taxes
 
-![Item Tax in Item Group](https://docs.frappe.io/assets/cb400c7a7252.png)
+![Item Tax in Item Group](../../assets/cb400c7a7252.png)
 
 You can also assign validity to tax templates as shown in the image above.
 

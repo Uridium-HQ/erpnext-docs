@@ -14,7 +14,7 @@ Open in ChatGPT  Ask ChatGPT about this page Open in Claude  Ask Claude about th
 
 **Answer:** There are 3 available options in the _Valuation Based On_ field:
 
-![Nested BOM](https://docs.frappe.io/assets/e683c6d47a36.png)
+![Nested BOM](../../assets/e683c6d47a36.png)
 
 **Valuation Rate:** Item valuation rate is defined based on it's purchase or manufacture value.
 
